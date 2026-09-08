@@ -7,6 +7,11 @@ Source workflow: curated Gmail inbox newsletters and research/organization updat
 ## Reports
 
 - [2026-09-08](2026-09-08.md)
+- [2026-09-05](2026-09-05.md)
+- [2026-09-04](2026-09-04.md)
+- [2026-09-03](2026-09-03.md)
+- [2026-09-02](2026-09-02.md)
+- [2026-09-01](2026-09-01.md)
 
 ## Scope
 
