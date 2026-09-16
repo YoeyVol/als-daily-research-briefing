@@ -86,7 +86,7 @@ def send(dry_run: bool = False) -> str:
         if username:
             client.login(username, password)
         client.send_message(message)
-    LOGGER.info("Email sent to %s with %d new item(s).", message["To"], count)
+    LOGGER.info("Email sent successfully with %d new item(s).", count)
     return "sent"
 
 
