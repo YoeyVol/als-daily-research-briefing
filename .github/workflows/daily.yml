@@ -1,0 +1,72 @@
+name: ALS Global Intelligence Daily
+
+on:
+  schedule:
+    # GitHub Actions uses UTC. 00:30 UTC = 08:30 Asia/Shanghai.
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: als-global-intelligence-daily
+  cancel-in-progress: false
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+      NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+      SMTP_TO: ${{ secrets.SMTP_TO }}
+      SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
+      SMTP_USE_STARTTLS: ${{ secrets.SMTP_USE_STARTTLS }}
+      SEND_EMPTY_DIGEST: ${{ secrets.SEND_EMPTY_DIGEST }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install --requirement requirements.txt
+
+      - name: Collect public-source intelligence
+        run: python collector.py
+
+      - name: Generate website and email digest
+        run: python generate_digest.py
+
+      - name: Send daily email
+        if: ${{ env.SMTP_HOST != '' && env.SMTP_FROM != '' && env.SMTP_TO != '' }}
+        run: python send_email.py
+
+      - name: Explain skipped email
+        if: ${{ env.SMTP_HOST == '' || env.SMTP_FROM == '' || env.SMTP_TO == '' }}
+        run: echo "SMTP secrets are incomplete; website generation succeeded and email was skipped."
+
+      # Persist seen.json only after a configured email succeeds. This gives
+      # delivery at-least-once semantics: an SMTP failure is retried next run.
+      - name: Persist data and website
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json data/trials.json data/news.json data/seen.json docs/index.html
+          if git diff --cached --quiet; then
+            echo "No repository changes to commit."
+          else
+            git commit -m "Update ALS intelligence $(date -u +%F)"
+            git push
+          fi

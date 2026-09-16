@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+*.log
+logs/
+qa/
+tests/
+data/email_digest.html
+data/run_status.json

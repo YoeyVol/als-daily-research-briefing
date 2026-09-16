@@ -1,0 +1,413 @@
+{
+  "updated_at": "2026-09-15T23:54:32Z",
+  "new_keys": [],
+  "items": [
+    {
+      "id": "NCT07819890",
+      "event_key": "clinicaltrials:NCT07819890:2026-09-15",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07819890",
+      "title": "Development in Home Mechanical Ventilation for Patient With Amyotrophic Lateral Sclerosis.",
+      "sponsor": "Rigshospitalet, Denmark",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-10-01",
+      "last_update_date": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07819890",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:54:32Z"
+    },
+    {
+      "id": "NCT07322003",
+      "event_key": "clinicaltrials:NCT07322003:2026-09-15",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07322003",
+      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+      "sponsor": "Prilenia",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Pridopidine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-02-01",
+      "last_update_date": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07322003",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:54:32Z"
+    },
+    {
+      "id": "NCT07002034",
+      "event_key": "clinicaltrials:NCT07002034:2026-09-15",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07002034",
+      "title": "RE104 Safety and Efficacy Study in Adjustment Disorder in Cancer and Other Medical Illnesses",
+      "sponsor": "Reunion Neuroscience Inc",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: RE104 for Injection"
+      ],
+      "start_date": "2025-07-30",
+      "last_update_date": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07002034",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:54:32Z"
+    },
+    {
+      "id": "NCT06441682",
+      "event_key": "clinicaltrials:NCT06441682:2026-09-15",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06441682",
+      "title": "A Safety and Efficacy Study of ARGX-119 in Adult Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "argenx",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "TERMINATED",
+      "intervention": [
+        "Biological: ARGX-119",
+        "Other: Placebo"
+      ],
+      "start_date": "2024-10-23",
+      "last_update_date": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT06441682",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:54:32Z"
+    },
+    {
+      "id": "NCT07818772",
+      "event_key": "clinicaltrials:NCT07818772:2026-09-14",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07818772",
+      "title": "7T Imaging Pilot-study in Patients With Motor Neuron Disease to Find Non-Invasive Disease Imaging Biomarkers",
+      "sponsor": "NHS Greater Glasgow and Clyde",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: MRI"
+      ],
+      "start_date": "2026-04-13",
+      "last_update_date": "2026-09-14",
+      "url": "https://clinicaltrials.gov/study/NCT07818772",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:54:32Z"
+    },
+    {
+      "id": "NCT06351592",
+      "event_key": "clinicaltrials:NCT06351592:2026-09-11",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06351592",
+      "title": "First in Human (FIH) Study of ALN-SOD in Adult Participants With Amyotrophic Lateral Sclerosis Associated With Mutation in the SOD1 Gene (SOD1-ALS)",
+      "sponsor": "Regeneron Pharmaceuticals",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: ALN-SOD",
+        "Other: Diluent",
+        "Drug: Placebo (PB)"
+      ],
+      "start_date": "2024-08-28",
+      "last_update_date": "2026-09-11",
+      "url": "https://clinicaltrials.gov/study/NCT06351592",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT04667013",
+      "event_key": "clinicaltrials:NCT04667013:2026-09-11",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04667013",
+      "title": "A Multiple Dose Study to Investigate Safety, Tolerability and Pharmacokinetics of TBN",
+      "sponsor": "Guangzhou Magpie Pharmaceuticals Co., Ltd.",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Tetramethylpyrazine nitrone (TBN) tablet / Placebo"
+      ],
+      "start_date": "2028-09-01",
+      "last_update_date": "2026-09-11",
+      "url": "https://clinicaltrials.gov/study/NCT04667013",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT03651349",
+      "event_key": "clinicaltrials:NCT03651349:2026-09-11",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03651349",
+      "title": "To Determine the Maximum Tolerated Dose (MTD) of HK-001 in Healthy Volunteers",
+      "sponsor": "Everfront Biotech Co., Ltd.",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: HK-001",
+        "Drug: Placebo control"
+      ],
+      "start_date": "2021-02-01",
+      "last_update_date": "2026-09-11",
+      "url": "https://clinicaltrials.gov/study/NCT03651349",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT07813858",
+      "event_key": "clinicaltrials:NCT07813858:2026-09-10",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07813858",
+      "title": "Colchicine Effect on Amyotrophic Lateral Sclerosis Patients",
+      "sponsor": "Azienda Ospedaliero-Universitaria di Modena",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Colchicine 0.5 MG Oral Tablet",
+        "Drug: Placebo Oral Tablet"
+      ],
+      "start_date": "2026-10",
+      "last_update_date": "2026-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT07813858",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT07325591",
+      "event_key": "clinicaltrials:NCT07325591:2026-09-10",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07325591",
+      "title": "Efficacy and Safety of Tazbentetol in ALS Participants",
+      "sponsor": "Spinogenix",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Tazbentetol",
+        "Drug: placebo"
+      ],
+      "start_date": "2026-10-01",
+      "last_update_date": "2026-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT07325591",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT07287397",
+      "event_key": "clinicaltrials:NCT07287397:2026-09-10",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07287397",
+      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
+      "sponsor": "Vector Y Therapeutics",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Genetic: VTx-002",
+        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
+      ],
+      "start_date": "2025-12-19",
+      "last_update_date": "2026-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT07287397",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT06649955",
+      "event_key": "clinicaltrials:NCT06649955:2026-09-10",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06649955",
+      "title": "Controlling Amyotrophic Lateral Sclerosis Motor Neuron Excitability Study",
+      "sponsor": "PathMaker Neurosystems Inc.",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Multi-site direct current stimulation (DCS)"
+      ],
+      "start_date": "2025-02-10",
+      "last_update_date": "2026-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT06649955",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT03766321",
+      "event_key": "clinicaltrials:NCT03766321:2026-09-10",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03766321",
+      "title": "Fecal Microbiota Transplantation Effect on Amyotrophic Lateral Sclerosis Patients",
+      "sponsor": "Azienda Ospedaliero-Universitaria di Modena",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Biological: Fecal microbiota transplantation",
+        "Biological: Placebo"
+      ],
+      "start_date": "2020-07-01",
+      "last_update_date": "2026-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT03766321",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT07674667",
+      "event_key": "clinicaltrials:NCT07674667:2026-09-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07674667",
+      "title": "FUNCtion ALS: Aiming to Restore UNC13A Function in People Living With ALS",
+      "sponsor": "Trace Neuroscience, Inc.",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: TRCN-1023",
+        "Other: Placebo"
+      ],
+      "start_date": "2026-08-20",
+      "last_update_date": "2026-09-09",
+      "url": "https://clinicaltrials.gov/study/NCT07674667",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT07224269",
+      "event_key": "clinicaltrials:NCT07224269:2026-09-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07224269",
+      "title": "Effect of Terazosin on ATP Levels in People With Amyotrophic Lateral Sclerosis",
+      "sponsor": "University of Iowa",
+      "phase": [
+        "EARLY_PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Terazosine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-08-12",
+      "last_update_date": "2026-09-09",
+      "url": "https://clinicaltrials.gov/study/NCT07224269",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT06551649",
+      "event_key": "clinicaltrials:NCT06551649:2026-09-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06551649",
+      "title": "Human Amniotic Mesenchymal Cell Secretome for Neurodegeneration and Neuroinflammation",
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Other: Venous blood draw and skin biopsy"
+      ],
+      "start_date": "2025-01-17",
+      "last_update_date": "2026-09-09",
+      "url": "https://clinicaltrials.gov/study/NCT06551649",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    },
+    {
+      "id": "NCT05683860",
+      "event_key": "clinicaltrials:NCT05683860:2026-09-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05683860",
+      "title": "Open-label Extension (OLE) Study of WVE-004 in Patients With C9orf72-associated Amyotrophic Lateral Sclerosis (ALS) and/or Frontotemporal Dementia (FTD)",
+      "sponsor": "Wave Life Sciences USA, Inc.",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "TERMINATED",
+      "intervention": [
+        "Drug: WVE-004 10 mg Q12W"
+      ],
+      "start_date": "2022-12-14",
+      "last_update_date": "2026-09-09",
+      "url": "https://clinicaltrials.gov/study/NCT05683860",
+      "collected_at": "2026-09-15T23:48:32Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-15T23:48:32Z"
+    }
+  ]
+}

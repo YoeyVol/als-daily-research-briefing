@@ -1,0 +1,138 @@
+project:
+  name: ALS Global Intelligence
+  timezone: Asia/Shanghai
+  language: zh-CN
+  site_url: https://yoeyvol.github.io/als-daily-research-briefing/
+
+collection:
+  # Daily runs re-check a short overlap window. seen.json prevents duplicate delivery.
+  lookback_days: 3
+  bootstrap_days: 7
+  request_timeout_seconds: 30
+  retries: 3
+  backoff_factor: 0.8
+  history_limit_per_dataset: 1000
+  user_agent: "ALSGlobalIntelligence/1.0 (contact: ${NCBI_EMAIL:-not-configured})"
+
+classification:
+  drug_development_keywords:
+    - drug
+    - treatment
+    - therapy
+    - therapeutic
+    - antisense
+    - oligonucleotide
+    - gene therapy
+    - clinical development
+    - riluzole
+    - edaravone
+
+sources:
+  - id: pubmed
+    name: PubMed
+    type: pubmed
+    enabled: true
+    category: Research
+    base_url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils
+    query: '"amyotrophic lateral sclerosis" OR ALS OR "motor neuron disease"'
+    date_type: edat
+    max_results: 200
+    batch_size: 100
+    api_key_env: NCBI_API_KEY
+    email_env: NCBI_EMAIL
+    # PubMed's bare "ALS" term also matches unrelated acronyms. Keep the
+    # requested search expression, then apply this transparent local filter.
+    relevance_filter: true
+    relevance_phrases:
+      - amyotrophic lateral sclerosis
+      - motor neuron disease
+      - motor neurone disease
+    title_acronyms:
+      - ALS
+      - MND
+    als_context_terms:
+      - neuron
+      - neurodegenerative
+      - neuromuscular
+      - motor function
+      - disease progression
+      - bulbar
+      - frontotemporal
+      - riluzole
+      - edaravone
+      - tofersen
+      - alsfrs
+      - sod1
+      - c9orf72
+      - tdp-43
+      - fus
+
+  - id: clinicaltrials_gov
+    name: ClinicalTrials.gov
+    type: clinicaltrials
+    enabled: true
+    category: Clinical Trials
+    api_url: https://clinicaltrials.gov/api/v2/studies
+    query: Amyotrophic Lateral Sclerosis
+    page_size: 100
+    max_pages: 10
+    sort: LastUpdatePostDate:desc
+
+  # Phase-two sources. Enable an RSS source after confirming its feed URL, or add
+  # a website adapter in collector.py for a site without a feed.
+  - id: als_association
+    name: ALS Association
+    type: website
+    enabled: false
+    category: Organization News
+    url: https://www.als.org/stories-news
+    adapter: pending
+
+  - id: mnd_association
+    name: MND Association
+    type: website
+    enabled: false
+    category: Organization News
+    url: https://www.mndassociation.org/media/latest-news
+    adapter: pending
+
+  - id: als_tdi
+    name: ALS Therapy Development Institute
+    type: website
+    enabled: false
+    category: Drug Development
+    url: https://www.als.net/news/
+    adapter: pending
+
+  - id: neals
+    name: NEALS
+    type: website
+    enabled: false
+    category: Clinical Trials
+    url: https://neals.org/als-trials
+    adapter: pending
+
+  - id: fda
+    name: U.S. Food and Drug Administration
+    type: website
+    enabled: false
+    category: Regulatory
+    url: https://www.fda.gov/drugs/news-events-human-drugs
+    adapter: pending
+
+  - id: ema
+    name: European Medicines Agency
+    type: website
+    enabled: false
+    category: Regulatory
+    url: https://www.ema.europa.eu/en/news-events
+    adapter: pending
+
+  # Copy this block to activate any standards-compliant RSS or Atom feed.
+  # - id: example_feed
+  #   name: Example ALS Feed
+  #   type: rss
+  #   enabled: true
+  #   category: Organization News
+  #   url: https://example.org/feed.xml
+  #   max_entries: 30
