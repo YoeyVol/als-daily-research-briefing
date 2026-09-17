@@ -1,7 +1,80 @@
 {
-  "updated_at": "2026-09-16T05:06:24Z",
-  "new_keys": [],
+  "updated_at": "2026-09-17T05:09:43Z",
+  "new_keys": [
+    "clinicaltrials:NCT07823101:2026-09-16",
+    "clinicaltrials:NCT05297487:2026-09-16",
+    "clinicaltrials:NCT01925196:2026-09-16"
+  ],
   "items": [
+    {
+      "id": "NCT07823101",
+      "event_key": "clinicaltrials:NCT07823101:2026-09-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07823101",
+      "title": "Imaging Assessment of Swallowing and Speech Muscles in Inclusion Body Myositis",
+      "sponsor": "Johns Hopkins University",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-10",
+      "last_update_date": "2026-09-16",
+      "url": "https://clinicaltrials.gov/study/NCT07823101",
+      "collected_at": "2026-09-17T05:09:43Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-09-17T05:09:43Z"
+    },
+    {
+      "id": "NCT05297487",
+      "event_key": "clinicaltrials:NCT05297487:2026-09-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05297487",
+      "title": "Evaluation of the Early Use of the Pressure Relaxer in the Respiratory Impairment of Patients With Amyotrophic Lateral Sclerosis: Multicenter Randomized Controlled Study.",
+      "sponsor": "Centre Hospitalier Universitaire de la Réunion",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "WITHDRAWN",
+      "intervention": [
+        "Device: early use of intermittent positive pressure breathing"
+      ],
+      "start_date": "2025-07-01",
+      "last_update_date": "2026-09-16",
+      "url": "https://clinicaltrials.gov/study/NCT05297487",
+      "collected_at": "2026-09-17T05:09:43Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-09-17T05:09:43Z"
+    },
+    {
+      "id": "NCT01925196",
+      "event_key": "clinicaltrials:NCT01925196:2026-09-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT01925196",
+      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2013-09-30",
+      "last_update_date": "2026-09-16",
+      "url": "https://clinicaltrials.gov/study/NCT01925196",
+      "collected_at": "2026-09-17T05:09:43Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-09-17T05:09:43Z"
+    },
     {
       "id": "NCT07819890",
       "event_key": "clinicaltrials:NCT07819890:2026-09-15",
@@ -23,7 +96,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07819890",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-16T05:06:24Z"
+      "last_seen_at": "2026-09-17T05:09:43Z"
     },
     {
       "id": "NCT07322003",
@@ -47,7 +120,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-16T05:06:24Z"
+      "last_seen_at": "2026-09-17T05:09:43Z"
     },
     {
       "id": "NCT07002034",
@@ -70,7 +143,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07002034",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-16T05:06:24Z"
+      "last_seen_at": "2026-09-17T05:09:43Z"
     },
     {
       "id": "NCT06441682",
@@ -94,7 +167,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06441682",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-16T05:06:24Z"
+      "last_seen_at": "2026-09-17T05:09:43Z"
     },
     {
       "id": "NCT07818772",
@@ -117,7 +190,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07818772",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-16T05:06:24Z"
+      "last_seen_at": "2026-09-17T05:09:43Z"
     },
     {
       "id": "NCT06351592",
