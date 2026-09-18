@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-09-18T19:15:01Z",
-  "new_keys": [
-    "pubmed:42756835",
-    "pubmed:42756552",
-    "pubmed:42754903",
-    "pubmed:42758107"
-  ],
+  "updated_at": "2026-09-18T20:18:37Z",
+  "new_keys": [],
   "items": [
     {
       "id": "42717824",
@@ -144,7 +139,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42754903",
@@ -182,7 +177,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42753929",
@@ -218,7 +213,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42753291",
@@ -249,7 +244,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42749468",
@@ -278,7 +273,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42749235",
@@ -316,7 +311,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42748981",
@@ -345,7 +340,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42747562",
@@ -392,7 +387,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42747163",
@@ -419,7 +414,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42745510",
@@ -463,7 +458,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42744617",
@@ -492,7 +487,7 @@
       ],
       "collected_at": "2026-09-16T05:06:24Z",
       "first_seen_at": "2026-09-16T05:06:24Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42744283",
@@ -535,7 +530,7 @@
       "keywords": [],
       "collected_at": "2026-09-16T05:06:24Z",
       "first_seen_at": "2026-09-16T05:06:24Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42742812",
@@ -562,7 +557,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive degeneration of upper and lower motor neurons. Cytoplasmic accumulation of phosphorylated TAR DNA-binding protein 43 (pTDP-43) is the pathological hallmark of most ALS cases. While ALS has traditionally been viewed as a disease confined to the brain, spinal cord and motor nerves, recent studies have reported pTDP-43 pathology in multiple other tissues (skeletal and cardiac muscle, skin, minor salivary glands, gastrointestinal tract and lymph nodes), referred to as peripheral pathology. The detection of pTDP-43 beyond the nervous system suggests that ALS-associated TDP-43 proteinopathy may be more widespread than previously recognized and raises fundamental questions regarding the spatial and temporal landscape of ALS pathology. Peripheral pTDP-43 accumulation may reflect a systemic biological susceptibility affecting multiple tissues, propagation of pathological TDP-43 species between anatomical compartments, or a combination of both mechanisms. While its biological significance is yet to be determined, the presence of pTDP-43 in peripheral tissues broadens the current conceptual framework of ALS. It may also provide new opportunities for pathology-based biomarkers, therapeutic monitoring, and mechanistic studies aimed at understanding disease initiation and progression. However, current evidence is derived from small and methodologically heterogeneous cohorts, and peripheral pTDP-43 pathology is not restricted to ALS, emphasizing the need for larger standardized studies.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Amyotrophic Lateral Sclerosis",
@@ -601,7 +596,7 @@
       "abstract": "",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": []
     },
@@ -637,7 +632,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive motor neuron loss, skeletal muscle atrophy, paralysis, and eventually death. Mitochondrial dysfunction plays a pivotal role in ALS pathogenesis, although the precise pathogenic mechanisms remain elusive, and effective therapeutic strategies are extremely limited. In this study, we developed a small-molecule inhibitor, UA-30, which directly targets RalA, and explored its potential for the treatment of ALS. We found that when administered via oral gavage for 6 weeks following the onset of motor deficit, UA-30 extended lifespan and improved motor function of SOD1G93A mice, a model of ALS. UA-30 ameliorated motor neuron loss, neuroinflammation, fibrosis, and mitochondrial dysfunction, as evidenced by energy recovery, decreased oxidative stress, and enhanced mitophagy. Mechanistically, UA-30 inhibited RalA activity and thereby modulated ERK/FOXO3a signaling, which inhibited FOXO3a degradation via the ubiquitin-proteasome pathway; enhanced FOXO3a stability; and upregulated the expression of mitophagy-related genes in this ALS mouse model. The beneficial effects of UA-30 in ALS were abolished by overexpression of the constitutively active form of RalA (RalAG23V) or Mdivi-1 treatment. These findings support RalA inhibition as a therapeutic strategy for enhancing mitophagy and mitigating ALS-like pathology and support UA-30 as an orally active candidate for further preclinical development.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Animals",
         "Amyotrophic Lateral Sclerosis",
@@ -679,7 +674,7 @@
       "abstract": "In the effort to reduce the long diagnostic delay in amyotrophic lateral sclerosis, an often overlooked problem derives from confusion around the concept of diagnostic biomarkers and the type of data required to develop such tools. A useful diagnostic biomarker is one that can correctly differentiate individuals with, from those without, the disease of interest - and importantly, at a point in time when the diagnosis is otherwise uncertain. This requires a test with a high positive predictive value (the proportion of positive test results that are true positives), a high negative predictive value (the proportion of negative test results that are true negatives), or ideally both. Critically, positive and negative predictive values depend on the context of use for the diagnostic, which determines the prevalence of disease in the population in which the diagnostic test will be used. Almost all diagnostic biomarker studies in amyotrophic lateral sclerosis get this wrong - focusing on data and samples from patients for whom there is no diagnostic uncertainty. This Update distinguishes disease state biomarkers from diagnostic biomarkers; highlights the data required to clinically validate a diagnostic biomarker; underscores the critical importance of understanding the clinical context in which the diagnostic biomarker will be used; and outlines potential strategies for developing diagnostic biomarkers that might be clinically useful.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "clinical context",
@@ -722,7 +717,7 @@
       "abstract": "A pathogenic GGC repeat expansion in zinc finger homeobox 3 (ZFHX3), encoding a pure polyglycine (polyG) tract, causes spinocerebellar ataxia type 4 (SCA4). Intermediate expansions of other SCA loci have been implicated in amyotrophic lateral sclerosis (ALS), while repeat motif composition is recognised to influence pathogenicity in neurodegenerative diseases. Given the genetic pleiotropy between ALS and SCA, we evaluated whether ZFHX3 GGC expansions are associated with ALS and characterised repeat motif composition. ZFHX3 GGC repeat sizes were genotyped using ExpansionHunter in short-read whole-genome sequencing data from ALS cases and healthy controls of European ancestry. Repeat sizes were visually inspected using REViewer, and motif configurations were manually derived from a subset. Receiver operating characteristic analysis and Youden's J statistic identified a candidate repeat size threshold. Logistic regression tested associations of repeat length and motif composition with ALS, while regression models assessed clinical phenotypes. Across 5785 ALS cases and 7982 controls, no association was observed between ZFHX3 expansions and ALS risk. Longer alleles showed a nominal association with later disease onset, however this did not remain significant after Bonferroni correction. Among 802 ALS cases and 800 controls, 50 distinct motif compositions were identified, including 11 encoding pure polyG tracts characteristic of pathogenic SCA4 expansions; none were associated with ALS. Although no association with ALS was observed, this study established the dynamic nature of ZFHX3 repeat motif composition and configuration. Variation within and between repeat sizes, including pure polyG repeats, supports consideration of motif composition alongside allele length when evaluating neurodegenerative disease risk.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": []
     },
@@ -759,7 +754,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42735682",
@@ -796,7 +791,7 @@
       "abstract": "BACKGROUND: Pathogenic CHCHD10 variants cause a rare, dominantly inherited form of amyotrophic lateral sclerosis (ALS). Non-allele-selective CHCHD10 knockdown may mitigate a toxic gain-of-function mechanism. We evaluated nL-CHCHD-001 in one participant with the p.Arg15Leu variant.\n\nMETHODS: In this open-label N-of-1 study, 320-gapmer antisense oligonucleotides (ASOs) were screened, and a lead candidate was selected according to specificity and non-clinical safety criteria. Six intrathecal doses were administered over 12 months (three 50-mg doses followed by three 75-mg doses). Prespecified primary outcomes were 12-month changes in functional, cognitive, quality-of-life, respiratory, neurofilament light (NfL), and survival measures; secondary outcomes assessed were safety and tolerability. Analyses were descriptive.\n\nFINDINGS: No serious adverse events occurred. Post-dose headache and fatigue were mild to moderate, and cerebrospinal fluid safety results were unremarkable. Plasma NfL decreased by approximately 50% from a mildly elevated pretreatment baseline and entered the laboratory reference range. The Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised score increased from 33 to 36, vital capacity increased from 48% to 55% (as predicted), cognitive and quality-of-life scores remained stable, and the participant was alive at 12 months.\n\nCONCLUSIONS: Individualized CHCHD10-directed treatment was feasible and well tolerated and was temporally associated with biomarker and clinical stability or improvement. This N-of-1 study demonstrates the feasibility of developing individualized ASO therapy for CHCHD10-related ALS and provides preliminary evidence of biomarker and clinical benefit. These findings support further evaluation of nL-CHCHD-001 and highlight NfL as a practical treatment-response biomarker for personalized therapeutics in ALS.\n\nCLINICALTRIALS: gov: NCT06392126.\n\nFUNDING: This study was supported by the n-Lorem Foundation, National Institutes of Health grants U01NS134684 and KL2 TR002379, and the Kevin Merszei Career Development Award.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "CHCHD10",
@@ -1076,7 +1071,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42746532",
@@ -1102,7 +1097,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42727824",
@@ -1724,7 +1719,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42737854",
@@ -1750,7 +1745,7 @@
       "abstract": "Amyotrophic Lateral Sclerosis (ALS) is increasingly recognized as a multisystem disorder. However, SOD1-associated ALS has traditionally been regarded as an exclusively motor phenotype. This systematic review challenges that paradigm by characterizing the cognitive and behavioural profiles of SOD1 mutation-related ALS. Following PRISMA guidelines, a systematic PubMed search identified 17 eligible studies. Across the included studies, encompassing 222 patients with SOD1 variants, three of the analyzed subjects fulfilled the diagnostic criteria for frontotemporal dementia (FTD), and a larger proportion exhibited multidomain cognitive deficits, including executive dysfunction, language impairment, and working memory decline. Behavioural disturbances, such as apathy, emotional lability, and mental rigidity, were also prominent. The historical assumption that SOD1 mutations completely spare cognitive networks likely reflects an under-recognition of subtle manifestations, compounded by the limited sensitivity of earlier screening tools. These findings indicate that cognitive and behavioural involvement can occur in SOD1-ALS, highlighting a highly heterogeneous phenotype. Encompassing varying degrees of severity-from subtle differences in neuropsychological test scores to formal FTD diagnoses-the current evidence points towards possible variant-specific phenotypes rather than a uniform cognitive syndrome. Routine multidomain cognitive screening is crucial in this population. Properly characterizing these non-motor features allows for more accurate disease staging, better monitoring of clinical progression, and the implementation of truly personalized care strategies.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Amyotrophic Lateral Sclerosis",
@@ -1883,7 +1878,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42739287",
@@ -1905,7 +1900,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) usually enters diagnostic pathways after motor symptoms emerge, by which time neural injury has been ongoing. Long-term hereditary ALS cohorts show that some pathogenic-variant carriers may show elevated neurofilament light chain (NfL), mild motor impairment (MMI), electromyographic abnormalities, or imaging changes before clinical manifestation. Since 2022, research has shifted from detecting presymptomatic abnormalities to identifying observable prodromal phenotypes and predicting phenoconversion timing. Operational MMI criteria, longitudinal imaging in chromosome 9 open reading frame 72 (C9orf72) expansion carriers, TAR DNA-binding protein 43 (TDP-43)-related fluid biomarkers, and plasma proteomic models spanning prediction horizons have broadened early identification. The ATLAS study, a trial of tofersen initiated in clinically presymptomatic carriers of superoxide dismutase 1 (SOD1) variants, incorporated specific SOD1 variants and within-person NfL increases into risk monitoring and used these criteria to select participants for the randomized treatment phase. Evidence remains concentrated in a few genetic subtypes, and no single marker accurately predicts individual phenoconversion. Identification requires genotype-specific natural history, serial clinical examinations and biomarker testing, with clinical utility validated in independent longitudinal cohorts and prevention trials.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "amyotrophic lateral sclerosis",
@@ -1994,7 +1989,7 @@
       "abstract": "Background: Malnutrition and metabolic dysregulation are common in motor neuron disease (MND) and contribute to accelerated functional decline and reduced survival. Routine serum biochemical analytes can be used to assess nutritional status; however, their interpretation in MND is confounded by systemic inflammation and disease-related metabolic changes. This study investigated the relationship between serum biochemical analytes, inflammatory status, disease severity, progression, and body composition in people living with MND. Methods: In this single-centre, longitudinal prospective cohort study, 19 participants with confirmed MND were assessed at enrolment and at three-month intervals up to nine months. Serum concentrations of albumin, prealbumin, creatinine, transferrin, ferritin, retinol-binding protein, and lipid fractions were measured alongside routine inflammatory markers. Disease severity and progression were assessed using the revised ALS functional rating scale and King's College Staging System. Anthropometry included percentage weight change, body mass index, mid-upper arm circumference, triceps skinfold thickness, arm muscle area, and calf circumference. Participants with evidence of baseline inflammation were excluded from nutritional analyses. Results: Low-grade systemic inflammation was present in 9/19 (47%) of participants at enrolment, most commonly reflected by elevated fibrinogen. In the non-inflammatory sub-cohort (n/N = 10/19), serum creatinine was positively correlated with muscle-related functional subscores (p = 0.007) and declined between enrolment and three months (p = 0.02), showing predominantly negative trajectories by nine months. HDL cholesterol also declined over the nine-month follow-up (p = 0.03) and lipid fractions correlated positively with disease stage (p <0.001-0.02), suggesting evolving metabolic stress. Elevated serum retinol-binding protein was observed in 90% (n/N = 9/10) of participants without inflammation. Biochemical evidence of malnutrition (low transferrin and/or creatinine) was detected in one-third of participants, accompanied by weight loss and reductions in limb anthropometric parameters. Malnutrition risk was identified in 1/10 (10%) of the non-inflammatory sub-cohort using a modified ESPEN-based framework, and in 2/10 (20%) participants using GLIM criteria. Conclusions: Routine serum biochemical analytes provide complementary information on nutritional and metabolic status in MND when interpreted alongside inflammatory markers and anthropometry. Serum creatinine emerged as a longitudinal marker of muscle wasting, reflective of denervation and nutritional depletion, while lipid and retinol-binding protein alterations highlight non-nutritional disease mechanisms that may confound standard biomarker interpretation, informing more targeted nutritional assessments. These findings support a multimodal approach to nutritional monitoring in MND and emphasise the importance of accounting for inflammatory status in biomarker interpretation. Given the small sample size and the limited representation of non-ALS phenotypes, these findings should be regarded as hypothesis-generating and require confirmation in larger, multicentre cohorts with balanced phenotypic representation.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Biomarkers",
@@ -2051,7 +2046,7 @@
       "abstract": "Dihydroquercetin (DHQ), a powerful antioxidant and regulator of cellular metabolism, was proposed for therapy of neurodegenerative disorders. Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS) are serious neurodegenerative disorders with oxidative stress as an overlapping feature and unmet therapeutic needs. To date, few studies have explored the efficacy of DHQ in animal models of genetically driven neurodegeneration. Here, APPswe/PS1dE9 (APP/PS1) mice and their wild-type (WT) littermates were orally administered DHQ (0.6 mg/kg/day) for four months, starting at eight months of age. At the age of 12 months, behavioral evaluation was performed, followed by brain staining with Congo red for amyloid plaque scoring and immunohistochemical analysis of GFAP-positive cells for the assessment of astrogliosis. Malondialdehyde (MDA) levels in the prefrontal cortex were studied as a marker of oxidative stress. Second, two-month-old FUS[1-359]-Tg mice, which recapitulate the hallmarks of ALS, received DHQ for 1.5 months and were investigated for general physiological parameters, the onset of paralysis, motor functions, and density of motor neurons in the spinal cord. DHQ-treated APPswe/PS1dE9 mutants displayed a decrease in amyloid plaque density of small size (≤100 μm) in the cortex and thalamus, had normalized MDA levels, improved conditioned taste aversion and Y-maze learning, and ameliorated anxiety measures, whereas their hippocampus-dependent step-down and pellet displacement performance remained impaired. In the second study, DHQ-treated FUS[1-359]-Tg mice showed rescued density of spinal cord neurons, normalized liquid and diet intake, and improved coat state, while the onset of paralysis and motor scores were not significantly ameliorated. Thus, chronic administration of low doses of DHQ exerted neuroprotective effects in both AD and ALS genetic models, which partially translated to reduced manifestations of these diseases.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Animals",
         "Quercetin",
@@ -2100,7 +2095,7 @@
       "abstract": "RNA-binding proteins (RBPs) are a large class of proteins that form biological condensates to facilitate their functions. Chronic stress, such as occurs in neurodegenerative diseases, stimulates persistent accumulation of particular RBP condensates as part of the translational stress response, termed stress granules (SGs). These persistent SGs serve as a nidus for aggregation of RBPs to form pathologies that appear in neurodegenerative diseases, such as the occurrence of Tar DNA Binding Protein (TDP-43) in Amyotrophic Lateral Sclerosis. Many of the RBPs that accumulate in SGs are also associated with mutations that are linked to neurodegenerative diseases. The microtubule-associated protein tau is the major intracellular pathology that occurs in Alzheimer's disease. Tau is phosphorylated with stress, whereupon it functions to regulate SG biology; conversely, SGs serve as a crucible for the accumulation of toxic oligomeric tau. The regulation of stress by tau is an inherent part of biology that normally occurs during development and hibernation; however, with aging it becomes pathological, possibly because of the reduced proteostasis associated with aging.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Stress Granules",
@@ -2164,7 +2159,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42745716",
@@ -2192,7 +2187,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42742464",
@@ -2220,7 +2215,7 @@
       "abstract": "Antisense oligonucleotides (ASOs) hold clinical promise for the treatment of neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS). Yet, their efficacy is constrained by the need for invasive delivery, poor central nervous system (CNS) penetration, inefficient cellular uptake and rapid clearance. Here, we developed neural stem cell-derived extracellular vesicles (NSC-EVs) as natural carriers to enhance CNS targeting and therapeutic efficacy of ASO-based treatments for ALS. Using a passive loading method, therapeutic ASOs were efficiently associated with NSC-EVs (NSC-EV-ASO). Compared with free ASOs, NSC-EVs- ASOs exhibited markedly enhanced neuronal uptake in vitro and increased CNS accumulation and neuronal localization in vivo following intracerebroventricular, intranasal, or intravenous administration. Functionally, NSC-EV-ASOs reduced the mutant SOD1 protein expression and the pathogenic hexanucleotide repeats in the C9orf72 loci in ALS cellular models. In the ALS mouse model, intranasal administration of NSC-EV-ASOs more efficiently delayed disease onset, improved motor performance, preserved motor neurons and attenuated astrocyte activation during the study period compared with free ASOs. These findings provide proof-of-concept evidence supporting the potential of NSC-EV as a promising platform that not only enhances CNS delivery of ASOs but also contributes to overall therapeutic activity, offering a synergistic strategy to advance nucleic acid therapeutics for ALS and potentially other neurological diseases.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Amyotrophic Lateral Sclerosis",
         "Animals",
@@ -2356,7 +2351,7 @@
       "abstract": "INTRODUCTION: Frontotemporal dementia and amyotrophic lateral sclerosis are clinically distinct disorders that share a common genetic etiology, with pathogenic hexanucleotide repeat expansions in the C9orf72 gene representing the most frequent genetic cause of both conditions. In this study we aim to determine the frequency of C9orf72 repeat expansions in patients with FTD and/or ALS and their at-risk relatives from central Portugal, and to analyze the distribution and repeat size of intermediate alleles within this cohort investigating their potential pathogenicity.\n\nMETHODS: Between January 2016 and January 2026, C9orf72 repeat expansions were assessed in 610 patients with the clinical presentation within the spectrum of FTD/ALS and in 63 asymptomatic relatives. C9orf72 repeat expansions were identified using a two-step PCR protocol comprising STR-PCR and RP-PCR, followed by repeat-length sizing with a commercial kit. Capillary electrophoresis traces were subsequently analyzed using AmplideX® PCR/CE Reporter software. Furthermore, carriers of intermediate alleles underwent comprehensive clinical, fluid-biomarker, and neuropsychological characterization to investigate the potential pathogenicity of these alleles.\n\nRESULTS: Pathogenic C9orf72 expansions were identified in 11% of patients. The vast majority carried long expansions (>145 repeats), whereas three patients exhibited shorter expansions ranging from 38 to 78 repeats. Intermediate alleles were found in seven subjects with heterogeneous clinical presentations. Clinically, these individuals were indistinguishable from carriers of longer expansions.\n\nDISCUSSION: C9orf72 hexanucleotide repeat expansions are a major genetic cause of FTD, ALS, and FTD-ALS in this cohort of patients, highlighting the importance of genetic testing for accurate counselling and clinical management. These findings support routine C9orf72 testing in all patients with these disorders, particularly those of European ancestry. Our findings also support the emerging view that intermediate C9orf72 repeat expansions may act as a genetic risk factors contributing to a broad spectrum of clinical phenotypes.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "ALS",
@@ -2386,7 +2381,7 @@
       "abstract": "BACKGROUND: Sleep disorders stand as prevalent non-motor symptoms in individuals with amyotrophic lateral sclerosis (ALS) and may be linked to respiratory muscle weakness, neurodegenerative changes, and disruption of sleep architecture. Existing studies have reported considerable variability in the prevalence of sleep disorders in ALS patients, and findings regarding associated factors remain inconsistent. Therefore, this study intended to integrate the existing evidence through a meta-analysis to further clarify the prevalence of sleep disorders and their clinical relevant factors.\n\nMETHODS: PubMed, Embase, Web of Science, and the Cochrane Library were searched from database inception to January 10, 2026. Cross-sectional, cohort, and case-control studies involving clinically diagnosed adult patients with ALS were included. A random-effects model was used to estimate the pooled prevalence of sleep disorders. Subgroup analyses were performed according to sex, site of onset, age, disease duration, body mass index (BMI), sleep disorder category based on the International Classification of Sleep Disorders, Third Edition, Text Revision (ICSD-3-TR), sleep-related treatment status, and assessment method (polysomnography [PSG] versus questionnaire-based assessment).\n\nRESULTS: A total of 31 studies involving 2,762 patients with ALS were included. The pooled prevalence of sleep disorders was 50% (95% confidence interval [CI], 45-56%). Patients with sleep disorders were significantly older than those without sleep disorders (mean difference [MD] = 3.72 years, 95% CI, 2.39-5.05), whereas no significant associations were observed for sex, body mass index (BMI), disease duration, or site of onset. The prevalence did not differ significantly across the ICSD-3-TR categories (p = 0.7367), whereas questionnaire-based studies yielded a significantly higher pooled prevalence than PSG-based studies (p = 0.0367). Sensitivity analyses confirmed the robustness of the findings.\n\nCONCLUSION: Approximately half of ALS patients have sleep disorders. Age may be related to the occurrence of sleep disorders, whereas no substantial relations were identified for sex, BMI, disease duration, or site of onset. Routine screening and early intervention for sleep issues should be strengthened in clinical management. Large-scale, multicenter prospective studies are still needed to further clarify the underlying mechanisms and clinical implications.\n\nSYSTEMATIC REVIEW REGISTRATION: The publicly accessible registration URL is: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261287352. The systematic review was registered with PROSPERO (registration number: CRD420261287352).",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Amyotrophic Lateral Sclerosis",
@@ -2429,7 +2424,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disease characterized by the selective degeneration of upper and lower motor neurons (MNs). Although the specific pathogenesis of ALS is not yet fully understood, there is increasing evidence that abnormal energy metabolism plays a key role in the onset and progression of the disease. Lactate has traditionally been considered a metabolic by-product of glycolysis and has received increasing attention in recent years. Research has shown that lactate is not only an important energy substrate but also a signaling molecule that regulates a variety of physiological processes, including neuron-glia metabolic coupling, neuroprotection and inflammatory responses. In ALS, abnormalities in lactate metabolism, dysfunction of the lactate shuttle, and dysregulation of lactate-related signaling pathways may jointly lead to neuronal energy deficits and increased neuroinflammation, thereby promoting MN degeneration. This review summarizes the latest advances in lactate metabolism and lactate-mediated signaling in ALS, with particular emphasis on their roles in neuronal energy regulation, neuroprotection and inflammatory regulation. In addition, we also discuss potential therapeutic strategies for lactate metabolism and its related pathways, aiming to provide new insights into the pathogenesis of ALS and the development of treatment methods for lactate-related metabolism.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Amyotrophic Lateral Sclerosis",
@@ -2492,7 +2487,7 @@
         "progressive supranuclear palsy"
       ],
       "first_seen_at": "2026-09-15T23:53:41Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42738680",
@@ -2522,7 +2517,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurological disorder characterized by rapid motoneuron degeneration. Hydrogen sulfide (H2S), a signaling molecule that regulates post-translational modification, has recently been implicated in the pathophysiology of ALS. Our study aimed to design, synthesize, and investigate the potential effects of (2S)-2-aminopentanethioic S-acid (POM16), an isomer of the slow-releasing H2S donor thiovaline, in a genetic ALS model. FUS [1-359]-tg mice, which recapitulate ALS syndrome, and their wild-type (WT) littermates received POM16 (at a dose of 50/mg/kg) or standard ALS therapy riluzole (at a dose of 8 mg/kg/day) dissolved in drinking water, or vehicle, for six weeks starting at nine weeks of age. The onset of paralysis, physiological and motor functions, muscle atrophy, density of spinal cord motoneurons, gene expression of proinflammatory cytokines interleukin-1β (IL-1β) and tumor necrosis factor (TNF), and concentration of oxidative stress marker malondialdehyde (MDA) in the spinal cord were studied. POM16-treated mutants displayed significant improvements in body weight, water and diet intake, as well as behavior in the rotarod, wire, and pole tests. The percentage of mice with paralysis on the 6th week of dosing was reduced from 48% in vehicle-treated mutants to 16% in POM16-treated FUS [1-359]-tg mice, while in the riluzole-treated group, it was 38%, not reaching significance. Notably, muscle weight was not significantly improved by the latter treatment, unlike the dosing with POM16. In comparison with vehicle-treated FUS [1-359]-tg mice, POM16-treated mutants had significantly higher motor neuron density in the spinal cord, lower MDA levels, and reduced muscle atrophy ranking. Thus, new compound POM16 has a therapeutic potential to counteract ALS pathology that is likely mediated via anti-oxidative stress mechanisms. Given that any effective treatment of this devastating disease is currently lacking, it is hoped that POM16 can be a promising therapy for ALS.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Animals",
         "Amyotrophic Lateral Sclerosis",
@@ -2669,7 +2664,7 @@
       "abstract": "Mesenchymal stromal cells (MSCs) have emerged as a promising therapeutic platform for central nervous system disorders, including neurodegenerative diseases and lysosomal storage disorders (LSDs). This review examines MSC mechanisms of action-paracrine activity, immunomodulation, antioxidant effects, TFEB-mediated autophagy regulation, and enzymatic cross-correction in LSDs-while critically assessing translational challenges. We provide a comparative analysis of MSC sources, administration routes, dosing regimens, and safety profiles, with emphasis on hemocompatibility and thrombotic risks. The evidence base for MSC efficacy in amyotrophic lateral sclerosis, Alzheimer's disease, Parkinson's disease, multiple sclerosis, and LSDs is systematically reviewed, highlighting both promising signals and limitations. MSC-derived extracellular vesicles are discussed as a cell-free alternative with improved safety and potential blood-brain barrier interaction. We propose an individualized monitoring framework integrating clinical scales, biomarkers, and neuroimaging. Despite preclinical promise, the field faces major hurdles: product standardization, optimal dosing, and the need for large, randomized controlled trials. The most rational path forward lies in combination strategies-MSCs as adjuncts to gene or enzyme replacement therapy-and engineered platforms for sustained delivery. This review provides a roadmap for translational decision-making and identifies critical gaps that must be addressed before MSC-based therapies can be integrated into routine neurological practice.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Humans",
         "Exosomes",
@@ -2721,7 +2716,7 @@
       "abstract": "Signalling between the ER and mitochondria regulates a number of key cellular functions that are damaged in frontotemporal dementia and related amyotrophic lateral sclerosis (FTD/ALS). This signalling involves close physical contacts between the two organelles that are mediated by the VAPB-PTPIP51 ER-mitochondria \"tethering\" proteins. A number of studies have shown that mutant genes which cause familial FTD/ALS disrupt the VAPB-PTPIP51 tethers and that this involves activation of GSK3β. TDP43 is one such mutant and altered TDP43 metabolism is central to FTD/ALS pathogenesis. Loss of Sigma-1 receptor function is also seen in FTD/ALS and there is evidence that Sigma-1 receptor agonists can repair damaged ER-mitochondria signalling. However, the underlying mechanisms are not properly understood. In this study, we show that the reference Sigma-1 receptor agonist PRE-084 stimulates VAPB-PTPIP51 binding and rescues FTD/ALS mutant TDP43-induced disruption to the VAPB-PTPIP51 interaction and linked ER-mitochondria Ca2+ delivery. We also show that these effects involve inhibition of the kinase GSK3β, a known negative regulator of VAPB-PTPIP51 binding. Finally, we show that ANAVEX2-73, a further Sigma-1 receptor agonist which is in clinical trials for Alzheimer's disease, also stimulates VAPB-PTPIP51 binding via GSK3β inhibition. Our findings provide novel insights into the mechanisms by which Sigma-1 receptor agonists influence defective ER-mitochondria signalling in FTD/ALS.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [
         "Receptors, sigma",
         "Sigma-1 Receptor",
@@ -2866,7 +2861,7 @@
       "abstract": "In hereditary motor neuron diseases (MNDs), including forms of amyotrophic lateral sclerosis (ALS) caused by single-nucleotide variants, effective therapeutic strategies need to address both gain- and loss-of-function mechanisms. Genome editing-based gene therapy represents a promising approach for simultaneously targeting these mechanisms. To establish proof-of-concept for base editing in a hereditary MND, we targeted the P285L variant in the TRK-fused gene (TFG), which causes hereditary motor and sensory neuropathy with proximal dominant involvement (HMSN-P), a disorder that shares clinical and histopathological features with ALS. We identified the optimal adenine base editor by comparing candidate editors in HMSN-P patient-derived induced pluripotent stem cells (iPSCs). We then generated a transgenic mouse model expressing human TFG P285L and evaluated the selected editor by subpial delivery of adeno-associated virus (AAV) vectors to the spinal cord. AAV-mediated base editing prolonged survival, preserved motor neurons, and attenuated axon loss in ventral nerve roots. Treatment with the selected base editing vector reduced TFG aggregation and suppressed neuronal death in HMSN-P iPSC-derived neuromuscular organoids. Collectively, these findings support the therapeutic potential of base editing for hereditary MNDs.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "AAV",
@@ -2912,7 +2907,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42744804",
@@ -2960,7 +2955,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42724165",
@@ -3029,7 +3024,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42752431",
@@ -3074,7 +3069,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T19:15:01Z"
+      "last_seen_at": "2026-09-18T20:18:36Z"
     },
     {
       "id": "42740767",
@@ -3113,7 +3108,7 @@
       "abstract": "INTRODUCTION: Motor neurone disease (MND) is a rare but devastating neurodegenerative condition that results in progressive muscle weakness, disability, and eventual respiratory failure. In Australia, the impact of MND is significant, and there is a pressing need for a high-quality, locally relevant guideline to support equitable, person-centred care.\n\nQUESTIONS: This guideline aims to address key clinical and care-related questions that arise across the MND trajectory. It will identify the most pressing topics and uncertainties in MND management through interest holder consultation and structured prioritisation.\n\nMETHODS: The guideline will be developed using the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach and will align with standards set by the National Health and Medical Research Council (NHMRC) and the Guidelines International Network (GIN). Governance will include a multi-tiered structure with lived experience representation. Implementation planning and evaluation will be integrated throughout, with a planned transition to a living guideline model supported by an ongoing evidence surveillance strategy.",
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
-      "last_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T20:18:36Z",
       "mesh_terms": [],
       "keywords": [
         "GRADE",

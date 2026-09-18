@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T19:15:01Z",
+  "updated_at": "2026-09-18T20:18:37Z",
   "keys": {
     "pubmed:42740795": "2026-09-15T23:48:30Z",
     "pubmed:42723432": "2026-09-15T23:48:30Z",
@@ -157,7 +157,7 @@
     "clinicaltrials:NCT06834269:2026-09-18": "2026-09-18T19:15:01Z"
   },
   "source_last_success": {
-    "pubmed": "2026-09-18T19:15:01Z",
-    "clinicaltrials_gov": "2026-09-18T19:15:01Z"
+    "pubmed": "2026-09-18T20:18:36Z",
+    "clinicaltrials_gov": "2026-09-18T20:18:37Z"
   }
 }
