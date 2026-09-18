@@ -1,11 +1,85 @@
 {
-  "updated_at": "2026-09-17T05:09:43Z",
+  "updated_at": "2026-09-18T05:02:59Z",
   "new_keys": [
-    "clinicaltrials:NCT07823101:2026-09-16",
-    "clinicaltrials:NCT05297487:2026-09-16",
-    "clinicaltrials:NCT01925196:2026-09-16"
+    "clinicaltrials:NCT07369076:2026-09-17",
+    "clinicaltrials:NCT06051123:2026-09-17",
+    "clinicaltrials:NCT03225144:2026-09-17"
   ],
   "items": [
+    {
+      "id": "NCT07369076",
+      "event_key": "clinicaltrials:NCT07369076:2026-09-17",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07369076",
+      "title": "A Clinical Trial to Evaluate NB-4746 in Participants With Amyotrophic Lateral Sclerosis.",
+      "sponsor": "Nura Bio",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: NB-4746 High dose",
+        "Drug: NB-4746 Low dose",
+        "Drug: Placebo",
+        "Drug: NB-4746 (Dose TBD)"
+      ],
+      "start_date": "2026-03-04",
+      "last_update_date": "2026-09-17",
+      "url": "https://clinicaltrials.gov/study/NCT07369076",
+      "collected_at": "2026-09-18T05:02:59Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-09-18T05:02:59Z"
+    },
+    {
+      "id": "NCT06051123",
+      "event_key": "clinicaltrials:NCT06051123:2026-09-17",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06051123",
+      "title": "Effects of Probiotics in Amyotrophic Lateral Sclerosis-Frontotemporal Dementia Spectrum Disorder (ALS-FTDSD) Patients",
+      "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Dietary_Supplement: Probiotic",
+        "Dietary_Supplement: Placebo"
+      ],
+      "start_date": "2024-01-01",
+      "last_update_date": "2026-09-17",
+      "url": "https://clinicaltrials.gov/study/NCT06051123",
+      "collected_at": "2026-09-18T05:02:59Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-09-18T05:02:59Z"
+    },
+    {
+      "id": "NCT03225144",
+      "event_key": "clinicaltrials:NCT03225144:2026-09-17",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03225144",
+      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2017-10-11",
+      "last_update_date": "2026-09-17",
+      "url": "https://clinicaltrials.gov/study/NCT03225144",
+      "collected_at": "2026-09-18T05:02:59Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-09-18T05:02:59Z"
+    },
     {
       "id": "NCT07823101",
       "event_key": "clinicaltrials:NCT07823101:2026-09-16",
@@ -27,7 +101,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT05297487",
@@ -50,7 +124,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05297487",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT01925196",
@@ -73,7 +147,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT07819890",
@@ -96,7 +170,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07819890",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT07322003",
@@ -120,7 +194,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT07002034",
@@ -143,7 +217,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07002034",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT06441682",
@@ -167,7 +241,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06441682",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-17T05:09:43Z"
+      "last_seen_at": "2026-09-18T05:02:59Z"
     },
     {
       "id": "NCT07818772",
