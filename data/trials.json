@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-09-18T05:02:59Z",
+  "updated_at": "2026-09-18T19:15:01Z",
   "new_keys": [
-    "clinicaltrials:NCT07369076:2026-09-17",
-    "clinicaltrials:NCT06051123:2026-09-17",
-    "clinicaltrials:NCT03225144:2026-09-17"
+    "clinicaltrials:NCT06834269:2026-09-18"
   ],
   "items": [
+    {
+      "id": "NCT06834269",
+      "event_key": "clinicaltrials:NCT06834269:2026-09-18",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06834269",
+      "title": "Transcranial Static Magnetic Stimulation (tSMS) and Potential Theranostic Biomarkers in Amyotrophic Lateral Sclerosis.",
+      "sponsor": "Campus Bio-Medico University",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: Transcranial magnetic stimulation (tSMS)"
+      ],
+      "start_date": "2024-12-02",
+      "last_update_date": "2026-09-18",
+      "url": "https://clinicaltrials.gov/study/NCT06834269",
+      "collected_at": "2026-09-18T19:15:01Z",
+      "first_seen_at": "2026-09-18T19:15:01Z",
+      "last_seen_at": "2026-09-18T19:15:01Z"
+    },
     {
       "id": "NCT07369076",
       "event_key": "clinicaltrials:NCT07369076:2026-09-17",
@@ -31,7 +52,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07369076",
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT06051123",
@@ -55,7 +76,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06051123",
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT03225144",
@@ -78,7 +99,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03225144",
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT07823101",
@@ -101,7 +122,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT05297487",
@@ -124,7 +145,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05297487",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT01925196",
@@ -147,7 +168,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT07819890",
@@ -170,7 +191,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07819890",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT07322003",
@@ -194,7 +215,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT07002034",
@@ -217,7 +238,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07002034",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT06441682",
@@ -241,7 +262,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06441682",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-18T05:02:59Z"
+      "last_seen_at": "2026-09-18T19:15:01Z"
     },
     {
       "id": "NCT07818772",
