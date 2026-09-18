@@ -176,6 +176,20 @@ def render(config_path: Path) -> dict[str, Any]:
     email_body = clean_rendered_html(environment.from_string(EMAIL_TEMPLATE).render(**context))
     (DOCS_DIR / "index.html").write_text(page, encoding="utf-8", newline="\n")
     (DATA_DIR / "email_digest.html").write_text(email_body, encoding="utf-8", newline="\n")
+    (DATA_DIR / "digest_metadata.json").write_text(
+        json.dumps(
+            {
+                "report_date": context["generated_local"][:10],
+                "generated_local": context["generated_local"],
+                "timezone": config.get("project", {}).get("timezone", "Asia/Shanghai"),
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+        newline="\n",
+    )
     print(
         f"Generated docs/index.html with {context['totals']['all']} records "
         f"({context['totals']['new']} new)."

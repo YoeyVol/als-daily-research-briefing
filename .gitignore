@@ -8,4 +8,5 @@ logs/
 qa/
 tests/
 data/email_digest.html
+data/digest_metadata.json
 data/run_status.json

@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
+      TZ: Asia/Shanghai
+      SEND_EMPTY_DIGEST: "true"
       NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
       NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -28,7 +30,6 @@ jobs:
       SMTP_TO: ${{ secrets.SMTP_TO }}
       SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
       SMTP_USE_STARTTLS: ${{ secrets.SMTP_USE_STARTTLS }}
-      SEND_EMPTY_DIGEST: ${{ secrets.SEND_EMPTY_DIGEST }}
 
     steps:
       - name: Check out repository
@@ -67,6 +68,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No repository changes to commit."
           else
-            git commit -m "Update ALS intelligence $(date -u +%F)"
+            git commit -m "Update ALS intelligence $(date +%F)"
             git push
           fi

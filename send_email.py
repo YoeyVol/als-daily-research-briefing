@@ -9,9 +9,12 @@ import os
 import smtplib
 import ssl
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from email.message import EmailMessage
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import yaml
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
@@ -40,6 +43,25 @@ def require_env(name: str) -> str:
     return value
 
 
+def report_date() -> str:
+    metadata_path = DATA_DIR / "digest_metadata.json"
+    try:
+        metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        value = str(metadata.get("report_date", "")).strip()
+        datetime.strptime(value, "%Y-%m-%d")
+        return value
+    except (OSError, json.JSONDecodeError, TypeError, ValueError):
+        LOGGER.warning("Digest metadata is unavailable; deriving the report date from project timezone")
+
+    timezone_name = "Asia/Shanghai"
+    try:
+        config = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8")) or {}
+        timezone_name = config.get("project", {}).get("timezone", timezone_name)
+    except (OSError, yaml.YAMLError, AttributeError):
+        LOGGER.warning("Could not read the project timezone; using %s", timezone_name)
+    return datetime.now(timezone.utc).astimezone(ZoneInfo(timezone_name)).strftime("%Y-%m-%d")
+
+
 def build_message(html_body: str, count: int) -> EmailMessage:
     sender = require_env("SMTP_FROM")
     recipients = [value.strip() for value in require_env("SMTP_TO").split(",") if value.strip()]
@@ -48,7 +70,7 @@ def build_message(html_body: str, count: int) -> EmailMessage:
     message = EmailMessage()
     message["From"] = sender
     message["To"] = ", ".join(recipients)
-    message["Subject"] = f"ALS Global Intelligence Daily Briefing | {datetime.now():%Y-%m-%d} | {count} new"
+    message["Subject"] = f"ALS Global Intelligence Daily Briefing | {report_date()} | {count} new"
     message.set_content(
         f"ALS Global Intelligence found {count} new item(s). "
         "This message has an HTML version with source links."
