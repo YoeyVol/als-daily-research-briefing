@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-18T20:23:42Z",
-  "new_keys": [],
+  "updated_at": "2026-09-19T04:54:17Z",
+  "new_keys": [
+    "pubmed:42759848",
+    "pubmed:42758722",
+    "pubmed:42758317",
+    "pubmed:42759101"
+  ],
   "items": [
     {
       "id": "42717824",
@@ -107,6 +112,197 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42759848",
+      "event_key": "pubmed:42759848",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Cellular senescence is an early feature and therapeutic target in amyotrophic lateral sclerosis TDP-43Q331K mice.",
+      "authors": [
+        "Jose A Viteri",
+        "Nathan R Kerr",
+        "Charles D Brennan",
+        "Grace R Kick",
+        "Meifang Wang",
+        "Arsh Ketabforoush",
+        "Harper J Snyder",
+        "Peter J Moore",
+        "Fereshteh B Darvishi",
+        "Anna R Dashtmian",
+        "Sindhuja N Ayyagari",
+        "Kelly Rich",
+        "Yi Zhu",
+        "Hiroshi Nishimune",
+        "W David Arnold"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-09-18",
+      "pmid": "42759848",
+      "doi": "10.1016/j.nbd.2026.107610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive motor neuron degeneration in the motor cortex and spinal cord. Aging is a key risk factor for ALS, and cellular senescence - a hallmark of aging marked by irreversible cell-cycle arrest and a pro-inflammatory senescence-associated secretory phenotype - has been implicated in neurodegeneration, yet its role in ALS progression remains incompletely understood. Here, we show that molecular markers of cellular senescence emerge in the motor cortex and spinal cord alongside declines in neural and neuromuscular function in TDP-43Q331K ALS mice, supporting senescence as an early feature of ALS pathology. To test whether reduced senescence ameliorates ALS pathology, we evaluated longitudinal senolytic treatment with dasatinib and quercetin (D&Q) in TDP-43Q331K mice. D&Q treatment improved motor behavior, neuromuscular function, and reduced axonal damage as measured by plasma neurofilament light chain, accompanied by robust improvements in motor cortex excitability and preservation of layer V neuron counts. At the cellular level, cortical microglia were implicated as a potential mediator of senolytic benefits based on reduced microglial TDP-43 burden and senescence markers. Together, these findings identify cellular senescence as an early, disease-relevant, and modifiable feature of ALS pathology.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "Aging",
+        "Motor cortex",
+        "Neuromuscular",
+        "Senescence",
+        "Senolytics"
+      ],
+      "collected_at": "2026-09-19T04:54:17Z",
+      "first_seen_at": "2026-09-19T04:54:17Z",
+      "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
+      "id": "42758722",
+      "event_key": "pubmed:42758722",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Serum Na-Cl value from routine blood tests reflects CO2 retention in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Isamu Yamakawa",
+        "Ryota Tamura",
+        "Hiroyuki Yabata",
+        "Takahito Tsukamoto",
+        "Shuhei Kobashi",
+        "Yoshitaka Tamaki",
+        "Nobuhiro Ogawa",
+        "Akihiro Kitamura",
+        "Makoto Urushitani"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2026-09-18",
+      "pmid": "42758722",
+      "doi": "10.1371/journal.pone.0358772",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42758722/",
+      "abstract": "BACKGROUND: Respiratory failure is the leading cause of death in amyotrophic lateral sclerosis (ALS). Early detection of CO2 retention is crucial for assessing respiratory failure severity and guiding noninvasive positive pressure ventilation (NPPV) management. However, arterial blood gas analysis is invasive and uncomfortable for routine monitoring.\n\nOBJECTIVE: We investigated whether the serum sodium-chloride difference (Na-Cl value), calculated from routine blood tests, could serve as a screening marker for CO2 retention in ALS patients.\n\nMETHODS: This retrospective study included 88 ALS patients with 116 paired samples of arterial blood gas and serum electrolyte data. We analyzed correlations between Na-Cl value and blood gas parameters (HCO3-, PCO2), performed receiver operating characteristic (ROC) analysis for detecting CO2 retention (PCO2 ≥ 45 mmHg), and examined relationships with respiratory function (%FVC).\n\nRESULTS: Na-Cl value showed strong correlation with HCO3- (r = 0.78, p < 0.001) and PCO2 (r = 0.71, p < 0.001). Na-Cl ≥ 37 mEq/L demonstrated sensitivity of 85.11% and specificity of 69.57% for detecting PCO2 ≥ 45 mmHg, with negative predictive value of 87.27% (AUC = 0.842). Na-Cl ≥ 39 mEq/L achieved specificity of 92.75%. Patients with %FVC < 50% had significantly higher Na-Cl, PCO2, and HCO3- values.\n\nCONCLUSIONS: Serum Na-Cl value serves as a simple, noninvasive screening marker for CO2 retention in ALS. Na-Cl ≥ 37 mEq/L warrants blood gas analysis, while Na-Cl ≥ 39 mEq/L provides specificity >90%. This marker can be calculated from routine blood tests without additional cost, making it suitable for frequent monitoring and reducing the risk of missing intervention timing.",
+      "mesh_terms": [
+        "Humans",
+        "Carbon Dioxide",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Sodium",
+        "Retrospective Studies",
+        "Male",
+        "Blood Gas Analysis",
+        "Middle Aged",
+        "Aged",
+        "Chlorides",
+        "ROC Curve",
+        "Respiratory Insufficiency",
+        "Biomarkers",
+        "Adult"
+      ],
+      "keywords": [],
+      "collected_at": "2026-09-19T04:54:17Z",
+      "first_seen_at": "2026-09-19T04:54:17Z",
+      "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
+      "id": "42758317",
+      "event_key": "pubmed:42758317",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "What do ALS motor phenotypes measure? A population-based decomposition of their prognostic dimensions.",
+      "authors": [
+        "Andrea Calvo",
+        "Cristina Moglia",
+        "Stefano Callegaro",
+        "Antonio Canosa",
+        "Umberto Manera",
+        "Gabriele Mora",
+        "Sara Cabras",
+        "Francesca Palumbo",
+        "Enrico Matteoni",
+        "Alessandra Maccabeo",
+        "Giorgio Pellegrino",
+        "Emilio Minerva",
+        "Daniela Pascariu",
+        "Fabrizio D'Ovidio",
+        "Rosario Vasta",
+        "Letizia Mazzini",
+        "Fabiola De Marchi",
+        "Adriano Chiò"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-09-18",
+      "pmid": "42758317",
+      "doi": "10.1007/s00415-026-14134-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/",
+      "abstract": "BACKGROUND: The ALS-OPM 3.3 classification stratifies incident ALS through three axes: onset region (O), propagation time (P) and motor-neuron pattern (M). We assessed whether OPM 3.3 improves prognostic discrimination over established classifications and characterised how it decomposes their prognostic signal in a population-based cohort.\n\nMETHODS: In the prospective Piedmont and Aosta Valley ALS Register (2000-2022), patients were classified on the three axes; M was operationalised as M_3class (M0 balanced, M1d UMN-predominant, M2d LMN-predominant), with the PLS-spectrum M1p analysed separately. Outcome was survival (death or tracheostomy) from onset. Multivariable Cox models (O, P1(n), M_3class, age, sex) underwent bootstrap optimism-correction and fivefold cross-validation, and were compared against alternative taxonomies and clinical staging systems.\n\nRESULTS: Amongst 2,738 non-PLS patients (2,561 events, 93.5%), median survival differed across M classes (M0 27.0, M2d 36.0, M1d 41.9 months). OPM 3.3 outperformed the bulbar/spinal dichotomy but matched the classical phenotype (optimism-corrected C-index 0.703, 95% CI 0.685-0.719 vs 0.701). In the arm-proximal cell (95.7% M2d), the O2p protective effect vanished after M adjustment (HR 0.99, 95% CI 0.79-1.24), whilst M2d retained HR 0.83 (95% CI 0.72-0.95), showing prognosis reflects motor-neuron pattern, not anatomy. Adding King's, Milano-Torino (MiToS), or Fine'til 9 (FT9) clinical staging further improved discrimination.\n\nCONCLUSIONS: OPM 3.3 did not improve discrimination over established phenotypes but decomposed their prognostic signal into independently interpretable dimensions. Favourable prognosis of arm-proximal/flail-arm onset reflects the underlying LMN-predominant phenotype, not onset site. The motor-neuron axis is robust to the treatment of the propagation axis and independent of clinical staging.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Prognosis",
+        "Phenotype",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Registries",
+        "Motor Neurons",
+        "Prospective Studies"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Disease staging",
+        "Motor phenotype",
+        "Population-based registry",
+        "Prognosis",
+        "Survival analysis"
+      ],
+      "collected_at": "2026-09-19T04:54:17Z",
+      "first_seen_at": "2026-09-19T04:54:17Z",
+      "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
+      "id": "42745510",
+      "event_key": "pubmed:42745510",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Thioperamide, a histamine H3 receptor antagonist, attenuates neuroimmune activation and inflammation in the SOD1G93A mouse model of amyotrophic lateral sclerosis.",
+      "authors": [
+        "Abdullah A Aldossari",
+        "Abdulaziz M S Alsaad",
+        "Ahmed Nadeem",
+        "Mushtaq A Ansari",
+        "Sabry M Attia",
+        "Saleh A Bakheet",
+        "Haneen A Al-Mazroua",
+        "Mohammed M Almutairi",
+        "Hussain N Alhamami",
+        "Wedad S Sarawi",
+        "Hatun A Alomar",
+        "Majed Ali Algonaiah",
+        "Ali A Alshamrani",
+        "Alaa A Alanteet",
+        "Marwa H Hussein",
+        "Mohamed A Mahmoud",
+        "Sheikh F Ahmad"
+      ],
+      "journal": "Immunopharmacology and immunotoxicology",
+      "publication_date": "2026-09-18",
+      "pmid": "42745510",
+      "doi": "10.1080/08923973.2026.2733883",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745510/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder of unknown cause that gradually affects upper and lower motor neurons in the motor cortex, brainstem, and spinal cord. The histamine H3 receptor (H3R), a presynaptic autoreceptor, regulates histamine release through feedback mechanisms. H3R is highly expressed in neurons and microglia, where it influences inflammatory responses.\n\nMETHODS: This study examined the effects of thioperamide, an H3R antagonist, on T cell-mediated immune responses in the SOD1G93A transgenic mouse model of ALS. Mice received daily thioperamide injections (5 mg/kg) for four weeks, beginning at the onset of illness (week 15). Flow cytometry analyzed splenic CD3+ T cells for cytokine and marker expression, including IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, GM-CSF, TGF-β1, and Foxp3. RT-PCR measured mRNA levels in brain tissue.\n\nRESULTS: Results showed that thioperamide significantly decreased CD3+IL-1α+, CD3+IL-6+, CD3+IFN-γ+, CD3+TNF-α+, CD3+IL-17A+, CD3+RORγt+, CD3+iNOS+, and CD3+GM-CSF+ cells in the spleen, while increasing regulatory CD3+TGF-β1+ and CD3+Foxp3+ cells. Similarly, brain tissue showed decreased mRNA levels of IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, and GM-CSF, with higher TGF-β1 and Foxp3 expression.\n\nCONCLUSIONS: These findings suggest that thioperamide helps reestablish immune balance in SOD1G93A mice by influencing both inflammatory and regulatory T cell pathways.",
+      "mesh_terms": [],
+      "keywords": [
+        "Histamine H3 receptor",
+        "SOD1G93A transgenic mouse",
+        "T cells",
+        "amyotrophic lateral sclerosis",
+        "thioperamide"
+      ],
+      "collected_at": "2026-09-17T05:09:43Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
       "id": "42756552",
       "event_key": "pubmed:42756552",
       "source_id": "pubmed",
@@ -139,7 +335,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42754903",
@@ -177,7 +373,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42753929",
@@ -213,7 +409,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42753291",
@@ -244,7 +440,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42749468",
@@ -273,7 +469,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42749235",
@@ -311,7 +507,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42748981",
@@ -319,7 +515,7 @@
       "source_id": "pubmed",
       "source_name": "PubMed",
       "category": "Drug Development",
-      "title": "The Double-Edged Sentinel: cGAS-STING as a Context-Dependent Regulator of Microglial Senescence and Neuronal Genotoxic Stress in Neurodegeneration.",
+      "title": "The double-edged sentinel: cGAS-STING as a context-dependent regulator of microglial senescence and neuronal genotoxic stress in neurodegeneration.",
       "authors": [
         "Chunfang Zhang",
         "Zhangqin Yang"
@@ -332,15 +528,15 @@
       "abstract": "BACKGROUND: Neurodegenerative diseases may continue to progress even when a pathogenic protein aggregate is reduced, suggesting that downstream inflammatory and genotoxic circuits can become partly autonomous. This narrative review examines cGAS-STING as a context-dependent regulator of DNA-stress responses in the ageing and proteinopathic brain.\n\nMETHODS: PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were searched for mechanistic, translational, and human-tissue studies of cGAS-STING, DNA damage, mitochondrial quality control, neuroinflammation, and major neurodegenerative diseases. Evidence was separated into biochemical or cellular, animal, and human observations, and contradictory findings were retained.\n\nRESULTS: Mitochondrial DNA leakage is a recurrent candidate trigger, while activity-induced nuclear DNA breaks, defective repair, retrotransposon-derived cDNA, and micronuclear rupture provide conditional inputs. Microglial evidence is currently more extensive and causally developed than neuron-specific evidence; neuronal STING is most firmly supported in selected contexts such as excitotoxic or ischemic stress. Across Alzheimer disease, Parkinson disease, ALS/FTD, multiple sclerosis, and Huntington disease, cGAS-STING-associated inflammation is plausible but not uniform, and human validation remains limited. Therapeutic strategies therefore require cell-, source-, and stage-aware modulation rather than indiscriminate pathway ablation.\n\nCONCLUSION: cGAS-STING is best regarded as a testable kinetic-bottleneck model, not a universal driver of neurodegeneration. Longitudinal human studies and cell-resolved biomarkers are needed to determine when recalibration can suppress pathological inflammation while preserving antiviral and homeostatic functions.",
       "mesh_terms": [],
       "keywords": [
-        "cGAS-STING pathway",
-        "genotoxic stress",
-        "microglial senescence",
-        "neurodegeneration",
-        "neuroinflammation"
+        "CGAS-STING pathway",
+        "Genotoxic stress",
+        "Microglial senescence",
+        "Neurodegeneration",
+        "Neuroinflammation"
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42747562",
@@ -387,7 +583,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42747163",
@@ -414,51 +610,45 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
-      "id": "42745510",
-      "event_key": "pubmed:42745510",
+      "id": "42759101",
+      "event_key": "pubmed:42759101",
       "source_id": "pubmed",
       "source_name": "PubMed",
       "category": "Research",
-      "title": "Thioperamide, a histamine H3 receptor antagonist, attenuates neuroimmune activation and inflammation in the SOD1G93A mouse model of amyotrophic lateral sclerosis.",
+      "title": "Establishment of two iPSC lines from ALS patients carrying mutations in SQSTM1 and TBK1 genes.",
       "authors": [
-        "Abdullah A Aldossari",
-        "Abdulaziz M S Alsaad",
-        "Ahmed Nadeem",
-        "Mushtaq A Ansari",
-        "Sabry M Attia",
-        "Saleh A Bakheet",
-        "Haneen A Al-Mazroua",
-        "Mohammed M Almutairi",
-        "Hussain N Alhamami",
-        "Wedad S Sarawi",
-        "Hatun A Alomar",
-        "Majed Ali Algonaiah",
-        "Ali A Alshamrani",
-        "Alaa A Alanteet",
-        "Marwa H Hussein",
-        "Mohamed A Mahmoud",
-        "Sheikh F Ahmad"
+        "Serena Santangelo",
+        "Veronica Casarotto",
+        "Lorenzo Campelli",
+        "Serena Leoni",
+        "Sara Cabras",
+        "Enrico Matteoni",
+        "Giovanni De Marco",
+        "Antonio Canosa",
+        "Manuela Basso",
+        "Valentina Bonetto",
+        "Francesca Trojisi",
+        "Patrizia Bossolasco",
+        "Vincenzo Silani",
+        "Adriano Chiò",
+        "Nicola Ticozzi",
+        "Andrea Calvo",
+        "Antonia Ratti"
       ],
-      "journal": "Immunopharmacology and immunotoxicology",
+      "journal": "Stem cell research",
       "publication_date": "2026-09-15",
-      "pmid": "42745510",
-      "doi": "10.1080/08923973.2026.2733883",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745510/",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder of unknown cause that gradually affects upper and lower motor neurons in the motor cortex, brainstem, and spinal cord. The histamine H3 receptor (H3R), a presynaptic autoreceptor, regulates histamine release through feedback mechanisms. H3R is highly expressed in neurons and microglia, where it influences inflammatory responses. This study examined the effects of thioperamide, an H3R antagonist, on T cell-mediated immune responses in the SOD1G93A transgenic mouse model of ALS. Mice received daily thioperamide injections (5 mg/kg) for four weeks, beginning at the onset of illness (week 15). Flow cytometry analyzed splenic CD3+ T cells for cytokine and marker expression, including IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, GM-CSF, TGF-β1, and Foxp3. RT-PCR measured mRNA levels in brain tissue. Results showed that thioperamide significantly decreased CD3+IL-1α+, CD3+IL-6+, CD3+IFN-γ+, CD3+TNF-α+, CD3+IL-17A+, CD3+RORγt+, CD3+iNOS+, and CD3+GM-CSF+ cells in the spleen, while increasing regulatory CD3+TGF-β1+ and CD3+Foxp3+ cells. Similarly, brain tissue showed decreased mRNA levels of IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, and GM-CSF, with higher TGF-β1 and Foxp3 expression. These findings suggest that thioperamide helps reestablish immune balance in SOD1G93A mice by influencing both inflammatory and regulatory T cell pathways.",
+      "pmid": "42759101",
+      "doi": "10.1016/j.scr.2026.104105",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759101/",
+      "abstract": "We describe the generation and characterization of two induced pluripotent stem cell (iPSC) lines: one derived from an ALS patient carrying the heterozygous SQSTM1 c.1175C > T (p.Pro392Leu) mutation, identified as cell line 047, and another one (cell line 053) derived from a patient carrying the heterozygous TBK1 c.1760 + 4_1760 + 7delAGTA likely pathogenic variant, predicted to result in a premature stop codon +, together with the ERBB4 c.2402A > T (p.His801Leu) variant of unknown significance (VUS).",
       "mesh_terms": [],
-      "keywords": [
-        "Amyotrophic lateral sclerosis",
-        "Histamine H3 receptor",
-        "SOD1G93A transgenic mouse",
-        "T cells",
-        "Thioperamide"
-      ],
-      "collected_at": "2026-09-17T05:09:43Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "keywords": [],
+      "collected_at": "2026-09-19T04:54:17Z",
+      "first_seen_at": "2026-09-19T04:54:17Z",
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42744617",
@@ -754,7 +944,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42735682",
@@ -1071,7 +1261,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42746532",
@@ -1097,7 +1287,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42727824",
@@ -1719,7 +1909,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42737854",
@@ -1878,7 +2068,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42739287",
@@ -2159,7 +2349,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42745716",
@@ -2187,7 +2377,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42742464",
@@ -2907,7 +3097,7 @@
       ],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42744804",
@@ -2955,7 +3145,7 @@
       "keywords": [],
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42724165",
@@ -3024,7 +3214,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42752431",
@@ -3069,7 +3259,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-18T20:23:41Z"
+      "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
       "id": "42740767",
