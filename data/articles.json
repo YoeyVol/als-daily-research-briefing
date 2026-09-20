@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-19T04:54:17Z",
+  "updated_at": "2026-09-20T05:15:34Z",
   "new_keys": [
-    "pubmed:42759848",
-    "pubmed:42758722",
-    "pubmed:42758317",
-    "pubmed:42759101"
+    "pubmed:42763209",
+    "pubmed:42763025",
+    "pubmed:42762936",
+    "pubmed:42762093",
+    "pubmed:42760704",
+    "pubmed:42762623",
+    "pubmed:42761537",
+    "pubmed:42760861",
+    "pubmed:42760853",
+    "pubmed:42760536"
   ],
   "items": [
     {
@@ -112,6 +118,194 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42763209",
+      "event_key": "pubmed:42763209",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Evaluation value of NRS2002 and MNA-SF on nutritional status and prognosis in adult patients with amyotrophic lateral sclerosis].",
+      "authors": [
+        "Y W Liu",
+        "D S Fan",
+        "L Chen"
+      ],
+      "journal": "Zhonghua yi xue za zhi",
+      "publication_date": "2026-09-22",
+      "pmid": "42763209",
+      "doi": "10.3760/cma.j.cn112137-20251225-03422",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763209/",
+      "abstract": "Objective: To evaluate the value of the Nutritional Risk Screening 2002 (NRS2002) and the Mini-Nutritional Assessment Short-Form (MNA-SF) in assessing nutritional status, disease progression, and prognosis in adult patients with amyotrophic lateral sclerosis (ALS). Methods: Baseline data of 148 ALS patients who visited Peking University Third Hospital from January to December 2024 were prospectively collected. Patients were divided into malnutrition group and normal group based on the presence of nutritional risk. Assessments were conducted every 3 months over a 1-year follow-up period, during which ALSFRS-R scores, body mass index (BMI), and nutritional scale scores were recorded. The rates of ALSFRS-R score decline (δFS) and BMI change (δBMI) were calculated as (baseline ALSFRS-R score-follow-up ALSFRS-R score)/follow-up months and (baseline BMI-follow-up BMI)/follow-up months, respectively. The primary endpoint events were death or tracheostomy. Clinical data were compared between patients with different nutritional statuses. Spearman and Pearson correlation analyses were used to explore the correlations between scale scores and various indicators. Cohen's Kappa coefficient was used to evaluate the inter-rater consistency between the two scales. Linear mixed-effects models were applied to assess the relationships between nutritional risk and changes in δFS and δBMI. Results: A total of 148 ALS patients were collected in this study, including 96 males and 52 females, with the age [M(Q1, Q3)] of 56.0 (49.0, 61.0) years. A total of 4 enrolled patients were excluded from the NRS2002 assessment owing to missing BMI data, which resulted from the inability to measure height and weight in these bedridden individuals. Based on the NRS2002 and MNA-SF, patients were classified into the malnutrition group (NRS2002 malnutrition group, n=45; MNA-SF malnutrition group, n=59) and the normal group (NRS2002 normal group, n=99; MNA-SF normal group, n=89). The Kappa values for the consistency between NRS2002 and MNA-SF at baseline, 3, 6, 9, and 12 months were 0.726, 0.713, 0.698, 0.648, and 0.769, respectively (all P<0.001). NRS2002 was negatively correlated with BMI (r=-0.413, P<0.001), body weight (r=-0.442, P<0.001), prealbumin (r=-0.253, P<0.001), creatinine (r=-0.139, P=0.049), and triglycerides (r=-0.228, P=0.003); MNA-SF was positively correlated with BMI (r=0.573, P<0.001), body weight (r=0.514, P<0.001), prealbumin (r=0.277, P<0.001), creatinine (r=0.233, P=0.002), and triglycerides (r=0.289, P<0.001). After adjusting for confounders using linear mixed-effects models, a higher NRS2002 score was identified as a risk factor for increases in δFS (β = 0.127, 95%CI: 0.065-0.189, P<0.001) and δBMI (β=0.150, 95%CI: 0.104-0.197, P<0.001), whereas a higher MNA-SF score served as a protective factor against increases in δFS (β=-0.090, 95%CI:-0.116 to -0.064, P<0.001) and δBMI (β=-0.092, 95%CI:-0.113 to -0.071, P<0.001). Conclusions: NRS2002 and MNA-SF demonstrate good consistency in nutritional risk assessment among ALS patients. The scores of both scales are correlated with traditional nutritional indicators including BMI, body weight, prealbumin, creatinine, and triglycerides, and are associated with the rates of ALSFRS-R and BMI changes in these patients.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Prognosis",
+        "Nutritional Status",
+        "Nutrition Assessment",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "Body Mass Index",
+        "Malnutrition",
+        "Aged",
+        "Adult"
+      ],
+      "keywords": [],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42763025",
+      "event_key": "pubmed:42763025",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TBK1 overexpression reduces neuronal loss in the P497S UBQLN2 mouse model of ALS/FTD.",
+      "authors": [
+        "Shaoteng Wang",
+        "Melanie A Dolce",
+        "Angelina M Burkett",
+        "Victoria L Collis",
+        "Peyton E Fuller",
+        "Grace A Blanco",
+        "Nhat T T Le",
+        "John H Fingert",
+        "Mervyn J Monteiro"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-09-19",
+      "pmid": "42763025",
+      "doi": "10.1016/j.nbd.2026.107611",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/",
+      "abstract": "Missense mutations in UBQLN2 are linked to dominant inheritance of amyotrophic lateral sclerosis (ALS) which is frequently accompanied by frontotemporal dementia (FTD). The encoded UBQLN2 protein functions to maintain proteostasis, collapse of which is increasingly being realized as the cause of many neurodegenerative diseases. During investigations of our UBQLN2 mouse models of ALS/FTD, we observed a significant decline in Tank-binding kinase 1 (TBK1) protein in end-stage mice. The decline could be significant, as haploinsufficiency of TBK1 expression is linked to ALS/FTD. To determine whether the reduction in TBK1 levels is responsible for driving pathogenesis, we crossed P497S UBQLN2 transgenic (Tg) mice with BacTBK1 Tg mice that overexpress TBK1 and analyzed the progeny for signs of pathology. The analysis revealed that double transgenic mice had a significant reduction in neurodegeneration in both the brain and spinal cord (SC) compared to P497S single-Tg mice. Double immunofluorescence staining of P497S mouse tissue revealed TBK1 colocalizes with UBQLN2 aggregates in spinal motor neurons. Biochemical extraction studies of mouse brain tissue revealed increased enrichment of TBK1 along with wild type and mutant UBQLN2 proteins in detergent-insoluble material, suggesting TBK1 gets sequestered by UBQLN2 aggregates. GST-pulldown assays revealed that UBQLN2 binds directly with TBK1, but paradoxically the P497S mutation was found to reduce TBK1 binding. Turnover studies indicated that loss of UBQLN2 destabilizes TBK1, providing another route for its reduction. These findings lead us to propose that efforts directed toward increasing TBK1 expression may provide a therapeutic approach for treating ALS/FTD caused by UBQLN2 mutations.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Motor neuron disease",
+        "Proteostasis",
+        "TBK1",
+        "UBQLN2"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42762936",
+      "event_key": "pubmed:42762936",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Defective ATP13A2-ITCH-ALIX signaling impairs intraluminal vesicle biogenesis and increases neuronal vulnerability.",
+      "authors": [
+        "Lin Luo",
+        "Wen Chen",
+        "Shishi Luo",
+        "Suzhen Ma",
+        "Kaiyue Liu",
+        "Qian Gong",
+        "Birong Huang",
+        "Zhiming Chen",
+        "Yaohui He",
+        "Danling Wang"
+      ],
+      "journal": "Cellular signalling",
+      "publication_date": "2026-09-19",
+      "pmid": "42762936",
+      "doi": "10.1016/j.cellsig.2026.112897",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762936/",
+      "abstract": "ATP13A2 is a lysosomal P5B-type ATPase whose loss-of-function mutations are associated with a spectrum of neurodegenerative disorders, including early-onset Parkinson's disease, Kufor-Rakeb syndrome, neuronal ceroid lipofuscinosis, hereditary spastic paraplegia, and amyotrophic lateral sclerosis. Although ATP13A2 is known to contribute to lysosomal homeostasis and, thereby, to neuronal degeneration, emerging evidence suggests that it may also influence exosome biology. However, the mechanisms by which endogenous ATP13A2 regulates exosome biogenesis and the relevance of this process to neuronal vulnerability remain unclear. In the present study, using multiple ATP13A2-deficient human cell models, we demonstrated that ATP13A2 deficiency impairs intraluminal vesicle (ILV) biogenesis and reduces exosome secretion across diverse cellular contexts. Loss of ATP13A2 did not markedly affect endocytosis, early endosome abundance, or multivesicular body formation, but it consistently reduced ILV density within multivesicular bodies. Mechanistically, ATP13A2 deficiency promoted lysosome-associated accumulation of the E3 ubiquitin ligase ITCH, which enhanced ubiquitin-proteasome-dependent degradation of ALG-2-interacting protein X (ALIX), a critical adaptor of the endosomal sorting complex required for transport machinery that mediates ILV membrane remodeling. Restoration of ALIX expression or reduction of Itchy E3 ubiquitin-protein ligase (ITCH) activity rescued the ILV biogenesis defects in ATP13A2-deficient neuronal cells. Furthermore, dysregulation of the ATP13A2-ITCH-ALIX pathway increased neuronal susceptibility to mitochondrial stress, whereas restoration of ALIX or reduction of ITCH activity markedly improved neuronal survival. Together, these results identify an ATP13A2-ITCH-ALIX signaling axis linking lysosomal dysfunction to impaired ILV biogenesis and exosome regulation. Our study suggests that defective ILV biogenesis contributes to neuronal vulnerability and that modulation of the ATP13A2-ITCH-ALIX pathway may represent a therapeutic strategy for ATP13A2-associated neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALIX",
+        "ATP13A2",
+        "Exosome",
+        "ITCH",
+        "Intraluminal vesicle",
+        "Multivesicular body",
+        "Neuronal death"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42762093",
+      "event_key": "pubmed:42762093",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Weak association of pathogenic ERBB4 variants with amyotrophic lateral sclerosis.",
+      "authors": [
+        "Pei-Shan Wang",
+        "Sheng-Mei Zou",
+        "Qiao Wei",
+        "Zhi-Ying Wu",
+        "Hong-Fu Li"
+      ],
+      "journal": "Neurodegenerative disease management",
+      "publication_date": "2026-09-19",
+      "pmid": "42762093",
+      "doi": "10.1080/17582024.2026.2736021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762093/",
+      "abstract": "INTRODUCTION: ERBB4 variants were reported to cause amyotrophic lateral sclerosis (ALS). However, gene burden analyses did not find an enrichment of rare variants in patients, leaving the pathogenic role of ERBB4 in ALS unclear. Therefore, this study aimed to reassess the association of ERBB4 variants with ALS.\n\nMETHODS: Next-generation sequencing was performed in 250 ALS and 714 non-ALS patients. Low-frequency, deleterious non-synonymous ERBB4 variants were filtered, and their allele frequencies were compared between groups.\n\nRESULTS: In total, 42 low-frequency and deleterious ERBB4 variants were identified in patients and normal controls, with three variants in all groups. There was no significant difference in allele frequencies between ALS and non-ALS groups. Additionally, four reported pathogenic variants (c.158A > G, c.284G > A, c.965T > A, and c.1624G > A) were observed in patients with neuromuscular disease or leukoencephalopathy, as well as normal controls. Based on the evidence from this study, c.284G > A was reclassified as a likely benign variant, while the others were reclassified as uncertain significance according to the American College of Medical Genetics and Genomics Guidelines.\n\nDISCUSSION: These results suggest a modest association between ERBB4 variants and ALS, underscoring the need for clinicians to conduct more careful molecular diagnosis and genetic consultations for ALS patients with ERBB4 variants.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "ERBB4",
+        "causative gene",
+        "genetic analysis",
+        "variant"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42760704",
+      "event_key": "pubmed:42760704",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Causal relationship between metabolites, cerebral volume, and amyotrophic lateral sclerosis: A 2-step Mendelian randomization analysis.",
+      "authors": [
+        "Youjia Liu",
+        "Sihui Chen",
+        "Yanyun Wu",
+        "Wenting Zhou",
+        "Huifang Shang",
+        "Ruwei Ou"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2026-09-18",
+      "pmid": "42760704",
+      "doi": "10.1097/MD.0000000000050769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760704/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration. Although metabolic abnormalities have been implicated in ALS, the causal relationships between circulating metabolites and ALS remain unclear. This study aimed to investigate the potential causal associations between plasma metabolites and ALS risk and to explore the mediating role of cerebral volume. A 2-sample Mendelian randomization (MR) study was conducted using publicly available genome-wide association study summary statistics. Genetic instruments for plasma metabolites were obtained from metabolomic GWAS datasets, and ALS-associated genetic data were used as the outcome. The inverse-variance weighted method was used as the primary analysis, with sensitivity analyses performed using MR-Egger regression, weighted median analysis, MR-PRESSO, heterogeneity testing, and leave-one-out analysis. A 2-step MR analysis was further conducted to evaluate whether cerebral volume mediated the associations between metabolites and ALS. Six metabolites showed significant associations with ALS risk. Genetically predicted higher levels of N,N-dimethylalanine, Behenylcarnitine (C22), and deoxycarnitine were associated with increased ALS risk, whereas higher levels of (N(1) + N(8))-acetylspermidine, Betaine, and tetradecadienedioate (C14:2-DC) were associated with decreased ALS risk. Sensitivity analyses supported the robustness of the findings. Two-step MR analysis suggested that cerebral volume did not significantly mediate the associations between these metabolites and ALS risk. This study identified 6 circulating metabolites genetically associated with ALS risk. These findings provide insights into the potential metabolic pathways involved in ALS and suggest that the observed associations are unlikely to be mediated through cerebral volume changes.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Mendelian Randomization Analysis",
+        "Genome-Wide Association Study",
+        "Polymorphism, Single Nucleotide",
+        "Organ Size"
+      ],
+      "keywords": [
+        "Mendelian randomization",
+        "amyotrophic lateral sclerosis",
+        "causal inference",
+        "cerebral volume",
+        "genome-wide association study",
+        "metabolomics",
+        "neurodegeneration",
+        "plasma metabolites"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
       "id": "42759848",
       "event_key": "pubmed:42759848",
       "source_id": "pubmed",
@@ -152,7 +346,7 @@
       ],
       "collected_at": "2026-09-19T04:54:17Z",
       "first_seen_at": "2026-09-19T04:54:17Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42758722",
@@ -198,7 +392,7 @@
       "keywords": [],
       "collected_at": "2026-09-19T04:54:17Z",
       "first_seen_at": "2026-09-19T04:54:17Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42758317",
@@ -256,7 +450,7 @@
       ],
       "collected_at": "2026-09-19T04:54:17Z",
       "first_seen_at": "2026-09-19T04:54:17Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42745510",
@@ -335,7 +529,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42754903",
@@ -373,7 +567,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42753929",
@@ -409,7 +603,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42753291",
@@ -440,7 +634,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42749468",
@@ -648,7 +842,7 @@
       "keywords": [],
       "collected_at": "2026-09-19T04:54:17Z",
       "first_seen_at": "2026-09-19T04:54:17Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42744617",
@@ -1889,6 +2083,40 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42762623",
+      "event_key": "pubmed:42762623",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Label-free analysis of grade-specific molecular alterations in osteoarthritic subchondral bone using Raman spectroscopy coupled with MCR-ALS.",
+      "authors": [
+        "Gavish Uppal",
+        "Akhilesh Singh",
+        "Ramviyas Nattanmai Parasuraman",
+        "Anup Kumar",
+        "Kailash Chandra Jena",
+        "Rajesh Kumar"
+      ],
+      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "publication_date": "2026-09-07",
+      "pmid": "42762623",
+      "doi": "10.1016/j.saa.2026.128743",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762623/",
+      "abstract": "Changes in subchondral bone metabolism are central to osteoarthritis (OA) progression, highlighting the need for sensitive, label-free analytical approaches capable of resolving molecular-level alterations in complex biological tissue matrices. Raman spectroscopy is a powerful, non-destructive tool for detecting molecular changes in intact pathological tissues; however, overlapping spectral bands obscure accurate interpretation. In this study, Raman spectroscopy combined with multivariate curve resolution-alternating least squares (MCR-ALS) was applied to human subchondral bone at different stages of osteoarthritic degeneration to identify grade-specific molecular changes. The MCR-ALS approach enabled decomposition of overlapping Raman spectra into distinct biochemical components attributed to mineral, lipid, and collagen. Comparative statistical analysis revealed grade-dependent biochemical alterations in osteoarthritic subchondral bone. No significant changes occurred in mineral or lipid content at the early stage; however, significant mineral reduction and enhanced lipid accumulation were observed in advanced-stage degeneration. Collagen content exhibited an initial increase in the early stage, followed by a substantial decline in the advanced stage, accompanied by progressive disruption of its structural organization. Deconvolution of the amide I band further enabled improved characterization of collagen structural changes in intact tissue. These findings demonstrate that the Raman-MCR approach effectively resolves complex biological spectra, sensitively detects stage-specific molecular alterations in osteoarthritic subchondral bone, and offers a robust analytical framework for the label-free characterization of intact tissues.",
+      "mesh_terms": [],
+      "keywords": [
+        "Analytical diagnosis",
+        "Label-free analysis",
+        "Multivariate curve resolution (MCR-ALS)",
+        "Osteoarthritis",
+        "Raman spectroscopy",
+        "Subchondral bone"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
       "id": "42751043",
       "event_key": "pubmed:42751043",
       "source_id": "pubmed",
@@ -1909,7 +2137,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42737854",
@@ -2068,7 +2296,7 @@
       ],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42739287",
@@ -2157,6 +2385,39 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42761537",
+      "event_key": "pubmed:42761537",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "A mechanistically informed framework of hierarchical temporal speech organization for objective differential assessment of motor speech disorders in neurodegenerative diseases.",
+      "authors": [
+        "Kaley Bruning",
+        "Lindsey Heidrick",
+        "Panying Rong"
+      ],
+      "journal": "Frontiers in neuroscience",
+      "publication_date": "2026-09-04",
+      "pmid": "42761537",
+      "doi": "10.3389/fnins.2026.1907826",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761537/",
+      "abstract": "INTRODUCTION: Speech is organized into discrete utterances and pauses in accordance with underlying linguistic structure, temporal coordination, prosodic organization, and respiratory demands. Temporal speech characteristics, including rhythmic and pausing patterns, are governed by multiple neurophysiological mechanisms and provide valuable insights for the assessment and management of motor speech disorders. This study employed a mechanistically informed analytic framework of hierarchical temporal speech organization to derive interpretable, objective measures for assessing rhythmic and pausing disturbances in neurodegenerative diseases.\n\nMETHODS: Orofacial kinematic and acoustic recordings were obtained from two neurodegenerative disease groups-amyotrophic lateral sclerosis (ALS) and Parkinson's disease (PD)-along with a neurologically healthy control (HC) group, during a passage reading task. Using automated analytic procedures, kinematic rhythm measures (movement-based) and acoustic rhythm measures (sound-based) were derived to characterize hierarchical rhythmic modulation of articulatory movements and critical-band acoustic modulation envelopes at prosodic, syllabic, and sub-syllabic levels. Pause measures were derived to characterize within- and between-sentence pausing patterns. Rhythmic and pausing patterns were compared across groups. The acoustically derived rhythm and pause measures were subsequently subjected to (1) discriminant analyses for multiclass classification among the ALS, PD, and HC groups, and (2) regularized regression models to evaluate their associations with functional outcomes.\n\nRESULTS: Both neurodegenerative disease cohorts exhibited a reorganization of hierarchical rhythmic modulation characterized by reduced prosodic-level modulation and increased syllabic-level modulation. Such changes were, however, driven primarily by articulatory impairment in ALS and by respiratory-laryngeal impairment in PD. In addition, both cohorts showed reduced regularity of intra-syllabic temporal organization and altered within-sentence pausing patterns, whereas the ALS cohort exhibited additional changes in between-sentence pausing. Measures capturing these rhythmic and pausing disturbances demonstrated promising classification performance (mean accuracy = 0.77; mean area under the curve [AUC] = 0.84) and meaningful associations with functional speech decline across diseases.\n\nDISCUSSION: The rhythm and pause measures captured disease-specific subclinical changes in the physiological substrates underlying rhythmic and pausing disturbances in ALS and PD, demonstrating potential as clinically applicable, objective markers to enable more accurate differential diagnosis, targeted intervention, and measurement-based care for neurodegenerative motor speech disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "acoustics",
+        "articulatory kinematics",
+        "differential assessment",
+        "motor speech disorder",
+        "neurodegenerative disease",
+        "objective marker",
+        "pause",
+        "rhythm"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42739085",
@@ -2311,6 +2572,109 @@
       ]
     },
     {
+      "id": "42760861",
+      "event_key": "pubmed:42760861",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Multivariate Survival Analysis of a Comprehensive Clinical Trial of Rapamycin in Amyotrophic Lateral Sclerosis Explores Prognostic Factors and Survival Patterns in C9orf72 Carriers.",
+      "authors": [
+        "Alex De Nardi",
+        "Alessio Paris",
+        "Mario Lauria",
+        "Ilaria Martinelli",
+        "Elisabetta Zucchi",
+        "Cecilia Simonini",
+        "Jessica Mandrioli",
+        "Luca Marchetti"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-09-01",
+      "pmid": "42760861",
+      "doi": "10.1111/ene.70756",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760861/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease marked by considerable variability in survival times. This retrospective study aims to evaluate the prognostic value of a broad range of variables by conducting a comprehensive survival analysis on longitudinal data from RAP-ALS, a clinical trial investigating the effects of rapamycin in ALS patients (n = 63).\n\nMETHODS: Covariates were classified as risk or protective factors according to their hazard ratios. Regularized Cox regression was utilized to select the best-performing multivariate models in cross-validation. Longitudinal measures were incorporated by modeling covariates as time-dependent. Survival times of treated C9orf72 mutation carriers (n = 6) were further investigated through log-rank tests and restricted mean survival time analysis.\n\nRESULTS: Univariate analyses confirmed several previously established prognostic factors. Multivariate regularized Cox models incorporated neurofilaments, creatinine, clinical scores, and markers of immune activation. Moreover, the inclusion of time-varying covariates allowed us to investigate late-stage risk factors, such as the neutrophil-to-lymphocyte ratio. Additionally, the analysis indicated a protective effect in treated C9orf72 mutation carriers (log-rank test, p = 0.026), which was confirmed after comparing this treatment subgroup with an independent C9orf72+ cohort (n = 40; RMST test, p = 0.04).\n\nCONCLUSIONS: The survival analysis confirmed the role of previously identified prognostic factors, while suggesting that high-performing multivariate models should integrate multiple ALS pathological hallmarks. Moreover, the observed longer survival among C9orf72 mutation carriers contrasts with prior reports. Due to the small sample size and potential confounding factors, the observed benefits in treated C9orf72 patients should be considered exploratory, supporting evaluation in a larger, genetically stratified trial.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "C9orf72 Protein",
+        "Female",
+        "Male",
+        "Prognosis",
+        "Sirolimus",
+        "Middle Aged",
+        "Survival Analysis",
+        "Retrospective Studies",
+        "Multivariate Analysis",
+        "Aged",
+        "Mutation",
+        "Heterozygote",
+        "Adult",
+        "Immunosuppressive Agents"
+      ],
+      "keywords": [
+        "C9orf72",
+        "amyotrophic lateral sclerosis",
+        "biomarkers",
+        "rapamycin",
+        "survival analysis"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42760853",
+      "event_key": "pubmed:42760853",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Chitinases in Tear Fluid of Patients With Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Lara Wenz",
+        "Lena-Sophie Scholl",
+        "Nya Reinhardt",
+        "Ricarda von Heynitz",
+        "Vincent Gmeiner",
+        "Petra Rau",
+        "Philipp Jie Müller",
+        "Andreas W Wolff",
+        "Emily Feneberg",
+        "Antonia F Demleitner",
+        "Paul Lingor"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-09-01",
+      "pmid": "42760853",
+      "doi": "10.1111/ene.70757",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760853/",
+      "abstract": "BACKGROUND: Chitinases, including chitotriosidase (CHIT1) and chitinase-3-like protein 1 (CHI3L1), are markers of neuroinflammation, a key process in amyotrophic lateral sclerosis (ALS). Tear fluid (TF) can be collected non-invasively and may represent a promising alternative to CSF or blood to study chitinases.\n\nMETHODS: TF was collected from 50 ALS patients and 50 control subjects using Schirmer strips. CHIT1 and CHI3L1 levels in TF, serum, and CSF were quantified using ELISA. Serum NfL was measured using SIMOA. The frequency of a 24 bp-duplication polymorphism in the CHIT1 gene influencing CHIT1 expression was assessed by PCR.\n\nRESULTS: No group differences in the distribution of the CHIT1 polymorphism were detected. Carriers of the polymorphism in both ALS and controls showed lower CHIT1 levels in serum and TF. CHI3L1 levels in TF were higher in ALS patients compared to controls (p = 0.007), consistent with changes in CSF but not serum. In ALS, males showed higher TF CHIT1 values compared to females (p = 0.009). Combining TF chitinase values with serum NfL values improved discrimination between ALS and controls.\n\nCONCLUSIONS: Chitinases are detectable in TF, and CHI3L1 levels recapitulate changes observed in CSF, highlighting its potential for non-invasive longitudinal assessment. Furthermore, chitinase values in TF, together with serum NfL, may act complementarily by capturing distinct aspects of the disease, neuroinflammation and axonal damage. These results suggest TF chitinases and serum NfL could complementarily contribute to the diagnosis and monitoring of the disease, and call for further evaluation of TF as a biomarker source in ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Amyotrophic Lateral Sclerosis",
+        "Male",
+        "Hexosaminidases",
+        "Tears",
+        "Chitinase-3-Like Protein 1",
+        "Middle Aged",
+        "Chitinases",
+        "Aged",
+        "Biomarkers",
+        "Adult"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "biomarker",
+        "chitinase",
+        "neuroinflammation",
+        "tear fluid"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
       "id": "42751965",
       "event_key": "pubmed:42751965",
       "source_id": "pubmed",
@@ -2349,7 +2713,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42745716",
@@ -3176,6 +3540,53 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42760536",
+      "event_key": "pubmed:42760536",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Neuro-glial lipid imbalance in a Drosophila model of amyotrophic lateral sclerosis 8.",
+      "authors": [
+        "Lovleen Garg",
+        "Kriti Chaplot",
+        "Gowhith Kuppili",
+        "Shweta Tendulkar",
+        "Jomon Joseph",
+        "Siddhesh Kamat",
+        "Girish Ratnaparkhi"
+      ],
+      "journal": "Acta neuropathologica communications",
+      "publication_date": "2026-07-27",
+      "pmid": "42760536",
+      "doi": "10.1186/s40478-026-02391-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760536/",
+      "abstract": "Membrane Contact sites (MCS) have emerged as physiologically relevant zones that coordinate inter-organelle communication and cellular function. VAPB, an ER-resident MCS tethering protein, plays a central role in regulating MCSs through its numerous protein interactors, thereby influencing cellular homeostasis. A pathogenic missense VAPBP56S mutation causes familial Amyotrophic Lateral Sclerosis 8 (ALS8) in humans, with progressive degeneration of motor neurons. The precise mechanisms underlying the motor neurodegeneration remain poorly understood. In this study, we examine lipid imbalance in the brain of a Drosophila model of ALS8 (VAPBP58S). Specifically, we find that lipid homeostasis is disrupted in an age-dependent manner. Strikingly, cholesterol esters and sphingolipids show an age-dependent increase, while cholesterol shows a decrease. Intriguingly, from a cellular perspective, despite the accumulation of triacylglycerols (TAGs) in the brains of VAPBP58S animals, the increased neutral lipid species do not correlate with lipid droplets (LDs), which are fewer in density and smaller in size. Lipid imbalance and progressive motor dysfunction in VAPBP58S animals can be reversed by expressing VAPBWT, suggesting a relationship between VAPB activity and lipid flux. To uncover VAPB's role in lipid homeostasis, we modulate VAPB activity in neurons and glia to dissect out tissue-specific roles. We find that both cell types contribute to lipid homeostasis in differential ways. In glia, LD flux is strongly dependent on VAPB activity, a dependence further recapitulated in cultured human cell lines, suggesting evolutionary conservation of the regulatory mechanism. Thus, we hypothesize that lipid dysregulation constitutes a critical pathogenic feature of ALS8, with the VAPBP56S allele disrupting lipid homeostasis in the neuro-glial axis.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Neuroglia",
+        "Disease Models, Animal",
+        "Lipid Metabolism",
+        "Humans",
+        "Drosophila Proteins",
+        "Brain",
+        "Drosophila",
+        "Animals, Genetically Modified",
+        "Vesicular Transport Proteins"
+      ],
+      "keywords": [
+        "Cholesterol",
+        "Climbing",
+        "Glia",
+        "Lipid droplets",
+        "Neurodegeneration",
+        "VAP33A"
+      ],
+      "collected_at": "2026-09-20T05:15:34Z",
+      "first_seen_at": "2026-09-20T05:15:34Z",
+      "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
       "id": "42758107",
       "event_key": "pubmed:42758107",
       "source_id": "pubmed",
@@ -3214,7 +3625,7 @@
       "keywords": [],
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42752431",
@@ -3259,7 +3670,7 @@
       ],
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
+      "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
       "id": "42740767",
