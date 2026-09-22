@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-09-21T05:18:39Z",
-  "new_keys": [],
+  "updated_at": "2026-09-22T05:16:34Z",
+  "new_keys": [
+    "pubmed:42764383",
+    "pubmed:42767135",
+    "pubmed:42764995",
+    "pubmed:42765595",
+    "pubmed:42764825"
+  ],
   "items": [
     {
       "id": "42717824",
@@ -142,7 +148,81 @@
       "keywords": [],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "42764383",
+      "event_key": "pubmed:42764383",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "authors": [
+        "Elena Pasho",
+        "Alberto Catanese",
+        "Edor Kabashi",
+        "Sorana Ciura"
+      ],
+      "journal": "Translational neurodegeneration",
+      "publication_date": "2026-09-20",
+      "pmid": "42764383",
+      "doi": "10.1186/s40035-026-00580-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764383/",
+      "abstract": "The degenerating motor neurons of amyotrophic lateral sclerosis (ALS) patients are characterized by the accumulation of cytoplasmic aggregates, specifically enriched in ubiquitinated TDP-43. Expressed mainly in the nucleus and partially in the cytoplasm to execute its role in RNA metabolism, the exact mechanisms that bring TDP-43 to aggregate in disease have yet to be described. Unfolding these processes could bring us closer to effective drug development that is drastically lacking in the ALS research field. Induced pluripotent stem cells (iPSCs) offer a promising platform for studying ALS pathogenesis directly in the relevant human genetic backgrounds of ALS patients. Since 2012, more than 30 published studies have investigated altered cellular and subcellular features in iPSC-derived motor neurons from ALS patients harbouring mutations in the TARDBP gene (encoding for TDP-43 protein). However, there are discrepancies in the obtained results, which call into question the relevance of this model for ALS disease modelling and its use for drug development efforts. Thus, there is a need in the field for a clear and detailed layout and summary of all the published data on ALS modelling using TARDBP mutant iPSC-derived motor neurons. In this systematic review, we analyse all phenotypic assessments that have been done on iPSC-derived motor neurons derived from TARDBP ALS patients on the morphology, functionality and the viability of these cells. We also analyse if this model recapitulates ALS pathology in vitro by comparing studies that looked at TDP-43 and neurofilament aggregation, as well as stress granule dynamics. Importantly, we compare the technical details of all the discussed studies, such as differentiation protocol, age and purity of the used motor neurons and quantification method, in order to discuss how all of these parameters affect the observed phenotypes. Lastly, we also expand our review to all other different cell types that have been differentiated from TARDBP iPSCs, highlighting non-cell autonomous mechanisms of TDP-43-ALS pathophysiology. By integrating findings across studies, this review identifies commonalities and discrepancies, discusses methodological advancements and limitations, and highlights potential therapeutic targets revealed through TARDBP iPSC-derived models.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Motor Neurons",
+        "Induced Pluripotent Stem Cells",
+        "DNA-Binding Proteins",
+        "Mutation",
+        "Animals"
+      ],
+      "keywords": [
+        "ALS",
+        "Disease modelling",
+        "Drug screening",
+        "Motor neuron",
+        "Phenotype",
+        "TARDBP",
+        "TDP-43",
+        "iPSC"
+      ],
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "42767135",
+      "event_key": "pubmed:42767135",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Elucidating the molecular nexus between dental developmental anomalies and chronic inflammatory diseases: A computational systems biology analysis of genomic sequence homology using matrix factorization.",
+      "authors": [
+        "Burak Alemdağ",
+        "Beyzanur Siyah",
+        "İpek Nur Alemdağ",
+        "Tolga Berber",
+        "Ömer Faruk Güdük"
+      ],
+      "journal": "Computational biology and chemistry",
+      "publication_date": "2026-09-19",
+      "pmid": "42767135",
+      "doi": "10.1016/j.compbiolchem.2026.109395",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767135/",
+      "abstract": "This entirely in silico, exploratory study investigates potential sequence-level links between periodontal disease, developmental dental anomalies such as molar-incisor hypomineralization (MIH), and selected systemic conditions including leukemias, amyotrophic lateral sclerosis, and Alzheimer's disease. To identify annotation-independent signatures, we applied Non-negative Matrix Tri-Factorization (NMTF) to k-mer/tf-idf representations of disease-associated gene and protein sequences compiled from OMIM, GeneCards, and PubMed for eleven curated disease groups; similarity values denote the proportion of the total between-cluster interaction (S-matrix) captured by a cluster. To guard against trivial explanations, we applied a composition-preserving sequence-shuffling test of the similarity magnitude and a degree-preserving (curveball) permutation test of the disease co-clustering that accounts for the dependence introduced by isoform records and shared genes, repeating the latter across a 1890-configuration parameter grid. At the gene level the dominant cluster was governed by the largest disease group (MIH) rather than by disease identity, whereas at the protein level periodontitis, dental anomalies, and leukemia subtypes co-clustered. The magnitude of the shares did not exceed a composition-preserving null (gene p=0.66; protein p=0.082), and under the degree-preserving null co-clustering was not significant at the gene level (p=0.36) but was significant, modest, and grid-robust at the protein level (p=0.033); canonical k-mer and coding-sequence controls confirmed that the gene-level weakness is intrinsic to nucleotide k-mers. These results delineate the protein level as the informative scale for annotation-independent cross-disease screening and identify the dental-leukemia axis as the candidate relationship for targeted follow-up. The findings are hypothesis-generating: the disease-associated gene sets were compiled with a non-systematic, literature-guided procedure, magnitudes do not exceed composition baselines, neither experimental or clinical validation nor quantitative benchmarking against alternative computational frameworks was performed, and any translational implication requires future validation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Developmental dental anomalies",
+        "Genetic pleiotropy",
+        "Non-negative matrix tri-factorization",
+        "Periodontal diseases",
+        "Periodontal-systemic associations"
+      ],
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42763025",
@@ -178,7 +258,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42762936",
@@ -217,7 +297,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42762093",
@@ -249,7 +329,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42760704",
@@ -292,7 +372,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42759848",
@@ -2103,7 +2183,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42751043",
@@ -2288,6 +2368,38 @@
       "last_seen_at": "2026-09-21T05:18:38Z"
     },
     {
+      "id": "42764995",
+      "event_key": "pubmed:42764995",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ciliary neurotrophic factor slows axonal transport of signalling endosomes.",
+      "authors": [
+        "Elena R Rhymes",
+        "Cassandra Fetkowitz",
+        "Giampietro Schiavo",
+        "James N Sleigh",
+        "Andrew P Tosolini"
+      ],
+      "journal": "Brain communications",
+      "publication_date": "2026-09-05",
+      "pmid": "42764995",
+      "doi": "10.1093/braincomms/fcag339",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764995/",
+      "abstract": "Efficient axonal transport is essential for maintaining neuronal function, enabling the bidirectional delivery of diverse cargoes between the cell body and distal compartments. In the neuromuscular system, neurotrophic factors regulate motor neuron survival, function and synaptic connectivity, in part, through retrograde trafficking of activated neurotrophic factor-receptor complexes from the neuromuscular junction to the cell body. We recently demonstrated that brain-derived neurotrophic factor stimulation to muscles selectively enhances retrograde transport of signalling endosomes in fast, but not slow, motor neurons in vivo. Moreover, both axonal endosome transport and its brain-derived neurotrophic factor-mediated regulation are disrupted in mouse models of diseases impacting motor neurons, including amyotrophic lateral sclerosis and Charcot-Marie-Tooth disease. Here, we examined whether additional neurotrophic factors, when applied to distal axon terminals, share this transport-modulating property. Through imaging sciatic nerves in anaesthetised mice, we tracked the in vivo dynamics of signalling endosomes in fast and slow motor neurons via intramuscular injections of a fluorescent atoxic fragment of tetanus neurotoxin. These injections were co-administered with ciliary neurotrophic factor, hepatocyte growth factor, neurturin, or cleavage-resistant pro-brain-derived neurotrophic factor-four growth factors with known effects on motor neurons. Compared to vehicle-treated controls, pro-brain-derived neurotrophic factor, hepatocyte growth factor and neurturin produced no detectable change in transport dynamics. In contrast, ciliary neurotrophic factor markedly reduced endosome speeds in both fast and slow motor neurons, indicating remarkable selectivity of specific neurotrophic factors in the regulation of signalling endosome transport in motor neurons. Understanding this selectivity may aid the development of muscle-targeted neurotrophic factor-based therapeutic strategies aimed at restoring axonal transport in neurodegenerative disease, peripheral neuropathy and nerve injury.",
+      "mesh_terms": [],
+      "keywords": [
+        "intravital imaging",
+        "motor neurons",
+        "neurotrophic factors",
+        "neurotrophins",
+        "signalling endosomes"
+      ],
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
       "id": "42739287",
       "event_key": "pubmed:42739287",
       "source_id": "pubmed",
@@ -2406,7 +2518,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42739085",
@@ -2561,6 +2673,58 @@
       ]
     },
     {
+      "id": "42765595",
+      "event_key": "pubmed:42765595",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Genetic ALS-Progressive Sleep Defects Precede the Onset of Clinical Disease.",
+      "authors": [
+        "Christina Lang",
+        "Simon J Guillot",
+        "Antje Knehr",
+        "Patrick Weydt",
+        "Johannes Dorst",
+        "Hayrettin Tumani",
+        "Albert C Ludolph",
+        "Luc Dupuis",
+        "Matei Bolborea"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-09-01",
+      "pmid": "42765595",
+      "doi": "10.1111/ene.70755",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765595/",
+      "abstract": "BACKGROUND: The onset of amyotrophic lateral sclerosis (ALS) is preceded by non-motor signs detectable many years before motor symptom onset. We recently showed that early ALS patients and presymptomatic carriers of ALS-associated gene mutations display altered sleep macroarchitecture, characterised by increased wakefulness and decreased non-REM sleep, together with altered microarchitecture, particularly reduced slow oscillations and sleep spindles. Here we aimed at determining whether sleep alterations are progressive in premanifest carriers of ALS-associated gene mutations.\n\nMETHODS: This longitudinal observational cohort study included presymptomatic first-degree relatives of ALS patients carrying pathogenic gene mutations (n = 18) and noncarrier family members (n = 3). Sleep macroarchitecture and sleep microarchitecture were assessed using standardised polysomnography and electroencephalographic analyses at baseline and in a follow-up examination after 2.3 ± 1.5 years.\n\nRESULTS: In all carriers, sleep alterations were more severe at follow-up compared to the initial examination, for both macro- and microarchitecture. The progression of sleep alterations was seemingly independent of proximity to motor onset, whether evaluated by increased neurofilament levels or phenoconversion during the study period.\n\nCONCLUSIONS: Sleep macro- and microarchitectural abnormalities progressively worsen during the premanifest phase of ALS. These findings suggest that polysomnography-derived sleep measures and their neurochemical correlates may serve as sensitive, noninvasive surrogate biomarkers of disease progression in clinically silent ALS. This could support disease prevention, for example, by the antisense oligonucleotide tofersen in patients carrying SOD1 mutations.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Polysomnography",
+        "Disease Progression",
+        "Middle Aged",
+        "Sleep Wake Disorders",
+        "Electroencephalography",
+        "Longitudinal Studies",
+        "Adult",
+        "Superoxide Dismutase-1",
+        "Mutation",
+        "C9orf72 Protein",
+        "Aged",
+        "Cohort Studies"
+      ],
+      "keywords": [
+        "C9orf72",
+        "SOD1",
+        "electroencephalography",
+        "polysomnography"
+      ],
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
       "id": "42760861",
       "event_key": "pubmed:42760861",
       "source_id": "pubmed",
@@ -2610,7 +2774,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42760853",
@@ -2661,7 +2825,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42751965",
@@ -3420,6 +3584,38 @@
       ]
     },
     {
+      "id": "42764825",
+      "event_key": "pubmed:42764825",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Operator-Driven Active Craniospinal Tensioning (ACT) Device for Non-ambulatory Application.",
+      "authors": [
+        "Huan-Wei Chen"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-08-20",
+      "pmid": "42764825",
+      "doi": "10.7759/cureus.114854",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764825/",
+      "abstract": "Active craniospinal tensioning (ACT) is an upright-posture axial spinal traction maneuver hypothesized to couple two mechanisms: dural pull-recoil, a cerebrospinal fluid (CSF) pressure-gradient effect shared with the supine technique pelvis-stabilized axial spinal traction (PSAST), and suboccipital venous occlusion-rebound, proposed to promote central nervous system (CNS) venous and lymphatic drainage, and as a distinct modality for cerebral venous preconditioning (CVPC). The CVPC mechanism depends on upright posture. In the upright position, cerebral venous return preferentially routes through the suboccipital venous plexus rather than the internal jugular veins, allowing the ACT strap to transiently occlude this outflow pathway during the hold and produce a hemodynamic rebound upon release. This CVPC-based rationale for choosing ACT over PSAST, along with the full biomechanical model, was developed in prior papers and is not re-derived here. In its originally described form, ACT is participant-driven: the participant voluntarily squats against a fixed overhead strap secured by a simple anchor, and the participant's own hands close the strap loop as a fail-safe. This report refers to that form, and the strap-and-anchor apparatus that delivers it, as active craniospinal tensioning, self-administered (ACT-SA). ACT-SA's delivered craniocervical junction (CCJ) tension depends on the participant fully relaxing into the maneuver. It categorically excludes non-ambulatory participants with advanced neurodegenerative disease, e.g., Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS), who cannot generate or safely control a voluntary squat, yet who may stand to benefit most from craniospinal tensioning and CVPC given their disease-associated glymphatic impairment. This report describes active craniospinal tensioning, operator-driven (ACT-OD), a device that reproduces ACT-SA's anchor geometry, target force range, and hold duration while substituting the source of tensioning force. Rather than gravity acting on a squatting participant's own body mass, tension is generated by a practitioner operating a pulley-and-lever mechanism against a stationary, seated participant, with the strap confined near the forehead by a polyvinyl chloride (PVC) pipe rather than closed by the participant's own hands. Because the participant does nothing and the seated default state carries no CCJ tension, the fail-safe ACT-SA requirement becomes unnecessary; disengagement, not engagement, is ACT-OD's default. Freed from managing the strap, the practitioner can devote full attention to the lever and to continuous observation of the participant's response, a substitution that matters because non-verbal or cognitively impaired participants cannot reliably self-report the presyncopal symptoms that serve as ACT-SA's real-time safety signal. The design is offered without patent restrictions for research and clinical replication. This report presents device design and mechanism only, with no clinical outcome or efficacy data.",
+      "mesh_terms": [],
+      "keywords": [
+        "active craniospinal tensioning (act)",
+        "alzheimer's disease",
+        "amyotrophic lateral sclerosis (als)",
+        "cerebral venous preconditioning (cvpc)",
+        "craniocervical junction",
+        "dural pull-recoil",
+        "glymphatic system",
+        "pelvis-stabilized axial spinal traction (psast)",
+        "remote ischemic preconditioning (ripc)"
+      ],
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
       "id": "42746497",
       "event_key": "pubmed:42746497",
       "source_id": "pubmed",
@@ -3573,7 +3769,7 @@
       ],
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
-      "last_seen_at": "2026-09-21T05:18:38Z"
+      "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
       "id": "42758107",

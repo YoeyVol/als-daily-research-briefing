@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-21T05:18:39Z",
-  "new_keys": [],
+  "updated_at": "2026-09-22T05:16:34Z",
+  "new_keys": [
+    "clinicaltrials:NCT06881979:2026-09-21",
+    "clinicaltrials:NCT05744310:2026-09-21",
+    "clinicaltrials:NCT05095571:2026-09-21",
+    "clinicaltrials:NCT04031469:2026-09-21"
+  ],
   "items": [
+    {
+      "id": "NCT06881979",
+      "event_key": "clinicaltrials:NCT06881979:2026-09-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06881979",
+      "title": "High-Tech Rehabilitation Pathway for Chronic Adult Neuromuscular Diseases - Fit4MedRob-Chronic MND Project",
+      "sponsor": "Istituti Clinici Scientifici Maugeri SpA",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: High-tech rehabilitative treatment",
+        "Other: Rehabilitation"
+      ],
+      "start_date": "2025-04-28",
+      "last_update_date": "2026-09-21",
+      "url": "https://clinicaltrials.gov/study/NCT06881979",
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "NCT05744310",
+      "event_key": "clinicaltrials:NCT05744310:2026-09-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05744310",
+      "title": "Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
+      "sponsor": "Haukeland University Hospital",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Long term mechanical ventilation support",
+        "Device: No long term mechanical ventilation support"
+      ],
+      "start_date": "2023-04-21",
+      "last_update_date": "2026-09-21",
+      "url": "https://clinicaltrials.gov/study/NCT05744310",
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "NCT05095571",
+      "event_key": "clinicaltrials:NCT05095571:2026-09-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05095571",
+      "title": "A Trial of Nicotinamide/Pterostilbene Supplement in ALS: The NO-ALS Extension Study",
+      "sponsor": "Haukeland University Hospital",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Dietary_Supplement: EH301 (Nicotinamide Riboside/Pterostilbene)"
+      ],
+      "start_date": "2021-10-07",
+      "last_update_date": "2026-09-21",
+      "url": "https://clinicaltrials.gov/study/NCT05095571",
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "NCT04031469",
+      "event_key": "clinicaltrials:NCT04031469:2026-09-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04031469",
+      "title": "A Non-Interventional Pilot Study to Explore the Role of Gut Flora in Disease",
+      "sponsor": "ProgenaBiome",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "SUSPENDED",
+      "intervention": [
+        "Other: There is no intervention in this study"
+      ],
+      "start_date": "2019-07-11",
+      "last_update_date": "2026-09-21",
+      "url": "https://clinicaltrials.gov/study/NCT04031469",
+      "collected_at": "2026-09-22T05:16:34Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-09-22T05:16:34Z"
+    },
     {
       "id": "NCT06834269",
       "event_key": "clinicaltrials:NCT06834269:2026-09-18",
