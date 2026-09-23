@@ -1,12 +1,184 @@
 {
-  "updated_at": "2026-09-22T05:16:34Z",
+  "updated_at": "2026-09-23T05:02:12Z",
   "new_keys": [
-    "clinicaltrials:NCT06881979:2026-09-21",
-    "clinicaltrials:NCT05744310:2026-09-21",
-    "clinicaltrials:NCT05095571:2026-09-21",
-    "clinicaltrials:NCT04031469:2026-09-21"
+    "clinicaltrials:NCT07322003:2026-09-22",
+    "clinicaltrials:NCT01925196:2026-09-22",
+    "clinicaltrials:NCT07834450:2026-09-22",
+    "clinicaltrials:NCT07833618:2026-09-22",
+    "clinicaltrials:NCT07082192:2026-09-22",
+    "clinicaltrials:NCT07571200:2026-09-22",
+    "clinicaltrials:NCT07571174:2026-09-22"
   ],
   "items": [
+    {
+      "id": "NCT07834450",
+      "event_key": "clinicaltrials:NCT07834450:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07834450",
+      "title": "Efficacy and Safety of Cyclophosphamide in Amyotrophic Lateral Sclerosis",
+      "sponsor": "Huashan Hospital",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Cyclophosphamide",
+        "Drug: Riluzole"
+      ],
+      "start_date": "2026-10-01",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07834450",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT07833618",
+      "event_key": "clinicaltrials:NCT07833618:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07833618",
+      "title": "A Phase II Study of ALT001 in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Darwin Origin (Hubei) Biopharmaceutical Co., Ltd.",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: ALT001 1.0 μg/kg",
+        "Drug: ALT001 2.0 μg/kg",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-09-01",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07833618",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT07571200",
+      "event_key": "clinicaltrials:NCT07571200:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07571200",
+      "title": "A Master Protocol (OLMP): A Study of LY4256984 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: LY4256984"
+      ],
+      "start_date": "2026-05-14",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07571200",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT07571174",
+      "event_key": "clinicaltrials:NCT07571174:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07571174",
+      "title": "A Substudy of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: LY4256984"
+      ],
+      "start_date": "2026-05-14",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07571174",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT07322003",
+      "event_key": "clinicaltrials:NCT07322003:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07322003",
+      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+      "sponsor": "Prilenia",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Pridopidine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-02-01",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07322003",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT07082192",
+      "event_key": "clinicaltrials:NCT07082192:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07082192",
+      "title": "A Study to Evaluate the Efficacy and Safety of Different Doses of CB03-154 in Adult Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Shanghai Zhimeng Biopharma, Inc.",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Test drug CB03-154 5mg group",
+        "Drug: Test drug CB03-154 10mg group",
+        "Drug: Test drug CB03-154 15mg group",
+        "Drug: Placebo Group"
+      ],
+      "start_date": "2025-10-30",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07082192",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
+    {
+      "id": "NCT01925196",
+      "event_key": "clinicaltrials:NCT01925196:2026-09-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT01925196",
+      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2013-09-30",
+      "last_update_date": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT01925196",
+      "collected_at": "2026-09-23T05:02:12Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-09-23T05:02:12Z"
+    },
     {
       "id": "NCT06881979",
       "event_key": "clinicaltrials:NCT06881979:2026-09-21",
@@ -29,7 +201,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06881979",
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-22T05:16:34Z"
+      "last_seen_at": "2026-09-23T05:02:12Z"
     },
     {
       "id": "NCT05744310",
@@ -53,7 +225,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05744310",
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-22T05:16:34Z"
+      "last_seen_at": "2026-09-23T05:02:12Z"
     },
     {
       "id": "NCT05095571",
@@ -76,7 +248,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05095571",
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-22T05:16:34Z"
+      "last_seen_at": "2026-09-23T05:02:12Z"
     },
     {
       "id": "NCT04031469",
@@ -99,7 +271,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04031469",
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-22T05:16:34Z"
+      "last_seen_at": "2026-09-23T05:02:12Z"
     },
     {
       "id": "NCT06834269",
@@ -245,29 +417,6 @@
       "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
-      "id": "NCT01925196",
-      "event_key": "clinicaltrials:NCT01925196:2026-09-16",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT01925196",
-      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "COMPLETED",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2013-09-30",
-      "last_update_date": "2026-09-16",
-      "url": "https://clinicaltrials.gov/study/NCT01925196",
-      "collected_at": "2026-09-17T05:09:43Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-19T04:54:17Z"
-    },
-    {
       "id": "NCT07819890",
       "event_key": "clinicaltrials:NCT07819890:2026-09-15",
       "source_id": "clinicaltrials_gov",
@@ -286,30 +435,6 @@
       "start_date": "2026-10-01",
       "last_update_date": "2026-09-15",
       "url": "https://clinicaltrials.gov/study/NCT07819890",
-      "collected_at": "2026-09-15T23:48:32Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-18T20:23:42Z"
-    },
-    {
-      "id": "NCT07322003",
-      "event_key": "clinicaltrials:NCT07322003:2026-09-15",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07322003",
-      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
-      "sponsor": "Prilenia",
-      "phase": [
-        "PHASE3"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: Pridopidine",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-02-01",
-      "last_update_date": "2026-09-15",
-      "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-09-18T20:23:42Z"
