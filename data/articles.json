@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-09-23T05:02:12Z",
+  "updated_at": "2026-09-24T05:13:16Z",
   "new_keys": [
-    "pubmed:42773049",
-    "pubmed:42771575",
-    "pubmed:42771573",
-    "pubmed:42771220",
-    "pubmed:42770300",
-    "pubmed:42769571",
-    "pubmed:42768102",
-    "pubmed:42769968",
-    "pubmed:42770452",
-    "pubmed:42770444",
-    "pubmed:42770359",
-    "pubmed:42770357",
-    "pubmed:42769109",
-    "pubmed:42771346",
-    "pubmed:42772840"
+    "pubmed:42778113",
+    "pubmed:42775169"
   ],
   "items": [
     {
@@ -123,6 +110,42 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42778113",
+      "event_key": "pubmed:42778113",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Revisiting Culture Conditions of Satellite Cells In Vitro for Skeletal Muscle Regeneration and Therapeutic Applications.",
+      "authors": [
+        "Pooja Kumari",
+        "Aayushi Raval",
+        "Pranav Rana",
+        "Rishabh Rai Kaushik",
+        "Ajay Kumar Sahi",
+        "Shravanya Gundu",
+        "Sanjeev Kumar Mahto"
+      ],
+      "journal": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
+      "publication_date": "2026-09-23",
+      "pmid": "42778113",
+      "doi": "10.1016/j.aanat.2026.153381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778113/",
+      "abstract": "Skeletal muscle fibers are largely post-mitotic in adulthood yet retain robust regenerative capacity through satellite cells (SCs), quiescent muscle stem cells located beneath the basal lamina that are activated after injury, proliferate as myoblasts, differentiate, fuse into myotubes, and mature via tightly regulated cues. Given the burden of muscle-wasting and neuromuscular diseases, including Duchenne muscular dystrophy (DMD) (driven by dystrophin defects and impaired SC function), amyotrophic lateral sclerosis (ALS) (with progressive atrophy and evidence of SC perturbation), and myasthenia gravis (autoimmune neuromuscular junction failure), physiologically relevant and scalable in vitro SC systems are essential for mechanistic studies and future cell-therapy development. This review revisits culture conditions and workflows used to isolate, enrich, and differentiate rodent and human skeletal muscle progenitors, integrating key regenerative signalling (hepatocyte growth factor (HGF)/mesenchymal-epithelial transition factor (c-Met), nitric oxide (NO), fibroblast growth factor (FGF)-mitogen-activated protein kinase (MAPK) modulated by Sprouty-1, insulin-like growth factor (IGF)-driven Akt/mechanistic target of rapamycin (mTOR) hypertrophy, inflammatory cytokines including interleukin-6 (IL-6) signal transducer and activator of transcription 3 (STAT3)-cyclin D1, and differentiation switches involving Notch/Wnt, glycogen synthase kinase 3 (GSK3), and mitogen-activated protein kinase (p38α MAPK)) with practical culture variables. Two principal isolation strategies are compared: explant outgrowth, which preserves tissue architecture and injury-mimicking activation but can be slow and yield-limited without matrix support, and enzymatic dissociation (e.g., collagenase, dispase, pronase, protease XIV), which accelerates release from the basal lamina and supports high-throughput needs but requires optimization to minimize trauma and fibroblast contamination. Across reported protocols, matrix choice (notably Matrigel or poly-L-lysine/Matrigel), differential pre-plating, and medium composition (serum levels, chick embryo extract (CEE), basic fibroblast growth factor (bFGF)) strongly influence SC quiescence, migration, survival, and myotube formation, with high purities achievable (e.g., ~97.6% Pax7+ after explant plus differential adherence; ~90% α7-integrin+/SCA-1-/CD31-/CD45-; up to ~98% after preplating; and ~95% in several optimized workflows) and differentiation occurring within ~1-7 days depending on conditions. The isolation of human SCs is constrained by the limited availability of tissue, inconsistent biopsy quality, and the absence of reliable markers to differentiate SCs from other mononuclear cells. Induced pluripotent stem cell (iPSC)-derived muscle organoids present a patient-specific alternative; however, they predominantly produce fetal-like PAX7+ progenitors instead of mature adult SCs. Overall, explant-based systems best retain physiological fidelity for niche and matrix studies, whereas enzymatic and hybrid approaches maximize efficiency and yield, underscoring that culture strategy should be selected based on the experimental objective rather than presumed universal superiority.",
+      "mesh_terms": [],
+      "keywords": [
+        "Differentiation",
+        "Muscle progenitor cells",
+        "Muscle stem cells",
+        "Regeneration",
+        "Satellite cells",
+        "Skeletal muscle",
+        "proliferation"
+      ],
+      "collected_at": "2026-09-24T05:13:16Z",
+      "first_seen_at": "2026-09-24T05:13:16Z",
+      "last_seen_at": "2026-09-24T05:13:16Z"
+    },
+    {
       "id": "42773049",
       "event_key": "pubmed:42773049",
       "source_id": "pubmed",
@@ -154,7 +177,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42771575",
@@ -180,7 +203,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42771573",
@@ -220,7 +243,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42771220",
@@ -265,7 +288,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42770300",
@@ -330,7 +353,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42763209",
@@ -400,7 +423,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42768102",
@@ -438,7 +461,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42764383",
@@ -480,7 +503,7 @@
       ],
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42769968",
@@ -512,7 +535,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42767135",
@@ -544,7 +567,7 @@
       ],
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42763025",
@@ -686,7 +709,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42770444",
@@ -722,7 +745,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42760704",
@@ -990,7 +1013,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42770357",
@@ -1028,7 +1051,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42756552",
@@ -1201,7 +1224,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42749468",
@@ -2306,6 +2329,37 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42775169",
+      "event_key": "pubmed:42775169",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "CRISPR-based functional genomic screening in neurodegeneration: mechanistic insights into AD, PD, and ALS.",
+      "authors": [
+        "Feng Xue",
+        "Lili Bao",
+        "Anda He",
+        "Sarentuya Liang"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2026-09-08",
+      "pmid": "42775169",
+      "doi": "10.3389/fnagi.2026.1831375",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775169/",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), are characterized by pronounced clinical and molecular heterogeneity, as well as highly interconnected pathogenic pathways. This biological complexity has long hindered efforts to systematically define disease mechanisms and to develop effective, targeted therapies. In recent years, clustered regularly interspaced short palindromic repeats (CRISPR) based functional genomic screening technologies have emerged as powerful tools for large-scale genetic perturbation in cellular, organoid, and in vivo models, enabling unbiased interrogation of disease relevant genetic networks and the identification of potential therapeutic targets. In this review, we summarize CRISPR knockout, CRISPR interference, CRISPR activation, and in vivo screening studies in AD, PD, and ALS, with emphasis on pathological phenotypes, experimental models, cell types, validation strategies, and evidence strength. In AD, these screens have identified regulators of amyloid-β (Aβ) production, Tau homeostasis and propagation, microglial states, neuronal aging, and stress responses. In PD, they have provided insights into α-synuclein (α-syn) homeostasis, mitochondrial quality control, lysosomal trafficking, and transplanted dopaminergic neuron survival. In ALS, they have identified modifiers of C9orf72-associated toxicity, repeat-associated non-AUG translation, TAR DNA-binding protein 43 (TDP-43) inclusion formation, and ATXN2 homeostasis. Cross-disease comparison indicates recurring involvement of proteostasis, endolysosomal function, mitochondrial regulation, and cellular stress responses, although individual screening hits show limited overlap and remain strongly influenced by experimental context. Overall, CRISPR-based screening provides a useful framework for identifying candidate disease modifiers, but further validation across complementary human-relevant and in vivo models is required before therapeutic translation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "CRISPR-based screening",
+        "Parkinson's disease",
+        "amyotrophic lateral sclerosis",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-09-24T05:13:16Z",
+      "first_seen_at": "2026-09-24T05:13:16Z",
+      "last_seen_at": "2026-09-24T05:13:16Z"
+    },
+    {
       "id": "42721706",
       "event_key": "pubmed:42721706",
       "source_id": "pubmed",
@@ -2895,7 +2949,7 @@
       ],
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42739287",
@@ -3296,7 +3350,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42765595",
@@ -3348,7 +3402,7 @@
       ],
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42760861",
@@ -4239,7 +4293,7 @@
       ],
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42746497",
@@ -4360,7 +4414,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-23T05:02:11Z"
+      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "42724165",
