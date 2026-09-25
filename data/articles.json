@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-09-24T05:13:16Z",
+  "updated_at": "2026-09-25T05:14:48Z",
   "new_keys": [
-    "pubmed:42778113",
-    "pubmed:42775169"
+    "pubmed:42785576",
+    "pubmed:42782389",
+    "pubmed:42778785",
+    "pubmed:42782811",
+    "pubmed:42781313",
+    "pubmed:42780048",
+    "pubmed:42780028",
+    "pubmed:42779765",
+    "pubmed:42782801",
+    "pubmed:42779622",
+    "pubmed:42783617",
+    "pubmed:42779744",
+    "pubmed:42782733",
+    "pubmed:42780196",
+    "pubmed:42778939",
+    "pubmed:42783767",
+    "pubmed:42779169",
+    "pubmed:42784708",
+    "pubmed:42782554"
   ],
   "items": [
     {
@@ -110,6 +127,172 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42785576",
+      "event_key": "pubmed:42785576",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "A Qualitative Study of Team-Based Serious Illness Communication in ALS.",
+      "authors": [
+        "Jaclyn Shameklis",
+        "Alexis Drutchas",
+        "Tamra Keeney",
+        "Michaela Rowland",
+        "Lindsay Dow",
+        "Darlene Sawicki",
+        "Doreen Ho",
+        "Joanna Paladino",
+        "Elizabeth Lindenberger"
+      ],
+      "journal": "Journal of pain and symptom management",
+      "publication_date": "2026-09-24",
+      "pmid": "42785576",
+      "doi": "10.1016/j.jpainsymman.2026.09.025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785576/",
+      "abstract": "CONTEXT: Amyotrophic lateral sclerosis (ALS) is a terminal neurodegenerative disease with an illness trajectory requiring repeated, high-stakes decisions and ongoing serious illness communication (SIC). While multidisciplinary team care is best practice in ALS, how interprofessional teams operationalize SIC, and how team culture shapes this work, remain poorly understood.\n\nOBJECTIVE: To examine how team culture influences SIC delivery within an interprofessional ALS clinic.\n\nMETHODS: We conducted a qualitative study using semi-structured interviews and a focus group with interprofessional clinicians from a multidisciplinary ALS clinic at an academic medical center. Data explored clinicians' perceptions of interprofessional roles, team culture, facilitators, and barriers related to SIC. Transcripts were analyzed using thematic analysis with a combined deductive-inductive approach.\n\nRESULTS: Analysis identified interpersonal facilitators, systems-level facilitators, and structural barriers shaping team-based SIC. Clinicians described shared responsibility for SIC, with conversations unfolding cumulatively over time across roles and clinical encounters. Interpersonal facilitators included mutual respect, psychological safety, role flexibility, and a shared commitment to reducing patient harm. Systems-level facilitators included frequent multimodal communication, structured documentation, leadership support, and use of adverse outcomes as opportunities for practice improvement. Structural barriers included time constraints, care transitions, regulatory limitations, and variability in comfort with SIC language.\n\nCONCLUSIONS: In this multidisciplinary ALS clinic, strong team culture enabled SIC to function as a longitudinal, interprofessional process rather than a single clinician-led event. Findings highlight the importance of psychological safety, teamwork, and supportive systems in delivering high-quality SIC and inform future clinical practice, training, and research.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "Serious Illness Communication",
+        "interprofessional teamwork",
+        "neurodegenerative disease",
+        "team culture"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42784708",
+      "event_key": "pubmed:42784708",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The Intertwined Threat: How Diabetes Impacts Neurological Disorders - A Review Article.",
+      "authors": [
+        "Prajjwal Rajput",
+        "Manju Jakhar",
+        "Ashish Kashyap",
+        "Nidhi Rani",
+        "Thakur Gurjeet Singh"
+      ],
+      "journal": "Acta neurologica Taiwanica",
+      "publication_date": "2026-09-24",
+      "pmid": "42784708",
+      "doi": "10.4103/ant.ANT-D-24-00046",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784708/",
+      "abstract": "The chronic illness known as diabetes mellitus (DM) is typified by persistently high blood glucose levels or hyperglycemia. Both type 1 and type 2 diabetes, the latter of which is frequently referred to as \"adult-onset diabetes\" or \"insulin-dependent diabetes,\" are progressing conditions with complex and poorly understood etiologies. Often, patients show positive pancreatic beta-cell antibodies, signifying an autoimmune factor. The long-term complications of uncontrolled diabetes are numerous, not just physically based and encompassing everything from kidney failure to foot ulcers and damage to the cardiovascular system, but also with serious neurological disorders, including stroke, amyotrophic lateral sclerosis, Parkinson's disease, Alzheimer's disease (AD), and epilepsy. The interplay between neurological disorders and diabetes is complex, and the association of these pathological states in their general description proposes common events, namely oxidative stress, mitochondrial damage, amyloid protein aggregation, glucagon-like peptide-1 secretion skewing, and inflammation. Learning about these interconnections will help us to develop effective strategies for managing both diabetes and its neurological complications.",
+      "mesh_terms": [
+        "Humans",
+        "Nervous System Diseases",
+        "Diabetes Complications",
+        "Diabetes Mellitus",
+        "Oxidative Stress"
+      ],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Parkinson’s disease",
+        "diabetes mellitus",
+        "epilepsy",
+        "gestational diabetes",
+        "neurological disorders"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42782389",
+      "event_key": "pubmed:42782389",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Dysregulation of mitochondrial bioenergetics, RNA processing, and cellular stress responses in FUS-ALS: a multi-dataset transcriptomic perspective.",
+      "authors": [
+        "Francisca Walden",
+        "Yasna Reihani",
+        "Austin Peters",
+        "Masood Sepehrimanesh"
+      ],
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "publication_date": "2026-09-24",
+      "pmid": "42782389",
+      "doi": "10.1007/s10072-026-09412-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782389/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron (MN) degeneration. Mutations in the FUS gene, particularly the aggressive P525L variant, disrupt nuclear localization of the FUS RNA-binding protein, resulting in cytoplasmic accumulation, altered RNA metabolism, and toxic aggregation. Astrocytes also contribute to disease progression through non-cell-autonomous mechanisms.\n\nOBJECTIVE: To identify shared and cell-type-specific molecular mechanisms underlying FUS-associated ALS through integrated transcriptomic analysis of human induced pluripotent stem cell (hiPSC)-derived motor neurons and astrocytes.\n\nMETHODS: Five publicly available RNA-sequencing datasets from hiPSC-derived motor neurons and astrocytes carrying FUS mutations were analyzed. Differential gene expression and Gene Ontology enrichment analyses were performed to identify dysregulated genes and pathways.\n\nRESULTS: Both cell types showed convergent dysregulation of mitochondrial/bioenergetic pathways (oxidative phosphorylation, ATP metabolism, translation, membrane potential). Pathway analysis across motor neuron datasets identified largely MN-specific enrichment in cell-cycle regulation, intracellular trafficking, and stimulus response, while only four pathways were shared with astrocytes, most notably NADH dehydrogenase complex assembly, enriched across all datasets and both cell types, marking mitochondrial complex I as the strongest convergent signature. RNA processing/splicing pathways were also enriched, consistent with FUS function. Shared DEGs included upregulated COMT, TXNRD2, and PCDHGB4, and downregulated PCDH17 and C11orf87, implicating neurotransmitter metabolism, antioxidant defenses, and adhesion. Stress pathways (oxidative stress, autophagy, heat-shock, ER stress/UPR) were broadly altered, with UPR genes mainly upregulated and inflammatory genes downregulated.\n\nCONCLUSION: FUS-ALS involves shared mitochondrial complex I and stress-response disturbances layered onto MN-intrinsic cell-cycle and trafficking dysregulation, reflecting convergent and cell-type-specific mechanisms.",
+      "mesh_terms": [
+        "Humans",
+        "RNA-Binding Protein FUS",
+        "Astrocytes",
+        "Mitochondria",
+        "Amyotrophic Lateral Sclerosis",
+        "Motor Neurons",
+        "Transcriptome",
+        "Energy Metabolism",
+        "Induced Pluripotent Stem Cells"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Astrocytes",
+        "ER stress/UPR",
+        "FUS",
+        "Motor neurons",
+        "iPSC"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42778785",
+      "event_key": "pubmed:42778785",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Natural history of 441 cases of bulbar onset motor neuron disease (MND) in China: a single-center retrospective study.",
+      "authors": [
+        "Jianfeng Ding",
+        "Nan Hu",
+        "Huihong Tian",
+        "Yiying Wang",
+        "Dongchao Shen",
+        "Xunzhe Yang",
+        "Jingwen Niu",
+        "Qing Liu",
+        "Liying Cui",
+        "Mingsheng Liu"
+      ],
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "publication_date": "2026-09-24",
+      "pmid": "42778785",
+      "doi": "10.1007/s10072-026-09410-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778785/",
+      "abstract": "OBJECTIVE: To describe the natural history and identify prognostic factors of bulbar onset motor neuron disease (MND).\n\nMETHODS: Bulbar onset MND patients with regular follow-up between January 2014 and December 2023 were included. Clinical features at initial evaluation, duration from onset to next region and time to death or tracheotomy were retrospectively collected. Survival analysis was performed by Kaplan-Meier method and Cox regression model.\n\nRESULTS: A total of 441 patients were included. Disease progression occurred most frequently from bulbar region to upper limbs (77.1%), followed by lower limbs (16.4%) and respiratory muscles (6.5%), with a median time interval of 6.0 (1.0, 48.0) months. 215 patients died or underwent tracheotomy. The median duration to death or tracheotomy was 43.0 (95% CI 39.1-46.9) months, the 1-year, 2-year, 3-year, 4-year and 5-year survival rates (95%CI) were 96.6% (94.9-98.3), 79.9% (76.0-83.9%), 59.1% (54.0-64.7), 42.2% (36.6-48.6) and 29.9% (24.3-36.7), respectively. Younger onset age, slower ALSFRS-R decreasing rate, longer diagnostic delay, longer duration to next region and pure upper motor neuron involvement at initial evaluation were associated with favorable prognosis. Upper limbs involvement secondly to bulbar region was independently associated with better outcomes compared with respiratory muscles spreading.\n\nCONCLUSIONS: The natural history of bulbar-onset ALS exhibits substantial heterogeneity. Patients with only upper motor neuron involvement in bulbar region at onset and subsequent upper limbs involvement as the second region tend to have a favorable prognosis.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Disease Progression",
+        "Middle Aged",
+        "Motor Neuron Disease",
+        "China",
+        "Aged",
+        "Prognosis",
+        "Adult",
+        "Age of Onset"
+      ],
+      "keywords": [
+        "Bulbar palsy",
+        "Motor neuron disease",
+        "Natural history",
+        "Survival analysis"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42778113",
       "event_key": "pubmed:42778113",
       "source_id": "pubmed",
@@ -143,7 +326,7 @@
       ],
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42773049",
@@ -177,7 +360,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42771575",
@@ -203,7 +386,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42771573",
@@ -243,7 +426,7 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42771220",
@@ -288,7 +471,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42770300",
@@ -353,7 +536,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42763209",
@@ -423,7 +606,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42768102",
@@ -461,7 +644,190 @@
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42782811",
+      "event_key": "pubmed:42782811",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "ERBB4 and Neurodegeneration: Association Between Hypothalamic-Pituitary-Adrenal (HPA) Axis: Associated Neurodegenerative Pathogenesis.",
+      "authors": [
+        "Eva Bagyinszky",
+        "Seong Soo A An"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-09-20",
+      "pmid": "42782811",
+      "doi": "10.3390/cells15181710",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782811/",
+      "abstract": "The hypothalamic-pituitary-adrenal (HPA) axis is the central neuroendocrine system that controls physiological stress responses and maintains homeostasis through the coordinated interactions among the hypothalamus, pituitary gland, and adrenal cortex. Dysregulation of the HPA axis is associated with stress-related psychiatric conditions and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Chronic stress creates a detrimental environment in the brain, inducing structural changes and accelerating brain aging and the loss of neurons. Receptor tyrosine-protein kinase ERBB4 (ERBB4), a member of the epidermal growth factor receptor (EGFR) family, is activated primarily by neuregulin ligands and plays an essential role in neuronal development, synaptic plasticity, and cell survival. Emerging evidence suggests that ERBB4 signaling influences neuroendocrine regulation and stress responsivity. While further studies are needed to provide direct mechanistic evidence linking ERBB4-mediated HPA axis dysregulation to neurodegenerative cell death, this manuscript critically evaluated the preclinical models and proposes a possible feed-forward framework wherein ERBB4 served as a permissive homeostatic modulator at the intersection of stress endocrinology and neuroinflammation. Furthermore, the impact of ERBB4 dysregulation and its mutations on neurodegenerative diseases has been presented, focusing on potential mechanisms of oxidative stress, synaptic dysfunction, and neuronal apoptosis. Taken together, ERBB4 represents an important molecular interface between stress signaling and neurodegenerative pathology. Understanding the regulation of ERBB4 in the HPA axis has provided new insights into the mechanisms underlying neurodegenerative diseases and could identify novel therapeutic targets for stress-associated neurological disorders.",
+      "mesh_terms": [
+        "Humans",
+        "Hypothalamo-Hypophyseal System",
+        "Pituitary-Adrenal System",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Receptor, ErbB-4",
+        "Signal Transduction"
+      ],
+      "keywords": [
+        "ERBB4",
+        "HPA axis",
+        "mutation",
+        "neureulin-1",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42781313",
+      "event_key": "pubmed:42781313",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Protecting Against Cytoplasmic Protein Aggregates With Cytoplasmic PML Variants.",
+      "authors": [
+        "Jia-Xin Zhu",
+        "Yuchen Xia",
+        "Jiaqi Liu",
+        "Li Cao",
+        "Steven X Hou",
+        "Yang Wang"
+      ],
+      "journal": "Bio-protocol",
+      "publication_date": "2026-09-20",
+      "pmid": "42781313",
+      "doi": "10.21769/BioProtoc.5815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781313/",
+      "abstract": "Cytoplasmic protein aggregation is a defining feature of multiple neurodegenerative diseases, including amyotrophic lateral sclerosis, frontotemporal dementia, Huntington's disease, and certain forms of motor neuron disease. Recent evidence indicates that promyelocytic leukemia protein (PML) and engineered PML-derived variants can act as versatile aggregate-remodeling factors. In particular, cytoplasmically redirected PML variants recognize pathological cytoplasmic inclusions and promote their clearance. Here, we describe a protocol to generate and validate two engineered cytoplasmic PML variants: full-length mPML, which is redirected to the cytoplasm by disruption of its nuclear localization sequence, and the truncated mPMLΔRBC variant, which lacks the RING, B-box, and coiled-coil domain but retains aggregate-reducing activity. The protocol integrates fluorescence-based imaging, bimolecular fluorescence complementation, detergent-soluble/insoluble fractionation, and validation in primary rat cortical neurons. This workflow provides a practical platform for assessing cytoplasmic aggregate burden and for comparing the aggregate-remodeling activities of PML-derived constructs. It can also be adapted to other disease-associated aggregation-prone proteins, including TDP-43, SOD1, FUS, tau, polyGA, and polyQ-expanded proteins. Key features • Describes the generation and validation of two complementary cytoplasmic PML variants: full-length mPML and truncated mPMLΔRBC. • Provides fluorescence-based and BiFC-based assays to visualize pathological cytoplasmic protein assemblies. • Includes detergent-soluble/insoluble fractionation for biochemical assessment of aggregate burden. • Establishes a primary rat cortical neuron workflow to evaluate the effect of mPML on TDP-43-CTF aggregates. • Can be adapted to other aggregation-prone proteins and additional PML-derived aggregate-remodeling candidates.",
+      "mesh_terms": [],
+      "keywords": [
+        "Aggregate clearance",
+        "Cytoplasmic protein aggregates",
+        "Neurodegeneration",
+        "PML",
+        "SOD1",
+        "TDP-43"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42780048",
+      "event_key": "pubmed:42780048",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Loss of TDP-43 function drives cryptic circular RNAs in neurodegenerative diseases.",
+      "authors": [
+        "Chengzhang Zhu",
+        "Zhiyan Zhao",
+        "Bojun Song",
+        "Yan-Ming Chen",
+        "Yu Xiao",
+        "Zhe Zhang",
+        "Yingzhi Ye",
+        "Niannian Xu",
+        "Ruijia Zhang",
+        "Yongxin Huang",
+        "Juan C Troncoso",
+        "Chuan He",
+        "Shuying Sun"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-20",
+      "pmid": "42780048",
+      "doi": "10.64898/2026.09.17.752169",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780048/",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) is a key pathological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) and a critical regulator of RNA splicing. While loss of TDP-43 induces aberrant splicing in linear transcripts, its impact on circular RNA (circRNA) biogenesis remains unexplored. Here, we show that TDP-43 depletion in human neurons induces widespread circRNA changes, especially upregulation of a distinct class of cryptic circRNAs that arise specifically upon loss of TDP-43. Some of these cryptic circRNAs incorporate cryptic exons derived from intronic sequences. Notably, these cryptic circRNAs exhibit greater stability than their corresponding linear RNA isoforms and accumulate progressively in neurons. Moreover, cryptic circRNAs are elevated in postmortem brain tissues from ALS, FTD and Alzheimer's disease (AD) patients. These findings reveal a previously unrecognized role for TDP-43 in repressing cryptic circRNA formation and establish these circRNAs as stable molecular signatures of TDP-43 dysfunction.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42780028",
+      "event_key": "pubmed:42780028",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk.",
+      "authors": [
+        "Tianying Zhao",
+        "Mariah Marie Hoffman",
+        "Gang Wu",
+        "Veronique Valerie Belzil"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "publication_date": "2026-09-20",
+      "pmid": "42780028",
+      "doi": "10.64898/2026.09.17.26363319",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780028/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder whose genetic architecture and underlying molecular mechanisms remain incompletely understood, particularly in sporadic disease. To investigate whether genetically regulated DNA methylation may help interpret ALS susceptibility, we conducted a methylome-wide association study (MWAS) of genetically predicted blood DNA methylation using the PrediXcan framework. CpG-specific prediction models developed in the ARIES and Understanding Society cohorts were applied to ALS genome-wide association study (GWAS) summary statistics from 27,205 cases and 110,881 controls of European ancestry. In total, genetically predicted methylation at 192,378 unique CpG sites was evaluated using S-PrediXcan. At a nominal threshold of p < 0.05, 3,741 CpGs were associated with ALS risk using ARIES models and 13,127 using Understanding Society models. After Bonferroni correction, 25 CpGs across eight genomic regions remained significantly associated with ALS risk. These included signals near established ALS and ALS-frontotemporal dementia genes and loci, including C9orf72, TBK1, SCFD1, and MOB3B, as well as three CpGs mapping to WHAMM at 15q25.2, a region not previously implicated in ALS by GWAS. Predicted methylation was positively associated with ALS risk at 18 CpGs and inversely associated at seven. Complementary transcriptome-wide association analyses using GTEx v8 whole-blood gene-expression prediction models identified 11 genes associated with ALS risk after Bonferroni correction, including convergent methylation and expression signals at C9orf72. These findings add a regulatory dimension to ALS genetic studies by prioritizing CpG sites, genes, and genomic regions through which inherited variation may influence disease susceptibility. PrediXcan-based MWAS therefore provides a complementary strategy for refining genetic association signals into biologically testable candidates and identifying regulatory mechanisms for further functional investigation.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42779765",
+      "event_key": "pubmed:42779765",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TDP-43 dysfunction induces cryptic circular RNAs in ALS/FTD.",
+      "authors": [
+        "Dario Dattilo",
+        "Flaminia Pellegrini",
+        "Simone Barattucci",
+        "Anna-Leigh Brown",
+        "Jose Norberto S Vargas",
+        "Ariana Gatt",
+        "Ryan Morrie",
+        "Georgiana Miller",
+        "Iris Bachmutsky",
+        "Zachary McEachin",
+        "Mingee Chung",
+        "Matthew J Keuss",
+        "Eugeni Ryadnov",
+        "Matteo Zanovello",
+        "Puja R Mehta",
+        "Francesca Mattedi",
+        "Michela Barioglio",
+        "Shubha Kamath",
+        "Sarah E Kargbo-Hill",
+        "Joanna Palade",
+        "Isabelle Kowal",
+        "Jonathan Glass",
+        "Marla Gearing",
+        "Edward B Lee",
+        "Melissa E Murray",
+        "Dennis W Dickson",
+        "NYGC ALS Consortium",
+        "Eric M Green",
+        "Nicholas T Seyfried",
+        "Sanjay Chandriani",
+        "Michael Ward",
+        "Pietro Fratta"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-20",
+      "pmid": "42779765",
+      "doi": "10.64898/2026.09.17.752342",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779765/",
+      "abstract": "Nuclear depletion of TDP-43 is a defining pathological feature of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), leading to widespread RNA misprocessing, including the formation of cryptic exons. Here, we identified TDP-43 as a regulator of circular RNA (circRNA) biogenesis in multiple human neuronal cell models, and showed that its dysfunction induces the de novo formation of cryptic circular RNAs (c-circRNAs). Analysis of post-mortem brain transcriptomic data identified a subset of c-circRNAs which are specific for ALS and FTD cases with TDP-43 pathology. Further, we developed highly sensitive rolling-circle amplification-based circRNA detection assays that allow to distinguish TDP-43 pathology in human CNS tissues with a 0.99 AUC. We found that c-circRNAs can co-occur with cryptic linear splicing events, uncovering complex RNA misprocessing hotspots that induce loss of disease-relevant proteins, including RPTOR and EHMT1. Notably, one of these c-circRNAs originates from UNC13A, a gene whose cryptic exon has previously been linked to one of the major GWAS hits in ALS/FTD and that is being pursued as a therapeutic target through splice-switching ASOs. We showed that c-circUNC13A is co-regulated with the linear cryptic transcript and suppression of UNC13A cryptic exon results in c-circUNC13A reduction in cultured neurons and in vivo, highlighting its potential as a target engagement biomarker for emerging UNC13A-directed therapies. Overall, this work identifies a novel molecular mechanism for TDP-43 dysfunction, opening novel avenues for understanding disease pathogenesis and developing much needed pathology biomarkers.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42764383",
@@ -506,6 +872,48 @@
       "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
+      "id": "42782801",
+      "event_key": "pubmed:42782801",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "AUG-Dependent Translation of Antisense Repeat Transcripts Contributes to Dipeptide Repeat Protein Production in C9ORF72 Expansion Carriers.",
+      "authors": [
+        "Sandra Almeida",
+        "Yuanzheng Gu",
+        "Mark W Kankel"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-09-19",
+      "pmid": "42782801",
+      "doi": "10.3390/cells15181701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782801/",
+      "abstract": "A hexanucleotide repeat expansion in C9ORF72 is the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Bidirectional transcription of the repeat expansion generates sense and antisense RNAs that are translated into dipeptide repeat (DPR) proteins, but the mechanisms of translation initiation remain incompletely understood. Here, we used CRISPR-Cas9 genome editing and steric-blocking antisense oligonucleotides (ASOs) to investigate the role of AUG codons within the antisense repeat RNA. Deletion of an AUG-containing region upstream of the antisense repeats markedly reduced poly(GP) production without affecting antisense RNA levels, demonstrating that this sequence is required for efficient poly(GP) synthesis. We further found that unspliced sense transcripts containing the repeat expansion likely serve as templates for poly(GA) and poly(GR) production in motor neurons. Finally, ASOs targeting the antisense AUG-containing region reduced poly(PR) and poly(GP) levels without altering repeat RNA abundance, supporting a role for AUG-dependent translation of the antisense repeat RNA. These findings provide new insights into the mechanisms of DPR production and suggest that translation-blocking ASOs may represent a therapeutic strategy for C9ORF72-associated ALS/FTD.",
+      "mesh_terms": [
+        "C9orf72 Protein",
+        "Humans",
+        "Dipeptides",
+        "Protein Biosynthesis",
+        "DNA Repeat Expansion",
+        "Amyotrophic Lateral Sclerosis",
+        "RNA, Antisense",
+        "Frontotemporal Dementia",
+        "Oligonucleotides, Antisense",
+        "Motor Neurons"
+      ],
+      "keywords": [
+        "ALS",
+        "ASO",
+        "FTD",
+        "dipeptide repeat protein",
+        "iPSC-derived neurons",
+        "repeat RNA translation"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42769968",
       "event_key": "pubmed:42769968",
       "source_id": "pubmed",
@@ -535,7 +943,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42767135",
@@ -677,6 +1085,37 @@
       "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
+      "id": "42779622",
+      "event_key": "pubmed:42779622",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Restoring multiple TDP-43 cryptic targets, but not solely Unc13a , rescues motor neuron disease.",
+      "authors": [
+        "Aswathy Peethambaran Mallika",
+        "Meghraj Singh Baghel",
+        "Opal Sitzman",
+        "Jessica G Yu",
+        "Tianyu Cao",
+        "Shruti Renganathan",
+        "Irika R Sinha",
+        "Tatiana Melnikova",
+        "Jonathan P Ling",
+        "Philip C Wong"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-18",
+      "pmid": "42779622",
+      "doi": "10.64898/2026.09.11.751082",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779622/",
+      "abstract": "Dysfunction of TAR DNA-binding protein 43kDa (TDP-43) underlies amyotrophic lateral sclerosis (ALS), a neurodegenerative disorder with limited therapeutic options. While current therapeutic approaches are designed to individually target unique cryptic exons of TDP-43 such as UNC13A , the sufficiency of such a strategy to mitigate motor neuron disease remains unclear. Using a mouse model lacking TDP-43 in spinal motor neurons which mimics early stages of ALS, we show that the exclusion of Unc13a cryptic exon fails to mitigate motor neuron disease. In contrast, the restoration of multiple TDP-43 cryptic targets, including Unc13a , attenuated motor neuron loss, and rescued motor neuron disease. Additionally, compared to brain neurons, spinal motor neurons accumulate markedly lower amounts of Unc13a cryptic exons in mice and humans, suggesting that the contribution of this TDP-43 cryptic target to spinal motor neuron loss may be limited. Together, these results strongly support ALS therapeutic strategies designed to simultaneously restore multiple TDP-43 cryptic targets to attenuate spinal motor neuron loss.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42770452",
       "event_key": "pubmed:42770452",
       "source_id": "pubmed",
@@ -709,7 +1148,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42770444",
@@ -745,7 +1184,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42760704",
@@ -1013,7 +1452,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42770357",
@@ -1051,7 +1490,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42756552",
@@ -1194,6 +1633,41 @@
       "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
+      "id": "42783617",
+      "event_key": "pubmed:42783617",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cumulative and Interactive Effects of Heavy Metal Mixtures Across Neurodegenerative Diseases: A Comparative Review of Alzheimer, Parkinson, Amyotrophic Lateral Sclerosis and Multiple Sclerosis.",
+      "authors": [
+        "Ivona Mitu",
+        "Ioana-Cezara Caba",
+        "Irina Macovei"
+      ],
+      "journal": "Journal of xenobiotics",
+      "publication_date": "2026-09-16",
+      "pmid": "42783617",
+      "doi": "10.3390/jox16050174",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42783617/",
+      "abstract": "Heavy metals and metalloids are persistent environmental contaminants that accumulate in the central nervous system and interact with endogenous essential metals, yet most neurotoxicological research continues to treat metals as independent agents rather than as co-occurring mixtures. This review systematically compares the evidence for cumulative and interactive effects of heavy metal mixtures across four major neurodegenerative diseases-Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS)-asking which metal combinations have been directly documented for each disease, and whether these patterns are disease-specific or shared. Following a PubMed search (January 2016-June 2026), 93 unique studies were included (AD: 49; PD: 38; ALS: 19; MS: 18; 31 shared across diseases). Combined exposure to lead, cadmium, arsenic, and mercury is linked to amyloid-beta accumulation and dementia risk in AD; manganese-vanadium co-exposure produces more severe dopaminergic damage in PD than either metal alone, with manganese activating the familial PD gene LRRK2; a multi-metal mixture in ALS was associated with a three-fold higher disease risk independent of genetic susceptibility; and MS showed almost no designed mixture studies despite considerable single-metal data, with conflicting findings across cohorts. Three general mechanisms were identified: competition at shared membrane transporters (notably DMT1), sequestration by metal-binding proteins, and direct synergistic or antagonistic interactions, in which essential elements can modulate toxic-metal handling. Mixture-statistics approaches (WQS, BKMR), already established for AD and PD, should be extended to MS to close this evidence gap.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Parkinson’s disease",
+        "amyotrophic lateral sclerosis",
+        "cadmium",
+        "heavy metal mixtures",
+        "lead",
+        "manganese",
+        "mitochondrial dysfunction",
+        "multiple sclerosis",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42769109",
       "event_key": "pubmed:42769109",
       "source_id": "pubmed",
@@ -1224,7 +1698,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42749468",
@@ -1694,6 +2168,31 @@
       "last_seen_at": "2026-09-18T20:23:41Z",
       "mesh_terms": [],
       "keywords": []
+    },
+    {
+      "id": "42779744",
+      "event_key": "pubmed:42779744",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Paired RNA profiling of circulating small extracellular vesicles links survival in ALS to reactive glial - vascular programs.",
+      "authors": [
+        "Jonathan S Weerakkody",
+        "Finja Bokstaller",
+        "Uma Sthanu",
+        "David Pitt"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-14",
+      "pmid": "42779744",
+      "doi": "10.64898/2026.09.08.749915",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779744/",
+      "abstract": "Circulating RNA can capture molecular variation associated with amyotrophic lateral sclerosis (ALS) progression, but biofluid heterogeneity makes biologically organized signals difficult to recover. Here, we paired microRNA (miRNA) and messenger RNA (mRNA) profiles from glutamate-aspartate transporter (GLAST)-positive small extracellular-vesicles (sEVs) to estimate survival time and identify survival-associated programs. In 45 participants with ALS and 15 controls, biologically constrained multi-omic factor analysis identified a program in which reciprocal miRNA-mRNA states among target-supported pairs tracked survival. The miRNA arm was then evaluated in an independent total-plasma cohort of 248 participants with ALS, refining a five-miRNA panel that added prognostic information beyond functional decline and neurofilament light chain, particularly over longer survival horizons. The mRNA arm was evaluated across 586 cortical profiles from 308 donors and 527,261 nuclei from 69 donors, identifying a five-gene core associated with glial reactivity, vascular programs and reduced myelinating identity. Together, these findings establish a framework for integrating regulatory RNA layers in circulation to identify clinically relevant programs and relate them to disease-relevant cellular states.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42745993",
@@ -2302,6 +2801,117 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42782733",
+      "event_key": "pubmed:42782733",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Role of cGAS-STING-Driven PANoptosis in Neurodegenerative Diseases and Therapeutic Prospects.",
+      "authors": [
+        "Xinyi Hou",
+        "Wei Yu"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-09-09",
+      "pmid": "42782733",
+      "doi": "10.3390/cells15181631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782733/",
+      "abstract": "Neurodegenerative diseases share features of neuronal loss, neuroinflammation, and protein aggregation. The cGAS-STING pathway, a key DNA sensor, mediates neuroinflammation via TBK1-IRF3 and IKK-NF-κB axes, inducing type I interferons and pro-inflammatory cytokines. This pathway upregulates ZBP1, promotes PANoptosome assembly, and triggers PANoptosis, releasing DAMPs and creating a self-amplifying \"inflammation-death\" cycle. In Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis, pathological proteins (Aβ, Tau, α-synuclein, TDP-43) or genetic defects (e.g., C9orf72 repeats) cause mitochondrial DNA leakage or genomic instability, activating this axis. This review highlights the cGAS-STING-PANoptotic cascade as a shared pathogenic mechanism and discusses the current evidence and remaining challenges in confirming this hypothesis.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "cGAS-STING Signaling Pathway",
+        "Nucleotidyltransferases",
+        "Cyclic Guanosine Monophosphate-Adenosine Monophosphate Synthase",
+        "Animals",
+        "STING Protein",
+        "Membrane Proteins",
+        "Signal Transduction"
+      ],
+      "keywords": [
+        "PANoptosis",
+        "cGAS-STING",
+        "cell death",
+        "neurodegenerative diseases",
+        "neuroinflammation"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42780196",
+      "event_key": "pubmed:42780196",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Case Report: Autologous bone marrow mononuclear cell transplantation improved motor function in a patient with amyotrophic lateral sclerosis.",
+      "authors": [
+        "Masayoshi Okuda",
+        "Yuka Okinaka",
+        "Orie Saino",
+        "Akihiko Taguchi"
+      ],
+      "journal": "Frontiers in medicine",
+      "publication_date": "2026-09-09",
+      "pmid": "42780196",
+      "doi": "10.3389/fmed.2026.1940826",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780196/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive motor neuron loss, and no established treatment restores impaired motor function. In mouse models of ALS, bone marrow mononuclear cell (BM-MNC) injection improved motor function. In patients with ALS, direct spinal cord injection of BM-MNCs has also been reported to improve motor function. Here, we report the case of a 52-year-old male patient with ALS who underwent intravenous autologous BM-MNC transplantation and demonstrated improved motor function. His revised ALS Functional Rating Scale score increased from 17 before treatment to 18 at 24 weeks after transplantation. The score of Manual Muscle Testing of fifth finger metacarpophalangeal joint flexion improved from 0 before treatment to 2(-) at 24 weeks after transplantation. No serious adverse events were observed. As this is a single case report, additional case series and subsequent randomized clinical trials are essential to clarify the effect of BM-MNC transplantation on ALS outcomes. This case suggests, however, that motor dysfunction in patients with ALS might be reversible. These findings encourage future studies investigating motor function improvement, rather than disease progression slowing, by elucidating the mechanisms underlying BM-MNC transplantation and optimizing treatment.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "bone marrow",
+        "cell-based therapy",
+        "hematopoietic stem cell",
+        "motor function",
+        "neutrophil-to-lymphocyte ratio"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42778939",
+      "event_key": "pubmed:42778939",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Roles of lactate and protein lactylation in neurogenesis and neurodegenerative disease.",
+      "authors": [
+        "Xinyi Zhou",
+        "Jialin Han",
+        "Xiaolin Cui",
+        "Shuang Wu",
+        "Zhiming Lu",
+        "Shuai Zong"
+      ],
+      "journal": "Journal of translational medicine",
+      "publication_date": "2026-09-09",
+      "pmid": "42778939",
+      "doi": "10.1186/s12967-026-08940-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778939/",
+      "abstract": "BACKGROUND: Neurodegenerative diseases are characterized by the gradual deterioration and impaired functionality of neuronal cells, which in turn results in the progressive decline of both cognitive capabilities and motor performance. Over the past few years, accumulating evidence has demonstrated that neurogenesis participates in pathogenesis of various neurodegenerative conditions. In the adult brain, neurogenesis involves the proliferation and differentiation of neural stem cells into functional neurons, a process that serves a critical function in sustaining neuroplasticity and repairing neural damage. Additionally, studies conducted recently show that lactate and the protein lactylation modification it induces can regulate neurogenesis and influence the progression of neurodegenerative diseases.\n\nMAIN BODY: We elaborate on how lactate, as an energy substrate and signaling molecule, supports neuronal survival and synaptic plasticity, and discuss the mechanisms by which histone lactylation regulates neural stem cell proliferation and differentiation via epigenetic pathways, as well as the regulation of specific protein functions by non‑histone lactylation. We further integrate the dual effects of lactate and lactylation in diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS). They can be neuroprotective by improving energy metabolism, promoting neurotrophic signals, and reducing inflammation, but they can also be neurotoxic via inflammation, oxidative damage, and protein aggregation under certain conditions. Key factors that determine this switch include concentration, cell type, pathological context, and lactylation site. We also evaluate therapeutic strategies targeting lactate metabolism and lactylation, and the challenges for clinical translation.\n\nCONCLUSIONS: Lactate and protein lactylation exhibit a regulatory duality in neurogenesis and neurodegenerative diseases, encompassing both neuroprotective and neurotoxic effects. This finding provides a new perspective for understanding disease mechanisms and reveals potential intervention targets.",
+      "mesh_terms": [
+        "Humans",
+        "Neurogenesis",
+        "Neurodegenerative Diseases",
+        "Lactic Acid",
+        "Animals"
+      ],
+      "keywords": [
+        "Epigenetics",
+        "Lactate",
+        "Metabolism",
+        "Neurodegenerative disease",
+        "Neurogenesis",
+        "Protein lactylation"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42719214",
       "event_key": "pubmed:42719214",
       "source_id": "pubmed",
@@ -2357,7 +2967,7 @@
       ],
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42721706",
@@ -3122,6 +3732,37 @@
       ]
     },
     {
+      "id": "42783767",
+      "event_key": "pubmed:42783767",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Gut Microbial Metabolism as a Dynamic Interface in Neurodegenerative Diseases.",
+      "authors": [
+        "Zhuangxiu Kang",
+        "Ran Meng",
+        "Meng Nie",
+        "Tianqi Wang"
+      ],
+      "journal": "Metabolites",
+      "publication_date": "2026-09-02",
+      "pmid": "42783767",
+      "doi": "10.3390/metabo16090642",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42783767/",
+      "abstract": "Gut microbial metabolism links intestinal ecology with systemic physiology and neural pathology, but its effects vary across disease stage, tissue compartment, and host background. This review uses Alzheimer's disease (AD) as the principal model and compares selected features with Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS). Across the AD continuum, fermentation-related changes appear in prodromal cohorts, whereas broader alterations in amino acid products, host-microbial co-metabolites, bile acids, and lipids accompany mild cognitive impairment and dementia. These group-level patterns do not constitute a fixed patient trajectory. Microbial production, intestinal absorption, hepatic conversion, renal clearance, barrier integrity, and tissue-specific receptors jointly determine biological exposure. Experimental studies connect short-chain fatty acids and indole derivatives with epithelial and neuroimmune homeostasis, while imidazole propionate, trimethylamine N-oxide, selected kynurenine products, and remodeled bile acid pools engage vascular, inflammatory, amyloid, or tau-related pathways. Cerebral pathology can also remodel the intestinal ecosystem, creating reciprocal feedback. Apolipoprotein E4 modifies lipid handling, vascular permeability, and immune responses, helping to explain why comparable metabolic profiles may carry different consequences among individuals. Translation therefore requires more than a change in community composition. Trials must verify microbial function, metabolite target engagement, AD biomarker response, and clinical benefit in appropriately stratified participants. Shared pathways in PD and ALS provide comparison points, but disease-specific cells, proteinopathies, and treatment exposures constrain direct transfer of AD-derived targets.",
+      "mesh_terms": [],
+      "keywords": [
+        "APOE4",
+        "Alzheimer’s disease",
+        "gut–brain axis",
+        "microbial metabolites",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
       "id": "42738892",
       "event_key": "pubmed:42738892",
       "source_id": "pubmed",
@@ -3223,6 +3864,48 @@
         "stress granule",
         "translational stress response"
       ]
+    },
+    {
+      "id": "42779169",
+      "event_key": "pubmed:42779169",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Identifying Modifiable Factors and Their Joint Effect on Amyotrophic Lateral Sclerosis: A Prospective Cohort Study in the UK Biobank.",
+      "authors": [
+        "Xinyu Yang",
+        "Jing Yuan",
+        "Sen Huang",
+        "Xiaoli Yao"
+      ],
+      "journal": "Brain and behavior",
+      "publication_date": "2026-09-01",
+      "pmid": "42779169",
+      "doi": "10.1002/brb3.71771",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779169/",
+      "abstract": "BACKGROUND: Hypothesis-driven studies have linked numerous risk factors to amyotrophic lateral sclerosis (ALS). However, the full extent of their diversity and co-occurrence has not been adequately appreciated. This study aims to comprehensively explore the modifiable risk factors for ALS and to evaluate the potential benefit of controlling these factors.\n\nMETHODS: This prospective cohort study utilized data from UK Biobank participants enrolled between 2006 and 2010 for whom complete data were available. An exposome-wide association study (EWAS) was employed to screen for modifiable risk factors, adjusted for sex and age. The main outcome was the first recorded diagnosis of ALS. The associations of modifiable risk factors with ALS risk were assessed using hazard ratios and 95% confidence intervals. The population attributable fraction (PAF) was used to estimate the joint effects of modifiable factors.\n\nRESULTS: This study included a total of 326,050 participants and assessed 184 modifiable risk factors. During follow-up, 744 participants were diagnosed with ALS for the first time. EWAS, adjusted for sex and age, identified 45 modifiable factors associated with ALS incidence across six domains (excluding early life), including varicella, lower education, and peak expiratory flow. Analysis using the PAF indicated that 25.94%-87.40% of ALS cases could potentially be prevented.\n\nCONCLUSIONS: In this study, newly identified risk factors for ALS through the EWAS may serve as targets for future studies. Interventions targeting modifiable risk factors, particularly those related to lifestyle and socioeconomic status, may help reduce the incidence of ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "United Kingdom",
+        "Prospective Studies",
+        "Male",
+        "Risk Factors",
+        "Middle Aged",
+        "Aged",
+        "Biological Specimen Banks",
+        "UK Biobank",
+        "Exposome"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "exposome‐wide association study",
+        "modifiable factors"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42771346",
@@ -3337,20 +4020,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42771346/",
       "abstract": "IMPORTANCE: DNL343 is a brain-penetrant small molecule that acts as an activator of eukaryotic translation initiation factor 2B (eIF2b), designed to inhibit the integrated stress response. A prior phase 1B trial of DNL343 in amyotrophic lateral sclerosis (ALS) provided evidence of a favorable safety profile, central nervous system penetrance, and target engagement based on integrated stress response biomarkers in blood and cerebrospinal fluid.\n\nOBJECTIVES: To evaluate the safety and efficacy of a 200-mg formulation of DNL343 given once daily in individuals living with ALS.\n\nDESIGN, SETTING, AND PARTICIPANTS: DNL343 was evaluated as a regimen of the HEALEY ALS Platform Trial, a double-blind, multiregimen, placebo-controlled randomized clinical trial conducted at 74 centers in the US between May 24, 2023, and May 22, 2025. Eligible participants were randomized in a 3:1 ratio to receive DNL343 or matching placebo, with both groups enrolling concurrently. The analysis included shared randomized participants receiving placebo from an additional regimen.\n\nINTERVENTION: The study drug was administered for a placebo-controlled duration of 24 weeks.\n\nMAIN OUTCOMES AND MEASURES: The primary analysis was a bayesian shared parameter model of function and survival that provided an integrated estimate of the relative rate of disease progression among participants receiving DNL343 relative to placebo. The model had components for function and survival linked through an integrated estimate of disease slowing in treatment relative to controls across the 2 outcomes (denoted as the disease rate ratio [DRR]). Several safety, secondary, and exploratory end points were also evaluated.\n\nRESULTS: A total of 259 screenings were completed in this regimen; 249 participants met eligibility and were randomized to DNL343 (n = 186) and regimen-specific placebo (n = 63), with an additional 76 participants from a concurrent regimen receiving placebo included for a total of 139 shared placebo participants (325 participants, with 196 (60.3%) male and mean [SD] age of 59.3 [11.5] years). The estimated median DRR common to the ALS Functional Rating Scale-Revised and survival was 1.04 (95% credible interval, 0.83-1.32; probability of DRR <1, 0.37). Secondary outcome measures were not statistically different between the DNL343 and placebo groups. Overall, the incidence rates of adverse events were similar in participants receiving DNL343 and placebo.\n\nCONCLUSIONS AND RELEVANCE: In this randomized clinical trial, despite the relevance of the eIF2b activation pathway in ALS disease biology and supporting evidence of proof of mechanism and optimal dose selection in a prior phase 1B ALS clinical trial, 200-mg/d DNL343 did not show evidence of slowing disease progression in ALS, highlighting the need for alternative therapeutic approaches.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05842941.",
       "mesh_terms": [
+        "Aged",
+        "Female",
         "Humans",
+        "Male",
+        "Middle Aged",
         "Amyotrophic Lateral Sclerosis",
         "Disease Progression",
         "Double-Blind Method",
-        "Male",
-        "Female",
-        "Middle Aged",
-        "Aged",
         "Treatment Outcome"
       ],
       "keywords": [],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42765595",
@@ -4414,7 +5097,7 @@
       ],
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42724165",
@@ -4490,6 +5173,49 @@
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
       "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "42782554",
+      "event_key": "pubmed:42782554",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Recent Innovations in Drug Delivery Systems for Amyotrophic Lateral Sclerosis: Past, Present and Future.",
+      "authors": [
+        "Dhvani P Padhiyar",
+        "Shital Butani",
+        "Tushar Vyas",
+        "Amit Mukharya",
+        "Amarjitsing Rajput"
+      ],
+      "journal": "AAPS PharmSciTech",
+      "publication_date": "2026-06-04",
+      "pmid": "42782554",
+      "doi": "10.1208/s12249-026-03469-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782554/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a relentlessly progressive and fatal neurodegenerative disorder characterized by degeneration of upper and lower motor neurons, resulting in severe muscle weakness, respiratory failure, and death. Despite several pharmacological therapies having been approved, their clinical benefit remains limited due to poor central nervous system penetration, rapid metabolic clearance, and low patient compliance. Overcoming these pharmacokinetic and pharmacodynamic limitations remains a major challenge in ALS management. Recent advances in drug delivery have focused on brain-targeted strategies, improved bioavailability, and sustained or controlled-release systems. Nanocarriers, including lipid and polymeric nanoparticles, dendrimers, and mesoporous silica systems, facilitate blood-brain barrier traversal, protect labile drugs, and enable surface functionalization for receptor-mediated targeting. Biologically derived carriers such as exosomes and extracellular vesicles further enhance targeted delivery while minimizing immunogenicity. In parallel, noninvasive approaches such as mucoadhesive polymers, intranasal, and nose-to-brain delivery systems, including microneedle-based platforms, offer promising alternatives to bypass first-pass metabolism and improve patient adherence. Additionally, emerging therapeutic modalities, including gene therapy, stem cell-based interventions, and neuromodulation, are increasingly integrated with advanced delivery technologies. This article critically analyzes current ALS therapies, highlights recent breakthroughs in advanced drug delivery systems, and discusses future perspectives for achieving meaningful clinical outcomes.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Drug Delivery Systems",
+        "Blood-Brain Barrier",
+        "Animals",
+        "Nanoparticles",
+        "Drug Carriers",
+        "Polymers",
+        "Delayed-Action Preparations",
+        "Biological Availability"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "blood-brain barrier",
+        "central nervous system",
+        "drug delivery",
+        "neurodegenerative disorder"
+      ],
+      "collected_at": "2026-09-25T05:14:47Z",
+      "first_seen_at": "2026-09-25T05:14:47Z",
+      "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
       "id": "42758107",

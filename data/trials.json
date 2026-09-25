@@ -1,10 +1,59 @@
 {
-  "updated_at": "2026-09-24T05:13:16Z",
+  "updated_at": "2026-09-25T05:14:48Z",
   "new_keys": [
-    "clinicaltrials:NCT07836751:2026-09-23",
-    "clinicaltrials:NCT07290062:2026-09-23"
+    "clinicaltrials:NCT07838389:2026-09-24",
+    "clinicaltrials:NCT05407324:2026-09-24"
   ],
   "items": [
+    {
+      "id": "NCT07838389",
+      "event_key": "clinicaltrials:NCT07838389:2026-09-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07838389",
+      "title": "Evaluation of Donor-Derived B Cell Infusions in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Mark Poznansky",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Biological: B cell infusion"
+      ],
+      "start_date": "2027-09",
+      "last_update_date": "2026-09-24",
+      "url": "https://clinicaltrials.gov/study/NCT07838389",
+      "collected_at": "2026-09-25T05:14:48Z",
+      "first_seen_at": "2026-09-25T05:14:48Z",
+      "last_seen_at": "2026-09-25T05:14:48Z"
+    },
+    {
+      "id": "NCT05407324",
+      "event_key": "clinicaltrials:NCT05407324:2026-09-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05407324",
+      "title": "Dazucorilant in Patients With Amyotrophic Lateral Sclerosis",
+      "sponsor": "Corcept Therapeutics",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: Dazucorilant 300 mg",
+        "Drug: Dazucorilant 150 mg",
+        "Other: Placebo",
+        "Drug: Dazucorilant"
+      ],
+      "start_date": "2022-11-15",
+      "last_update_date": "2026-09-24",
+      "url": "https://clinicaltrials.gov/study/NCT05407324",
+      "collected_at": "2026-09-25T05:14:48Z",
+      "first_seen_at": "2026-09-25T05:14:48Z",
+      "last_seen_at": "2026-09-25T05:14:48Z"
+    },
     {
       "id": "NCT07836751",
       "event_key": "clinicaltrials:NCT07836751:2026-09-23",
@@ -26,7 +75,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07836751",
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07290062",
@@ -49,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07290062",
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07834450",
@@ -73,7 +122,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07834450",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07833618",
@@ -98,7 +147,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07833618",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07571200",
@@ -121,7 +170,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07571200",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07571174",
@@ -144,7 +193,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07571174",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07322003",
@@ -168,7 +217,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT07082192",
@@ -195,7 +244,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07082192",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT01925196",
@@ -218,7 +267,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
+      "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
       "id": "NCT06881979",
