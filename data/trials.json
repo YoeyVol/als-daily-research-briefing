@@ -1,10 +1,56 @@
 {
-  "updated_at": "2026-09-25T05:14:48Z",
+  "updated_at": "2026-09-26T05:19:21Z",
   "new_keys": [
-    "clinicaltrials:NCT07838389:2026-09-24",
-    "clinicaltrials:NCT05407324:2026-09-24"
+    "clinicaltrials:NCT07088159:2026-09-25",
+    "clinicaltrials:NCT04721717:2026-09-25"
   ],
   "items": [
+    {
+      "id": "NCT07088159",
+      "event_key": "clinicaltrials:NCT07088159:2026-09-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07088159",
+      "title": "Intermediate-size Patient Population Expanded Access Protocol",
+      "sponsor": "Spinogenix",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "AVAILABLE",
+      "intervention": [
+        "Drug: Tazbentetol"
+      ],
+      "start_date": "",
+      "last_update_date": "2026-09-25",
+      "url": "https://clinicaltrials.gov/study/NCT07088159",
+      "collected_at": "2026-09-26T05:19:21Z",
+      "first_seen_at": "2026-09-26T05:19:21Z",
+      "last_seen_at": "2026-09-26T05:19:21Z"
+    },
+    {
+      "id": "NCT04721717",
+      "event_key": "clinicaltrials:NCT04721717:2026-09-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04721717",
+      "title": "AIM's Writing for Healing: A Workshop for Individuals Living With Paralysis",
+      "sponsor": "University of Alabama at Birmingham",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2020-09-01",
+      "last_update_date": "2026-09-25",
+      "url": "https://clinicaltrials.gov/study/NCT04721717",
+      "collected_at": "2026-09-26T05:19:21Z",
+      "first_seen_at": "2026-09-26T05:19:21Z",
+      "last_seen_at": "2026-09-26T05:19:21Z"
+    },
     {
       "id": "NCT07838389",
       "event_key": "clinicaltrials:NCT07838389:2026-09-24",
@@ -26,7 +72,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07838389",
       "collected_at": "2026-09-25T05:14:48Z",
       "first_seen_at": "2026-09-25T05:14:48Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
+      "last_seen_at": "2026-09-26T05:19:21Z"
     },
     {
       "id": "NCT05407324",
@@ -52,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05407324",
       "collected_at": "2026-09-25T05:14:48Z",
       "first_seen_at": "2026-09-25T05:14:48Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
+      "last_seen_at": "2026-09-26T05:19:21Z"
     },
     {
       "id": "NCT07836751",
@@ -75,7 +121,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07836751",
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
+      "last_seen_at": "2026-09-26T05:19:21Z"
     },
     {
       "id": "NCT07290062",
@@ -98,7 +144,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07290062",
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
+      "last_seen_at": "2026-09-26T05:19:21Z"
     },
     {
       "id": "NCT07834450",

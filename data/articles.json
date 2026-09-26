@@ -1,27 +1,51 @@
 {
-  "updated_at": "2026-09-25T05:14:48Z",
+  "updated_at": "2026-09-26T05:19:21Z",
   "new_keys": [
-    "pubmed:42785576",
-    "pubmed:42782389",
-    "pubmed:42778785",
-    "pubmed:42782811",
-    "pubmed:42781313",
-    "pubmed:42780048",
-    "pubmed:42780028",
-    "pubmed:42779765",
-    "pubmed:42782801",
-    "pubmed:42779622",
-    "pubmed:42783617",
-    "pubmed:42779744",
-    "pubmed:42782733",
-    "pubmed:42780196",
-    "pubmed:42778939",
-    "pubmed:42783767",
-    "pubmed:42779169",
-    "pubmed:42784708",
-    "pubmed:42782554"
+    "pubmed:42789802",
+    "pubmed:42788121",
+    "pubmed:42791200",
+    "pubmed:42790799",
+    "pubmed:42789481",
+    "pubmed:42789089",
+    "pubmed:42790169",
+    "pubmed:42786852",
+    "pubmed:42787788"
   ],
   "items": [
+    {
+      "id": "42789802",
+      "event_key": "pubmed:42789802",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Recognition and Treatment of Concurrent Amyotrophic Lateral Sclerosis and Multiple Sclerosis.",
+      "authors": [
+        "Nga Ying Eng",
+        "Syed Rizvi",
+        "Vincent LaBarbera"
+      ],
+      "journal": "Rhode Island medical journal (2013)",
+      "publication_date": "2026-10-01",
+      "pmid": "42789802",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789802/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) and multiple sclerosis (MS) are neurological disorders with different underlying pathophysiology but can share similar clinical features. Co-occurrence of both diseases is extremely rare with only 46 documented cases in literature to our knowledge. This case report relays the diagnosis of ALS in a patient with a decades'-long history of MS, and illustrates the importance of expanding the differential diagnosis and pursuing additional workup in a patient with overlapping progressive symptoms that can be caused by an alternate neurological etiology.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Multiple Sclerosis",
+        "Diagnosis, Differential",
+        "Female"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "co-morbidities",
+        "multiple sclerosis"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
     {
       "id": "42717824",
       "event_key": "pubmed:42717824",
@@ -127,6 +151,193 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42791200",
+      "event_key": "pubmed:42791200",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Chronic Non-Progressive Neurophysiology in an ALS Patient Treated With Tofersen for 6 Years.",
+      "authors": [
+        "Ivar Winroth",
+        "Christian Krarup",
+        "Henrik Berntsson",
+        "Lisette Salvesen",
+        "Kirsten Svenstrup",
+        "Erik Nordh",
+        "Peter M Andersen"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-09-25",
+      "pmid": "42791200",
+      "doi": "10.1002/mus.70417",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791200/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "SOD1",
+        "tofersen"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42790799",
+      "event_key": "pubmed:42790799",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Intrinsically disordered proteins and liquid-liquid phase separation: Molecular grammar, condensate physiology, and disease-relevant phase transitions.",
+      "authors": [
+        "Abinawanto",
+        "Alfi Sophian"
+      ],
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "publication_date": "2026-09-25",
+      "pmid": "42790799",
+      "doi": "10.1016/j.bbapap.2026.141183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790799/",
+      "abstract": "Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) of proteins constitute a substantial and functionally critical fraction of the eukaryotic proteome. Through multivalent, low-affinity interactions encoded in their low-complexity domains (LCDs), IDPs drive liquid-liquid phase separation (LLPS)-a physicochemical process that produces membraneless biomolecular condensates serving as dynamic reaction hubs within cells. Recent advances have substantially refined the conceptual framework governing condensate biophysics: the phase separation coupled to percolation (PSCP) model now recognizes that condensates are viscoelastic network fluids arising from the synergy between density transitions and connectivity (percolation) transitions, rather than simple LLPS alone. This updated mechanistic understanding, combined with proteome-wide computational tools and AI-driven prediction models, is rapidly transforming the field. Physiologically, condensates regulate transcription at super-enhancers, modulate RNA metabolism in stress granules, and orchestrate ribosome biogenesis in the nucleolus. Pathologically, aberrant liquid-to-solid transitions of disease-associated IDPs-including TDP-43 and FUS in amyotrophic lateral sclerosis and frontotemporal dementia, tau in Alzheimer's disease, and α-synuclein in Parkinson's disease-represent a convergent pathomechanism across neurodegenerative proteinopathies. Post-translational modifications, particularly phosphorylation, arginine methylation, and ubiquitination, function as a dynamic regulatory code controlling condensate assembly and dissolution. The emerging paradigm of condensate-modifying therapeutics (c-mods) identifies biomolecular condensates as druggable entities and proposes four mechanistic strategies-dissolvers, inducers, localizers, and morphers-to restore normal phase behavior in disease. This review integrates the most current molecular, cellular, and biomedical insights into IDP-driven phase separation, highlighting open questions and translational opportunities.",
+      "mesh_terms": [],
+      "keywords": [
+        "Biomolecular condensates",
+        "Intrinsically disordered proteins",
+        "Liquid–liquid phase separation",
+        "Low-complexity domains",
+        "Membraneless organelles",
+        "Neurodegeneration",
+        "Phase separation coupled to percolation"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42789481",
+      "event_key": "pubmed:42789481",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Identity-by-descent to resolve reduced penetrance and advance gene discovery in neurodegenerative disease.",
+      "authors": [
+        "Lyndal Henden",
+        "Sandrine Chan Moi Fat",
+        "Andrew Smith",
+        "Isabel Li",
+        "Thomas J Nicholas",
+        "Miran Mrkela",
+        "Daniel O'Shaughnessy",
+        "Zoe Zussa",
+        "Natalie Grima",
+        "Emily P McCann",
+        "Jennifer A Fifita",
+        "Simon D Topp",
+        "Alfredo Iacoangeli",
+        "Dominic B Rowe",
+        "Garth A Nicholson",
+        "Carol Dobson-Stone",
+        "John B Kwok",
+        "Olivier Piguet",
+        "Glenda M Halliday",
+        "Claire Troakes",
+        "Ammar Al-Chalabi",
+        "Christopher E Shaw",
+        "Richard H Roxburgh",
+        "Matthew C Kiernan",
+        "Roger Pamphlett",
+        "Benoit Liquet",
+        "Allan F McRae",
+        "Tian Lin",
+        "Nigel G Laing",
+        "Merrilee Needham",
+        "David Schultz",
+        "Susan Mathers",
+        "Steve Vucic",
+        "Robert Henderson",
+        "Pamela McCombe",
+        "Anjali Henders",
+        "Aaron R Quinlan",
+        "Emma L Scotter",
+        "Bradley N Smith",
+        "Ian P Blair",
+        "Kelly L Williams",
+        "SALSA-SGC consortium"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-09-25",
+      "pmid": "42789481",
+      "doi": "10.1093/brain/awag326",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789481/",
+      "abstract": "Advances in sequencing technologies have transformed human genetics and accelerated disease gene discovery. Yet a causal mutation remains to be identified for many families with an inherited disease. Incomplete penetrance, genetic heterogeneity, and limited family history can complicate the binary classification of familial and sporadic disease. These challenges are amplified in late-onset diseases such as amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), where obscured inheritance patterns limit gene discovery opportunities and can confound clinical risk assessment. We evaluated whether identity-by-descent (IBD) analysis can uncover cryptic relatedness and mitigate the impact of incomplete penetrance on disease gene mapping and clinical interpretation. Genome-wide IBD inference was performed in an integrated cross-continent cohort of 3,524 individuals of European ancestry spanning the ALS-FTD neurodegenerative spectrum. IBD identified 793 pairs of 1st-6th degree relatives (siblings to second cousins once removed), of which 31.5% were previously unrecognised and 15.8% had differing clinical diagnoses. Among individuals recorded as \"sporadic\", 5.5% of ALS and 15.9% of FTD were genetically related to another affected individual in the cohort, demonstrating that reduced penetrance masks a substantial proportion of heritable disease. Affected individuals with known ALS/FTD-associated genetic variants had balanced male-to-female ratios, irrespective of reported family history or IBD-inferred relatedness, whereas those without an identified disease-linked genetic variant retained the expected male predominance in ALS/FTD cohorts. IBD analysis identified multiple cross-continent founder networks for known ALS disease genes, including SOD1 and C9orf72, and created 73 new IBD-defined pedigrees from apparently unrelated probands, providing a framework for disease variant discovery in otherwise underpowered families. Using SOD1 mutation-positive families as a positive-control framework, we demonstrated that IBD-based pedigree expansion retained the known disease locus in distant relatives while reducing genome-wide candidate regions, supporting its application to unresolved ALS/FTD pedigrees. In an IBD-identified extended pedigree comprising five affected individuals, genome-wide variant filtering identified three rare variants within a chromosome 13q21.33 candidate locus shared IBD by four individuals and supported by multipoint linkage analysis. IBD-based detection of cryptic relatedness reveals genetic links between familial and apparent sporadic neurodegenerative disease, helping to resolve penetrance-related inheritance misclassification. By reconstructing extended pedigrees using IBD, this approach strengthens gene discovery and supporting variant pathogenicity while providing clinicians with clearer context for inherited risk and genetic counselling.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "founder events",
+        "frontotemporal dementia",
+        "gene discovery",
+        "identity-by-descent",
+        "penetrance"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42789089",
+      "event_key": "pubmed:42789089",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Integrative synaptosome multi-omics reveals disrupted synapse organization and localized cryptic transcripts in C9ORF72-frontotemporal dementia.",
+      "authors": [
+        "Ashton M Spillman",
+        "Eric B Alsop",
+        "Lauren M Gittings",
+        "Krystine Garcia-Mansfield",
+        "Ignazio Piras",
+        "Anna Bonfitto",
+        "Melissa N Martinez",
+        "Ritin Sharma",
+        "Kim R Preller",
+        "Matthew Huentelman",
+        "Patrick Pirrotte",
+        "Kendall Van Keuren-Jensen",
+        "Rita Sattler"
+      ],
+      "journal": "Acta neuropathologica",
+      "publication_date": "2026-09-25",
+      "pmid": "42789089",
+      "doi": "10.1007/s00401-026-03084-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/",
+      "abstract": "Frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS) are linked neurodegenerative diseases characterized by both synaptic dysfunction and TDP-43 pathology. A hexanucleotide repeat expansion (HRE) in the C9ORF72 (C9) gene represents the most common genetic cause of FTD and ALS, yet the synapse-specific mechanisms underlying disease pathogenesis remain poorly understood. Here, we performed integrated multi-omic profiling of synaptosomes enriched from postmortem frontal cortex and patient-derived induced pluripotent stem cell (iPSC)-cortical neurons to define molecular alterations associated with C9-FTD-mediated synaptic dysfunction. Proteomic profiling of frontal cortex-derived synaptosomes identified 1,324 differentially abundant proteins (p<0.05) enriched in pathways regulating synaptic vesicle transport and synapse organization, while synaptosomal RNA sequencing revealed 2,835 differentially expressed protein-coding genes. C9-FTD iPSC-cortical neurons exhibited reductions in excitatory and inhibitory postsynaptic markers, accompanied by progressive impairment of neuronal network activity, supporting both structural and functional deficits. iPSC-derived synaptosomes recapitulated key molecular pathways observed in patient brain, revealing convergent dysregulation of synaptic signaling pathways. Comparative analyses revealed divergence between protein and RNA alterations, consistent with the disruption of regulatory processes that link RNA and protein abundance in diseased synapses. Consistent with TDP-43 loss-of-function pathology we identified cryptic exon (CE)-containing transcripts within C9-FTD frontal cortex-derived synaptosomes, including KALRN and STMN2, providing evidence that aberrantly spliced RNAs localize to synaptic compartments. Together, these findings define convergent molecular pathways underlying synapse vulnerability in both C9-FTD model systems and identify synaptic localization of CE-containing transcripts as a previously unrecognized feature of TDP-43 proteinopathy.",
+      "mesh_terms": [
+        "Humans",
+        "Frontotemporal Dementia",
+        "C9orf72 Protein",
+        "Synapses",
+        "Synaptosomes",
+        "Induced Pluripotent Stem Cells",
+        "Neurons",
+        "Multiomics",
+        "Proteomics",
+        "Frontal Lobe",
+        "Female",
+        "Male"
+      ],
+      "keywords": [
+        "Cryptic Exon (CE)",
+        "Frontotemporal Dementia (FTD)",
+        "Proteomics",
+        "Synaptosome",
+        "TAR DNA-binding protein 43 (TDP-43)",
+        "Transcriptomics"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
       "id": "42785576",
       "event_key": "pubmed:42785576",
       "source_id": "pubmed",
@@ -160,7 +371,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42784708",
@@ -199,7 +410,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42782389",
@@ -241,7 +452,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42778785",
@@ -290,7 +501,142 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42790169",
+      "event_key": "pubmed:42790169",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Phytocannabinoid cannabidiol (CBD) in neurodegenerative diseases: From polypharmacology to drug development.",
+      "authors": [
+        "Bingxing Zhang",
+        "Jiang Nan",
+        "Yunfei Zhang",
+        "Boxin Zhang",
+        "Changhua Ke",
+        "Wen Wang",
+        "Teng Wu",
+        "Juan Xia",
+        "Furong Yang",
+        "Meiling He",
+        "Lei Tian",
+        "Zhiyou Yang",
+        "Chengyuan Liang"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2026-09-23",
+      "pmid": "42790169",
+      "doi": "10.1016/j.ejmech.2026.119360",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790169/",
+      "abstract": "Cannabidiol (CBD) is a non-intoxicating phytocannabinoid that has attracted interest as a multi-target neurotherapeutic candidate for neurodegenerative diseases. CBD is a lipophilic terpenophenolic chemotype whose phenolic redox chemistry, membrane partitioning, cytochrome P450-mediated metabolism, and formulation-dependent exposure are central to its biological activity and translational limitations. In addition, CBD engages a broad target network relevant to neurodegeneration. Major components include cannabinoid receptors, transient receptor potential channels, peroxisome proliferator-activated receptor-γ, adenosine and serotonin signaling systems, voltage-gated calcium channels, and redox-regulatory pathways. These mechanisms converge on neuroinflammation, excitotoxicity, mitochondrial dysfunction, impaired proteostasis, and synaptic injury. Preclinical studies across models of Alzheimer's disease, Parkinson's disease, multiple sclerosis, Huntington's disease, and amyotrophic lateral sclerosis consistently support CBD's anti-inflammatory, antioxidant, mitochondria-protective, and neuroprotective pharmacology. The magnitude of these effects depends on dose, treatment timing, model system, and route of administration. Clinical evidence remains preliminary and is mainly symptomatic, with signals in agitation, sleep disturbance, spasticity, quality of life, and neuropsychiatric symptoms rather than proven disease modification. Key barriers to development include low and variable oral bioavailability, incomplete brain exposure data, uncertain active metabolite contributions, limited target-engagement biomarkers, and insufficient exposure-response definition. Future development of CBD and optimized cannabinoid-derived analogues will require medicinal chemistry strategies to improve potency, selectivity, metabolic stability, CNS exposure, and formulation performance. Parallel biomarker-driven clinical trials are needed to define pharmacokinetic-pharmacodynamic relationships and evaluate disease-modifying potential.",
+      "mesh_terms": [],
+      "keywords": [
+        "Cannabidiol (CBD)",
+        "Clinical trials",
+        "Drug development",
+        "Endocannabinoid system",
+        "Neurodegenerative diseases",
+        "Neuroinflammation"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42788121",
+      "event_key": "pubmed:42788121",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "LRP12 CGG Repeat Expansions in Patients With Adult-Onset Non-5q Spinal Muscular Atrophy.",
+      "authors": [
+        "Hiroya Naruse",
+        "Jun Mitsui",
+        "Hiroyuki Ishiura",
+        "So Okubo",
+        "Chiharu Yoshida",
+        "Akihiko Mitsutake",
+        "Kyoko Maruta",
+        "Yuichi Uchida",
+        "Yasuyuki Nobuhara",
+        "Hayato Okabe",
+        "Yumiko Nakamura",
+        "Ryoei Suzuki",
+        "Yuto Hotta",
+        "Takashi Matsukawa",
+        "Hiroshi Tsukamoto",
+        "Yasuomi Kawamura",
+        "Kenju Hara",
+        "Yuhei Takado",
+        "Mami Kanzaki",
+        "Yoshikazu Uesaka",
+        "Akiko Ishii",
+        "Akihiro Kitamura",
+        "Makoto Urushitani",
+        "Yuji Takahashi",
+        "Akatsuki Kubota",
+        "Meiko Maeda",
+        "Jun Shimizu",
+        "Yuichiro Shirota",
+        "Masashi Hamada",
+        "Wataru Satake",
+        "Toyomasa Katagiri",
+        "Shokichi Takahama",
+        "Takuya Yamamoto",
+        "Shoji Tsuji",
+        "Yusuke Nakamura",
+        "Tatsushi Toda"
+      ],
+      "journal": "Neurology. Genetics",
+      "publication_date": "2026-09-23",
+      "pmid": "42788121",
+      "doi": "10.1212/NXG.0000000000200440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/",
+      "abstract": "BACKGROUND AND OBJECTIVES: Non-5q spinal muscular atrophy (SMA) is genetically heterogeneous, yet many adult-onset cases remain molecularly undiagnosed. CGG repeat expansions in the 5' untranslated region of LRP12, originally identified in oculopharyngodistal myopathy, have also been implicated in amyotrophic lateral sclerosis (ALS) and inherited peripheral neuropathy. The aim of this study was to determine whether LRP12 CGG repeat expansions occur in patients with adult-onset proximal-predominant non-5q SMA and characterize the associated clinical presentations.\n\nMETHODS: In this observational case series, we enrolled 8 consecutive, genetically unresolved families that met prespecified criteria for adult-onset non-5q SMA after exclusion of known genetic causes of SMA and familial ALS by comprehensive genetic evaluation, including whole-exome sequencing. LRP12 CGG repeat expansions were screened by repeat-primed PCR and then confirmed and sized by Oxford Nanopore long-read sequencing. LRP12 CGG repeat expansions were also screened in 496 unrelated ALS cases and 1,000 controls.\n\nRESULTS: Monoallelic LRP12 CGG repeat expansions were identified in 6 of the 8 non-5q SMA probands (75%). Five of the 6 positive families were consistent with autosomal-dominant inheritance. Expanded alleles ranged from 58 to 92 repeat units. Affected individuals showed adult-onset, slowly progressive, proximal-predominant pure lower motor neuron weakness with preserved bulbar and sensory function and no upper motor neuron signs. Expansions were rare in ALS cases (2/496, 0.40%) and controls (2/1,000, 0.20%).\n\nDISCUSSION: We identified LRP12 CGG repeat expansions in a substantial proportion of patients with slowly progressive, proximal-predominant pure lower motor neuron weakness not linked to 5q-SMA. These findings broaden the clinical spectrum of LRP12-related disease and support inclusion of LRP12 repeat-expansion analysis in the evaluation of genetically unresolved adult-onset lower motor neuron syndromes.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42786852",
+      "event_key": "pubmed:42786852",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Therapeutic Implications of Cell Death Pathways Across the Course of Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Jiayang Yu",
+        "Dong Xie",
+        "Xinyu Zeng",
+        "Shuaipan Zhang",
+        "Bin Xiao",
+        "Jing Zhang",
+        "Min Fang",
+        "Qingguang Zhu",
+        "Chongjie Yao"
+      ],
+      "journal": "Current neuropharmacology",
+      "publication_date": "2026-09-23",
+      "pmid": "42786852",
+      "doi": "10.2174/011570159X500937260908042834",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786852/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss, resulting in paralysis and limited survival. Multiple regulated cell death pathways, including apoptosis, necroptosis, ferroptosis, pyroptosis, lysosomal cell death, autophagy-dependent cell death, NETosis, and other emerging cell death modalities, have been implicated in ALS, but their mechanistic interactions and relative contributions remain poorly understood. This knowledge gap has hindered the development of effective therapies. Better experimental models are needed to dissect these pathways. This review summarizes current knowledge on the roles of cell death pathways in ALS. A tiered framework (M1-M4) is applied to critically evaluate data from human postmortem tissue, patient-derived cells, and animal models, ranking studies according to their relevance to human disease. Potential crosstalk among these pathways is further examined. It is also proposed that the relative contribution of specific cell death pathways may shift with disease progression, although this hypothesis requires longitudinal validation. To integrate this dynamic perspective, cell death pathway activities are hypothetically aligned with the King's clinical staging system. This stage-informed framework is presented as a conceptual model intended to generate hypotheses rather than to serve as a validated clinical algorithm. The model distinguishes established therapies from preclinical and exploratory strategies. Future research should prioritize the development of human-relevant model systems, the identification of longitudinal biomarkers of cell death, and the implementation of rigorously designed combination trials. These efforts may ultimately enable more precise, stage-appropriate therapeutic strategies for ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "King’s clinical staging",
+        "conceptual framework",
+        "evidence appraisal",
+        "regulated cell death",
+        "stage-informed treatments"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42778113",
@@ -326,7 +672,7 @@
       ],
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42773049",
@@ -647,6 +993,50 @@
       "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
+      "id": "42787788",
+      "event_key": "pubmed:42787788",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Pure Motor Axonal Neuropathy Associated with Sjögren's Syndrome: A Rare Case Report.",
+      "authors": [
+        "Alyaa Kheirbek",
+        "Mohamad Yousef Almawaz",
+        "Yasmin Alsaadi",
+        "Rama Ibrahim Alhallak",
+        "Mohamad Adnan Almahasneh",
+        "Ghassan Hamzeh"
+      ],
+      "journal": "International medical case reports journal",
+      "publication_date": "2026-09-20",
+      "pmid": "42787788",
+      "doi": "10.2147/IMCRJ.S633592",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787788/",
+      "abstract": "BACKGROUND: Peripheral nervous system involvement is a recognized extraglandular manifestation of Sjögren's syndrome (SjS), most commonly presenting as sensory or mixed sensorimotor axonal neuropathies. Pure motor axonal neuropathy is exceptionally rare in this context and may closely mimic anterior horn cell disorders, posing significant diagnostic and therapeutic challenges.\n\nCASE PRESENTATION: We report the case of a 47-year-old man with long-standing sicca symptoms who developed progressive, asymmetric motor weakness affecting all four limbs without sensory involvement. Neurological examination revealed predominantly left-sided motor deficits with preserved reflexes and normal sensory testing. Electrodiagnostic studies demonstrated a motor-predominant axonal neuropathy with reduced compound muscle action potential amplitudes and preserved sensory conduction. Serological testing showed high titers of anti-SSA antibodies, and minor salivary gland biopsy confirmed focal lymphocytic sialadenitis consistent with Sjögren's syndrome. Despite treatment with cyclophosphamide, plasma exchange, and high-dose corticosteroids, the patient showed no significant clinical improvement. Rituximab therapy was subsequently initiated; however, after four months of follow-up, motor weakness remained functionally limiting without meaningful neurological recovery.\n\nCONCLUSION: This case describes a rare pure motor axonal neuropathy in a patient with Sjögren syndrome. The clinical and electrodiagnostic findings were compatible with Sjögren syndrome-associated motor axonal neuropathy after consideration of alternative causes. The limited response to immunosuppressive therapy highlights the potential importance of early recognition of this uncommon neurological manifestation.",
+      "mesh_terms": [
+        "Humans",
+        "Sjogren's Syndrome",
+        "Middle Aged",
+        "Male",
+        "Rituximab",
+        "Motor Neuron Disease",
+        "Nerve Conduction Studies",
+        "Cyclophosphamide",
+        "Peripheral Nervous System Diseases"
+      ],
+      "keywords": [
+        "Sjögren syndrome",
+        "autoimmune neuropathy",
+        "motor neuropathy",
+        "neuro-Sjögren syndrome",
+        "peripheral neuropathy",
+        "pure motor axonal neuropathy"
+      ],
+      "collected_at": "2026-09-26T05:19:20Z",
+      "first_seen_at": "2026-09-26T05:19:20Z",
+      "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
       "id": "42782811",
       "event_key": "pubmed:42782811",
       "source_id": "pubmed",
@@ -681,7 +1071,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42781313",
@@ -715,7 +1105,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42780048",
@@ -749,7 +1139,7 @@
       "keywords": [],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42780028",
@@ -774,7 +1164,7 @@
       "keywords": [],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42779765",
@@ -827,7 +1217,7 @@
       "keywords": [],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42764383",
@@ -911,7 +1301,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42769968",
@@ -1113,7 +1503,7 @@
       "keywords": [],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42770452",
@@ -1665,7 +2055,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42769109",
@@ -2192,7 +2582,7 @@
       "keywords": [],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42745993",
@@ -2837,7 +3227,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42780196",
@@ -2869,7 +3259,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42778939",
@@ -2909,7 +3299,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42719214",
@@ -2967,7 +3357,7 @@
       ],
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42721706",
@@ -3760,7 +4150,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42738892",
@@ -3905,7 +4295,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42771346",
@@ -5215,7 +5605,7 @@
       ],
       "collected_at": "2026-09-25T05:14:47Z",
       "first_seen_at": "2026-09-25T05:14:47Z",
-      "last_seen_at": "2026-09-25T05:14:47Z"
+      "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
       "id": "42758107",
