@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-27T05:36:32Z",
-  "new_keys": [],
+  "updated_at": "2026-09-28T05:44:22Z",
+  "new_keys": [
+    "pubmed:42800647",
+    "pubmed:42799915",
+    "pubmed:42799858",
+    "pubmed:42799589",
+    "pubmed:42791439",
+    "pubmed:42799464",
+    "pubmed:42801200",
+    "pubmed:42793425",
+    "pubmed:42791964",
+    "pubmed:42792233",
+    "pubmed:42795978",
+    "pubmed:42794664",
+    "pubmed:42794615",
+    "pubmed:42794442",
+    "pubmed:42791674",
+    "pubmed:42797450",
+    "pubmed:42792156",
+    "pubmed:42796657",
+    "pubmed:42791577",
+    "pubmed:42792090"
+  ],
   "items": [
     {
       "id": "42789802",
@@ -34,7 +55,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42717824",
@@ -141,6 +162,198 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42800647",
+      "event_key": "pubmed:42800647",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Polyamines across neurodegenerative proteinopathies.",
+      "authors": [
+        "Bedri Ranxhi",
+        "Peter A LeWitt",
+        "Wei-Ling Tsou",
+        "Sokol V Todi"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-09-26",
+      "pmid": "42800647",
+      "doi": "10.1016/j.nbd.2026.107629",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800647/",
+      "abstract": "Polyamines (PAs) are evolutionarily conserved metabolites that connect protein quality control with lysosomal, mitochondrial, and redox homeostasis. Their metabolism is situated at a critical intersection of cell-sustaining and neurodegenerative pathways. Here, we synthesize evidence across Alzheimer's disease, Parkinson's disease, polyglutamine repeat disorders, amyotrophic lateral sclerosis, and multiple system atrophy, each of which differ in vulnerability to changes in PA metabolism. Although previous reviews have investigated polyamines in individual neurodegenerative disorders, few have compared their roles across the broader spectrum of neurodegenerative proteinopathies. Here, we address this gap by synthesizing evidence across multiple diseases to examine how PAs influence disease-associated protein aggregation and clearance, and how these effects depend on PA species, concentration, cellular context, disease stage, subcellular localization, redox state, and lysosomal and mitochondrial capacity. Human tissue and biofluid studies report disease-associated changes in PA metabolites, pathway enzymes, and transporter remodeling, as a function of neurodegenerative disorders. Mechanistic studies reveal that spermidine and spermine can alter the assembly, condensation, compartmentalization, and clearance of various neurotoxic proteins, whereas the effects of putrescine are more system- and concentration-dependent. These effects engage both shared pathways and distinct mechanisms, depending on protein identity, cell type, and subcellular location. Curiously, PA manipulation may be protective in one context yet harmful in another. The framework that we propose can distinguish adaptive remodeling from pathogenic dysregulation and can guide disease-relevant therapeutic strategies.",
+      "mesh_terms": [],
+      "keywords": [
+        "Aggregation",
+        "Alzheimer’s",
+        "Amyotrophic lateral sclerosis",
+        "Autophagy",
+        "Mitochondria",
+        "Multiple system atrophy",
+        "Oxidative stress",
+        "Parkinson’s",
+        "Polyglutamine",
+        "Proteostasis",
+        "Spermidine",
+        "Spermine",
+        "Synucleinopathies"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42799915",
+      "event_key": "pubmed:42799915",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Potential Roles of Neuroimaging in Motor Neuron Disease.",
+      "authors": [
+        "Jan Kassubek",
+        "Hans-Peter Müller"
+      ],
+      "journal": "Current neurology and neuroscience reports",
+      "publication_date": "2026-09-26",
+      "pmid": "42799915",
+      "doi": "10.1007/s11910-026-01524-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799915/",
+      "abstract": "PURPOSE OF REVIEW: The review is intended to summarize and discuss the increasing roles and perspectives of neuroimaging in the clinical and scientific work-up of amyotrophic lateral sclerosis (ALS) and other motor neuron diseases (MND).\n\nRECENT FINDINGS: The applications of magnetic resonance imaging (MRI) and positron emission tomography (PET) identify characteristic disease-specific patterns especially for ALS including its clinical subtypes. Guided by neuroanatomical pattern stratification, these MND-associated alterations could be detected by dedicated analysis parameters from MRI, including T1-weighted structural imaging and microstructural diffusion tensor imaging, in combination with additional MR techniques, to act as diagnostic and monitoring biomarkers. Imaging in MND increasingly makes use of machine learning-based analysis methods. The conceptualization of (neuro-)imaging in ALS and other MND encompasses multiparametric technical approaches, also of regions outside the central nervous system, together with aspects of disease-specific pathophysiology which will further advance the field in future applications.",
+      "mesh_terms": [
+        "Humans",
+        "Motor Neuron Disease",
+        "Neuroimaging",
+        "Positron-Emission Tomography",
+        "Magnetic Resonance Imaging",
+        "Brain"
+      ],
+      "keywords": [
+        "Arterial spin labeling/ASL",
+        "Artificial intelligence",
+        "Biomarker",
+        "Diffusion tensor imaging/DTI",
+        "MR spectroscopy",
+        "Machine learning",
+        "Magnetic resonance imaging/MRI",
+        "Motor neuron disease",
+        "Neurodegeneration",
+        "Volumetry"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42799858",
+      "event_key": "pubmed:42799858",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of Amyotrophic Lateral Sclerosis/Frontotemporal Dementia.",
+      "authors": [
+        "Mansee Patel",
+        "Soumalya Das",
+        "Aditi Pramod Kumari",
+        "Amit Kumar"
+      ],
+      "journal": "Molecular neurobiology",
+      "publication_date": "2026-09-26",
+      "pmid": "42799858",
+      "doi": "10.1007/s12035-026-06209-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799858/",
+      "abstract": "The abnormal expansion of repetitive DNA sequences falls within the spectrum of neurological conditions driven by dual pathogenic pathways of RNA toxicity and protein toxicity. Within this spectrum, hexanucleotide repeat disorders (HRDs) represent a rare but important subgroup: C9orf72-amyotrophic lateral sclerosis/frontotemporal dementia (C9orf72-ALS/FTD), X-linked dystonia-parkinsonism (XDP) and spinocerebellar ataxia type 36 (SCA36), unified by the presence of expanded intronic repeats capable of forming non-canonical nucleic acid structures. Despite this shared repeat architecture, they differ in critical molecular and genetic respects: C9orf72-ALS/FTD is hallmarked by TDP-43 aggregation and prominent proteinopathy; SCA36 lacks TDP-43 pathology entirely; and XDP uniquely harbors a SINE-VNTR-Alu (SVA) retrotransposon insertion within the expanded locus and follows an X-linked recessive inheritance pattern. Among these, C9orf72-ALS/FTD is relatively well characterized, with established pathogenic mechanisms including G-quadruplex (G4) formation, dipeptide repeat (DPR) protein toxicity, RNA foci formation, and downstream cellular disruptions. The molecular mechanism underlying SCA36 and XDP remains comparatively less characterized. Given the mechanistic overlap with ALS/FTD, downstream disruptions such as RNA toxicity, mitochondrial dysfunction, impaired DNA repair and proteasomal dysfunction could similarly result from these core molecular processes. However, direct experimental evidence supporting these mechanisms in SCA36 and XDP remains limited. This review compares established, emerging and hypothetical mechanisms across HRDs to distinguish shared pathogenic pathways from disease-specific molecular features. Through horizontal comparison, this review identifies opportunities and limitations for translating ALS/FTD therapeutics to XDP and SCA36, establishing a unified analytical framework for mechanistic research and clinical intervention in rare repeat expansion disorders.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Frontotemporal Dementia",
+        "Genetic Diseases, X-Linked",
+        "Spinocerebellar Ataxias",
+        "Dystonic Disorders"
+      ],
+      "keywords": [
+        "C9orf72-amyotrophic lateral sclerosis/frontotemporal dementia (ALS/FTD)",
+        "Antisense oligonucleotides (ASOs)",
+        "Clustered regularly interspaced short palindromic repeats (CRISPR)",
+        "Dipeptide repeat (DPR) proteins",
+        "G-quadruplex (G4) structures",
+        "Immunotherapy",
+        "R-loop",
+        "RNA foci",
+        "Repeat-associated non-canonical (RAN) translation",
+        "SINE-VNTR-Alu (SVA) retrotransposon",
+        "Small molecules",
+        "Somatic repeat instability",
+        "Spinocerebellar ataxia type 36 (SCA36)",
+        "TDP-43 proteinopathy",
+        "X-linked dystonia-parkinsonism (XDP)"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42799589",
+      "event_key": "pubmed:42799589",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "authors": [
+        "Muhammad Wasim",
+        "Iram Javed",
+        "Guoda Ma"
+      ],
+      "journal": "Genetic testing and molecular biomarkers",
+      "publication_date": "2026-09-26",
+      "pmid": "42799589",
+      "doi": "10.1177/19450265261493084",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799589/",
+      "abstract": "BACKGROUND: Brown-Vialetto-Van Laere syndrome (BVVLS) is a rare, treatable neurodegenerative disorder caused by riboflavin transporter gene variants (SLC52A2, SLC52A3). Early symptoms can mimic neuromuscular junction disorders, causing diagnostic delays.\n\nCASE PRESENTATION: A 3.5-year-old girl from consanguineous parents presented at 2.5 years with isolated bilateral ptosis, later developing dysphagia, dysphonia, facial diplegia, stridor, and respiratory compromise. Examination revealed tongue atrophy with fasciculations and bulbar weakness but normal limb strength. Diagnosed with seronegative myasthenia gravis, she failed to respond to corticosteroids, pyridostigmine, salbutamol, and intravenous immunoglobulin. Absence of fatigability, lower motor neuron signs, and a sibling history of hearing loss and bulbar palsy prompted genetic testing revealed a homozygous missense variant in SLC52A3 (c.670T > C; p.Phe224Leu). High-dose riboflavin (up to 50 mg/kg/day) led to gradual improvement in bulbar function, resolution of stridor, and respiratory stabilization, though ptosis and tongue fasciculations persisted.\n\nCONCLUSION: This report is novel in using clinical response to riboflavin as a functional biomarker for riboflavin transporter deficiency (RTD) in a patient with a variant of uncertain significance, unlike prior cases with definitive genetics. Empiric riboflavin challenge offers a practical framework when genetic results are ambiguous. RTD should be suspected in children with treatment-resistant, non-fluctuating ptosis and bulbar weakness, particularly with consanguinity or family history of hearing loss and bulbar palsy. Early high-dose riboflavin prevents decline, while immunosuppression is ineffective and potentially harmful.",
+      "mesh_terms": [],
+      "keywords": [
+        "Brown–Vialetto–Van Laere syndrome (BVVLS)",
+        "SLC52A3",
+        "riboflavin transporter deficiency",
+        "seronegative myasthenia gravis mimic",
+        "treatable motor neuron disease"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42791439",
+      "event_key": "pubmed:42791439",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
+      "authors": [
+        "Kamran Moradi",
+        "Yaesshna Pillay",
+        "Christina J Azevedo",
+        "Leila Darki",
+        "Said R Beydoun"
+      ],
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "publication_date": "2026-09-26",
+      "pmid": "42791439",
+      "doi": "10.1007/s10072-026-09425-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791439/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Bulbar-onset",
+        "C9orf72",
+        "Concurrent neurodegenerative disorders",
+        "Conjugal ALS",
+        "Multiple sclerosis"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42791200",
       "event_key": "pubmed:42791200",
       "source_id": "pubmed",
@@ -170,7 +383,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42790799",
@@ -201,7 +414,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42789481",
@@ -271,7 +484,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42789089",
@@ -325,7 +538,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42785576",
@@ -532,7 +745,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42788121",
@@ -589,7 +802,7 @@
       "keywords": [],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42786852",
@@ -626,7 +839,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42778113",
@@ -663,6 +876,45 @@
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
       "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42801200",
+      "event_key": "pubmed:42801200",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Versatile Roles of Exosomes in Neurodegenerative Disorders: From Pathological Mechanism and Diagnostic Biomarkers to Therapeutic Application.",
+      "authors": [
+        "Rui Liu",
+        "Hao Yue",
+        "Xinrui Li",
+        "Weiwei Sun",
+        "Junzheng Yang"
+      ],
+      "journal": "Drug design, development and therapy",
+      "publication_date": "2026-09-22",
+      "pmid": "42801200",
+      "doi": "10.2147/DDDT.S631482",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801200/",
+      "abstract": "Neurodegenerative diseases are characterized by cognitive or motor impairments resulting from the progressive degeneration of neurons or myelin sheaths. Currently, the majority of these disorders remain incurable, leading to significant detriments in patients' quality of life and imposing substantial economic burdens. Exosomes are a type of extracellular vesicles secreted by cells into the extracellular space, typically range from 30 to 150 nanometers in diameter. These vesicles have been identified in a variety of cell types and can participate in various physiological and pathological processes, including intercellular transport of biomolecules, signal transduction, immune modulation, tissue repair, facilitation of tumor metastasis, and evasion of immune surveillance by cancer cells. In recent years, the potential applications of exosomes in neurodegenerative diseases have garnered increasing attention. Their roles encompass early diagnostic biomarker functions, vehicles for drug delivery and therapeutic agents, mediators in the propagation of pathogenic proteins, and regulators of neuroinflammatory responses. In this review, we try to aims to synthesize recent progress in exosome isolation techniques, elucidate the pathogenesis of neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic lateral sclerosis (ALS), and Huntington's disease (HD), and examine the diagnostic and therapeutic applications of exosomes within these conditions. Furthermore, it addresses current limitations in exosome-based applications and explores potential strategies to overcome these challenges. The insights of this review may provide the research directions and guidance for future related researchers in these fields.",
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Neurodegenerative Diseases",
+        "Biomarkers",
+        "Animals"
+      ],
+      "keywords": [
+        "diagnosis",
+        "exosomes",
+        "mechanism",
+        "neurodegenerative disease",
+        "pathogenesis",
+        "treatment"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42773049",
@@ -913,6 +1165,36 @@
       "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
+      "id": "42793425",
+      "event_key": "pubmed:42793425",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond Biomarkers: Reclaiming the Central Role of Clinical Neurophysiology in Neuromuscular Disorders.",
+      "authors": [
+        "Marilena Mangiardi"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2026-09-21",
+      "pmid": "42793425",
+      "doi": "10.3390/brainsci16090999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42793425/",
+      "abstract": "Over the past two decades, advances in molecular genetics, immunology, neuroimaging, fluid biomarkers, and artificial intelligence have substantially transformed the diagnosis, classification, and treatment of neuromuscular disorders. However, increasing biological precision has also highlighted an important distinction between identifying disease mechanisms and characterizing their functional expression. Clinical neurophysiology occupies a specific position within this evolving diagnostic landscape by directly assessing nervous system function and providing objective information on impulse conduction, neuromuscular transmission, motor unit integrity, physiological reserve, and disease activity. Consequently, neurophysiological assessment contributes not only to diagnosis but also to differential diagnosis, longitudinal monitoring, prognostic assessment, and therapeutic evaluation. In this critical review, I examine the factors that have progressively shifted clinical neurophysiology from an interpretative clinical discipline toward a more procedural role. Using representative examples from myasthenia gravis, immune-mediated neuropathies, myopathies, and amyotrophic lateral sclerosis, I discuss how physiological information complements molecular, serological, imaging, and other biological biomarkers. I further examine the emerging role of artificial intelligence, including its potential for automated signal analysis and quantitative assessment, as well as current limitations related to generalizability, validation, and overreliance on pattern recognition. I propose a complementary conceptual framework in which biological and molecular approaches characterize disease mechanisms, while clinical neurophysiology defines their functional expression and clinical relevance in the individual patient. Within this framework, clinical neurophysiology should not be considered an alternative to precision medicine, but an integrated physiological dimension of it, connecting biological characterization with clinically actionable functional information.",
+      "mesh_terms": [],
+      "keywords": [
+        "biomarkers",
+        "clinical neurophysiology",
+        "electromyography",
+        "electrophysiology",
+        "nerve conduction studies",
+        "neuromuscular disorders",
+        "precision medicine"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42769571",
       "event_key": "pubmed:42769571",
       "source_id": "pubmed",
@@ -983,6 +1265,41 @@
       "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
+      "id": "42791964",
+      "event_key": "pubmed:42791964",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Demographic Shortcuts Account for Most of the Apparent Accuracy of Four-Class Gait-Based Differential Diagnosis in Neurodegenerative Disease: An Interpretability-Driven Audit of Machine Learning on a Public Gait Benchmark.",
+      "authors": [
+        "Zheng Wang",
+        "Yitong Xia",
+        "Guifeng Zhang"
+      ],
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "publication_date": "2026-09-20",
+      "pmid": "42791964",
+      "doi": "10.3390/bioengineering13091092",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791964/",
+      "abstract": "Machine-learning gait studies often report high accuracy for separating neurodegenerative diseases, but rarely test whether this reflects pathology or the demographic differences that accompany disease in convenience cohorts. We audited the PhysioNet Gait in Neurodegenerative Disease Database (63 subjects: controls, Parkinson's disease [PD], Huntington's disease [HD], amyotrophic lateral sclerosis [ALS]), classifying 37 stride-rhythm features under subject-disjoint nested leave-one-subject-out cross-validation. A random forest reached a macro-averaged one-vs-rest AUROC of 0.832 (95% CI 0.759-0.904; permutation p = 0.001). Four complementary audits-demographic-only baselines, confound adjustment, feature-family ablation, and age matching-show that this overstates gait-specific discrimination: five anthropometric variables alone reached an AUROC of 0.812, statistically indistinguishable from the gait model (p = 0.701), and the de-confounded gait model (0.755) fell further to 0.585 once age was matched across groups. HD was the exception, essentially unaffected by adjustment (0.812 → 0.804) and carried by variability and long-range-correlation measures. In an independent, age-matched cohort recorded with a different sensor (n = 110, PD versus control only), the same vulnerability reappeared through a different variable: the gait model (0.828) showed no statistically significant difference from walking speed alone (0.746, p = 0.11), while age and anthropometry fell to chance; this cohort contained no HD subjects, so the HD finding remains externally unvalidated. The shortcut vulnerability generalises across cohorts; the demographic variable that drives it does not. Four-class differential diagnosis is not demonstrated on this benchmark; HD gait arrhythmicity is the one signal that withstands internal sensitivity analysis. We recommend that accuracy claims from small, demographically imbalanced gait cohorts be accompanied by this kind of audit.",
+      "mesh_terms": [],
+      "keywords": [
+        "Huntington’s disease",
+        "confounding",
+        "differential diagnosis",
+        "explainable artificial intelligence",
+        "external validation",
+        "gait analysis",
+        "machine learning",
+        "neurodegenerative disease",
+        "shortcut learning",
+        "stride-interval dynamics"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42787788",
       "event_key": "pubmed:42787788",
       "source_id": "pubmed",
@@ -1024,7 +1341,7 @@
       ],
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
-      "last_seen_at": "2026-09-26T05:19:20Z"
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42782811",
@@ -1465,6 +1782,46 @@
       "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
+      "id": "42792233",
+      "event_key": "pubmed:42792233",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Effects of Dietary Supplementation with Conjugated Linoleic Acid on Redox Marker Profiles and Neuroaxonal Degeneration in Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Minoo Sharbafshaaer",
+        "Roberta Pepe",
+        "Elvira Cortini",
+        "Teresa Biscardi",
+        "Rosaria Notariale",
+        "Nicolò Mesini",
+        "Elisabetta Zucchi",
+        "Jessica Mandrioli",
+        "Alessandro Tessitore",
+        "Paolo Bergamo",
+        "Francesca Trojsi"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2026-09-18",
+      "pmid": "42792233",
+      "doi": "10.3390/antiox15091194",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792233/",
+      "abstract": "The revised ALS Functional Rating Scale (ALSFRS-R) and the blood plasma accumulation of neurofilament light chain (NfL) are key markers for tracking amyotrophic lateral sclerosis (ALS) progression. Based on recent studies indicating that dietary supplementation with conjugated linoleic acid (CLA) may boost antioxidant enzyme activity in ALS patients, in this study, ALSFRS-R scores (and subscores), NfL and thiol-bound protein (P-SH) levels, and intracellular activity of antioxidant enzymes (G6PD and GSR) were measured in ALS patients after 6 months (T6) of treatment with riluzole (R) or riluzole + CLA (R + CLA); we also investigated the correlations between these markers. At baseline (T0), G6PD activity in the R group was positively correlated with ALSFRS-R score (p < 0.001), whereas plasma P-SH levels in the R + CLA group were inversely correlated with ALSFRS-R score (p = 0.033). No significant baseline association was found between NfL levels and total ALSFRS-R score in the R group. At six months (T6), GSR and G6PD activities in the R + CLA group were significantly higher than in the R group (p < 0.05). Furthermore, a significant inverse correlation between plasma NfL levels and ALSFRS-R total score emerged at T6 exclusively in the R group (p = 0.002). Subscore analysis at T6 showed that plasma NfL levels negatively correlated with bulbar function in both groups (R: p = 0.010; R + CLA: p = 0.020) and with fine motor function in the R group (p = 0.031); whereas no significant correlation was observed for the respiratory subscore in either treatment group. These findings are consistent with an enhanced antioxidant activity associated with CLA supplementation. Overall, these preliminary exploratory results suggest that systemic redox biomarkers and plasma NfL may provide complementary, non-redundant information on distinct aspects of ALS pathobiology, though their precise temporal and mechanistic interactions require confirmation by dedicated longitudinal studies. The need for the combined use of neurodegeneration and oxidative-stress biomarkers for monitoring the progression of ALS is highlighted.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALSFRS-R",
+        "Nrf2-mediated redox homeostasis",
+        "amyotrophic lateral sclerosis",
+        "conjugated linoleic acid",
+        "neurodegeneration",
+        "neurofilament light chain",
+        "systemic redox biomarkers"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42779622",
       "event_key": "pubmed:42779622",
       "source_id": "pubmed",
@@ -1801,6 +2158,42 @@
       "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
+      "id": "42795978",
+      "event_key": "pubmed:42795978",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Incidental/Misdiagnosed Intrahepatic Cholangiocarcinoma and Combined Hepatocellular-Cholangiocarcinoma in Patients Undergoing Living Donor Liver Transplantation.",
+      "authors": [
+        "Tonguç Utku Yilmaz",
+        "Ali Özer",
+        "Murat Yildar",
+        "Hikmet Aktaş",
+        "Bakır Bati",
+        "Meltem Güner Can",
+        "Bedriye Koyuncu Sökmen",
+        "Hale Kirimlioğlu",
+        "Hamdi Karakayali"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2026-09-17",
+      "pmid": "42795978",
+      "doi": "10.3390/jcm15187206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42795978/",
+      "abstract": "Background/Objectives: Mixed hepatocellular-cholangiocarcinoma and intrahepatic cholangiocarcinoma (CCA) are increasingly reported in patients with cirrhosis. Traditionally, these tumor types have not been considered indications for liver transplantation. We aimed to present our single-center experience for incidental CCA following liver transplantation. Methods: Among the 985 living donor liver transplantations, 261 cases were initially diagnosed as hepatocellular carcinoma. We retrospectively reviewed demographic data, preoperative radiological findings, pathology results, and postoperative outcomes. We classified tumors according to the Goodman classification. Results: Cholangiocarcinoma was identified in the explant pathology of 18 patients. According to the Goodman classification, five patients (27%) had type 1 tumors; eight (44.4%) had type 2 tumors; and five (27.8%) had sole CCA lesions. Tumor recurrence occurred in six patients (33.3%). The mean survival time was 61.6 ± 12 months. The mean disease-free survival was 10.67 ± 5.7 months. Disease-free survival times for Goodman type I, type II, and sole cholangiocarcinoma were 14.00 ± 5.57, 8 ± 5.66, and 6.00 ± 0.00 months, respectively. The 1-year and 5-year survival rates were 88% and 55%, respectively. Four patients died due to CCA; the remaining deaths were due to sepsis, COVID-19, amyotrophic lateral sclerosis, and lung squamous cell carcinoma. Conclusions: The misdiagnosed/incidental cholangiocarcinoma in transplanted patients with cirrhosis is rarely seen with high recurrence rates. Although transplant oncology is gaining prominence, preoperative evaluation and postoperative follow-up remain important.",
+      "mesh_terms": [],
+      "keywords": [
+        "cholangiocarcinoma",
+        "hepatocellular carcinoma",
+        "incidental",
+        "living donor liver transplantation",
+        "recurrence"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42770359",
       "event_key": "pubmed:42770359",
       "source_id": "pubmed",
@@ -2011,6 +2404,68 @@
       "collected_at": "2026-09-18T05:02:59Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
       "last_seen_at": "2026-09-20T05:15:34Z"
+    },
+    {
+      "id": "42794664",
+      "event_key": "pubmed:42794664",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Adenosine Deaminase-Mediated Purine Dysfunction Leads to DNA Repair Inhibition and Senescence in Sporadic Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Benjamin Hall",
+        "Yasmina M Ebrahim",
+        "Joanne L Sharpe",
+        "Sangeet Makhija",
+        "Brittany C S Ellis",
+        "Kari E Wong",
+        "Heather Walker",
+        "Miriam Yagüe-Capilla",
+        "Hannah O Timmons",
+        "Arian Bradley",
+        "Ella Nightingale",
+        "Rees Ross",
+        "Chloe F Allen",
+        "Noemi Gatto",
+        "Herbie Garland",
+        "Nikita Soni",
+        "Stephen J Kolb",
+        "J Robin Highley",
+        "Guillaume M Hautbergue",
+        "Sean G Rudd",
+        "Ryan J H West",
+        "Pamela J Shaw",
+        "Scott P Allen"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-09-16",
+      "pmid": "42794664",
+      "doi": "10.3390/ijms27188236",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794664/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterised by the death of motor neurons leading to paralysis and death generally 3-5 years post-symptom onset. ALS is a cell- and non-cell-autonomous disease, with glia such as astrocytes influencing disease pathology and progression. Our laboratory has previously identified purine metabolism dysfunction in induced neural progenitor cell-derived astrocytes (iAstrocytes) from sporadic ALS (SALS) cases, driven by loss of the enzyme adenosine deaminase (ADA). Here, we have demonstrated that loss of ADA, along with changes to ecto-5'-nucleotidase and hypoxanthine-guanine phosphoribosyl transferase led to disruption in purine metabolite levels, linked to the level of the ADA enzyme. These alterations were recapitulated in SALS CSF and post-mortem tissue, with ageing and sex affecting purine metabolite levels downstream of ADA and positively correlating with disease progression. Loss of ADA led to reduced 53BP1-mediated DNA repair and increased P16 levels, which was recapitulated in control iAstrocytes via ADA inhibition. Our findings indicate that TDP43 dysfunction drives impairment of ADA-mediated purine metabolism in vitro, leading to downstream effects that include DNA damage, likely through inhibition of DNA repair mechanisms, and the induction of cellular senescence. Furthermore, these results suggest that therapeutic targeting of the ADA pathway may help slow ALS disease progression.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Purines",
+        "Adenosine Deaminase",
+        "DNA Repair",
+        "Cellular Senescence",
+        "Astrocytes",
+        "Female",
+        "Male",
+        "DNA-Binding Proteins"
+      ],
+      "keywords": [
+        "ADA",
+        "ALS",
+        "MND",
+        "astrocyte",
+        "metabolomics",
+        "purine metabolism"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42783617",
@@ -2249,6 +2704,46 @@
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
       "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
+      "id": "42794615",
+      "event_key": "pubmed:42794615",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Interpreting Viral Associations in Neurodegenerative Diseases.",
+      "authors": [
+        "Anna Karin Hedström"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-09-15",
+      "pmid": "42794615",
+      "doi": "10.3390/ijms27188185",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794615/",
+      "abstract": "Viral infections have been associated with multiple sclerosis (MS), Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), but the associations may reflect different relationships to the disease process. This review evaluates evidence for viral involvement in disease initiation, modification of established disease, impaired viral control secondary to disease or treatment, and incidental detection. The strongest temporal evidence concerns Epstein-Barr virus (EBV) and MS. Prospective data place EBV seroconversion before clinical onset and the first observed increase in serum neurofilament light chain, while mechanistic studies link EBV infection, B-cell biology, and CNS-directed immunity. However, evidence that ongoing EBV activity modifies established MS remains limited. In AD, experimental studies support interactions between herpesviruses and AD-associated proteins, while the reduced incidence of all-cause dementia after herpes zoster vaccination suggests that viral or immunological pathways may be modifiable, without establishing that a specific herpesvirus initiates AD. Viral associations in PD rely mainly on epidemiological, experimental, and postmortem findings. Human pegivirus detection in a subset of PD brains remains a candidate association requiring independent confirmation and evidence of biological activity. Evidence in ALS is similarly limited. Enterovirus detection has been inconsistent, and altered human endogenous retrovirus K (HERV-K) expression in postmortem tissue does not establish an acquired viral infection. Stronger inference across these diseases will require longitudinal studies relating viral activity and antiviral immunity to subsequent disease-related changes, together with intervention studies that document the intended effect on the implicated viral process and separately assess subsequent disease risk or progression.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Virus Diseases",
+        "Parkinson Disease",
+        "Amyotrophic Lateral Sclerosis",
+        "Herpesvirus 4, Human"
+      ],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Epstein–Barr virus",
+        "Parkinson’s disease",
+        "amyotrophic lateral sclerosis",
+        "antiviral immunity",
+        "herpesviruses",
+        "human pegivirus",
+        "multiple sclerosis",
+        "viral reactivation"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42759101",
@@ -3181,6 +3676,47 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42794442",
+      "event_key": "pubmed:42794442",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Batch- and Composition-Controlled Reanalysis of Bulk and Single-Nucleus Transcriptomes Reveals Co-Enrichment of Glial Complement and of Translational Signatures in Parkinson's Disease and Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Chaeyun Jung"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-09-09",
+      "pmid": "42794442",
+      "doi": "10.3390/ijms27188011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794442/",
+      "abstract": "Failure of axonal maintenance is proposed as a mechanism shared by Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS). We reanalysed three public post-mortem resources under one rule set: bulk RNA-seq of 1242 samples from 319 donors (GSE153960) and midbrain single-nucleus RNA-seq (GSE157783, GSE178265). As a contributing project, a second batch variable tracked diagnosis in both cord segments and was completely separated from it in three cortical regions, which we removed. Adjusting for this removed a third of the naive differential expression. In ALS cord, the dominant depleted program was microtubule-based axonal transport (normalised enrichment score -2.40, FDR < 0.001); a regeneration-associated panel reached significance in none of ten fits. An ALS cord signature carried into the PD midbrain and scored highest on microglia in all 11 donors (+3.55 versus +0.73 next). Of 86 gene sets significant in both diseases, a translation block contained the GCN2 amino-acid-deficiency response. Both axes are compartment-level: within PD microglia, the complement panel is null (+0.21, p = 0.57). No GCN2 activity was measured, and the ALS cord is compared against PD midbrain. The axes that survive this control are glial and translational; the axonal question is not adjudicable in PD, where the panel score tracks dopaminergic content.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Parkinson Disease",
+        "Transcriptome",
+        "Neuroglia",
+        "Gene Expression Profiling",
+        "Mesencephalon"
+      ],
+      "keywords": [
+        "GCN2",
+        "Parkinson’s disease",
+        "TREM2",
+        "amyotrophic lateral sclerosis",
+        "axonal transport",
+        "batch effect adjustment",
+        "complement",
+        "integrated stress response",
+        "neuroinflammation",
+        "single-nucleus RNA sequencing"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42782733",
       "event_key": "pubmed:42782733",
       "source_id": "pubmed",
@@ -3317,6 +3853,38 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42791674",
+      "event_key": "pubmed:42791674",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Tibialis Cranialis Extrafusal and Intrafusal Myofibers and Muscle Spindle Pathology in Canine Degenerative Myelopathy.",
+      "authors": [
+        "Brandie Morgan-Jack",
+        "Martin L Katz",
+        "Grace R Kick",
+        "Joan R Coates"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-09-08",
+      "pmid": "42791674",
+      "doi": "10.3390/ani16182817",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791674/",
+      "abstract": "Canine degenerative myelopathy (DM) is a progressive, adult-onset neurodegenerative disease, with similarities to superoxide dismutase 1 (SOD1)-associated ALS. Clinical signs of DM begin with asymmetric pelvic limb general proprioceptive ataxia and spastic paresis that progresses to flaccid tetraplegia and respiratory failure. Although pelvic limb muscle atrophy and peripheral neuropathy have been reported in DM, intramuscular SOD1 accumulation and muscle spindle pathology remain incompletely characterized. This study evaluated pathological changes in the tibialis cranialis muscle of Pembroke Welsh Corgis with early- and late-stage DM and age-matched unaffected controls. Histologic stains and immunohistochemistry were used to evaluate myofiber morphology, fiber type distribution, muscle spindle integrity, and SOD1 immunoreactivity. Compared to unaffected dogs, DM-affected dogs exhibited increased SOD1 immunolabeling, greater variability in myofiber size, altered myofiber shape and packing, and fibrosis. A progressive reduction in the percentage of type I myofibers was observed without evidence of fiber type grouping. These changes were evident during early disease and became more pronounced with disease progression. Muscle spindles exhibited late-stage disruption of intrafusal myofiber organization and marked increase in SOD1 immunoreactivty. The observed alterations suggest that the muscle pathology was, at least in part, intrinsic to the muscle, rather than being secondary to neurodegeneration. Our findings demonstrate early and progressive pathological changes in the tibialis cranialis muscle, expanding our understanding of skeletal muscle involvement in DM.",
+      "mesh_terms": [],
+      "keywords": [
+        "SOD1",
+        "amyotrophic lateral sclerosis",
+        "dog",
+        "muscle atrophy",
+        "myofiber",
+        "skeletal muscle"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42775169",
@@ -3872,6 +4440,42 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42797450",
+      "event_key": "pubmed:42797450",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Efficacy of Curcumin in Neurodegenerative Diseases: From Pharmacokinetic Barriers to Advanced Delivery Systems.",
+      "authors": [
+        "Alejandra Castello-Guillen",
+        "Marta Garrido-Reig",
+        "Jordi Caplliure-Llopis",
+        "María Jesús Vega-Bello",
+        "Celia Almela",
+        "José Enrique de la Rubia Ortí"
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "publication_date": "2026-09-06",
+      "pmid": "42797450",
+      "doi": "10.3390/ph19091405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797450/",
+      "abstract": "Background and Objectives: The main neurodegenerative diseases (NDs)-Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS)-represent a growing global health burden with no available disease-modifying therapies. Curcumin, a polyphenol from Curcuma longa, is a promising candidate owing to its pleiotropic antioxidant, anti-inflammatory, and neuroprotective profile observed mainly in preclinical models, but the poor oral bioavailability (<1%) and negligible BBB penetration (<0.1%) have substantially limited curcumin's clinical translation. The objective of this work was to critically examine the therapeutic potential of curcumin in NDs, focusing on advanced drug delivery systems (DDSs) designed to overcome its pharmacokinetic barriers. Methods: This is a narrative, non-systematic review of PubMed/MEDLINE, Scopus, and Web of Science. The review is organized around five complementary thematic areas selected to span the full translational pipeline of curcumin in neurodegeneration, from mechanistic rationale to clinical applicability: (1) molecular mechanisms, addressing the pleiotropic activities that justify therapeutic interest; (2) pharmacokinetic barriers, the principal obstacle to clinical translation; (3) the evolution of drug delivery systems (DDSs), documenting the technological strategies developed to overcome these barriers; (4) disease-specific applications, evaluating the available evidence across the four main NDs; and (5) translational limitations, identifying the methodological and regulatory gaps that must be closed to enable clinical implementation. Results: Curcumin exhibits neuroprotective activity in preclinical models of the four NDs analysed, acting on six interconnected mechanisms and the gut-brain axis. Four generations of DDSs have been developed, from phytosomes and clinically used lipid dispersions (Meriva®, BCM-95®, Longvida®, and Theracurmin®) to fourth-generation systems (biomimetic nanoparticles, MOFs, microneedles, 3D scaffolds, hydrogels, and carbon dots) that substantially increase the bioavailability in preclinical studies. Combination strategies, such as curcumin with resveratrol and dutasteride, show preliminary clinical signals in ALS. However, clinical translation remains limited: over 80% of positive animal findings have not been replicated in humans, formulation characterization is frequently incomplete, and most trials lack CNS-exposure biomarkers. Importantly, most of the reported bioavailability claims are based on total curcumin measurements (parent aglycone plus its inactive Phase II conjugates) rather than the active aglycone alone, a methodological limitation that should be considered when interpreting the magnitude of the bioavailability improvements reported for novel formulations. Conclusions: Curcumin exhibits pleiotropic neuroprotective activity in preclinical models of AD, PD, MS, and ALS, mediated by interconnected antioxidant, anti-inflammatory, anti-amyloidogenic, mitochondrial, and gut-brain axis mechanisms. However, its poor systemic bioavailability (<1%), minimal blood-brain barrier penetration, and extensive first-pass metabolism have limited clinical translation. Advanced drug delivery systems (including lipid-based carriers (liposomes, solid lipid nanoparticles, and nanostructured lipid carriers), polymeric nanoparticles (PLGA and chitosan), and bioinspired vesicles (exosomes)) are essential in order to overcome these barriers. Nevertheless, the formulation heterogeneity, limited long-term safety data, and reliance on preclinical models remain major obstacles; a definitive clinical translation will therefore require well-characterized formulations validated in phase II/III trials with cerebrospinal fluid exposure biomarkers, the pharmacokinetic monitoring of active aglycone (rather than total curcumin including inactive conjugates), and adaptive trial designs in neurological populations.",
+      "mesh_terms": [],
+      "keywords": [
+        "bioavailability",
+        "blood–brain barrier",
+        "curcumin",
+        "drug delivery systems",
+        "exosomes",
+        "liposomes",
+        "nanoparticles",
+        "neurodegenerative disease"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42756835",
       "event_key": "pubmed:42756835",
       "source_id": "pubmed",
@@ -4028,6 +4632,43 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42792156",
+      "event_key": "pubmed:42792156",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Carnosine Potentiates a Compensatory Mitochondrial-Synaptic Proteomic Response in the ALS Cerebellum.",
+      "authors": [
+        "Hellen P Valerio",
+        "Valeria Oliveira",
+        "Stephanie Y Ferreira",
+        "Isabel R Pereira",
+        "Giuseppe Palmisano",
+        "Mariana P Massafera",
+        "Vanderson S Bispo",
+        "Fernanda M Prado",
+        "Paolo Di Mascio",
+        "Marisa H G Medeiros"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2026-09-04",
+      "pmid": "42792156",
+      "doi": "10.3390/antiox15091117",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792156/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron degeneration and chronic neuroinflammation in the brain and spinal cord, involving complex interactions between neurons and immune cells. Carnosine (β-alanyl-L-histidine) has pathophysiological relevance due to its ability to detoxify reactive carbonyl species, including α,β-unsaturated aldehydes, scavenge free radicals, and chelate zinc, and has also been proposed to function in the central nervous system as a histidine reservoir for histamine synthesis. Here, we investigated the effects of carnosine supplementation on the cerebellar proteome of SOD1G93A ALS rats using quantitative proteomics. Carnosine treatment extensively remodeled mitochondrial, antioxidant, and synaptic vesicle-trafficking protein networks and increased the abundance of glutamatergic and GABAergic receptor subunits relative to untreated ALS animals, with several of these changes exceeding wild-type levels. Pathway enrichment analyses identified significant up-regulation of Rab-mediated vesicle trafficking, synaptic vesicle cycling, and neurotransmitter transport/secretion pathways, alongside a partial reduction in RNA splicing and proteasomal subunits that were elevated in untreated ALS animals. Cross-comparison with the ALS-associated proteomic signature revealed that most carnosine-responsive proteins followed, rather than reversed, the direction of disease-associated change, indicating that carnosine predominantly potentiates an endogenous compensatory program rather than restoring a wild-type-like proteome. Collectively, these findings show that carnosine drives systems-level remodeling of mitochondrial and synaptic networks in the ALS cerebellum, identifying candidate compensatory pathways and supporting further functional validation of carnosine as a component of multimodal therapeutic strategies in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "SOD1G93A",
+        "amyotrophic lateral sclerosis",
+        "carnosine",
+        "cerebellum",
+        "proteomics"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42761537",
@@ -5220,6 +5861,88 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42796657",
+      "event_key": "pubmed:42796657",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Prion-like Protein TDP-43: Mechanisms, Diagnosis, and Therapeutic Prospects.",
+      "authors": [
+        "Mika Inada Shimamura",
+        "Katsuya Satoh"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publication_date": "2026-08-25",
+      "pmid": "42796657",
+      "doi": "10.3390/pathogens15090890",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42796657/",
+      "abstract": "TDP-43 proteinopathies, encompassing amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), and limbic-predominant age-related TDP-43 encephalopathy (LATE), represent a heterogeneous spectrum of devastating neurodegenerative disorders. For decades, the diverse clinical presentations of these diseases have complicated antemortem diagnosis and hindered the development of disease-modifying therapies. However, recent breakthroughs in basic science are beginning to address these clinical barriers, although substantial hurdles to practical clinical application remain. Structural elucidation via cryo-electron microscopy (Cryo-EM) has shattered the single-protein amyloid dogma by revealing that TDP-43 can form hetero-amyloid filaments with ANXA11, thereby providing a molecular basis for pathological strain diversity. Concurrently, the pathogenic focus has shifted toward nuclear loss of function, which triggers a systemic \"RNA crisis\" characterized by aberrant alternative polyadenylation (APA) and cryptic exon inclusion (e.g., STMN2, UNC13A). Crucially, this metabolic collapse is profoundly exacerbated by patient-specific genetic risk factors, acting synergistically in a \"two-hit\" model of neurodegeneration. To translate these findings to the clinic, next-generation diagnostic tools are emerging. Integrating neuron-derived extracellular vesicle (EV) isolation with Seed Amplification Assays (SAAs) holds promise to help overcome the structural camouflage that limits current PET imaging, potentially offering ultra-sensitive, functional strain identification in biofluids. While these structural and diagnostic milestones provide a strong foundation for precision medicine, major challenges in assay standardization and clinical validation must be addressed. Advanced therapeutic strategies-namely, splice-switching antisense oligonucleotides (ASOs) that directly restore RNA metabolism, combined with the targeted suppression of neuronal hyperexcitability-are now entering clinical trials. This review synthesizes how decoding the structural and RNA-metabolic complexities of TDP-43 is paving a promising pathway from bench to bedside, while critically discussing current translational limitations.",
+      "mesh_terms": [
+        "Humans",
+        "DNA-Binding Proteins",
+        "TDP-43 Proteinopathies",
+        "Animals",
+        "Prions"
+      ],
+      "keywords": [
+        "TDP-43",
+        "amyotrophic lateral sclerosis (ALS)",
+        "cryo-electron microscopy (Cryo-EM)",
+        "frontotemporal lobar degeneration (FTLD)",
+        "precision medicine",
+        "prion-like propagation",
+        "seed amplification assay (SAA)"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42791577",
+      "event_key": "pubmed:42791577",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Riluzole shifts glial responses to protect synapses and memory in Aβ oligomer-treated rats.",
+      "authors": [
+        "Min-Kaung-Wint-Mon",
+        "Hiroyuki Kida",
+        "Ryoichi Kimura",
+        "Dai Mitsushima"
+      ],
+      "journal": "Journal of neuroinflammation",
+      "publication_date": "2026-08-25",
+      "pmid": "42791577",
+      "doi": "10.1186/s12974-026-03972-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791577/",
+      "abstract": "BACKGROUND: Soluble Aβ1-42 (amyloid beta) oligomers are potent neurotoxins that disrupt synaptic function, alter glial responses, and lead to memory impairment in Alzheimer's disease (AD). Riluzole, a glutamate modulator approved for amyotrophic lateral sclerosis, reduces neuronal hyperexcitability, yet its in vivo effects on Aβ oligomer-induced cognitive dysfunction and glial alterations remain incompletely understood. Here, we investigated whether riluzole ameliorates Aβ1-42 oligomer-induced memory impairment and associated hippocampal pathology.\n\nMETHODS: Aβ1-42 oligomers were bilaterally microinjected into the dorsal CA1 region of freely moving male rats, followed by daily riluzole administration for 7 days. Then, the animals underwent a battery of behavioural tests before being sacrificed for immuno-histochemical studies. Glial engulfment of Aβ and synapse was visualized through multiplex immunohistochemistry combined with super-resolution microscopy and three-dimensional (3D) reconstruction.\n\nRESULTS: Behavioral analyses revealed that riluzole significantly improved hippocampus-dependent memory, including contextual learning and spatial working memory, without affecting locomotor activity, anxiety-like behavior, or pain sensitivity. At the cellular level, riluzole reduced neuronal Aβ accumulation which was strongly associated with improved learning performance across individual animals. It enhanced robust Aβ internalization and lysosomal processing within astrocytes and microglia. Though Aβ-induced glial recruitment and activation persisted, riluzole enhanced morphological remodeling and shifted glial cells towards neuroprotective phenotype. Riluzole also attenuated Aβ-induced neuronal apoptosis, dendritic degeneration, and dendritic spine loss across the dorsal CA1 sublayers, and limited complement-mediated synaptic elimination by microglia.\n\nCONCLUSION: By enhancing glial Aβ clearance and preserving synaptic integrity, riluzole effectively counteracts Aβ-driven cognitive decline. Together, these findings highlight coordinated glial remodeling as a physiologically relevant mechanism at a therapeutically actionable stage of AD.",
+      "mesh_terms": [
+        "Animals",
+        "Riluzole",
+        "Male",
+        "Amyloid beta-Peptides",
+        "Synapses",
+        "Rats",
+        "Neuroprotective Agents",
+        "Neuroglia",
+        "Peptide Fragments",
+        "Memory",
+        "Memory Disorders",
+        "Rats, Sprague-Dawley"
+      ],
+      "keywords": [
+        "Astrocytes",
+        "Aβ1-42 oligomers",
+        "Contextual memory",
+        "Microglia",
+        "Riluzole",
+        "Synaptic loss"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
       "id": "42713279",
       "event_key": "pubmed:42713279",
       "source_id": "pubmed",
@@ -5269,6 +5992,50 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42792090",
+      "event_key": "pubmed:42792090",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Mitochondrial Quality Control Impairment Is a Hallmark of TDP-43G376D ALS Patient-Derived Fibroblasts.",
+      "authors": [
+        "Giuseppe Petito",
+        "Maria Ventriglia",
+        "Victoria Stefania Del Fiore",
+        "Arianna Cuomo",
+        "Federica Cioffi",
+        "Francesco Manfrevola",
+        "Flora Guerra",
+        "Lucia Bertuccini",
+        "Giulia Ricci",
+        "Gilda Cobellis",
+        "Antonia Lanni",
+        "Cecilia Bucci",
+        "Roberta Romano",
+        "Rosalba Senese"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2026-08-22",
+      "pmid": "42792090",
+      "doi": "10.3390/antiox15091051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792090/",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disorder strongly associated with mitochondrial dysfunction and impaired proteostasis. Mutations in TARDBP, encoding TAR DNA-binding protein 43 (TDP-43), contribute to disease pathogenesis through cytoplasmic mislocalization and aggregation. Among these, the ALS-linked TDP-43G376D mutation has been previously associated with oxidative stress, mitochondrial fragmentation, and impaired oxidative phosphorylation. Here, we investigated the impact of TDP-43G376D on Mitochondrial Quality Control (MQC) pathways using patient-derived dermal fibroblasts carrying the mutation at early and advanced disease stages, complemented by HEK293T and Neuro2a cellular models expressing mutant TDP-43. We show that TDP-43G376D impairs mitophagic flux, as evidenced by reduced delivery of damaged mitochondria to lysosomes. This was accompanied by pronounced disruption of mitochondrial cristae architecture and accumulation of mitochondrial DNA damage, indicating compromised mitochondrial genome integrity. Furthermore, TDP-43G376D induces sustained activation of the mitochondrial Unfolded Protein Response (UPRmt), consistent with persistent mitochondrial stress, while selectively impairing the sirtuin-dependent antioxidant branch. In parallel, activation of the Endoplasmic Reticulum UPR (UPRER) was observed, indicating a coordinated engagement of cellular stress pathways. Collectively, our findings identify coordinated alterations in multiple MQC pathways associated with TDP-43G376D rather than isolated mitochondrial defects, supporting further investigation of these pathways in larger and disease-relevant ALS models.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic Lateral Sclerosis (ALS)",
+        "Endoplasmic Reticulum stress",
+        "Mitochondrial Quality Control (MQC)",
+        "TDP-43",
+        "mitochondrial Unfolded Protein Response (UPRmt)",
+        "mitochondrial dysfunction",
+        "mitophagy",
+        "oxidative stress"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42740795",
@@ -5637,6 +6404,51 @@
       "collected_at": "2026-09-18T19:15:01Z",
       "first_seen_at": "2026-09-18T19:15:01Z",
       "last_seen_at": "2026-09-21T05:18:38Z"
+    },
+    {
+      "id": "42799464",
+      "event_key": "pubmed:42799464",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Toward Unified Autonomous Scattering Experiments: A Cross-Facility Case Study at ALS and PETRA III.",
+      "authors": [
+        "Wiebke Koepp",
+        "Benedikt Sochor",
+        "Dylan McReynolds",
+        "Tanny Chavez",
+        "Marcus Noack",
+        "Raja Vyshnavi Sriramoju",
+        "Aidan H Coffey",
+        "Yunfei Wang",
+        "Enno Henn",
+        "Anna Katharina Sambale",
+        "Eric Euchler",
+        "Damon English",
+        "Frank Schlünzen",
+        "Eric Schaible",
+        "Chenhui Zhu",
+        "Sarathlal Koyiloth Vayalil",
+        "Stephan V Roth",
+        "Alexander Hexemer"
+      ],
+      "journal": "Photon science",
+      "publication_date": "2026-03-02",
+      "pmid": "42799464",
+      "doi": "10.1021/photonsci.5c00044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799464/",
+      "abstract": "Autonomous experiments rely on the integration of control, data acquisition, analysis, and decision-making frameworks. While such systems have been demonstrated at individual facilities, adapting them to additional instruments remains challenging due to differences in local infrastructure. We present a modular workflow that connects existing open-source tools for data access (Tiled), workflow orchestration (Prefect), analysis and visualization (pyFAI, Plotly Dash), and Gaussian-process-based adaptive sampling (gpCAM) into a unified framework for autonomous scattering experiments. The same configuration operates across two synchrotron beamlines (ALS 7.3.3 and PETRA III P03) with only minimal facility-specific adjustments, as shown in proof-of-concept demonstrations. This validates that a consistent design emphasizing modularity and shared interfaces can ease deployment across diverse experimental environments. The resulting framework provides a flexible foundation for extending autonomous control and analysis capabilities beyond a single beamline or instrument.",
+      "mesh_terms": [],
+      "keywords": [
+        "Gaussian process regression",
+        "autonomous experiments",
+        "beamline automation",
+        "cross-facility workflows",
+        "small- and wide-angle scattering"
+      ],
+      "collected_at": "2026-09-28T05:44:22Z",
+      "first_seen_at": "2026-09-28T05:44:22Z",
+      "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
       "id": "42752431",
