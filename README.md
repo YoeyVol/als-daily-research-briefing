@@ -27,7 +27,7 @@ data/
   news.json                  # RSS / website 新闻记录
   seen.json                  # 已处理事件键与各来源最近成功时间
 docs/
-  index.html                 # 自动生成的公开页面
+  index.html                 # 可直接部署到 GitHub Pages 的静态页面
 .github/workflows/
   daily.yml                  # 北京时间 08:30 定时运行，也支持手动运行
 ```
@@ -132,6 +132,7 @@ ALS Association、MND Association、ALS TDI、NEALS、FDA 与 EMA 已作为禁�
 
 ## 历史日报
 
+- [2026-09-28](2026-09-28.md)
 - [2026-09-15](2026-09-15.md)
 - [2026-09-10](2026-09-10.md)
 - [2026-09-09](2026-09-09.md)
