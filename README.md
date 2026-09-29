@@ -53,7 +53,7 @@ python send_email.py --dry-run
 
 ## GitHub Actions
 
-工作流使用 cron `30 0 * * *`。GitHub Actions 的 cron 是 UTC，因此对应北京时间（Asia/Shanghai）每天 08:30。`workflow_dispatch` 可在仓库 Actions 页面手动触发。
+工作流使用 cron `30 0 * * *`。GitHub Actions 的 cron 是 UTC，因此对应北京时间（Asia/Shanghai）每天 08:30。 `workflow_dispatch` 可在仓库 Actions 页面手动触发。
 
 工作流流程：
 
@@ -132,6 +132,7 @@ ALS Association、MND Association、ALS TDI、NEALS、FDA 与 EMA 已作为禁�
 
 ## 历史日报
 
+- [2026-09-29](2026-09-29.md)
 - [2026-09-28](2026-09-28.md)
 - [2026-09-15](2026-09-15.md)
 - [2026-09-10](2026-09-10.md)
