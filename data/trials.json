@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-09-28T05:44:22Z",
-  "new_keys": [],
+  "updated_at": "2026-09-29T06:01:55Z",
+  "new_keys": [
+    "clinicaltrials:NCT04394871:2026-09-28",
+    "clinicaltrials:NCT07844590:2026-09-28"
+  ],
   "items": [
+    {
+      "id": "NCT07844590",
+      "event_key": "clinicaltrials:NCT07844590:2026-09-28",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07844590",
+      "title": "Developing New Ways to Detect Respiratory Impairment Early in ALS",
+      "sponsor": "Thomas Jefferson University",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-09",
+      "last_update_date": "2026-09-28",
+      "url": "https://clinicaltrials.gov/study/NCT07844590",
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
+      "id": "NCT04394871",
+      "event_key": "clinicaltrials:NCT04394871:2026-09-28",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04394871",
+      "title": "Clinical Manifestations and Biomarkers in Amyotrophic Lateral Sclerosis Type 4 and Other Inherited Neurological Disorders of RNA Processing",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2020-12-14",
+      "last_update_date": "2026-09-28",
+      "url": "https://clinicaltrials.gov/study/NCT04394871",
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
     {
       "id": "NCT07088159",
       "event_key": "clinicaltrials:NCT07088159:2026-09-25",

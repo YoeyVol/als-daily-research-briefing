@@ -1,26 +1,11 @@
 {
-  "updated_at": "2026-09-28T05:44:22Z",
+  "updated_at": "2026-09-29T06:01:55Z",
   "new_keys": [
-    "pubmed:42800647",
-    "pubmed:42799915",
-    "pubmed:42799858",
-    "pubmed:42799589",
-    "pubmed:42791439",
-    "pubmed:42799464",
-    "pubmed:42801200",
-    "pubmed:42793425",
-    "pubmed:42791964",
-    "pubmed:42792233",
-    "pubmed:42795978",
-    "pubmed:42794664",
-    "pubmed:42794615",
-    "pubmed:42794442",
-    "pubmed:42791674",
-    "pubmed:42797450",
-    "pubmed:42792156",
-    "pubmed:42796657",
-    "pubmed:42791577",
-    "pubmed:42792090"
+    "pubmed:42804741",
+    "pubmed:42804712",
+    "pubmed:42803299",
+    "pubmed:42802700",
+    "pubmed:42805693"
   ],
   "items": [
     {
@@ -162,6 +147,129 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42804741",
+      "event_key": "pubmed:42804741",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "REM-associated nocturnal hypercapnia in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Keito Ishihara",
+        "Hiroyuki Naito",
+        "Hirofumi Maruyama"
+      ],
+      "journal": "QJM : monthly journal of the Association of Physicians",
+      "publication_date": "2026-09-28",
+      "pmid": "42804741",
+      "doi": "10.1093/qjmed/hcag270",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804741/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
+      "id": "42804712",
+      "event_key": "pubmed:42804712",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neuroepigenetics of the Environmental Exposome: Molecular and Clinical Implications in Neurodegeneration.",
+      "authors": [
+        "Elizabeth Avendaño-Arango",
+        "Isabella Salom-Palacio",
+        "Edgard Eliud Castillo-Támara",
+        "Belkis Palacio-Villalba"
+      ],
+      "journal": "The neurologist",
+      "publication_date": "2026-09-28",
+      "pmid": "42804712",
+      "doi": "10.1097/NRL.0000000000000694",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804712/",
+      "abstract": "BACKGROUND: Neuroepigenetics studies the molecular mechanisms that regulate gene expression in the nervous system without altering the DNA sequence. The environmental exposome has emerged as a key factor influencing neuronal plasticity and brain homeostasis, contributing to vulnerability to neurodegeneration.\n\nREVIEW SUMMARY: This narrative review analyzes the role of neuroepigenetic reprogramming as a central mechanism linking chronic environmental exposures with neurodegenerative diseases. Evidence indicates that alterations in DNA methylation, histone remodeling, and microRNA regulation contribute to mitochondrial dysfunction, oxidative stress, and chronic neuroinflammation. These mechanisms are critically involved in the pathogenesis of Alzheimer disease, Parkinson disease, and amyotrophic lateral sclerosis.\n\nCONCLUSIONS: Neuroepigenetics represents a central mechanistic axis in neurodegeneration by integrating environmental exposures with intrinsic biological processes. This framework offers new opportunities for the development of early biomarkers and targeted preventive and therapeutic strategies.",
+      "mesh_terms": [],
+      "keywords": [
+        "DNA methylation",
+        "environmental exposures",
+        "exposome",
+        "neurodegeneration",
+        "neuroepigenetics"
+      ],
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
+      "id": "42803299",
+      "event_key": "pubmed:42803299",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Takayuki Shirakawa",
+        "Satsuki Mikuriya",
+        "Yuki Inoue",
+        "Kota Murasaki",
+        "Florencia Salinas",
+        "Tomo Takegawa-Araki",
+        "Makoto Tamura"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-09-28",
+      "pmid": "42803299",
+      "doi": "10.1093/brain/awag334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803299/",
+      "abstract": "Amyotrophic lateral sclerosis is a fatal neurodegenerative disease characterized by the cytoplasmic mislocalization, aberrant phosphorylation and pathological aggregation of TDP-43, a nuclear RNA-binding protein essential for RNA metabolism. Despite its central involvement in ALS pathogenesis, the molecular mechanisms that govern TDP-43 proteostasis remain incompletely understood. Here, we investigated the role of LRSAM1, an E3 ubiquitin ligase, in regulating TDP-43 localization and degradation. Postmortem spinal cord tissues from five patients with sporadic amyotrophic lateral sclerosis and five healthy controls were examined. Immunohistochemical analyses revealed that LRSAM1 preferentially colocalized with diffusely mislocalized cytoplasmic TDP-43 but not with dense cytoplasmic aggregates, suggesting a potential role in early-stage pathological processing. To model these effects in vitro, induced pluripotent stem cell-derived motor neurons from three patients with amyotrophic lateral sclerosis and four healthy control participants were used. Knockdown of LRSAM1 in induced pluripotent stem cell-derived motor neurons from patients with amyotrophic lateral sclerosis significantly increased cytoplasmic TDP-43 accumulation and phosphorylation, as measured by immunofluorescence imaging. Moreover, STMN2 mRNA splicing, a well-established TDP-43 functional readout, was disrupted upon LRSAM1 depletion. Conversely, overexpression of LRSAM1 ameliorated stress-induced TDP-43 mislocalization and phosphorylation in induced pluripotent stem cell-derived motor neurons from patients with amyotrophic lateral sclerosis but had minimal impact in control cells, indicating disease-specific vulnerability. Mechanistically, LRSAM1 interacted directly with the aggregation-prone C-terminal fragments of TDP-43 via the RRM2 domain of TDP-43 and promoted their proteasomal degradation. This selective interaction reduced the accumulation of toxic TDP-43 species and supported cytoplasmic proteostasis, particularly under conditions of cellular stress. In summary, our study identifies LRSAM1 as a novel modulator of cytoplasmic TDP-43 dynamics in amyotrophic lateral sclerosis. By facilitating degradation of pathogenic TDP-43 fragments, LRSAM1 preserves neuronal RNA processing and mitigates molecular hallmarks of amyotrophic lateral sclerosis. These findings enhance our understanding of post-translational control of TDP-43 and highlight LRSAM1 as a promising therapeutic target for modifying disease progression in amyotrophic lateral sclerosis.",
+      "mesh_terms": [],
+      "keywords": [
+        "RNA-binding proteins",
+        "iPSC-derived motor neurons",
+        "motor neuron disease",
+        "proteasomal degradation",
+        "proteinopathy",
+        "ubiquitination"
+      ],
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
+      "id": "42802700",
+      "event_key": "pubmed:42802700",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Conformational insights into the unfolding pathway of RNA recognition motif (RRM) domain of TAF15 associated with amyotrophic lateral sclerosis.",
+      "authors": [
+        "Vishakha Chaudhary",
+        "Priyanka Kataria",
+        "Kusum Yadav",
+        "Vijay Kumar",
+        "Amresh Prakash"
+      ],
+      "journal": "Journal of biomolecular structure & dynamics",
+      "publication_date": "2026-09-28",
+      "pmid": "42802700",
+      "doi": "10.1080/07391102.2026.2735392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802700/",
+      "abstract": "The RNA recognition motif (RRM) domain of TAF15 protein plays an essential role in RNA binding and regulation of diverse cellular processes. However, the molecular mechanism underlying its structural stability and folding behaviour associated with disease state remains poorly understood. Herein, we performed an extensive molecular dynamics (MD) simulations study to investigate the conformational dynamics and unfolding pathway of the TAF15-RRM domain in 8 M urea. The elevated temperatures (300-500 K) were employed to accelerate the unfolding and capture different conformational states. The results from 3 μs cumulative MD simulations revealed that unfolding proceeds through stable, denaturant/temperature-accelerated partially unfolded intermediate ensembles. The native conformation of TAF15-RRM largely confined to marginal perturbation in urea at 300-350 K. The major conformational changes occurred in urea at 400-450 K, revealing distinct conformational ensembles corresponding to native (N), intermediate (I), and unfolded (U) populations. Whereas the native structure of protein was lost abruptly within ∼0-50 ns, at 500 K. At 400 K, the unfolding dynamics restricted to I-state with the loss of ∼55% native contacts. All three (N, I and U) stages are captured more distinctly in urea at 450 K. Furthermore, the secondary structure analyses demonstrated a higher susceptibility of β-sheets toward urea-induced unfolding, accompanied by the transient structures of non-native extended β-conformations and helical intermediates. FELs analyses suggest that the I-state populations are heterogeneous in nature which are largely stabilized by the partial retention and rearrangement of native H-bonds. These results thus highlight conformational signatures of unfolding intermediates that, by analogy with aggregation-prone intermediates characterized in other proteins, may be relevant to TAF15 self-assembly.",
+      "mesh_terms": [],
+      "keywords": [
+        "Free energy landscape",
+        "H-bond occupancy",
+        "MD simulation",
+        "TAF15-RRM",
+        "aggregation",
+        "unfolding intermediates"
+      ],
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
       "id": "42800647",
       "event_key": "pubmed:42800647",
       "source_id": "pubmed",
@@ -198,7 +306,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42799915",
@@ -239,7 +347,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42799858",
@@ -288,7 +396,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42799589",
@@ -318,7 +426,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42791439",
@@ -351,7 +459,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42791200",
@@ -914,7 +1022,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42773049",
@@ -1192,7 +1300,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42769571",
@@ -1297,7 +1405,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42787788",
@@ -1819,7 +1927,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42779622",
@@ -2191,7 +2299,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42770359",
@@ -2465,7 +2573,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42783617",
@@ -2743,7 +2851,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42759101",
@@ -3714,7 +3822,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42782733",
@@ -3884,7 +3992,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42775169",
@@ -4473,7 +4581,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42756835",
@@ -4668,7 +4776,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42761537",
@@ -4751,6 +4859,43 @@
         "nutritional biomarkers",
         "serum"
       ]
+    },
+    {
+      "id": "42805693",
+      "event_key": "pubmed:42805693",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Comparison of the catalysis of ThDP-dependent enzymes AHAS, ALS, and DXPS.",
+      "authors": [
+        "Heng Li",
+        "Wen-Yun Gao"
+      ],
+      "journal": "Methods in enzymology",
+      "publication_date": "2026-09-02",
+      "pmid": "42805693",
+      "doi": "10.1016/bs.mie.2026.07.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805693/",
+      "abstract": "Thiamine diphosphate (ThDP)-dependent enzymes are primarily classified into lyases, transferases, and oxidoreductases, catalyzing various biologically important reactions such as keto transfer, dehydrogenation, decarboxylation, and stereoselective C-C bond formation/cleavage in chiral natural products biosynthesis. They constitute one of the largest superfamilies of biocatalysts, operate basically in all forms of living systems. In this chapter, the research progress on three ThDP enzymes are reviewed, including acetohydroxyacid synthase (AHAS) which is a key enzyme in the anabolic pathway for the biosynthesis of branched chain amino acids, acetolactate synthase (ALS) that belongs to the catabolic pathway for the biosynthesis of platform compounds acetoin and 2,3-butanediol, and 1-deoxy-D-xylulose-5-phosphate synthase (DXPS) which is a rate-limiting enzyme in the MEP terpenoid biosynthetic pathway and is also involved in the biosynthesis of ThDP and pyridoxal phosphate in certain bacteria, with the emphasis on comparing the catalysis of the three enzymes. Furthermore, two precolumn derivatization-HPLC protocols using 4-nitro-o-phenylenediamine and 2,4-dinitrophenylhydrazine as respective derivatizing reagents are also described in detail. The methods can not only be utilized to measure the activities of the above enzymes, supplementing the deficiencies of the classic spectrophotometry, but also be used to comprehensively elucidate the consumption of the substrate(s) and the formation of the products in the reactions catalyzed by AHAS, ALS, or DXPS.",
+      "mesh_terms": [
+        "Acetolactate Synthase",
+        "Thiamine Pyrophosphate",
+        "Chromatography, High Pressure Liquid",
+        "Transferases",
+        "Enzyme Assays",
+        "Catalysis",
+        "Biocatalysis"
+      ],
+      "keywords": [
+        "1-Deoxy-D-xylulose-5-phosphate synthase",
+        "Acetohydroxyacid synthase",
+        "Acetolactate synthase",
+        "Catalysis",
+        "ThDP dependent enzymes"
+      ],
+      "collected_at": "2026-09-29T06:01:55Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42783767",
@@ -5895,7 +6040,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42791577",
@@ -5940,7 +6085,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42713279",
@@ -6035,7 +6180,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42740795",
@@ -6448,7 +6593,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-28T05:44:22Z"
+      "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
       "id": "42752431",
