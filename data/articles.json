@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-09-29T06:01:55Z",
+  "updated_at": "2026-09-30T05:50:42Z",
   "new_keys": [
-    "pubmed:42804741",
-    "pubmed:42804712",
-    "pubmed:42803299",
-    "pubmed:42802700",
-    "pubmed:42805693"
+    "pubmed:42807601",
+    "pubmed:42807842",
+    "pubmed:42809873",
+    "pubmed:42809650"
   ],
   "items": [
     {
@@ -147,6 +146,64 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42807842",
+      "event_key": "pubmed:42807842",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Clinical and economic effectiveness of telehealth in home mechanical ventilation.",
+      "authors": [
+        "Paula Johanna Filser",
+        "Pauline Sarah Münchenberg",
+        "Elke Berger",
+        "Reinhard Busse",
+        "Carmen Garcia",
+        "Tobias Kurth"
+      ],
+      "journal": "ERJ open research",
+      "publication_date": "2026-09-28",
+      "pmid": "42807842",
+      "doi": "10.1183/23120541.00283-2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807842/",
+      "abstract": "BACKGROUND: The number of patients requiring home mechanical ventilation is rising, while in-person follow-up is increasingly burdensome for patients and health systems. Telehealth may maintain clinical stability and improve care efficiency. This systematic review examined the clinical and economic effectiveness of telehealth in the management of home mechanical ventilation.\n\nMETHODS: The study protocol was registered a priori in PROSPERO. A systematic search was conducted in MEDLINE, Embase and Web of Science. The reporting of the systematic review was aligned with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. We included quantitative studies comparing telehealth-supported home ventilation with standard care, reporting clinical or economic outcomes.\n\nRESULTS: From 356 identified studies, 11 met the inclusion criteria: nine randomised controlled trials, one cohort study and one retrospective analysis, mostly conducted in Europe, with a total of 1458 participants. The study populations included patients with, e.g. COPD, amyotrophic lateral sclerosis and obesity hypoventilation syndrome. Interventions involved telehealth-supported home ventilation management. Across studies, telehealth-supported care achieved clinical outcomes comparable to those of standard care. Arterial carbon dioxide tension (P aCO2 ) control and health-related quality of life were similar between groups, with one study reporting greater P aCO2 reduction with telemonitoring. Evidence on the number of hospitalisations and exacerbations was mixed. Mortality and survival rates showed nonsignificant trends towards benefit; one cohort study reported improved first-year survival. Economic outcomes varied: home initiation reduced costs, while long-term follow-up results were heterogeneous.\n\nCONCLUSIONS: elehealth-supported home ventilation appears to be a comparable alternative to in-hospital management and often provides economic advantages. Future research should focus on standardised outcome measures, longer follow-up and health-system-specific cost-effectiveness analyses to guide sustainable implementation.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-09-30T05:50:41Z",
+      "first_seen_at": "2026-09-30T05:50:41Z",
+      "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "42807601",
+      "event_key": "pubmed:42807601",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Anesthetic Management and Perioperative Outcome of Emergency Laparotomy in a Patient With Advanced Motor Neurone Disease: A Case Report.",
+      "authors": [
+        "Sherif Elmahgoub",
+        "Abdou Elshawa",
+        "Sean Flannery"
+      ],
+      "journal": "Clinical case reports",
+      "publication_date": "2026-09-28",
+      "pmid": "42807601",
+      "doi": "10.1002/ccr3.73635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807601/",
+      "abstract": "Motor neurone disease (MND) presents significant perioperative challenges due to progressive respiratory muscle weakness, bulbar dysfunction, autonomic instability, and altered sensitivity to anesthetic agents. Emergency surgery further limits opportunities for optimisation and advance planning. We report the perioperative and anesthetic management of a patient with advanced MND undergoing emergency laparotomy for small bowel obstruction. A total intravenous anesthetic with cautious use of neuromuscular blockade was employed, and the patient was successfully extubated postoperatively. Despite an initially uncomplicated postoperative course, the patient subsequently developed progressive respiratory failure in the context of ongoing intra-abdominal pathology. Following multidisciplinary discussion and shared decision-making, care was transitioned to a comfort-focused approach. This case highlights the limitations of perioperative intervention in advanced MND and emphasizes the importance of goal-concordant care in emergency surgical settings.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "emergency laparotomy",
+        "genomic profiling",
+        "motor neurone disease",
+        "perioperative outcome",
+        "total intravenous anesthesia"
+      ],
+      "collected_at": "2026-09-30T05:50:41Z",
+      "first_seen_at": "2026-09-30T05:50:41Z",
+      "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
       "id": "42804741",
       "event_key": "pubmed:42804741",
       "source_id": "pubmed",
@@ -168,7 +225,7 @@
       "keywords": [],
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42804712",
@@ -199,7 +256,7 @@
       ],
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42803299",
@@ -234,7 +291,7 @@
       ],
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42802700",
@@ -267,7 +324,7 @@
       ],
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42800647",
@@ -287,7 +344,7 @@
       "pmid": "42800647",
       "doi": "10.1016/j.nbd.2026.107629",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800647/",
-      "abstract": "Polyamines (PAs) are evolutionarily conserved metabolites that connect protein quality control with lysosomal, mitochondrial, and redox homeostasis. Their metabolism is situated at a critical intersection of cell-sustaining and neurodegenerative pathways. Here, we synthesize evidence across Alzheimer's disease, Parkinson's disease, polyglutamine repeat disorders, amyotrophic lateral sclerosis, and multiple system atrophy, each of which differ in vulnerability to changes in PA metabolism. Although previous reviews have investigated polyamines in individual neurodegenerative disorders, few have compared their roles across the broader spectrum of neurodegenerative proteinopathies. Here, we address this gap by synthesizing evidence across multiple diseases to examine how PAs influence disease-associated protein aggregation and clearance, and how these effects depend on PA species, concentration, cellular context, disease stage, subcellular localization, redox state, and lysosomal and mitochondrial capacity. Human tissue and biofluid studies report disease-associated changes in PA metabolites, pathway enzymes, and transporter remodeling, as a function of neurodegenerative disorders. Mechanistic studies reveal that spermidine and spermine can alter the assembly, condensation, compartmentalization, and clearance of various neurotoxic proteins, whereas the effects of putrescine are more system- and concentration-dependent. These effects engage both shared pathways and distinct mechanisms, depending on protein identity, cell type, and subcellular location. Curiously, PA manipulation may be protective in one context yet harmful in another. The framework that we propose can distinguish adaptive remodeling from pathogenic dysregulation and can guide disease-relevant therapeutic strategies.",
+      "abstract": "Polyamines (PAs) are evolutionarily conserved metabolites that connect protein quality control with lysosomal, mitochondrial, and redox homeostasis. Their metabolism is situated at a critical intersection of cell-sustaining and neurodegenerative pathways. Here, we synthesize evidence across Alzheimer's disease, Parkinson's disease, polyglutamine repeat disorders, amyotrophic lateral sclerosis, and multiple system atrophy, each of which differs in vulnerability to changes in PA metabolism. Although previous reviews have investigated PAs in individual neurodegenerative disorders, few have compared their roles across the broader spectrum of neurodegenerative proteinopathies. We address this gap by synthesizing evidence across multiple diseases to examine how PAs influence disease-associated protein aggregation and clearance, and how these effects depend on PA species, concentration, cellular context, disease stage, subcellular localization, redox state, and lysosomal and mitochondrial capacity. Human tissue and biofluid studies report disease-associated changes in PA metabolites, pathway enzymes, and transporter remodeling, as a function of neurodegenerative disorders. Mechanistic studies reveal that spermidine and spermine can alter the assembly, condensation, compartmentalization, and clearance of various neurotoxic proteins, whereas the effects of putrescine are more system- and concentration-dependent. These effects engage both shared pathways and distinct mechanisms, depending on protein identity, cell type, and subcellular location. Curiously, PA manipulation may be protective in one context yet harmful in another. The framework that we propose can distinguish adaptive remodeling from pathogenic dysregulation and can guide disease-relevant therapeutic strategies.",
       "mesh_terms": [],
       "keywords": [
         "Aggregation",
@@ -306,7 +363,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42799915",
@@ -347,7 +404,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42799858",
@@ -396,7 +453,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42799589",
@@ -426,7 +483,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42791439",
@@ -1022,7 +1079,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42773049",
@@ -2266,6 +2323,36 @@
       "last_seen_at": "2026-09-19T04:54:17Z"
     },
     {
+      "id": "42809873",
+      "event_key": "pubmed:42809873",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Not Available].",
+      "authors": [
+        "Julia Fila",
+        "Celeste Quiroga",
+        "Ma Stella Di Gennaro",
+        "Verónica Inés Veloso",
+        "Vilma Adriana Tripodoro"
+      ],
+      "journal": "Revista de la Facultad de Ciencias Medicas (Cordoba, Argentina)",
+      "publication_date": "2026-09-17",
+      "pmid": "42809873",
+      "doi": "10.31053/1853.0605.v83.n3.50160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809873/",
+      "abstract": "Introducción: La Planificación Compartida de la Atención (PCA) es esencial en enfermedades neurodegenerativas como la Esclerosis Lateral Amiotrófica (ELA), pero su implementación en América Latina sigue siendo limitada, en parte por la falta de formación profesional específica. El objetivo de este trabajo es identificar, desde la perspectiva de expertos, las principales barreras, tensiones y contenidos esenciales para diseñar un programa de capacitación en PCA dirigido a equipos interdisciplinares que asisten personas con ELA. Método: Estudio cualitativo con enfoque participativo mediante técnica de Grupo Nominal, realizado en Argentina en 2023. Participaron 17 profesionales de disciplinas clínicas y psicosociales con experiencia en ELA y cuidados paliativos. Se aplicó un análisis temático con validación de resultados por triangulación y consenso. Resultados: Se identificaron barreras para la implementación de la PCA y seis áreas temáticas de contenidos formativos. Destacan la necesidad de un marco ético, herramientas de comunicación, abordaje del sufrimiento existencial, y estrategias para integrar a la familia. Emergió como eje transversal la influencia de la cultura local, la emocionalidad del equipo y el modelo biomédico predominante. Conclusión: Este estudio aporta un marco conceptual y práctico para el diseño de programas de capacitación en PCA en el contexto de enfermedades neurológicas progresivas como la ELA. Representa un primer paso para subsanar una brecha formativa aún no cubierta en la región.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Patient Care Planning"
+      ],
+      "keywords": [],
+      "collected_at": "2026-09-30T05:50:41Z",
+      "first_seen_at": "2026-09-30T05:50:41Z",
+      "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
       "id": "42795978",
       "event_key": "pubmed:42795978",
       "source_id": "pubmed",
@@ -3495,6 +3582,50 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42809650",
+      "event_key": "pubmed:42809650",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Motor dysfunction phenotypes in a drosophila model validate DAO as an ALS gene.",
+      "authors": [
+        "Sylvana Tabone",
+        "Rebecca Cacciottolo",
+        "Ruben J Cauchi"
+      ],
+      "journal": "Human molecular genetics",
+      "publication_date": "2026-09-11",
+      "pmid": "42809650",
+      "doi": "10.1093/hmg/ddag093",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809650/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterised by progressive motor neuron (MN) loss. Although rare pathogenic variants in the D-amino acid oxidase (DAO) gene have been proposed to cause familial ALS, inconsistent findings across mammalian models have hindered functional validation. Here, we establish and characterise a Drosophila model of DAO loss-of-function by targeting its highly conserved orthologue, Daao1. Constitutive Daao1 knockdown caused early developmental lethality, while surviving adult escapers exhibited profound flight and climbing impairments. Contrary to expectations, Daao1 deficiency did not elevate D-serine levels in larval or adult brains, and simultaneous knockdown of serine racemase (Srr), the enzyme responsible for D-serine synthesis, failed to rescue locomotor phenotypes. Tissue-specific silencing revealed that Daao1 is essential within both MNs and muscles, but not glia, for maintaining motor performance. RNA-seq of Daao1-deficient flies uncovered widespread transcriptional dysregulation affecting metabolism, peptide transport, immune activation and developmental pathways, accompanied by alternative splicing changes in genes required for neuronal morphology and synaptic organisation. Consistent with these molecular alterations, neuromuscular junctions (NMJs) displayed reduced axonal branching and bouton numbers, indicating disrupted neuromuscular connectivity. Remarkably, ubiquitous expression of human DAO rescued lethality and motor defects, demonstrating functional conservation and supporting a role for DAO in maintaining neuromuscular health. Together, our findings reveal a previously unrecognised, D-serine-independent role for DAO in neuromuscular integrity and provide functional evidence connecting DAO dysfunction to ALS-relevant phenotypes. The DAO-ALS Drosophila model provides a powerful platform for mechanistic studies and for evaluating human DAO variants of uncertain significance in ALS.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Disease Models, Animal",
+        "Motor Neurons",
+        "Phenotype",
+        "Humans",
+        "D-Amino-Acid Oxidase",
+        "Neuromuscular Junction",
+        "Drosophila Proteins",
+        "Drosophila melanogaster",
+        "Serine Racemase",
+        "Racemases and Epimerases",
+        "Animals, Genetically Modified",
+        "Drosophila"
+      ],
+      "keywords": [
+        "Drosophila model",
+        "amyotrophic lateral sclerosis",
+        "neurodegeneration",
+        "neurogenetics"
+      ],
+      "collected_at": "2026-09-30T05:50:41Z",
+      "first_seen_at": "2026-09-30T05:50:41Z",
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42746632",
@@ -4895,7 +5026,7 @@
       ],
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42783767",
@@ -6593,7 +6724,7 @@
       ],
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
       "id": "42752431",

@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-09-29T06:01:55Z",
+  "updated_at": "2026-09-30T05:50:42Z",
   "new_keys": [
-    "clinicaltrials:NCT04394871:2026-09-28",
-    "clinicaltrials:NCT07844590:2026-09-28"
+    "clinicaltrials:NCT05163886:2026-09-29",
+    "clinicaltrials:NCT04220190:2026-09-29"
   ],
   "items": [
+    {
+      "id": "NCT05163886",
+      "event_key": "clinicaltrials:NCT05163886:2026-09-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05163886",
+      "title": "Study of Safety, Tolerability, and Biological Activity of LAM-002A in C9ORF72-Associated Amyotrophic Lateral Sclerosis",
+      "sponsor": "OrphAI Therapeutics",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Drug: LAM-002A",
+        "Other: Placebo"
+      ],
+      "start_date": "2021-12-23",
+      "last_update_date": "2026-09-29",
+      "url": "https://clinicaltrials.gov/study/NCT05163886",
+      "collected_at": "2026-09-30T05:50:42Z",
+      "first_seen_at": "2026-09-30T05:50:42Z",
+      "last_seen_at": "2026-09-30T05:50:42Z"
+    },
+    {
+      "id": "NCT04220190",
+      "event_key": "clinicaltrials:NCT04220190:2026-09-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04220190",
+      "title": "RAPA-501 Therapy for ALS",
+      "sponsor": "Rapa Therapeutics LLC",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Biological: RAPA-501 Autologous T stem cells"
+      ],
+      "start_date": "2025-01-02",
+      "last_update_date": "2026-09-29",
+      "url": "https://clinicaltrials.gov/study/NCT04220190",
+      "collected_at": "2026-09-30T05:50:42Z",
+      "first_seen_at": "2026-09-30T05:50:42Z",
+      "last_seen_at": "2026-09-30T05:50:42Z"
+    },
     {
       "id": "NCT07844590",
       "event_key": "clinicaltrials:NCT07844590:2026-09-28",
@@ -26,7 +74,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07844590",
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:42Z"
     },
     {
       "id": "NCT04394871",
@@ -49,7 +97,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04394871",
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-29T06:01:55Z"
+      "last_seen_at": "2026-09-30T05:50:42Z"
     },
     {
       "id": "NCT07088159",
