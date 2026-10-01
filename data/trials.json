@@ -1,10 +1,57 @@
 {
-  "updated_at": "2026-09-30T05:50:42Z",
+  "updated_at": "2026-10-01T06:24:06Z",
   "new_keys": [
-    "clinicaltrials:NCT05163886:2026-09-29",
-    "clinicaltrials:NCT04220190:2026-09-29"
+    "clinicaltrials:NCT04394871:2026-09-30",
+    "clinicaltrials:NCT05039099:2026-09-30"
   ],
   "items": [
+    {
+      "id": "NCT05039099",
+      "event_key": "clinicaltrials:NCT05039099:2026-09-30",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05039099",
+      "title": "A Study to Evaluate, Safety, Tolerability, and PK of AP-101 in Participants With ALS",
+      "sponsor": "AL-S Pharma",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Drug: AP-101",
+        "Drug: Placebo"
+      ],
+      "start_date": "2021-09-02",
+      "last_update_date": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT05039099",
+      "collected_at": "2026-10-01T06:24:06Z",
+      "first_seen_at": "2026-10-01T06:24:06Z",
+      "last_seen_at": "2026-10-01T06:24:06Z"
+    },
+    {
+      "id": "NCT04394871",
+      "event_key": "clinicaltrials:NCT04394871:2026-09-30",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04394871",
+      "title": "Clinical Manifestations and Biomarkers in Amyotrophic Lateral Sclerosis Type 4 and Other Inherited Neurological Disorders of RNA Processing",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2020-12-14",
+      "last_update_date": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT04394871",
+      "collected_at": "2026-10-01T06:24:06Z",
+      "first_seen_at": "2026-09-29T06:01:55Z",
+      "last_seen_at": "2026-10-01T06:24:06Z"
+    },
     {
       "id": "NCT05163886",
       "event_key": "clinicaltrials:NCT05163886:2026-09-29",
@@ -27,7 +74,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05163886",
       "collected_at": "2026-09-30T05:50:42Z",
       "first_seen_at": "2026-09-30T05:50:42Z",
-      "last_seen_at": "2026-09-30T05:50:42Z"
+      "last_seen_at": "2026-10-01T06:24:06Z"
     },
     {
       "id": "NCT04220190",
@@ -51,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04220190",
       "collected_at": "2026-09-30T05:50:42Z",
       "first_seen_at": "2026-09-30T05:50:42Z",
-      "last_seen_at": "2026-09-30T05:50:42Z"
+      "last_seen_at": "2026-10-01T06:24:06Z"
     },
     {
       "id": "NCT07844590",
@@ -74,30 +121,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07844590",
       "collected_at": "2026-09-29T06:01:55Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-30T05:50:42Z"
-    },
-    {
-      "id": "NCT04394871",
-      "event_key": "clinicaltrials:NCT04394871:2026-09-28",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT04394871",
-      "title": "Clinical Manifestations and Biomarkers in Amyotrophic Lateral Sclerosis Type 4 and Other Inherited Neurological Disorders of RNA Processing",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2020-12-14",
-      "last_update_date": "2026-09-28",
-      "url": "https://clinicaltrials.gov/study/NCT04394871",
-      "collected_at": "2026-09-29T06:01:55Z",
-      "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-09-30T05:50:42Z"
+      "last_seen_at": "2026-10-01T06:24:06Z"
     },
     {
       "id": "NCT07088159",
