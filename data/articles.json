@@ -1,17 +1,216 @@
 {
-  "updated_at": "2026-10-01T06:24:06Z",
+  "updated_at": "2026-10-02T06:02:01Z",
   "new_keys": [
-    "pubmed:42816153",
-    "pubmed:42815720",
-    "pubmed:42814997",
-    "pubmed:42811116",
-    "pubmed:42813639",
-    "pubmed:42812195",
-    "pubmed:42811035",
-    "pubmed:42814303",
-    "pubmed:42814295"
+    "pubmed:42823255",
+    "pubmed:42822505",
+    "pubmed:42822436",
+    "pubmed:42821610",
+    "pubmed:42817823",
+    "pubmed:42817633",
+    "pubmed:42822337",
+    "pubmed:42817119",
+    "pubmed:42817963",
+    "pubmed:42818787",
+    "pubmed:42818511"
   ],
   "items": [
+    {
+      "id": "42823255",
+      "event_key": "pubmed:42823255",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Towards the integration of open-label extension and real-world evidence in ALS therapeutic evaluation?",
+      "authors": [
+        "P Corcia",
+        "A Erazo",
+        "P Couratier"
+      ],
+      "journal": "Revue neurologique",
+      "publication_date": "2026-10-01",
+      "pmid": "42823255",
+      "doi": "10.1016/j.neurol.2026.09.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823255/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42822505",
+      "event_key": "pubmed:42822505",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
+      "authors": [
+        "Hiroyuki Watanabe",
+        "Etsuro Mori",
+        "Keith A Josephs"
+      ],
+      "journal": "Neurocase",
+      "publication_date": "2026-10-01",
+      "pmid": "42822505",
+      "doi": "10.1080/13554794.2026.2735595",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822505/",
+      "abstract": "Anterior opercular syndrome (Foix-Chavany-Marie syndrome) is characterized by severe dysarthria, impaired voluntary orofacial and pharyngolingual movements, and preserved automatic or emotional movements (automatic-voluntary dissociation). Although classically associated with stroke, its progressive neurodegenerative form is rare and poorly understood. We report two patients to characterize its clinical and neuroanatomical features. The cases were identified retrospectively through review of clinical and neuroimaging records from behavioral neurology centers in the United States and Japan. Both had severe dysarthria and oral-phase dysphagia. Voluntary orofacial movements were markedly impaired, whereas reflexive movements, including coughing and yawning, and emotional movements, including smiling in response to humor, were preserved. Coordination, posture, and gait were initially preserved. Both patients showed predominantly upper motor neuron features without lower motor neuron signs; limb and cranial electromyography was normal in the patient tested. Neuroimaging showed bilateral frontal atrophy and hypometabolism or hypoperfusion involving the anterior operculum. These findings suggest that progressive anterior opercular syndrome may emerge when bilateral opercular regions are affected by neurodegeneration. Recognition of this syndrome may facilitate anticipatory management of dysarthria, dysphagia, and nutritional risk and broaden awareness of speech and orofacial motor syndromes in frontotemporal dementia and related phenotypes.",
+      "mesh_terms": [],
+      "keywords": [
+        "Anterior opercular syndrome",
+        "Foix–Chavany–Marie Syndrome",
+        "emotional facial paresis",
+        "motor neuron disease",
+        "pseudobulbar palsy",
+        "volitional facial paresis"
+      ],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42822436",
+      "event_key": "pubmed:42822436",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "authors": [
+        "Wenxuan Guo",
+        "Justin K Ichida"
+      ],
+      "journal": "Cell stem cell",
+      "publication_date": "2026-10-01",
+      "pmid": "42822436",
+      "doi": "10.1016/j.stem.2026.09.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822436/",
+      "abstract": "In a recent article in Nature Medicine, Chen et al. describe a first-in-human study using an ASO tag to deliver a SOD1 siRNA to the central nervous system (CNS), potentially achieving faster, more extensive, and better-tolerated SOD1-lowering in ALS patients.1.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "RNA, Small Interfering",
+        "Central Nervous System",
+        "Superoxide Dismutase-1",
+        "Superoxide Dismutase",
+        "Oligonucleotides, Antisense",
+        "Animals"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42821610",
+      "event_key": "pubmed:42821610",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
+      "authors": [
+        "Nithin Parthasarathy",
+        "James Soetedjo",
+        "Saarang Panchavati",
+        "Nitya Parthasarathy",
+        "Dongwoo Lee",
+        "Corey Arnold",
+        "Nader Pouratian",
+        "William Speier"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2026-10-01",
+      "pmid": "42821610",
+      "doi": "10.1371/journal.pone.0349281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821610/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease, severely impairs communication, requiring assistive technologies that restore interaction. The P300 speller brain-computer interface (BCI) enables communication by translating EEG responses into text; however, its practical adoption is limited by slow typing speed and the need for subject-specific calibration. Recent work has demonstrated that large language models (LLMs), such as GPT-2, can significantly improve the performance of the P300 speller by predicting words. However, it remains unclear whether these gains are model-specific or represent a broader trend across language models. Furthermore, the framework-specific performance bounds of LLM-assisted P300 spellers have not been systematically characterized within a unified decoding framework. In this study, we address these gaps through a systematic multi-model theoretical analysis framework. We evaluate a wide range of language models and introduce an idealized LLM to establish upper bounds on achievable performance. In addition, we incorporate cross-subject classifier training to reduce calibration requirements and assess generalization across subjects. Using extensive simulations on EEG data from 78 subjects, we demonstrate that the evaluated models consistently achieve substantial improvements in typing speed, with gains of up to ~45% (within-subject training) and ~75% (across-subject training) over conventional approaches. More importantly, we show that several high-performing models, despite architectural differences, operate within 5% of the theoretical performance bound, indicating diminishing returns from further model scaling. These improvements generalize across both within-subject and across-subject classifiers. Our results suggest that LLM-assisted P300 spellers are approaching oracle-based upper bounds within the considered decoding framework, shifting the primary bottleneck from language modeling to neural signal decoding. This work provides both a practical framework for improving BCI communication and a theoretical perspective on its achievable limits.",
+      "mesh_terms": [
+        "Humans",
+        "Large Language Models",
+        "Brain-Computer Interfaces",
+        "Event-Related Potentials, P300",
+        "Electroencephalography",
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42817823",
+      "event_key": "pubmed:42817823",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Katherine S Yanagi",
+        "Alexander T Lin-Moore",
+        "Nijpawi C Gordon",
+        "Jeremy J Lins",
+        "Emma Michaela Coyne",
+        "Kathleen L Meininger",
+        "Stephanie L Moy",
+        "Loraina A Stinson",
+        "Melissa B Walsh",
+        "Mika Gallati",
+        "Animesh Mahapatra",
+        "Ruka Aderogba",
+        "Alexander Jaworski",
+        "Anne C Hart"
+      ],
+      "journal": "G3 (Bethesda, Md.)",
+      "publication_date": "2026-10-01",
+      "pmid": "42817823",
+      "doi": "10.1093/g3journal/jkag281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817823/",
+      "abstract": "Genetic variants in superoxide dismutase 1 (SOD1) cause the progressive neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS). Treatments for this disease are limited, and the unique vulnerability of cholinergic and glutamatergic motor neurons to degeneration seen in ALS patients is not clearly understood. Identifying genetic modifiers of neurodegeneration can provide insight into the selective vulnerability of motor neurons in ALS and may accelerate identification of novel therapeutic targets. Here, we describe a forward genetic screen for suppressors of the stress-induced glutamatergic neuron degeneration in a single-copy C. elegans model of sod-1G85R. Used two different screening strategies, we identified 53 suppressor lines that decreased glutamatergic neuron degeneration to varying degrees. To rapidly identify suppressor genes, we sequenced suppressor lines and identified candidate suppressor genes based on frequency of de novo exonic mutations and previously published work. Two candidates were tested and excluded as suppressor genes: erh-1 and imph-1. For a subset of unidentified suppressor lines, we determined if cholinergic neurodegeneration was also suppressed; roughly one-third of suppressor lines showed no corresponding cholinergic neuron rescue, suggesting that mechanisms involved in cholinergic and glutamatergic degeneration are at least partially divergent. This study outlines the first unbiased genetic screen in a knock-in model of SOD1 neurodegeneration, describes a cohort of candidate suppressor lines with decreased SOD1-dependent neurodegeneration, excludes two candidates and discusses approaches for suppressor mutation isolation and gene identification.",
+      "mesh_terms": [],
+      "keywords": [
+        "C elegans",
+        "Amyotrophic Lateral Sclerosis (ALS)",
+        "SOD1",
+        "forward genetic screen",
+        "suppressor screen"
+      ],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42817633",
+      "event_key": "pubmed:42817633",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Proteostasis (in)action: the role of co-pathologies in neurodegenerative disease.",
+      "authors": [
+        "James F Morley"
+      ],
+      "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "publication_date": "2026-10-01",
+      "pmid": "42817633",
+      "doi": "10.1098/rstb.2025.0273",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817633/",
+      "abstract": "Clinically distinct neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS), share in common progressive neuronal dysfunction and cell death associated with the accumulation of misfolded proteins. Central to these processes are the cellular and organismal proteostasis networks responsible for maintaining protein homeostasis through coordinated actions of molecular chaperones, the ubiquitin-proteasome system and autophagy-lysosomal pathways. As a consequence of ageing, genetic modifications and other disease-specific conditions, the proteostatic network becomes compromised, leading to the accumulation of toxic protein aggregates that disrupt neuronal function and lead to neurodegeneration. Specific misfolded proteins are associated with each neurodegenerative disease (i.e. α-synuclein in PD, amyloid-β/tau in AD and TAR DNA-binding protein 43/SOD in ALS). However, increasing evidence implicates more complex interactions of co-pathologies across these disorders, as Lewy bodies are common in AD brains and Alzheimer pathology is present in the majority of PD autopsy cases. These observations are consistent with the idea that disruption of proteostasis networks by one aggregation-prone protein could result in misfolding and aggregation of other neurodegeneration-related species. This review will examine the characteristics and consequences of co-pathologies in neurodegenerative disorders. Additionally, the review will outline emerging therapeutic strategies targeted at restoring proteostasis and mitigating the effects of co-pathological processes associated with neurodegenerative diseases. This article is part of the Theo Murphy meeting issue 'ProteostaSys: a systems view of proteostasis'.",
+      "mesh_terms": [
+        "Proteostasis",
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Proteotoxic Stress",
+        "Protein Folding"
+      ],
+      "keywords": [
+        "co-pathology",
+        "neurodegeneration",
+        "proteostasis"
+      ],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
     {
       "id": "42789802",
       "event_key": "pubmed:42789802",
@@ -184,7 +383,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42815720",
@@ -226,7 +425,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42814997",
@@ -284,7 +483,71 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42822337",
+      "event_key": "pubmed:42822337",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Core and bridge nodes between sleep quality and depression in Chinese patients with amyotrophic lateral sclerosis: A network analysis perspective.",
+      "authors": [
+        "Qingdong Zeng",
+        "Qiaochu Zhu",
+        "Qianping Jiang",
+        "Jing Zhou",
+        "Lei Yue",
+        "Xinhong Zhu",
+        "Xianhe Zeng",
+        "Chunyu Li",
+        "Guiyuan Qiao",
+        "Qingrong Fu"
+      ],
+      "journal": "General hospital psychiatry",
+      "publication_date": "2026-09-29",
+      "pmid": "42822337",
+      "doi": "10.1016/j.genhosppsych.2026.09.014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822337/",
+      "abstract": "BACKGROUND: Sleep quality and depression are prevalent yet under-recognized non-motor symptoms (NMS) in amyotrophic lateral sclerosis (ALS), and the interplay between their symptom domains remains poorly characterized. This study applied network analysis to identify core and bridge nodes linking sleep quality and depression in Chinese ALS patients.\n\nMETHODS: A cross-sectional study was conducted among 372 ALS patients recruited from a tertiary hospital in Wuhan, China. Sleep quality and depressive symptoms were assessed using the Pittsburgh Sleep Quality Index (PSQI) and the Patient Health Questionnaire-9 (PHQ-9), respectively. A regularized Gaussian graphical model was estimated using the graphical LASSO algorithm. Node centrality metrics including strength, closeness, betweenness, and expected influence (EI) were calculated to identify core nodes, and bridge expected influence (BEI) was calculated to identify bridge nodes. A case-dropping bootstrap procedure was used to evaluate the stability of the network estimates.\n\nRESULTS: Among all patients, 50.81% screened positive for poor sleep quality and 41.40% for depressive symptoms, with 28.49% screening positive for both. Subjective sleep quality showed the highest strength and EI, identifying it as the most central node. Daytime dysfunction exhibited the highest closeness and betweenness centrality and the largest BEI, emerging as the principal bridge node connecting the communities. The network demonstrated good stability, with CS-coefficients of 0.67 and 0.60 for EI and BEI, respectively.\n\nCONCLUSION: The findings highlight subjective sleep quality and daytime dysfunction as potentially influential nodes within the sleep quality-depression network, representing candidate targets for future longitudinal and intervention studies that may inform strategies to support well-being in patients with ALS.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "42817119",
+      "event_key": "pubmed:42817119",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neuroinflammation and Autophagy in Neurodegeneration: Cellular Mechanisms and Therapeutic Strategies.",
+      "authors": [
+        "Anushka Verma",
+        "Swatantra Kumar Singh Kushwaha",
+        "Neelottama Kushwaha",
+        "Sayantan Dutta",
+        "Parul Nigam"
+      ],
+      "journal": "CNS & neurological disorders drug targets",
+      "publication_date": "2026-09-29",
+      "pmid": "42817119",
+      "doi": "10.2174/0118715273459017260922073618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817119/",
+      "abstract": "Neurodegenerative diseases, including Huntington's disease, Parkinson's disease, Alzheimer's disease, and Amyotrophic Lateral Sclerosis (ALS), are characterized by progressive neuronal dysfunction and loss, often accompanied by toxic protein aggregation and chronic neuroinflammation. Increasing evidence indicates that dysregulated autophagy and persistent inflammatory responses are central drivers of disease onset and progression. Autophagy, a fundamental cellular degradation and recycling process, is essential for maintaining neuronal homeostasis by removing damaged organelles and misfolded proteins through mechanisms such as macroautophagy and mitophagy. However, key regulators of this pathway, including ULK1, Beclin-1, LC3, and p62/SQSTM1, are frequently impaired in neurodegenerative conditions, leading to the accumulation of pathogenic proteins such as tau, α-synuclein, and amyloid-β. Concurrently, aberrant activation of microglia and inflammasomes promotes the sustained release of pro-inflammatory cytokines, creating a neurotoxic environment that exacerbates neuronal injury. This review examines the molecular crosstalk between autophagy and neuroinflammation, with particular emphasis on disease-specific mechanisms, including LC3-associated endocytosis (LANDO) in Alzheimer's disease, tau-mediated pathology, and dopaminergic neurodegeneration in Parkinson's disease. Importantly, this review introduces a unifying conceptual framework in which neuroinflammation and autophagy are integrated as a dynamic, stagedependent immune-autophagy axis that governs neurodegenerative disease progression and therapeutic responsiveness. In addition, emerging multimodal therapeutic strategies targeting both autophagic flux and immune modulation are discussed, including mTOR inhibitors, mitophagy enhancers, GLP-1 receptor agonists, and nanomedicine-based delivery systems. Advances in three-dimensional organoids, induced Pluripotent Stem Cell (iPSC) models, and biomarker-driven clinical trials are further enhancing translational potential. In conclusion, understanding the interplay between autophagy and neuroinflammation provides critical insights into the pathophysiology of neurodegeneration and offers promising avenues for the development of targeted, disease-modifying therapies.",
+      "mesh_terms": [],
+      "keywords": [
+        "Neuroinflammatory",
+        "autophagy",
+        "neurodegeneration",
+        "pathology.",
+        "receptors",
+        "therapeutic strategies"
+      ],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42811116",
@@ -308,7 +571,7 @@
       "keywords": [],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42807842",
@@ -335,7 +598,7 @@
       "keywords": [],
       "collected_at": "2026-09-30T05:50:41Z",
       "first_seen_at": "2026-09-30T05:50:41Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42807601",
@@ -366,7 +629,7 @@
       ],
       "collected_at": "2026-09-30T05:50:41Z",
       "first_seen_at": "2026-09-30T05:50:41Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42804741",
@@ -712,7 +975,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42791200",
@@ -1237,6 +1500,62 @@
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
       "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42817963",
+      "event_key": "pubmed:42817963",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Targeted single-nucleus sequencing of 39,800 neurons reveals extensive low-frequency somatic variants.",
+      "authors": [
+        "Vanshika Bidhan",
+        "Sarah Wynants",
+        "Toon Swings",
+        "Cristina T Vicente",
+        "Fahri Küçükali",
+        "Marleen Van den Broeck",
+        "Jeroen Gj van Rooij",
+        "Merel O Mol",
+        "Laura L Donker Kaat",
+        "Safa Al-Sarraj",
+        "Istvan Bodi",
+        "Andrew King",
+        "Claire Troakes",
+        "Christos Proukakis",
+        "Jolien Schaeverbeke",
+        "Dietmar R Thal",
+        "Rik Vandenberghe",
+        "Mathieu Vandenbulcke",
+        "Aivi T Nguyen",
+        "R Ross Reichard",
+        "Julia Kofler",
+        "Oscar L Lopez",
+        "Charles L White",
+        "Bradley F Boeve",
+        "Neill R Graff-Radford",
+        "Keith A Josephs",
+        "Ronald C Petersen",
+        "Nikhil B Ghayal",
+        "Melissa E Murray",
+        "Dennis W Dickson",
+        "John C van Swieten",
+        "Kristel Sleegers",
+        "Harro Seelaar",
+        "Wouter De Coster",
+        "Rosa Rademakers"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-22",
+      "pmid": "42817963",
+      "doi": "10.64898/2026.09.21.753260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817963/",
+      "abstract": "Recent evidence implicates somatic mutations in disease-associated genes across multiple neurodegenerative disorders, including the identification of two somatic TARDBP variants as a putative cause of frontotemporal lobar degeneration with TDP-43 pathology type C (FTLD-TDP type C). However, these findings remain anecdotal. We performed single-nucleus amplicon sequencing of 39,800 neurons from the superior temporal gyrus of sporadic FTLD-TDP type C patients (34,738 neurons, 52 individuals) and non-demented controls (5,062 neurons, 26 individuals) using the Mission Bio Tapestri platform and investigated somatic variants in TARDBP and other FTLD-TDP-associated genes in a case-control setting. We uncovered an extensive landscape of ultra-low-frequency (<1%) somatic mutations across all analysed genes, including TARDBP . Rare somatic occurrences of known ALS/FTD-associated germline TARDBP variants, including p.N267S and p.M337V, were identified exclusively in patients. Among all targeted genes, TARDBP had the highest proportion of neurons harbouring a somatic variant, and this mutational burden was lower in individuals who died at an older age. Strikingly, the C-terminal domain of TDP-43, where most ALS/FTD germline pathogenic variants reside, exhibited a lower neuronal mutational burden than its other domains. This suggests that neurons harbouring damaging mutations may undergo progressive loss prior to autopsy, leaving only rare survivors at frequencies too low to detect by bulk or small-scale single-cell approaches. Together, our findings provide an unprecedented resolution into the somatic mutational landscape of post-mitotic neurons in FTLD-TDP type C and reveal a gene-specific layer of neuronal mosaicism that current single-cell WGS studies fail to detect.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42801200",
@@ -2524,7 +2843,7 @@
       "source_id": "pubmed",
       "source_name": "PubMed",
       "category": "Research",
-      "title": "[Not Available].",
+      "title": "[What to learn and teach to implement Shared Care Planning for people with Amyotrophic Lateral Sclerosis? Nominal Group Technique].",
       "authors": [
         "Julia Fila",
         "Celeste Quiroga",
@@ -2537,16 +2856,22 @@
       "pmid": "42809873",
       "doi": "10.31053/1853.0605.v83.n3.50160",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42809873/",
-      "abstract": "Introducción: La Planificación Compartida de la Atención (PCA) es esencial en enfermedades neurodegenerativas como la Esclerosis Lateral Amiotrófica (ELA), pero su implementación en América Latina sigue siendo limitada, en parte por la falta de formación profesional específica. El objetivo de este trabajo es identificar, desde la perspectiva de expertos, las principales barreras, tensiones y contenidos esenciales para diseñar un programa de capacitación en PCA dirigido a equipos interdisciplinares que asisten personas con ELA. Método: Estudio cualitativo con enfoque participativo mediante técnica de Grupo Nominal, realizado en Argentina en 2023. Participaron 17 profesionales de disciplinas clínicas y psicosociales con experiencia en ELA y cuidados paliativos. Se aplicó un análisis temático con validación de resultados por triangulación y consenso. Resultados: Se identificaron barreras para la implementación de la PCA y seis áreas temáticas de contenidos formativos. Destacan la necesidad de un marco ético, herramientas de comunicación, abordaje del sufrimiento existencial, y estrategias para integrar a la familia. Emergió como eje transversal la influencia de la cultura local, la emocionalidad del equipo y el modelo biomédico predominante. Conclusión: Este estudio aporta un marco conceptual y práctico para el diseño de programas de capacitación en PCA en el contexto de enfermedades neurológicas progresivas como la ELA. Representa un primer paso para subsanar una brecha formativa aún no cubierta en la región.",
+      "abstract": "BACKGROUND: Advance Care Planning (ACP) is crucial in neurodegenerative conditions such as Amyotrophic Lateral Sclerosis (ALS), yet its implementation in Latin America remains limited, partly due to the lack of specific professional training. The objective of this work is to identify, from the perspective of experienced professionals, the main barriers, tensions, and core contents for designing a training program in ACP for teams caring for people with ALS.\n\nMETHODS: A qualitative study using a participatory approach and Nominal Group Technique was conducted in Argentina in 2023. Seventeen professionals from clinical and psychosocial fields participated in the study. Thematic analysis was applied, with triangulation and consensus validation.\n\nRESULTS: Implementation barriers and six thematic areas were identified. Key topics included ethical frameworks, communication tools, existential distress, and strategies for involving families. A cross-cutting axis was the influence of local culture, team emotional responses, and the prevailing biomedical model.\n\nCONCLUSION: This study offers a conceptual and practical foundation for developing ACP training programs in the context of progressive neurological diseases. It represents a first step toward addressing a training gap in the region.",
       "mesh_terms": [
         "Humans",
         "Amyotrophic Lateral Sclerosis",
         "Patient Care Planning"
       ],
-      "keywords": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "advance care planning",
+        "integrative palliative care",
+        "relational autonomy",
+        "professional training"
+      ],
       "collected_at": "2026-09-30T05:50:41Z",
       "first_seen_at": "2026-09-30T05:50:41Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42795978",
@@ -3134,7 +3459,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42794615",
@@ -3861,7 +4186,7 @@
       ],
       "collected_at": "2026-09-30T05:50:41Z",
       "first_seen_at": "2026-09-30T05:50:41Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42746632",
@@ -3972,6 +4297,35 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42818787",
+      "event_key": "pubmed:42818787",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties.",
+      "authors": [
+        "Adenine Si-Hui Koo",
+        "Jingjing Zhou",
+        "Natasha M Méndez-Albelo",
+        "Yuchun Wei",
+        "Wei Xu",
+        "Xinyu Zhao",
+        "Colin Dewey",
+        "Randal S Tibbetts"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-10",
+      "pmid": "42818787",
+      "doi": "10.64898/2026.09.08.750250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818787/",
+      "abstract": "UNLABELLED: X-linked amyotrophic lateral sclerosis (ALS) implicated Ubiquilin 2 (UBQLN2) is expressed from a single exon. Here, we show that human UBQLN2 mRNA is alternatively spliced by virtue of a cryptic exonic intron (exitron) spanning the 5' untranslated region and the 5' end of UBQLN2 coding sequence. Splice-out of this exitron generates a spliced UBQLN2 (UBQLN2-Sp) transcript that is translated from codon M243 to produce an N-terminally truncated UBQLN2 isoform (UBQLN2-M243) with reduced stability, diminished proteasome targeting, and altered aggregation behavior following the introduction of ALS mutations. The RNA-binding proteins SRSF1 and PTBP1 control UBQLN2 splicing through binding to splice donor-proximal motifs, while TDP-43 was implicated as an indirect splicing repressor. UBQLN2 splicing was elevated and inversely correlated with UBQLN2 gene expression in the medial motor cortex of male ALS patients. These findings suggest that alternative splicing regulates UBQLN2 gene dosage and function, which may impact UBQLN2-ALS proteinopathy.\n\nGRAPHICAL ABSTRACT: Created in https://BioRender.com.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42723096",
@@ -4149,6 +4503,42 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42818511",
+      "event_key": "pubmed:42818511",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Clonal CD8 T cells link peripheral and intrathecal immunity in ALS4 progression: a multiomics reference for ALS.",
+      "authors": [
+        "Laura Campisi",
+        "Marina Terekhova",
+        "Rima Melhem",
+        "Carisa Zeng",
+        "Jessie Martin",
+        "Tanya Lizbeth Joseph",
+        "Pavla Bohacova",
+        "Melina Jones",
+        "Avindra Nath",
+        "Nicole Benoit",
+        "George Harmison",
+        "Gregory Wu",
+        "Alexey Sergushichev",
+        "Maxim Artyomov",
+        "Christopher Grunseich"
+      ],
+      "journal": "Research square",
+      "publication_date": "2026-09-09",
+      "pmid": "42818511",
+      "doi": "10.21203/rs.3.rs-10810896/v1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818511/",
+      "abstract": "Dysregulated immune responses increasingly appear central to amyotrophic lateral sclerosis (ALS) pathology, but rapid progression and delayed diagnosis limit our understanding of how immune events evolve over the course of disease. By combining high parameter spectral flow cytometry with single cell RNA, TCR and BCR sequencing of peripheral blood and cerebrospinal fluid (CSF), we map the immune landscape in ALS4, a juvenile onset, slowly progressive ALS subtype, providing the first view of immune states spanning decades of disease progression. We identify an early emerging, progressively amplifying CD8 T cell program characterized by clonal expansion of peripheral GZMK⁺ and GZMB⁺ subsets and an abnormally high degree of TCR clonotype sharing between GZMK⁺ CSF and GZMB⁺ blood CD8 T cells. Our work defines a CD8 T cell trajectory that parallels clinical progression in ALS4 across CSF and blood and provides a reference for comparison with other ALS subtypes.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42794442",
@@ -6053,7 +6443,7 @@
       "keywords": [],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42738864",
@@ -7037,12 +7427,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814303/",
       "abstract": "Advances in genetics and RNA biology have transformed the therapeutic landscape for neurodegenerative disease. Antisense oligonucleotide (ASO) therapies-particularly RNase H-activating \"gapmers\"-now enable sequence-specific suppression of pathogenic transcripts in the central nervous system. In amyotrophic lateral sclerosis (ALS), tofersen, a 2'-MOE-modified phosphorothioate ASO targeting SOD1 mRNA, has entered clinical use. By promoting RNase H-mediated degradation of SOD1 transcripts after intrathecal delivery, tofersen lowers SOD1 protein in cerebrospinal fluid and plasma neurofilament light chain, demonstrating robust target engagement and neurodegeneration biomarker improvement. Although pivotal trials did not meet primary functional endpoints (ALSFRS-R) at 28 weeks, longer-term and real-world observations suggest potential clinical benefit with earlier initiation, a hypothesis now being tested in presymptomatic SOD1 variant carriers. This chapter reviews the development of gapmer ASOs for ALS with a focus on tofersen-covering chemistry and mechanism, preclinical validation, clinical efficacy and safety, biomarker readouts, and ongoing trials-while outlining key challenges (CNS delivery, adverse event monitoring, endpoint sensitivity) and future directions, including earlier intervention guided by biomarkers and extension to additional genetic forms of ALS.",
       "mesh_terms": [
-        "Amyotrophic Lateral Sclerosis",
-        "Humans",
-        "Oligonucleotides, Antisense",
         "Animals",
-        "Superoxide Dismutase-1",
-        "Biomarkers"
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Biomarkers",
+        "Oligonucleotides, Antisense",
+        "Superoxide Dismutase-1"
       ],
       "keywords": [
         "Amyotrophic lateral sclerosis (ALS)",
@@ -7052,7 +7442,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42814295",
@@ -7075,11 +7465,11 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814295/",
       "abstract": "Antisense oligonucleotides (AONs) are synthetic oligonucleotides designed to bind target RNA and have opened new treatment possibilities for genetic diseases by regulating gene expression. AONs are often used to suppress the expression of mutated genes, which may interfere with essential downstream pathways. Since AONs have been introduced for clinical use, different chemistries have been developed to further improve efficacy, potency, and safety. One such chemistry is a chimeric structure of a central block of deoxyribonucleotides flanked by sequences of modified nucleotides. Referred to as a gapmer, this chemistry produced promising results in the treatment of genetic diseases. Tofersen is an example of a recently FDA-approved antisense oligonucleotide gapmer used for the treatment of amyotrophic lateral sclerosis. Many others are being tested in clinical trials or under preclinical development. This chapter will cover advancements in gapmer treatments for various diseases, including familial hypercholesterolemia, hereditary transthyretin amyloidosis, cancer, familial chylomicronemia syndrome, familial partial lipodystrophy, familial hypertriglyceridemia, Huntington's disease, myotonic dystrophy, prion diseases, and amyotrophic lateral sclerosis.",
       "mesh_terms": [
-        "Humans",
-        "Oligonucleotides, Antisense",
         "Animals",
+        "Humans",
         "Genetic Diseases, Inborn",
-        "Genetic Therapy"
+        "Genetic Therapy",
+        "Oligonucleotides, Antisense"
       ],
       "keywords": [
         "Amyotrophic lateral sclerosis",
@@ -7099,7 +7489,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-01T06:24:05Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "42752431",

@@ -1,10 +1,80 @@
 {
-  "updated_at": "2026-10-01T06:24:06Z",
+  "updated_at": "2026-10-02T06:02:01Z",
   "new_keys": [
-    "clinicaltrials:NCT04394871:2026-09-30",
-    "clinicaltrials:NCT05039099:2026-09-30"
+    "clinicaltrials:NCT07204977:2026-10-01",
+    "clinicaltrials:NCT07851714:2026-10-01",
+    "clinicaltrials:NCT05936619:2026-10-01"
   ],
   "items": [
+    {
+      "id": "NCT07851714",
+      "event_key": "clinicaltrials:NCT07851714:2026-10-01",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07851714",
+      "title": "Metabolism and Nutrition in MND",
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-10-01",
+      "last_update_date": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07851714",
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "NCT07204977",
+      "event_key": "clinicaltrials:NCT07204977:2026-10-01",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07204977",
+      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Acamprosate calcium"
+      ],
+      "start_date": "2026-02-02",
+      "last_update_date": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07204977",
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
+    {
+      "id": "NCT05936619",
+      "event_key": "clinicaltrials:NCT05936619:2026-10-01",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05936619",
+      "title": "MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
+      "sponsor": "Nader Pouratian",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Mind Extender (MindEx)"
+      ],
+      "start_date": "2026-02-20",
+      "last_update_date": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT05936619",
+      "collected_at": "2026-10-02T06:02:01Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-02T06:02:01Z"
+    },
     {
       "id": "NCT05039099",
       "event_key": "clinicaltrials:NCT05039099:2026-09-30",
@@ -27,7 +97,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05039099",
       "collected_at": "2026-10-01T06:24:06Z",
       "first_seen_at": "2026-10-01T06:24:06Z",
-      "last_seen_at": "2026-10-01T06:24:06Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "NCT04394871",
@@ -50,7 +120,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04394871",
       "collected_at": "2026-10-01T06:24:06Z",
       "first_seen_at": "2026-09-29T06:01:55Z",
-      "last_seen_at": "2026-10-01T06:24:06Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "NCT05163886",
@@ -74,7 +144,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05163886",
       "collected_at": "2026-09-30T05:50:42Z",
       "first_seen_at": "2026-09-30T05:50:42Z",
-      "last_seen_at": "2026-10-01T06:24:06Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "NCT04220190",
@@ -98,7 +168,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04220190",
       "collected_at": "2026-09-30T05:50:42Z",
       "first_seen_at": "2026-09-30T05:50:42Z",
-      "last_seen_at": "2026-10-01T06:24:06Z"
+      "last_seen_at": "2026-10-02T06:02:01Z"
     },
     {
       "id": "NCT07844590",
