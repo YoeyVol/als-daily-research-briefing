@@ -1,19 +1,243 @@
 {
-  "updated_at": "2026-10-02T06:02:01Z",
+  "updated_at": "2026-10-03T05:37:06Z",
   "new_keys": [
-    "pubmed:42823255",
-    "pubmed:42822505",
-    "pubmed:42822436",
-    "pubmed:42821610",
-    "pubmed:42817823",
-    "pubmed:42817633",
-    "pubmed:42822337",
-    "pubmed:42817119",
-    "pubmed:42817963",
-    "pubmed:42818787",
-    "pubmed:42818511"
+    "pubmed:42826761",
+    "pubmed:42826720",
+    "pubmed:42826718",
+    "pubmed:42826598",
+    "pubmed:42825398",
+    "pubmed:42825562",
+    "pubmed:42823490",
+    "pubmed:42826575",
+    "pubmed:42826647"
   ],
   "items": [
+    {
+      "id": "42826761",
+      "event_key": "pubmed:42826761",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Mdivi-1 regulates mitochondrial fission and function via the CaMK2/Drp1 pathway in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Yao Shai",
+        "Masood Alam",
+        "Xinyu Dong",
+        "Ying Zhang",
+        "Yujing Hu",
+        "Zhonghui He",
+        "Jinjin Feng",
+        "Yifan Chen",
+        "Zhenqi Zhou",
+        "Hongquan Jiang"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2026-10-02",
+      "pmid": "42826761",
+      "doi": "10.1016/j.neuroscience.2026.10.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826761/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease involving progressive motor neuron loss. Given the high energy reliance of motor neurons, mitochondrial dysfunction especially excessive fission critically contributes to disease pathogenesis. Mitochondrial division inhibitor-1 (Mdivi-1), an inhibitor of the fission protein Drp1, has shown neuroprotective potential, but its mechanism of action on mitochondrial quality control in ALS remains unclear. Here, we examined the effects of Mdivi-1 on mitochondrial dysfunction and cell injury in NSC34 cells expressing mutant SOD1^G93A and in SOD1^G93A transgenic mice. ALS models exhibited increased reactive oxygen species accumulation, reduced mitochondrial content, loss of mitochondrial membrane potential, enhanced apoptotic signaling, and increased phosphorylation of CaMK2 and Drp1. Mdivi-1 treatment improved cell viability, reduced oxidative stress, restored mitochondrial integrity and membrane potential, and suppressed apoptosis. In addition, Mdivi-1 decreased Drp1 phosphorylation, whereas co-treatment with the CaMK2 activator DCP-LA partially reversed these effects. Furthermore, direct inhibition of CaMK2 with KN93 reduced CaMK2 and Drp1 phosphorylation, providing additional evidence that CaMK2 regulates Drp1 activation in SOD1^G93A cells. These findings indicate that pharmacological modulation of the CaMK2/Drp1 pathway can attenuate aberrant mitochondrial fission and associated cellular dysfunction in ALS models.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "CaMK2",
+        "Drp1",
+        "Mitochondrial division inhibitor 1(Mdivi-1)",
+        "Mitochondrial fission"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42826720",
+      "event_key": "pubmed:42826720",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
+      "authors": [
+        "Xiaoyu Li",
+        "Zichen Cao",
+        "Ou Jiang",
+        "Songyue Wu",
+        "Bo Zhou",
+        "Yao Feng",
+        "Xinyue Chen",
+        "Jinsong Wang",
+        "Jian Zhou",
+        "Renhong Yan",
+        "Mo Chen",
+        "Songlin Wang"
+      ],
+      "journal": "Developmental cell",
+      "publication_date": "2026-10-02",
+      "pmid": "42826720",
+      "doi": "10.1016/j.devcel.2026.09.001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826720/",
+      "abstract": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "Sialin2",
+        "autophagy",
+        "liquid-liquid phase separation",
+        "neurodegeneration",
+        "nitrate",
+        "stress granules"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42826718",
+      "event_key": "pubmed:42826718",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+      "authors": [
+        "Young Cha",
+        "Kwang-Soo Kim"
+      ],
+      "journal": "Cell reports. Medicine",
+      "publication_date": "2026-10-02",
+      "pmid": "42826718",
+      "doi": "10.1016/j.xcrm.2026.103104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/",
+      "abstract": "Twenty years after the discovery of induced pluripotent stem cells, the field has progressed from patient-specific disease modeling toward cell-based therapies for neurodegenerative disorders. Parkinson's disease has emerged as the leading model for neuronal replacement, whereas Huntington's disease, Alzheimer's disease, and amyotrophic lateral sclerosis require distinct combinations of circuit reconstruction, cellular support, immune modulation, and engineered therapeutic delivery. We discuss key determinants of clinical translation, including cell source, product identity, graft composition, graft-host interactions, manufacturing reproducibility, genomic integrity, and clinical evaluation. We propose that the interval between cell transplantation and long-term engraftment constitutes a biological \"black box\" in which graft fate and therapeutic outcome are determined. As regenerative medicine enters its third decade, future progress will depend not only on generating therapeutic cells but also on elucidating and engineering the biological processes that determine their fate after transplantation, marking a conceptual transition from stem cell biology toward transplantation biology.",
+      "mesh_terms": [],
+      "keywords": [
+        "cell replacement therapy",
+        "genomic integrity",
+        "graft-host interactions",
+        "induced pluripotent stem cells",
+        "neurodegenerative diseases",
+        "regenerative medicine",
+        "transplantation biology"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42826598",
+      "event_key": "pubmed:42826598",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+      "authors": [
+        "Alessandro Rava",
+        "Melania Di Trapano",
+        "Calvin Tse",
+        "Lawrence Ji",
+        "Hemant Kumar Bid",
+        "Viviana Trezza"
+      ],
+      "journal": "Neuroscience and biobehavioral reviews",
+      "publication_date": "2026-10-02",
+      "pmid": "42826598",
+      "doi": "10.1016/j.neubiorev.2026.107005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/",
+      "abstract": "Acidic cannabinoids, including tetrahydrocannabinolic acid (THCA), cannabidiolic acid (CBDA), cannabigerolic acid (CBGA), and related biosynthetic precursors, represent the predominant phytocannabinoid forms naturally produced by Cannabis sativa. Long considered pharmacologically inactive intermediates, these compounds are now increasingly recognized as bioactive molecules with potential therapeutic relevance for brain disorders. Compared with their decarboxylated counterparts, acidic cannabinoids exhibit distinct physicochemical, pharmacokinetic, and pharmacodynamic properties that may confer reduced psychotropic liability together with unique neurobiological effects. Emerging preclinical evidence indicates that acidic cannabinoids modulate multiple processes implicated in neurological and psychiatric disorders, including serotonergic and endocannabinoid signaling, neuroinflammation, oxidative stress, mitochondrial dysfunction, calcium dyshomeostasis, and synaptic transmission. In this review, we critically examine current knowledge regarding acidic cannabinoids in the context of brain disorders. We first summarize their biosynthesis, chemical stability, pharmacokinetic characteristics, and pharmacological differences from neutral cannabinoids. We then examine preclinical evidence supporting their potential therapeutic effects in epilepsy, anxiety, depression, psychosis-related conditions, and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. We also discuss how artificial intelligence and computational approaches may support target identification, formulation optimization, pharmacokinetic modeling, and the development of personalized cannabinoid-based interventions. Finally, we highlight key methodological and translational challenges limiting the field and outline priorities for future research. Overall, acidic cannabinoids emerge as promising but still underexplored multitarget compounds with potential relevance for the treatment of brain disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "Acidic cannabinoids",
+        "Artificial intelligence",
+        "Brain disorders",
+        "Epilepsy",
+        "Neurodegeneration",
+        "Psychiatric disorders"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42825562",
+      "event_key": "pubmed:42825562",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Mark B Bromberg"
+      ],
+      "journal": "Continuum (Minneapolis, Minn.)",
+      "publication_date": "2026-10-02",
+      "pmid": "42825562",
+      "doi": "10.1212/cont.0000000000001753",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825562/",
+      "abstract": "OBJECTIVE: This article describes the nerve loss underlying amyotrophic lateral sclerosis, its clinical manifestations, examination findings leading to the diagnosis, the expanding role of genetics, and available treatment and patient management.\n\nLATEST DEVELOPMENTS: The cause of neuron death in patients with amyotrophic lateral sclerosis is not known, but many genes are strongly linked to the disease, in both patients with a family history and those with no history. A multistep pathologic process helps to explain the onset of symptoms later in life, even in patients with associated genes. Posttranslational and epigenetic changes are also important factors. Current clinical trials are based on putative pathologic mechanisms, and some newer therapies are gene-based.\n\nESSENTIAL POINTS: Amyotrophic lateral sclerosis has distinctive features and can be diagnosed largely from the history and examination, and true mimics are rare. While the cause of neuronal death is not known, pathogenic and risk factor gene variations are present in a number of patients, and posttranscriptional and epigenetic changes are likely major causative factors. Environmental factors likely contribute, but specific avoidable factors have not been identified. Drugs to slow the progress of the disease are currently limited, but trials for all patients with amyotrophic lateral sclerosis continue, including a focus on genetic factors. Patient management is optimized in multidisciplinary amyotrophic lateral sclerosis clinics, and interventions for nutrition with gastric feeding tubes and respiratory insufficiency by noninvasive ventilation enhance patient comfort.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Middle Aged"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42825398",
+      "event_key": "pubmed:42825398",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Associations Between Prediagnosis Plasma Neurofilament Light Polypeptide and Amyotrophic Lateral Sclerosis Risk in the Danish EPIC Cohort.",
+      "authors": [
+        "Aline Davias",
+        "Johnni Hansen",
+        "Cezmi A Akdis",
+        "Marc G Weisskopf"
+      ],
+      "journal": "Annals of neurology",
+      "publication_date": "2026-10-02",
+      "pmid": "42825398",
+      "doi": "10.1002/ana.78382",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825398/",
+      "abstract": "OBJECTIVE: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with a rapid time from symptoms onset to diagnosis. Elevated neurofilament light polypeptide (NfL) is well-established in symptomatic ALS and up to 5 years prediagnosis, but earlier timeframes remain understudied. We aimed to assess plasma NfL levels up to 23 years before ALS diagnosis and the relation to ALS risk.\n\nMETHODS: We conducted a nested matched case-control study within the Danish EPIC cohort (baseline 1993-1997) including 166 ALS cases (diagnosed 1997-2017) and 332 controls matched on birth year and sex. Plasma samples collected 0.4 to 23.2 years (median 14.1 years) prediagnosis were analyzed for NfL using Olink Target 96. Odds ratios were estimated using conditional logistic regression. Discriminatory performance was evaluated using receiver operating characteristic curves.\n\nRESULTS: NfL levels were elevated in ALS cases relative to controls up to 14.6 years before diagnosis. Among those with blood samples collected <5, 5 to 14.6, and >14.6 years before diagnosis, the odds ratios (95% CI) for ALS per standard deviation increase in the normalized protein expression value of NfL were 3.8 (1.4-10.3), 1.7 (1.2-2.3), and 1.3 (0.9-1.7), respectively. The areas under the curve for ALS discrimination by NfL among those with blood collected <5 and 5-14.6 years before diagnosis were 0.78 and 0.63, respectively.\n\nINTERPRETATION: Plasma NfL elevation may occur significantly earlier than previously reported, indicating a much longer ALS prodrome. Assuming other biomarker changes may also occur earlier, this raises the possibility of identifying at-risk individuals early that could benefit epidemiologic analyses, clinical trials, and prevention efforts. ANN NEUROL 2026.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42823490",
+      "event_key": "pubmed:42823490",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Insertion or deletion variants in TAF15 exon 15 are genetic factors impacting the prognosis of amyotrophic lateral sclerosis in a Japanese cohort.",
+      "authors": [
+        "Yuya Hatano",
+        "Tomohiko Ishihara",
+        "Mari Tada",
+        "Yutong Li",
+        "Sachiko Hirokawa",
+        "Masahiro Uemura",
+        "Shoichiro Ando",
+        "Akio Yokoseki",
+        "Akiyoshi Kakita",
+        "Osamu Onodera"
+      ],
+      "journal": "European journal of human genetics : EJHG",
+      "publication_date": "2026-10-01",
+      "pmid": "42823490",
+      "doi": "10.1038/s41431-026-02249-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823490/",
+      "abstract": "The influence of genetic factors on the prognosis of amyotrophic lateral sclerosis (ALS) has attracted considerable attention, with numerous studies exploring this relationship in clinically diagnosed patients. The present study attempted to clarify the precise impact of genetic factors on prognosis in patients with pathologically confirmed sporadic ALS. We conducted exome analysis on 137 consecutively autopsied patients with sporadic ALS exhibiting TDP-43 pathology, screening for non-synonymous or splice-site rare variants (RVs) in ALS-related genes. The impact of these variants on ALS prognosis was subsequently assessed. The exome analysis identified 31 RVs in 27 of the 137 patients, including TAF15 exon 15 insertion/deletion mutations (TAF15-15 indels) in 9 patients. Patients harboring RVs had significantly shorter survival times (median 18.0 months) than those without RVs (28.5 months), as determined by log-rank test (p = 0.02). Notably, the 9 cases with TAF15-15 indels demonstrated a significantly poorer outcome (15.0 months, p = 3e-06). Lattice Simulation of Sticker-Spacer Interactions (LASSI) simulations revealed stronger negative sticker-sticker interactions, and a tendency toward lower saturation concentration and higher dense-phase concentration in TAF15-15 indel proteins, suggesting enhanced condensation. The present analysis of pathologically diagnosed ALS patients has yielded genetic factors that could potentially aid more accurate diagnosis and prognostication. The frequent identification of TAF15-15 indels among ALS cases, and their association with significantly poorer outcome, suggests that this type of mutation could be prognostically significant in ALS. Furthermore, the mechanism by which TAF15-15 indels influence the course of ALS could be a promising target for future treatments.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
     {
       "id": "42823255",
       "event_key": "pubmed:42823255",
@@ -36,7 +260,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42822505",
@@ -67,7 +291,7 @@
       ],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42822436",
@@ -99,7 +323,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42821610",
@@ -135,7 +359,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42817823",
@@ -176,7 +400,7 @@
       ],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42817633",
@@ -209,7 +433,7 @@
       ],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42789802",
@@ -383,7 +607,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42815720",
@@ -425,7 +649,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42814997",
@@ -483,7 +707,39 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42826575",
+      "event_key": "pubmed:42826575",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
+      "authors": [
+        "Anushree Tripathi",
+        "Anoop Kumar Yadav",
+        "Nilesh Kumar"
+      ],
+      "journal": "Computational biology and chemistry",
+      "publication_date": "2026-09-29",
+      "pmid": "42826575",
+      "doi": "10.1016/j.compbiolchem.2026.109448",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826575/",
+      "abstract": "BACKGROUND: Neurodegenerative diseases (NDDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic Lateral Sclerosis (ALS), present a growing global health challenge, with traditional diagnostic and therapeutic approaches facing significant limitations in early detection and mechanistic resolution.\n\nOBJECTIVES: Innovations in transcriptomic technologies-spanning bulk RNA sequencing, single-cell RNA-seq (scRNA-seq), and spatially resolved transcriptomics-provide unprecedented insights into cellular heterogeneity and microenvironmental dysregulation. This systematic review synthesizes recent applications of artificial intelligence (AI), machine learning (ML), and deep learning (DL) across transcriptomic tiers to benchmark computational models for biomarker identification, disease diagnosis, patient subtyping, and drug repurposing.\n\nMETHODS & ELIGIBILITY: Following PRISMA 2020 guidelines for qualitative systematic reviews, literature published between 2016 and 2025 was systematically searched across PubMed/MEDLINE, IEEE Xplore, Google Scholar, and bioRxiv/medRxiv. Of 1058 records identified, 19 core empirical studies met all eligibility criteria and were synthesized in depth alongside contextual reference benchmarks.\n\nSYNTHESIS & KEY FINDINGS: Traditional ML algorithms (SVM, RF, Elastic Net) demonstrate high diagnostic accuracy (AUC 0.72-0.98) in blood-based biomarker selection, while deep architectures (autoencoders, LSTMs, and Graph Neural Networks) excel at modeling continuous disease trajectories and resolving spatial transcriptomic niches (e.g., STAGATE, SpaGCN, cell2location). Emerging spatial deep learning models successfully localize disease-associated microglia (DAM) around amyloid plaques and trace axonal degeneration pathways.\n\nLIMITATIONS & CONCLUSIONS: Key translational hurdles include data scarcity in rare NDD subtypes, lack of cross-platform spatial benchmarks, and the black-box nature of deep neural networks. Integrating explainable AI (XAI) and prospective multi-modal cohorts is essential for translating computational transcriptomics into clinical diagnostics and targeted therapeutics.",
+      "mesh_terms": [],
+      "keywords": [
+        "Artificial intelligence (AI)",
+        "Bioinformatics",
+        "Biomarkers",
+        "Deep Learning",
+        "Neurodegenerative diseases (NDDs)",
+        "Spatial Tran-scriptomics",
+        "Transcriptomics"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42822337",
@@ -514,7 +770,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42817119",
@@ -547,7 +803,7 @@
       ],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42811116",
@@ -571,7 +827,7 @@
       "keywords": [],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42807842",
@@ -975,7 +1231,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42791200",
@@ -1163,6 +1419,38 @@
       "collected_at": "2026-09-26T05:19:20Z",
       "first_seen_at": "2026-09-26T05:19:20Z",
       "last_seen_at": "2026-09-28T05:44:22Z"
+    },
+    {
+      "id": "42826647",
+      "event_key": "pubmed:42826647",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "CRISPR screening in neurodegeneration and lysosomal biology: Uncovering disease mechanisms and genetic modifiers.",
+      "authors": [
+        "Hamid Esmaeili",
+        "Supta Das",
+        "Krystyna Rytel",
+        "Ellen Sidransky",
+        "Yu Chen"
+      ],
+      "journal": "Molecular genetics and metabolism",
+      "publication_date": "2026-09-24",
+      "pmid": "42826647",
+      "doi": "10.1016/j.ymgme.2026.110265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826647/",
+      "abstract": "Growing genetic and mechanistic evidence has highlighted substantial convergence between neurodegenerative disorders and lysosomal biology. Variants in lysosomal protein-encoding genes associated with lysosomal storage disorders (LSDs) have been implicated in common neurodegenerative diseases, suggesting that perturbations of lysosomal function represent a shared pathogenic mechanism. However, the low penetrance of neurodegenerative diseases in individuals carrying variants in these lysosomal genes suggests that additional genetic modifiers are involved as well. Advances in functional genomics, particularly clustered regularly interspaced short palindromic repeat (CRISPR)-based high-throughput screens, have opened new avenues to identify such modifiers and elucidate disease-associated pathways. These unbiased approaches have accelerated the discovery of molecular mechanisms underlying neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Although to date few studies have applied CRISPR-based functional screens directly to LSDs, findings from neurodegenerative disease models provide a valuable framework for investigating lysosomal pathways and identifying genetic factors that influence phenotypic variability. In this review, we summarize recent advances in in vitro CRISPR-based screening approaches in neurodegenerative disorders and discuss their implications for understanding lysosomal biology and LSD-related mechanisms.",
+      "mesh_terms": [],
+      "keywords": [
+        "CRISPR screens",
+        "Gaucher disease",
+        "Genetic modifiers",
+        "Lysosomal storage disorders",
+        "Neurodegeneration"
+      ],
+      "collected_at": "2026-10-03T05:37:05Z",
+      "first_seen_at": "2026-10-03T05:37:05Z",
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42785576",
@@ -1555,7 +1843,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42801200",
@@ -3459,7 +3747,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42794615",
@@ -4325,7 +4613,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42723096",
@@ -4538,7 +4826,7 @@
       "keywords": [],
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42794442",
@@ -6443,7 +6731,7 @@
       "keywords": [],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42738864",
@@ -7442,7 +7730,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42814295",
@@ -7489,7 +7777,7 @@
       ],
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
-      "last_seen_at": "2026-10-02T06:02:01Z"
+      "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
       "id": "42752431",
