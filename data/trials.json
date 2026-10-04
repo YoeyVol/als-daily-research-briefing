@@ -1,9 +1,6 @@
 {
-  "updated_at": "2026-10-03T05:37:06Z",
-  "new_keys": [
-    "clinicaltrials:NCT06726577:2026-10-02",
-    "clinicaltrials:NCT07855211:2026-10-02"
-  ],
+  "updated_at": "2026-10-04T06:12:30Z",
+  "new_keys": [],
   "items": [
     {
       "id": "NCT07855211",
@@ -28,7 +25,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07855211",
       "collected_at": "2026-10-03T05:37:06Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-03T05:37:06Z"
+      "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
       "id": "NCT06726577",
@@ -53,7 +50,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06726577",
       "collected_at": "2026-10-03T05:37:06Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-03T05:37:06Z"
+      "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
       "id": "NCT07851714",
@@ -76,7 +73,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07851714",
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-03T05:37:06Z"
+      "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
       "id": "NCT07204977",
@@ -99,7 +96,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07204977",
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-03T05:37:06Z"
+      "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
       "id": "NCT05936619",
@@ -122,7 +119,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05936619",
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-03T05:37:06Z"
+      "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
       "id": "NCT05039099",
