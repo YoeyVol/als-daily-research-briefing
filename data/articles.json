@@ -1,7 +1,68 @@
 {
-  "updated_at": "2026-10-04T06:12:30Z",
-  "new_keys": [],
+  "updated_at": "2026-10-05T06:04:52Z",
+  "new_keys": [
+    "pubmed:42829893",
+    "pubmed:42829678"
+  ],
   "items": [
+    {
+      "id": "42829893",
+      "event_key": "pubmed:42829893",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cerebrospinal fluid inflammatory proteomic profiling identifies biomarkers linked to disease progression in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Congwen Lv",
+        "Wenjia Zhu",
+        "Xinmei Wen",
+        "Yaye Wang",
+        "Nairong Xie",
+        "Haoran Liu",
+        "Yuting Jiang",
+        "Wenlong Zou",
+        "Qinyao Liu",
+        "Junjiu Gou",
+        "Xiaotong Yu",
+        "Li Di",
+        "Yan Lu",
+        "Min Wang",
+        "Min Xu",
+        "Hai Chen",
+        "Jianying Duo",
+        "Yue Huang",
+        "Yuwei Da"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-10-04",
+      "pmid": "42829893",
+      "doi": "10.1007/s00415-026-14178-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829893/",
+      "abstract": "BACKGROUND: Neuroinflammation is a key component of amyotrophic lateral sclerosis (ALS), but its association with disease progression heterogeneity remains unclear. We aimed to identify CSF inflammation-related proteins associated with disease progression phenotype in patients with ALS.\n\nMETHODS: Patients with ALS were stratified into slow progressors (SP) and fast progressors (FP) according to the disease progression rate. CSF inflammatory proteins were measured using the Olink Target 96 Inflammation panel. Disease-associated biomarkers were identified using limma package and elastic net (EN) analysis. We assessed the discriminatory power of disease-associated biomarkers using receiver operating characteristic curve analysis and estimated the optimism-adjusted area under the curve (AUC) using the bootstrapping method.\n\nRESULTS: Among 77 patients (SP: n=40; FP: n=37), limma analysis identified 11 differentially expressed proteins, with functional enrichment in chemokine signaling, TNF-related responses and NF-κB pathways. EN analysis identified 12 candidate proteins, among which CST5, CCL11, SIRT2, CD6, CCL4, MMP-1, TNFRSF9, CCL19, and MCP-4 showed positive associations with the SP phenotype. A model combining SIRT2, MMP-1, BMI, and site of onset yielded an apparent area under the curve of 0.769 (95% CI 0.662 to 0.876) and an optimism-corrected area under the curve of 0.729.\n\nCONCLUSION: Our study uncovered a CSF inflammatory proteomic signature associated with slow disease progression in ALS. These findings indicate that specific CSF neuroinflammatory protein signatures reflect biological heterogeneity in ALS disease progression rather than non-specific neurodegeneration. SIRT2 and MMP-1 warrant further investigation as components of progression-stratification models, although validation in larger, longitudinal, and independent cohorts is required.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Disease Progression",
+        "Male",
+        "Biomarkers",
+        "Proteomics",
+        "Middle Aged",
+        "Aged",
+        "Inflammation",
+        "Adult",
+        "Neuroinflammatory Diseases"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Biomarkers",
+        "Disease progression",
+        "Inflammation"
+      ],
+      "collected_at": "2026-10-05T06:04:52Z",
+      "first_seen_at": "2026-10-05T06:04:52Z",
+      "last_seen_at": "2026-10-05T06:04:52Z"
+    },
     {
       "id": "42826761",
       "event_key": "pubmed:42826761",
@@ -37,7 +98,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42826720",
@@ -77,7 +138,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42826718",
@@ -108,7 +169,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42826598",
@@ -142,7 +203,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42825562",
@@ -170,7 +231,7 @@
       "keywords": [],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42825398",
@@ -195,7 +256,7 @@
       "keywords": [],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42823490",
@@ -226,7 +287,7 @@
       "keywords": [],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42823255",
@@ -729,7 +790,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42822337",
@@ -1440,7 +1501,7 @@
       ],
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42785576",
@@ -5894,6 +5955,37 @@
         "nutritional biomarkers",
         "serum"
       ]
+    },
+    {
+      "id": "42829678",
+      "event_key": "pubmed:42829678",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "When the Electromyography (EMG) and the Patient Disagree: Unraveling a Motor Neuron Disease Mimic With Small-Fiber Dysfunction.",
+      "authors": [
+        "Niyas Khalid Ottu Para"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-09-03",
+      "pmid": "42829678",
+      "doi": "10.7759/cureus.115700",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829678/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by upper and lower motor neuron dysfunction. Electromyography (EMG) is central to its evaluation, but neurogenic abnormalities and fasciculations are not specific to ALS and must be interpreted within the clinical phenotype and disease trajectory. This study reports a 52-year-old man with an approximately eight-year history of intermittent muscle twitching, bilateral upper-limb tremor, muscular tightness and warmth, and asymmetric cutaneous hypersensitivity. An initial electrodiagnostic evaluation raised concern for diffuse motor neuron disease, despite preserved strength, normal gait, absence of muscle wasting, and lack of clear upper motor neuron signs. Extensive evaluation for inflammatory, autoimmune, metabolic, toxic, infectious, paraneoplastic, neuromuscular junction, and peripheral nerve hyperexcitability disorders was unrevealing. Serum creatine kinase was mildly and variably elevated, while aldolase and a comprehensive myositis panel were normal. Brain magnetic resonance imaging (MRI) demonstrated no supportive features of ALS. Sudomotor testing showed reduced electrochemical skin conductance (ESC) in the hands, supporting small-fiber/autonomic dysfunction in the context of prominent sensory symptoms. Repeat EMG, performed after interval follow-up with broad muscle sampling, demonstrated focal neurogenic abnormalities involving bilateral ulnar distributions and left L5-S1 radiculopathy but found no electrophysiological evidence of a neurodegenerative disorder. The patient was treated symptomatically with gabapentin and vitamin E and reported approximately 80% improvement after six weeks. This case highlights the importance of clinicophysiological correlation, disease trajectory, sensory phenomenology, and repeat electrophysiology when an initial EMG suggests motor neuron disease but the longitudinal clinical picture is discordant. It also illustrates how small-fiber dysfunction and focal neurogenic abnormalities may coexist and mimic a progressive motor neuron syndrome.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "electromyography",
+        "fasciculations",
+        "motor neuron disease mimic",
+        "peripheral nerve hyperexcitability",
+        "radiculopathy",
+        "small-fiber dysfunction",
+        "sudomotor dysfunction"
+      ],
+      "collected_at": "2026-10-05T06:04:52Z",
+      "first_seen_at": "2026-10-05T06:04:52Z",
+      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "42805693",
