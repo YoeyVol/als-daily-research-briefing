@@ -1,10 +1,187 @@
 {
-  "updated_at": "2026-10-05T06:04:52Z",
+  "updated_at": "2026-10-06T06:44:30Z",
   "new_keys": [
-    "pubmed:42829893",
-    "pubmed:42829678"
+    "pubmed:42833594",
+    "pubmed:42832702",
+    "pubmed:42832558",
+    "pubmed:42831972",
+    "pubmed:42831407",
+    "pubmed:42831156",
+    "pubmed:42831014",
+    "pubmed:42833128",
+    "pubmed:42831057",
+    "pubmed:42831851"
   ],
   "items": [
+    {
+      "id": "42833594",
+      "event_key": "pubmed:42833594",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "TDP-43 and ALS - what's wrong with my membranes?",
+      "authors": [
+        "Regina Dahlhaus",
+        "Israfil Yalcin",
+        "Julia Tischer",
+        "Ralf J Braun"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-10-05",
+      "pmid": "42833594",
+      "doi": "10.1016/j.nbd.2026.107630",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833594/",
+      "abstract": "In recent years, multiple pathologies of the mRNA binding protein TDP-43 have been linked to the neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS), in which almost 97% of all ALS patients exhibit TDP-43 abnormalities in affected neurons. Typically, neuronal degeneration first affects alpha motor neurons of the spinal cord and the lower brainstem, before the disease progresses to Betz cells, giant neurons of the primary motor cortex, and subsequently spreads into further brain regions. It is just the Betz cells though, which do not show cytosolic TDP-43 aggregation upon loss of nuclear TDP-43 expression, but instead display membrane defects in organelles such as the Golgi apparatus, the ER and the nuclear envelope. In this review, we will therefore examine connections between TDP-43 and inner membrane systems, with a particular focus on nuclear and the ER membranes. In doing so, we will summarize evidence suggesting that the disease may have an early onset, potentially even prenatally, and describe how interactions between TDP-43 and the lipid metabolism as well as connections with membrane components, may drive cells towards ALS as time goes by.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Frontotemporal dementia",
+        "LATE",
+        "TDP-43 proteinopathy"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "42832702",
+      "event_key": "pubmed:42832702",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Long-term exposure to ultrafine particles and mortality from neurodegenerative diseases: a population-based cohort study.",
+      "authors": [
+        "Emmanuelle Batisse",
+        "Marshall Lloyd",
+        "Christel Renoux",
+        "Arman Ganji",
+        "Junshi Xu",
+        "Marianne Hatzopoulou",
+        "Scott Weichenthal",
+        "Jill Baumgartner"
+      ],
+      "journal": "Epidemiology (Cambridge, Mass.)",
+      "publication_date": "2026-10-05",
+      "pmid": "42832702",
+      "doi": "10.1097/EDE.0000000000002054",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832702/",
+      "abstract": "BACKGROUND: Transportation and industrial activities emit large quantities of air pollutants, including unregulated ultrafine particles (UFP, <0.1 um), which may adversely affect brain health.\n\nMETHODS: We analyzed data from 2.1 million adults in the Canadian Census Health and Environment Cohorts (CanCHECs) living in Montreal and Toronto (2001-2019). Vital status and primary cause of death were obtained from the Canadian Vital Statistics- Death database. We assigned high-resolution estimates of UFP number concentrations and UFP size to participants' residential postal codes using three-year moving averages. Cox proportional hazards models were used to estimates hazard ratios (HRs) between long-term outdoor UFP number concentrations and mortality from dementia, Parkinson's disease, and amyotrophic lateral sclerosis. We further examined associations by dementia sub-types including Alzheimer's disease, vascular dementia and unspecified dementia. Models were used with and without inverse probability of censoring weights for competing events, and adjusted for UFP size, sociodemographic factors, and co-pollutants.\n\nFINDINGS: Over 19 million person-years, we identified 20,560 deaths from neurodegenerative diseases. Each 10,000 particle/cm 3 increase in UFP number concentrations was associated with increased dementia mortality (HR = 1.22, 95% CI: 1.17-1.27), with stronger associations observed after adjusting for UFP size. Positive associations were observed for all dementia subtypes, with the largest for vascular dementia (HR = 1.49, 95% CI: 1.27-1.76). We did not observe effects of UFP on mortality from Parkinson's disease or amyotrophic lateral sclerosis.\n\nINTERPRETATION: Long-term exposure to outdoor UFPs may contribute to mortality from specific neurodegenerative diseases, particularly dementia. Reducing population exposures to these unregulated pollutants could help mitigate the burden of neurodegenerative mortality.",
+      "mesh_terms": [],
+      "keywords": [
+        "Ultrafine particles",
+        "air pollution",
+        "dementia",
+        "neurodegenerative diseases",
+        "particle size"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "42832558",
+      "event_key": "pubmed:42832558",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Decoupling metabolic defense: Mutational and recombinational chaos in Sod1-deficient cells.",
+      "authors": [
+        "Yang Sui",
+        "Dao-Qiong Zheng",
+        "Yeke Wang",
+        "Shan-Shan Zhao",
+        "Ke-Jing Li",
+        "Cunqi Ye",
+        "Ke Zhang"
+      ],
+      "journal": "PLoS genetics",
+      "publication_date": "2026-10-05",
+      "pmid": "42832558",
+      "doi": "10.1371/journal.pgen.1012326",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832558/",
+      "abstract": "Superoxide dismutase 1 (Sod1) is long recognized as a frontline antioxidant, yet its broader role in safeguarding the eukaryotic genome remains under-explored. Here, using a yeast model, we reveal that Sod1 is an indispensable guardian of genomic integrity. Its absence unleashes a genomic storm: whole-genome sequencing uncovered a dramatic surge in single nucleotide variations (13-fold), loss of heterozygosity (12-fold), chromosomal rearrangements (4-fold), and a staggering 48-fold increase in aneuploidy. Remarkably, this genomic instability was completely abolished under anaerobic conditions, identifying reactive oxygen species as the sole executioner. We demonstrate that Sod1 deficiency sculpts a unique mutational landscape dominated by C:G to A:T transversions-a molecular fingerprint of 8-oxoguanine overproduction. Mechanistically, these lesions are exacerbated by error-prone DNA polymerase ζ but mitigated by the concerted actions of Ogg1-mediated excision and DNA polymerase η. Critically, we show that Amyotrophic Lateral Sclerosis-associated variants are not created equal: the H48Q mutation shatters genome stability, whereas others (A4V, G36R, and G93A) remain benign in this context. Unlike yeast Sod1, human Sod1 is highly resistant to amino acid substitutions outside copper-binding sites, thus preventing the loss of enzyme function. Overall, our findings provide a mechanistically framework for understanding how Sod1 dysfunction drives genome instability in eukaryotic cells.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "42831972",
+      "event_key": "pubmed:42831972",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Neuroimaging signatures of facial onset sensory and motor neuronopathy (FOSMN).",
+      "authors": [
+        "Angela Rosenbohm",
+        "Francisco Herrera-Angeles",
+        "Hans-Jürgen Huppertz",
+        "Karl Georg Haeusler",
+        "Jochen H Weishaupt",
+        "Hans-Peter Müller",
+        "Jan Kassubek"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-10-05",
+      "pmid": "42831972",
+      "doi": "10.1007/s00415-026-14174-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831972/",
+      "abstract": "Facial onset sensory and motor neuronopathy (FOSMN) is an exceptionally rare condition characterized by progressive facial paresthesia and the subsequent appearance of bulbar symptoms with rostro-caudal motor and sensory deficits sometimes extending to the hand muscles. The pathophysiological understanding of this disorder is very limited. In order to identify patterns of neuroanatomical involvement within the brain, we applied advanced magnetic resonance imaging-based techniques to a group of six patients with the diagnosis of FOSMN, using unbiased analysis techniques with atlas-based volumetry of volume-rendering T1-weighted data and whole brain-based spatial statistics of diffusion tensor imaging (DTI). The volumetric data showed significant global atrophy with prominent involvement of the medulla oblongata, while DTI demonstrated significant decreases in the right-hemispheric frontal lobe and bilaterally along the superior and inferior longitudinal fasciculi. In summary, this application of volumetry and DTI to a group of FOSMN patients demonstrated, beyond global brain atrophy as a correlate of a systemic disease process, regional atrophy in the brainstem/medulla oblongata, together with tract alterations of polymodal frontotemporoparietal interconnections. Future neuroimaging studies in larger patient groups of FOSMN are needed for detailed phenotype-neuroimaging correlations.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Diffusion Tensor Imaging",
+        "Brain",
+        "Magnetic Resonance Imaging",
+        "Middle Aged",
+        "Neuroimaging",
+        "Facial Nerve Diseases",
+        "Atrophy",
+        "Adult",
+        "Image Processing, Computer-Assisted",
+        "Aged",
+        "Motor Neuron Disease"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Atlas-based volumetry",
+        "Diffusion tensor imaging",
+        "Facial onset sensory and motor neuronopathy",
+        "Magnetic resonance imaging",
+        "Motor neuron disease",
+        "Neuroimaging"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "42831407",
+      "event_key": "pubmed:42831407",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Assessing consciousness in end-stage ALS: response to young's commentary.",
+      "authors": [
+        "Sandra Frycz",
+        "Wiktor WiĘcławski",
+        "Marcin Skotniczny",
+        "Marek Binder"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-05",
+      "pmid": "42831407",
+      "doi": "10.1080/21678421.2026.2739760",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831407/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
     {
       "id": "42829893",
       "event_key": "pubmed:42829893",
@@ -61,7 +238,39 @@
       ],
       "collected_at": "2026-10-05T06:04:52Z",
       "first_seen_at": "2026-10-05T06:04:52Z",
-      "last_seen_at": "2026-10-05T06:04:52Z"
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "42831156",
+      "event_key": "pubmed:42831156",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "When Hypercapnia Misleads: A Case of Respiratory-Onset Motor Neuron Disease.",
+      "authors": [
+        "Yousef Kordi",
+        "Mohamed Ismail",
+        "Elizabeth Estabrook"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-10-03",
+      "pmid": "42831156",
+      "doi": "10.7759/cureus.117375",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831156/",
+      "abstract": "Motor neuron disease (MND) most commonly presents with limb or bulbar weakness; however, a minority of patients present with respiratory-onset disease, posing significant diagnostic challenges. We report the case of a 78-year-old woman with a background of small airways disease and rheumatoid arthritis not requiring treatment for many years, who presented with a two-year history of progressive exertional dyspnoea, unintentional weight loss, and functional decline. Before diagnosis, she underwent extensive investigation across primary and secondary care, including chest radiography, spirometry, computed tomography imaging, and ear, nose, and throat specialist assessment, without a unifying diagnosis being established. On admission, venous blood gas demonstrated compensated hypercapnia, which was attributed to obstructive airways disease. She subsequently developed hypercapnic respiratory failure, and a clinical diagnosis of MND was made on the basis of generalised muscle wasting, fasciculations, brisk lower-limb reflexes, and electromyography findings. Non-invasive ventilation was initiated with significant clinical improvement. This case highlights the diagnostic challenges of respiratory-onset MND, the risk of anchoring bias in the interpretation of biochemical markers, and the importance of considering neuromuscular causes when respiratory symptoms are disproportionate to radiological and biochemical findings.",
+      "mesh_terms": [],
+      "keywords": [
+        "anchoring bias",
+        "diagnostic delay",
+        "hypercapnic respiratory failure",
+        "motor neuron disease",
+        "neuromuscular hypoventilation",
+        "non-invasive ventilation",
+        "respiratory-onset mnd"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
     },
     {
       "id": "42826761",
@@ -623,6 +832,34 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42831014",
+      "event_key": "pubmed:42831014",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "A Novel Device for Pulmonary Expansion Under Simulated Healthy and Neuromuscular Conditions: A Bench Simulation Study.",
+      "authors": [
+        "Alessandra Carneiro Dorça",
+        "Letícia de Araújo Morais"
+      ],
+      "journal": "Medical devices (Auckland, N.Z.)",
+      "publication_date": "2026-09-30",
+      "pmid": "42831014",
+      "doi": "10.2147/MDER.S626538",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831014/",
+      "abstract": "BACKGROUND: Amyotrophic Lateral Sclerosis (ALS) leads to a progressive decline in respiratory function, requiring volumetric expansion techniques to prevent hypoventilation. However, the mechanical performance of devices used for this purpose requires evaluation under controlled conditions in bench simulation studies. Devices, such as the manual resuscitator, are commonly used, but present limitations, including high pressures, variable flow, among others. A novel respiratory muscle training device designed to provide controlled flow and pressure (ILLIFE-T) was developed.\n\nOBJECTIVE: To evaluate the behavior of the variables pressure, volume, and flow during the volumetric expansion technique, comparing the new device with the manual resuscitator and the manual resuscitator + Positive Expiratory Pressure (PEP), using simulated models of healthy and ALS affected lungs.\n\nMETHODS: This bench simulation study used the ASL 5000 simulator, configured with predefined respiratory profiles representing healthy and ALS respiratory conditions. Four repetitions of the volumetric expansion maneuver were performed for each device and simulated respiratory condition, with five insufflations per repetition. One recording was randomly selected from each repetition for analysis, resulting in four observations per device and simulated respiratory condition.\n\nRESULTS: In the simulation with healthy respiratory conditions, the new device generated higher pressure (23.38±3.81 cmH2O), volume (1991.25 ±174.10 mL), and lower flow variability (-1.47±11.43 L/min) compared with the manual resuscitator (12.25±11.73 cmH2O; 1113.64±131.75 mL; 18.84±61.31 L/min) and the manual resuscitator with PEP valve (16.89±0.64 cmH2O; 1817.25±86.77 mL; -49.49±9.96 L/min), respectively. In ALS simulated models, the new device also achieved higher pressure (23.69±3.29 cmH2O) and volume (2235.28±264.74 mL) compared with the manual resuscitator (8.33±8.34 cmH2O; 563.45±212.03 mL, respectively) and the manual resuscitator with PEP valve (14.89±7.60 cmH2O; 1449.86±153.09 mL, respectively). Flow values were similar among devices: 15.10 ± 18.00 L/min for the new device, 19.28±56.03 L/min for the manual resuscitator, and 0.18±51.67 L/min for the manual resuscitator with PEP valve.\n\nCONCLUSION: Pressure and volume were higher with the new device in both simulated models. Flow did not differ significantly among devices, although lower variability was descriptively observed with the new device.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "lung simulator",
+        "respiratory physiotherapy",
+        "volume recruitment"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
     },
     {
       "id": "42816153",
@@ -2586,6 +2823,35 @@
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
       "last_seen_at": "2026-09-24T05:13:16Z"
+    },
+    {
+      "id": "42833128",
+      "event_key": "pubmed:42833128",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Enzymatic N-deacylation is the predicted membrane-disruption switch for sphingomyelin: a falsifiable in-silico framework for sphingolipid vulnerability in ALS.",
+      "authors": [
+        "Samarth Basanth"
+      ],
+      "journal": "Journal of molecular graphics & modelling",
+      "publication_date": "2026-09-19",
+      "pmid": "42833128",
+      "doi": "10.1016/j.jmgm.2026.109570",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833128/",
+      "abstract": "Sphingolipid dysregulation is an emerging feature of amyotrophic lateral sclerosis (ALS), but no systematic method separates species that may worsen axon-myelin membrane integrity from matter that may counteract it. We present an in-silico framework classifying sphingolipids and designed derivatives as candidate membrane-disruptive or candidate protective species, scored against real biological referents using externally published tools rather than a bespoke composite. Its central finding concerns a single, chemically defined difference in lipid state. In coarse-grained (MARTINI 3) molecular dynamics with three independent replicates per system, intact palmitoyl-sphingomyelin is indistinguishable from a pure-POPC bilayer (leaflet-mean Δ thickness + 0.001 nm, 95% CI brackets zero), whereas the modeled N-deacylated form thins it in every replicate (Δ=-0.043 nm, [- 0.046, - 0.041]), tracking a lyso-phosphatidylcholine detergent control (-0.083 nm, [- 0.087, - 0.080]) on two concordant estimators. Because only one lyso-sphingolipid is parameterized in public MARTINI 3, N-deacylation is not established here as a class-wide effect. Across eleven ALS studies (2021-2026), six report elevated serine-palmitoyltransferase (SPT) pathway sphingolipids, all in monogenic SPTLC1/SPTLC2 cohorts, whereas sporadic cohorts show disturbance without a shared direction. Because the simulations do not address whether this species is produced, accumulates, or reaches pathological concentrations in ALS tissue, we present the ALS connection as hypothesis-generating rather than direct evidence. Separately, an explicitly exploratory arm reports two designed modulators with predicted target engagement (Boltz-2) and an ADMET triage of their liabilities. The primary contribution is the membrane result with a wet-lab panel that makes it falsifiable.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Coarse-grained molecular dynamics",
+        "In-silico screening",
+        "Membrane biophysics",
+        "Sphingolipids",
+        "Structure-based affinity prediction"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
     },
     {
       "id": "42782801",
@@ -5838,6 +6104,34 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42831057",
+      "event_key": "pubmed:42831057",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Transient Activation of Developmental Cytoskeletal Remodeling Programs After Traumatic Brain Injury: A Multiple-Reactivation Model of Neurodegeneration.",
+      "authors": [
+        "Steven Lehrer"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-09-04",
+      "pmid": "42831057",
+      "doi": "10.7759/cureus.115789",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831057/",
+      "abstract": "Background Traumatic brain injury (TBI) may transiently reactivate developmental cytoskeletal programs required for neural remodeling and repair. We hypothesized that, unlike the persistent embryonic pathway reactivation proposed in amyotrophic lateral sclerosis (ALS) and Alzheimer's disease (AD), TBI produces transient reactivation followed by suppression during recovery. Methods Human transcriptomic datasets were analyzed to characterize Arp2/3-mediated cytoskeletal remodeling after TBI. Single-nucleus RNA sequencing was used to assess cell-type-specific expression, and longitudinal peripheral blood transcriptomic data were analyzed at day 1 (D1), day 7 (D7), and 6 months (M6). Arp2/3 pathway scores were evaluated using differential-expression, mixed-effects, and within-subject analyses. Results Acute TBI showed directionally increased neuronal Arp2/3 expression. Longitudinal analysis demonstrated strong temporal variation in Arp2/3 activity (p = 2.77×10⁻⁷ in complete cases). Relative to D1, pathway activity declined at D7 (estimate -0.753, p = 0.0001) and M6 (-1.009, p < 0.0001). All 12 subjects with complete longitudinal measurements had lower M6 than D1 scores. Conclusions Acute human TBI brain tissue showed activation of Arp2/3-mediated cytoskeletal remodeling, while an independent longitudinal peripheral-blood cohort showed rapid attenuation and longer-term suppression of Arp2/3 pathway activity after injury. Together, these findings are consistent with, but do not establish, a transient reactivation-resolution model.",
+      "mesh_terms": [],
+      "keywords": [
+        "arp2/3 complex",
+        "cytoskeletal remodeling",
+        "embryonic reactivation",
+        "neurodegeneration",
+        "traumatic brain injury"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
       "id": "42792156",
       "event_key": "pubmed:42792156",
       "source_id": "pubmed",
@@ -5957,6 +6251,36 @@
       ]
     },
     {
+      "id": "42831851",
+      "event_key": "pubmed:42831851",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Multisite Anodal Direct Current Stimulation Preserves Motor Function and Modulates Key Cellular Pathways in TDP-43 and SOD1 Mouse Models of Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Viktoriya Morozova",
+        "May Hassieb",
+        "Zaghloul Ahmed"
+      ],
+      "journal": "Neuromodulation : journal of the International Neuromodulation Society",
+      "publication_date": "2026-09-03",
+      "pmid": "42831851",
+      "doi": "10.1016/j.neurom.2026.08.007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831851/",
+      "abstract": "OBJECTIVES: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by degeneration of upper and lower motor neurons and disruption of normal motor network excitability. This study aimed to determine whether multi-site direct current stimulation (DCS) can modulate spinal motor circuit excitability in an experimental model of ALS and to evaluate its potential as a neuromodulation approach for preserving motor pathway function.\n\nMATERIALS AND METHODS: In an initial electrophysiological experiment, corticospinal-evoked muscle contractions were recorded using a force-displacement transducer to compare the effects of different multisite spinal electrode configurations on corticospinal output. Subsequently, two ALS mouse models, SOD1-G93A and TDP-43 A315T, underwent repeated in vivo multisite anodal DCS. Motor function was assessed using grid walking, hindlimb grip strength, and wire-hang tests across five time points. In the TDP-43 A315T model, motor neuron soma size was quantified using choline acetyltransferase immunostaining, whereas heat shock protein 70 (HSP70) expression and TDP-43/phosphorylated TDP-43 (p-TDP-43) aggregation were evaluated using western blotting and confocal imaging.\n\nRESULTS: Multisite DCS produced the strongest suppression of corticospinal-evoked muscle contractions among all electrode configurations tested, indicating robust modulation of spinal excitability. In SOD1-G93A mice, repeated stimulation preserved motor performance across all behavioral assays, with the clearest differences emerging during later disease stages relative to unstimulated controls. In TDP-43 A315T mice, stimulation was associated with improved motor performance at the final testing point, preservation of motor neuron soma size, increased HSP70 expression, and significant reductions in both the number and size of cytoplasmic TDP-43 and pathological p-TDP-43 aggregates, consistent with enhanced proteostatic capacity and pathological protein clearance.\n\nCONCLUSIONS: Multisite anodal DCS effectively modulates spinal excitability and preserves motor function in two mechanistically distinct mouse models of ALS. In the TDP-43 A315T model, these functional benefits are accompanied by preservation of motor neuron structure and molecular changes consistent with improved protein homeostasis. Together, these findings support multisite DCS as a promising neuromodulatory strategy for influencing disease-relevant mechanisms and slowing functional decline in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "TAR DNA-binding protein 43",
+        "motor neurons",
+        "multi-site direct current stimulation",
+        "neuroprotection"
+      ],
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
       "id": "42829678",
       "event_key": "pubmed:42829678",
       "source_id": "pubmed",
@@ -5985,7 +6309,7 @@
       ],
       "collected_at": "2026-10-05T06:04:52Z",
       "first_seen_at": "2026-10-05T06:04:52Z",
-      "last_seen_at": "2026-10-05T06:04:52Z"
+      "last_seen_at": "2026-10-06T06:44:30Z"
     },
     {
       "id": "42805693",

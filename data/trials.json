@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-10-05T06:04:52Z",
-  "new_keys": [],
+  "updated_at": "2026-10-06T06:44:30Z",
+  "new_keys": [
+    "clinicaltrials:NCT03081338:2026-10-05",
+    "clinicaltrials:NCT04562831:2026-10-05"
+  ],
   "items": [
+    {
+      "id": "NCT04562831",
+      "event_key": "clinicaltrials:NCT04562831:2026-10-05",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04562831",
+      "title": "The NO-ALS Study: A Trial of Nicotinamide/Pterostilbene Supplement in ALS.",
+      "sponsor": "Haukeland University Hospital",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Dietary_Supplement: EH301 (Nicotinamide Riboside/Pterostilbene)"
+      ],
+      "start_date": "2020-10-07",
+      "last_update_date": "2026-10-05",
+      "url": "https://clinicaltrials.gov/study/NCT04562831",
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
+    {
+      "id": "NCT03081338",
+      "event_key": "clinicaltrials:NCT03081338:2026-10-05",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03081338",
+      "title": "A Programme for Amyotrophic Lateral Sclerosis Care in Europe",
+      "sponsor": "Sheffield Teaching Hospitals NHS Foundation Trust",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2015-05-07",
+      "last_update_date": "2026-10-05",
+      "url": "https://clinicaltrials.gov/study/NCT03081338",
+      "collected_at": "2026-10-06T06:44:30Z",
+      "first_seen_at": "2026-10-06T06:44:30Z",
+      "last_seen_at": "2026-10-06T06:44:30Z"
+    },
     {
       "id": "NCT07855211",
       "event_key": "clinicaltrials:NCT07855211:2026-10-02",
