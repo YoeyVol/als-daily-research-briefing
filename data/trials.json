@@ -1,10 +1,86 @@
 {
-  "updated_at": "2026-10-06T06:44:30Z",
+  "updated_at": "2026-10-07T06:20:13Z",
   "new_keys": [
-    "clinicaltrials:NCT03081338:2026-10-05",
-    "clinicaltrials:NCT04562831:2026-10-05"
+    "clinicaltrials:NCT06126315:2026-10-06",
+    "clinicaltrials:NCT07322003:2026-10-06",
+    "clinicaltrials:NCT03578796:2026-10-06"
   ],
   "items": [
+    {
+      "id": "NCT07322003",
+      "event_key": "clinicaltrials:NCT07322003:2026-10-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07322003",
+      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+      "sponsor": "Prilenia",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Pridopidine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-02-01",
+      "last_update_date": "2026-10-06",
+      "url": "https://clinicaltrials.gov/study/NCT07322003",
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
+      "id": "NCT06126315",
+      "event_key": "clinicaltrials:NCT06126315:2026-10-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06126315",
+      "title": "Trial on the Biological and Clinical Effects of Acetyl-L-carnitine in ALS",
+      "sponsor": "Mario Negri Institute for Pharmacological Research",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Acetyl-l-carnitine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2025-03-26",
+      "last_update_date": "2026-10-06",
+      "url": "https://clinicaltrials.gov/study/NCT06126315",
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
+      "id": "NCT03578796",
+      "event_key": "clinicaltrials:NCT03578796:2026-10-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03578796",
+      "title": "Edinburgh Cognitive and Behavioural Amyotrophic Lateral Sclerosis Screen in Norway: A Prospective Cohort Study",
+      "sponsor": "Haukeland University Hospital",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Diagnostic_Test: ECAS-N",
+        "Diagnostic_Test: MoCA",
+        "Diagnostic_Test: CDR",
+        "Other: Questionnaire"
+      ],
+      "start_date": "2017-05-01",
+      "last_update_date": "2026-10-06",
+      "url": "https://clinicaltrials.gov/study/NCT03578796",
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
     {
       "id": "NCT04562831",
       "event_key": "clinicaltrials:NCT04562831:2026-10-05",
@@ -26,7 +102,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04562831",
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "NCT03081338",
@@ -49,7 +125,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03081338",
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "NCT07855211",
@@ -522,30 +598,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07571174",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT07322003",
-      "event_key": "clinicaltrials:NCT07322003:2026-09-22",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07322003",
-      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
-      "sponsor": "Prilenia",
-      "phase": [
-        "PHASE3"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: Pridopidine",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-02-01",
-      "last_update_date": "2026-09-22",
-      "url": "https://clinicaltrials.gov/study/NCT07322003",
-      "collected_at": "2026-09-23T05:02:12Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {

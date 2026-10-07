@@ -1,18 +1,127 @@
 {
-  "updated_at": "2026-10-06T06:44:30Z",
+  "updated_at": "2026-10-07T06:20:13Z",
   "new_keys": [
-    "pubmed:42833594",
-    "pubmed:42832702",
-    "pubmed:42832558",
-    "pubmed:42831972",
-    "pubmed:42831407",
-    "pubmed:42831156",
-    "pubmed:42831014",
-    "pubmed:42833128",
-    "pubmed:42831057",
-    "pubmed:42831851"
+    "pubmed:42837018",
+    "pubmed:42836993",
+    "pubmed:42834122",
+    "pubmed:42835448",
+    "pubmed:42834925"
   ],
   "items": [
+    {
+      "id": "42837018",
+      "event_key": "pubmed:42837018",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "SOD1 co-pathologies in the brain: insights from neuropathological evidence and implications.",
+      "authors": [
+        "Evellyn Mayla de Azevedo",
+        "Victoria Simões Bernardo",
+        "Marcelo M S Lima",
+        "Elis Cristina Araujo Eleutherio",
+        "Tiago Fleming Outeiro"
+      ],
+      "journal": "Acta neuropathologica",
+      "publication_date": "2026-10-06",
+      "pmid": "42837018",
+      "doi": "10.1007/s00401-026-03090-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837018/",
+      "abstract": "Superoxide dismutase 1 (SOD1), originally regarded as an antioxidant enzyme, is now recognized as a multifunctional protein whose conformational instability and aggregation contribute to neurodegeneration. The emerging evidence suggests that SOD1 pathology extends beyond amyotrophic lateral sclerosis, supporting a role in multiple neurodegenerative diseases. This review summarizes current neuropathological evidence of SOD1 co-pathologies in the human brain, with particular emphasis on its associations with TAR DNA-binding protein 43 (TDP-43), tau, alpha-synuclein, amyloid-β, and other aggregation-prone proteins. We examine the distribution of pathological SOD1 species across neurodegenerative diseases, their coexistence in affected brain regions, and potential mechanisms underlying these interactions, including oxidative stress, impaired proteostasis, aberrant phase separation, and cross-seeding. We also discuss emerging observations of SOD1 pathology in neurological conditions beyond classical neurodegenerative diseases, raising the possibility that SOD1 misfolding represents a broader cellular response to neuronal injury. Collectively, the available evidence supports a shift from viewing SOD1 as a disease-specific protein to considering it a potential participant in interconnected proteopathic networks. Although the functional significance of SOD1 co-pathologies remains incompletely understood, elucidating the molecular basis of aggregation may provide new insights into disease onset and progression, improving our understanding of neurodegenerative mechanisms, and facilitating the development of biomarkers and the identification of therapeutic targets across diverse proteinopathies.",
+      "mesh_terms": [
+        "Humans",
+        "Superoxide Dismutase-1",
+        "Brain",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "keywords": [
+        "ALS",
+        "Co-pathologies",
+        "FTD",
+        "Neuropathology",
+        "Protein aggregation"
+      ],
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
+      "id": "42836993",
+      "event_key": "pubmed:42836993",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TRICALS risk score augments but cannot replace neurofilament as a prognostic biomarker in ALS.",
+      "authors": [
+        "Ahmad Al Khleifat",
+        "Andrea Malaspina",
+        "Janine Kirby",
+        "Timothy Tree",
+        "Pamela J Shaw",
+        "P Nigel Leigh",
+        "Ammar Al-Chalabi"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-10-06",
+      "pmid": "42836993",
+      "doi": "10.1007/s00415-026-14040-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836993/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder with substantial clinical heterogeneity, complicating the design and interpretation of clinical trials. Two strategies have been proposed to address this variability: phenotype-based prognostic modelling and biomarker-based stratification using neurofilaments. We aimed to determine whether a widely used phenotype-based method, the TRICALS risk score, could substitute for neurofilament biomarkers in a clinical trial.\n\nMETHODS: We used data from the MIROCALS phase 2b randomised controlled trial of low-dose interleukin-2 in ALS (n = 220). The TRICALS risk score was calculated for each participant. The published biomarker model includes CSF phosphorylated neurofilament heavy chain (pNFH) and a pNFH × treatment interaction. We analysed the effects of replacing CSF pNFH with the TRICALS risk score and of adding TRICALS score as an additional covariate to the original model. Model performance was assessed using likelihood ratio χ2 statistics and - 2 log likelihood (- 2LL). The primary outcome was survival.\n\nRESULTS: TRICALS risk score was moderately correlated with CSF pNFH (r = 0.357), explaining 12.7% of shared variance. Substituting CSF pNFH with TRICALS score reduced model performance (- 2LL 928.25 vs 793.36). The TRICALS × treatment interaction was statistically significant (hazard ratio [HR] 0.72, 95% CI 0.54-0.96 p = 0.025), but contributed modestly to model fit (Δχ2 = 4.76), compared with the pNFH × treatment interaction (Δχ2 = 14.24). Incorporating the pNFH × treatment interaction significantly improved model fit and identified a treatment effect (HR 0.28, 95% CI 0.12-0.63; p = 0.002).\n\nCONCLUSIONS: The TRICALS risk score does not substitute for CSF neurofilament biomarkers as a prognostic or stratification variable but provides complementary information.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Neurofilament Proteins",
+        "Biomarkers",
+        "Prognosis",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Aged"
+      ],
+      "keywords": [
+        "ALS",
+        "Amyotrophic lateral sclerosis",
+        "Biomarker",
+        "Clinical trials"
+      ],
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
+      "id": "42834122",
+      "event_key": "pubmed:42834122",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "TBK1 eliminates aggregation-prone monomeric TDP-43 through an IFNβ-immunoproteasome pathway in ALS models.",
+      "authors": [
+        "Shohei Sakai",
+        "Kotaro Oiwa",
+        "Yohei Iguchi",
+        "Izzet Mehmet Akcay",
+        "Seiji Watanabe",
+        "Okiru Komine",
+        "Noriko Nagata",
+        "Mai Horiuchi",
+        "Jemeen Sreedharan",
+        "Masahisa Katsuno",
+        "Koji Yamanaka"
+      ],
+      "journal": "EMBO reports",
+      "publication_date": "2026-10-05",
+      "pmid": "42834122",
+      "doi": "10.1038/s44319-026-00953-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834122/",
+      "abstract": "Loss-of-function mutations in TANK-binding kinase 1 (TBK1) cause amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), characterized by cytoplasmic aggregation of TAR DNA-binding protein 43 (TDP-43), known as TDP-43 pathology, but the mechanisms beyond impaired autophagy remain undefined. Here, we identify a TBK1-IFNβ-immunoproteasome axis as a novel autophagy-independent proteostatic pathway regulating TDP-43 clearance. TBK1 is activated by aggregation-prone monomeric TDP-43 via physical association, and this activation alleviates TDP-43 pathology in neuronal cells. TBK1 subsequently induces IFNβ expression, which upregulates the immunoproteasome to promote degradation of monomeric TDP-43 in neurons, including human iPSC-derived lower motor neurons. Importantly, IFNβ receptor expression is downregulated in spinal motor neurons from ALS patients with TDP-43 pathology. Furthermore, heterozygous Tbk1 deletion in SOD1G93A mice impairs immunoproteasome induction and increases polyubiquitinated protein accumulation in spinal cords, supporting the in vivo relevance of this pathway. Collectively, our findings reveal that impairment of the TBK1-IFNβ-immunoproteasome axis represents an autophagy-independent mechanism contributing to the development of TDP-43 pathology in ALS and FTD.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
     {
       "id": "42833594",
       "event_key": "pubmed:42833594",
@@ -41,7 +150,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42832702",
@@ -76,7 +185,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42832558",
@@ -104,7 +213,7 @@
       "keywords": [],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42831972",
@@ -155,7 +264,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42831407",
@@ -180,7 +289,7 @@
       "keywords": [],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42829893",
@@ -238,7 +347,7 @@
       ],
       "collected_at": "2026-10-05T06:04:52Z",
       "first_seen_at": "2026-10-05T06:04:52Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42831156",
@@ -270,7 +379,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42826761",
@@ -859,7 +968,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42816153",
@@ -2421,6 +2530,77 @@
       "last_seen_at": "2026-09-22T05:16:34Z"
     },
     {
+      "id": "42835448",
+      "event_key": "pubmed:42835448",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Global research architecture of RNA-binding proteins in neurodegenerative diseases: a web of science bibliometric study with PubMed record verification, 2001-2025.",
+      "authors": [
+        "Ranran Zhu",
+        "Hongyan Li"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2026-09-21",
+      "pmid": "42835448",
+      "doi": "10.3389/fnagi.2026.1967205",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835448/",
+      "abstract": "BACKGROUND: RNA-binding proteins (RBPs) connect RNA homeostasis to proteostasis and selective neuronal vulnerability, but the organization and evolution of this cross-disease research field remain unclear.\n\nMETHODS: We analyzed Web of Science Core Collection (WoSCC) records published through 2025. PubMed was used only to verify records by normalized DOI or exact normalized title; PubMed metadata were not pooled with WoS data, and all bibliometric analyses used WoS fields. Publication growth, contributors, collaboration, co-citation, bibliographic coupling, and conceptual evolution were examined using bibliometrix, VOSviewer, and CiteSpace-compatible workflows. A prespecified 43-concept dictionary preserved multiword biological entities in title/abstract networks. The study characterizes a query-defined and PubMed-verified literature corpus rather than estimating the relative biological importance of individual RBPs.\n\nRESULTS: Of 2,454 records reported by the WoS search interface, 2,450 were available in the supplied exports and 2,309 met the year criterion. PubMed record verification retained 2,160 records (93.55%) in the analysis corpus; 149 records (6.45%) were not matched. Output increased from one publication in 2001 to 213 in 2025. Within this query-defined corpus, the mapped literature was concentrated around TDP-43 pathology, TARDBP/FUS genetics, and loss of RNA-processing function. The controlled concept network resolved three macro-communities, while recent temporal signals involved LATE, cryptic exons, and RNA transport. These findings describe the retrieved and verified corpus and are not presented as a search-independent ranking of the broader RBP field.\n\nCONCLUSION: The maps document a WoS-derived and PubMed-verified literature corpus concentrated on TDP-43 and ALS/FTD and increasingly connected with cryptic RNA processing, condensate biology, nuclear transport, neuroimmune responses, and aging-related mixed proteinopathies. Because the corpus was conditioned by a title-level query containing named RBPs and by PubMed record verification, these patterns should not be interpreted as an unbiased ranking of RBP biology or as evidence of shared causality across diseases. Cross-disease translation should proceed through neuropathologically defined, age-stratified, and cell-type-resolved human cohorts, followed by causal perturbation and rescue in human disease models and multicenter longitudinal validation.",
+      "mesh_terms": [],
+      "keywords": [
+        "RNA splicing",
+        "RNA-binding proteins",
+        "TDP-43",
+        "bibliometric analysis",
+        "cryptic exons",
+        "frontotemporal dementia",
+        "liquid–liquid phase separation",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
+      "id": "42834925",
+      "event_key": "pubmed:42834925",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Bridging stakeholder needs and technological capabilities to identify humanoid robot applications in rehabilitation: a case study in an ALS multidisciplinary care unit.",
+      "authors": [
+        "Rachele Piras",
+        "Samuele Bordini",
+        "Riccardo K Simi",
+        "Ilaria Consolo",
+        "Valentina Esposito",
+        "Claudia Cavaggion",
+        "Maddalena Feder",
+        "Maria Fossati",
+        "Giorgio Grioli",
+        "Antonio Bicchi",
+        "Christian Lunetta",
+        "Manuel G Catalano"
+      ],
+      "journal": "Frontiers in robotics and AI",
+      "publication_date": "2026-09-21",
+      "pmid": "42834925",
+      "doi": "10.3389/frobt.2026.1944029",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834925/",
+      "abstract": "The integration of assistive service robots in healthcare has gained increasing attention for its potential to support clinical workflow and patient wellbeing. However, structured methodological approaches to identify clinically relevant applications for versatile robotic platforms before clinical implementation are still lacking. Moreover, the deployment of robots in these settings is often restricted to hyper-specialized tasks. To address these challenges, this study describes a stakeholder-driven process adopting a multidisciplinary co-design approach to adapt the Alter-Ego semi-anthropomorphic robot to the needs of a multidisciplinary neurorehabilitation unit for patients with Amyotrophic Lateral Sclerosis. We combined brainstorming, focus groups with healthcare professionals, patients and caregivers, and contextual observations to identify the real unmet needs and potential applications. The engineering team assessed the technological requirements and implementation readiness of each application. The clinical and engineering teams jointly reviewed the proposal, considering clinical, ethical, and infrastructural implications. This consensus-based process resulted in 12 use cases selected for the clinical protocol corresponding to 40 planned experimental sessions including autonomous or semi-autonomous tasks, as well as teleoperated activities for assistive and rehabilitation purposes. Furthermore, an exploratory pilot evaluated a subset of selected use cases, providing feedback to refine the platform and experimental protocol. Standardized assessments provided descriptive information on perceived workload, usability, and satisfaction. Participants generally reported a positive experience and manageable workload, while task-specific feedback identified aspects requiring further refinements. Overall, this experience offers preliminary insights into how clinical needs and technological capabilities can be jointly explored, providing a basis for subsequent clinical experimentation.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "clinical translation",
+        "humanoid robots",
+        "rehabilitation and assistive robotics",
+        "stakeholder-driven design"
+      ],
+      "collected_at": "2026-10-07T06:20:13Z",
+      "first_seen_at": "2026-10-07T06:20:13Z",
+      "last_seen_at": "2026-10-07T06:20:13Z"
+    },
+    {
       "id": "42793425",
       "event_key": "pubmed:42793425",
       "source_id": "pubmed",
@@ -2851,7 +3031,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42782801",
@@ -6129,7 +6309,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42792156",
@@ -6278,7 +6458,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42829678",
@@ -6309,7 +6489,7 @@
       ],
       "collected_at": "2026-10-05T06:04:52Z",
       "first_seen_at": "2026-10-05T06:04:52Z",
-      "last_seen_at": "2026-10-06T06:44:30Z"
+      "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
       "id": "42805693",
