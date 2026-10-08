@@ -1,11 +1,56 @@
 {
-  "updated_at": "2026-10-07T06:20:13Z",
+  "updated_at": "2026-10-08T06:31:38Z",
   "new_keys": [
-    "clinicaltrials:NCT06126315:2026-10-06",
-    "clinicaltrials:NCT07322003:2026-10-06",
-    "clinicaltrials:NCT03578796:2026-10-06"
+    "clinicaltrials:NCT07862959:2026-10-07",
+    "clinicaltrials:NCT04363684:2026-10-07"
   ],
   "items": [
+    {
+      "id": "NCT07862959",
+      "event_key": "clinicaltrials:NCT07862959:2026-10-07",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07862959",
+      "title": "Early Access Program for Ulefnersen in Children, Adolescents and Adults With FUS-associated Amyotrophic Lateral Sclerosis (FUS-ALS)",
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "AVAILABLE",
+      "intervention": [
+        "Drug: Ulefnersen"
+      ],
+      "start_date": "",
+      "last_update_date": "2026-10-07",
+      "url": "https://clinicaltrials.gov/study/NCT07862959",
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "NCT04363684",
+      "event_key": "clinicaltrials:NCT04363684:2026-10-07",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04363684",
+      "title": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD)",
+      "sponsor": "Mayo Clinic",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2020-03-01",
+      "last_update_date": "2026-10-07",
+      "url": "https://clinicaltrials.gov/study/NCT04363684",
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
     {
       "id": "NCT07322003",
       "event_key": "clinicaltrials:NCT07322003:2026-10-06",
@@ -28,7 +73,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "NCT06126315",
@@ -53,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06126315",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "NCT03578796",
@@ -79,7 +124,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03578796",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "NCT04562831",
@@ -102,7 +147,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04562831",
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "NCT03081338",
@@ -125,7 +170,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03081338",
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "NCT07855211",

@@ -1,13 +1,309 @@
 {
-  "updated_at": "2026-10-07T06:20:13Z",
+  "updated_at": "2026-10-08T06:31:38Z",
   "new_keys": [
-    "pubmed:42837018",
-    "pubmed:42836993",
-    "pubmed:42834122",
-    "pubmed:42835448",
-    "pubmed:42834925"
+    "pubmed:42840349",
+    "pubmed:42844074",
+    "pubmed:42842169",
+    "pubmed:42841866",
+    "pubmed:42839902",
+    "pubmed:42840744",
+    "pubmed:42839646",
+    "pubmed:42839248",
+    "pubmed:42833279",
+    "pubmed:42843275",
+    "pubmed:42843091",
+    "pubmed:42839768"
   ],
   "items": [
+    {
+      "id": "42844074",
+      "event_key": "pubmed:42844074",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Fooled by the Heartbeat: Cardioballistic Autotriggering in Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Eloy Portero-Campillo",
+        "Clara Seghers-Carreras",
+        "Javier Sayas-Catalán"
+      ],
+      "journal": "Archivos de bronconeumologia",
+      "publication_date": "2026-10-07",
+      "pmid": "42844074",
+      "doi": "10.1016/j.arbres.2026.09.010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844074/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42842169",
+      "event_key": "pubmed:42842169",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond Histamine Blockade: Clemastine Fumarate as a Promoter of Myelin Regeneration, Inflammatory Regulation, and Neuroimmune Modulation in CNS Disorders.",
+      "authors": [
+        "Rohit Kumar Singh",
+        "Chandrayee Banerjee",
+        "Sidharth Mehan"
+      ],
+      "journal": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
+      "publication_date": "2026-10-07",
+      "pmid": "42842169",
+      "doi": "10.1007/s11481-026-10321-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842169/",
+      "abstract": "Clemastine fumarate, a first-generation H1 antihistamine, has emerged as a promising candidate for drug repurposing in neurodegenerative and neuropsychiatric disorders owing to its ability to cross the blood-brain barrier and interact with multiple central nervous system targets. Experimental studies indicate that clemastine promotes remyelination by stimulating the differentiation of oligodendrocyte precursor cells into mature, myelin-producing oligodendrocytes, thereby restoring myelin integrity and improving axonal function in experimental models. In addition to its remyelinating properties, preclinical evidence suggests that clemastine may attenuate neuroinflammation by modulating microglial activation and suppressing pro-inflammatory signalling pathways. These effects have been associated with improved structural and functional outcomes in experimental models of multiple sclerosis, Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, spinal cord injury, stroke, and several neuropsychiatric disorders. Mechanistically, clemastine primarily acts through muscarinic M1 receptor antagonism to promotes remyelination, while additional pathways including PI3K/Akt, ERK1/2, autophagy-related signalling, inflammasome modulation, and sigma-1 receptor signalling have been proposed based on experimental evidence but remain incompletely understood and require further mechanistic validation. Among the neurological disorders investigated multiple sclerosis currently has the strongest clinical evidence with early clinical trials demonstrating modest remyelinating activity. In contrast, evidence supporting the use of clemastine in other neurological disorders remains largely confined to preclinical studies. Several translational challenges also remain unresolved including dose optimisation, treatment timing, long-term safety, sedative and anticholinergic adverse effects, and patient selection. Future research should focus on refining pharmacokinetic properties, optimising dosing strategies, evaluating rational combination therapies, and identifying predictive biomarkers to facilitate clinical translation. Although current evidence highlights the therapeutic potential of clemastine fumarate, its application beyond multiple sclerosis remains investigational and will require rigorous mechanistic studies together with well-designed clinical trials before broader clinical use can be established.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Clemastine",
+        "Central Nervous System Diseases",
+        "Myelin Sheath",
+        "Neuroimmunomodulation",
+        "Remyelination",
+        "Neuroinflammatory Diseases",
+        "Histamine H1 Antagonists"
+      ],
+      "keywords": [
+        "Blood-brain barrier (BBB)",
+        "Clemastine fumarate",
+        "Neurodegeneration",
+        "Neuroinflammation",
+        "Neuroprotection",
+        "Remyelination and Oligodendrocyte precursor cells (OPCs)"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42841866",
+      "event_key": "pubmed:42841866",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "N-terminal proVGF modifications related to Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Aqsa Anjum",
+        "Antonio Luigi Manai",
+        "Barbara Noli",
+        "Giuseppe Borghero",
+        "Marcello Mario Mascia",
+        "Mario Meloni",
+        "Humaidan Kais",
+        "Michela Figorilli",
+        "Monica Puligheddu",
+        "Cristina Cocco"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-07",
+      "pmid": "42841866",
+      "doi": "10.1080/21678421.2026.2742817",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841866/",
+      "abstract": "Objective: Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor dysfunction, for which effective therapies and early diagnostic biomarkers remain limited. This study comprehensively investigated ALS-associated alterations in the N-terminal region of the proVGF precursor protein, evaluating their potential as novel diagnostic and prognostic biomarkers and exploring their precise correlations with clinical severity and plasma neurofilament light chain (NfL), an established indicator of neuroaxonal injury. Methods: N-terminal proVGF levels were quantified using a custom immunoassay using human plasma and lymphocytes as well as motor neuron-like NSC-34 cells subjected to oxidative stress. The clinical cohort comprised 49 ALS patients (28 early-stage, 21 advanced-stage) and 50 age-matched healthy controls. To assess disease specificity, plasma from patients with Parkinson's disease (PD, n = 50), idiopathic dystonia (n = 15), and idiopathic rapid eye movement (REM) sleep behavior disorder (iRBD, n = 21) was analyzed alongside respective age-matched healthy controls (n = 26, 8, and 20). Furthermore, plasma NfL levels were measured and directly correlated with N-terminal proVGF concentrations. Results: N-terminal proVGF levels were significantly increased in both plasma and lymphocytes during the early and advanced stages of ALS. Plasma NfL levels were concomitantly elevated across all ALS patients. In advanced-stage patients, N-terminal proVGF concentrations significantly correlated with both ALSFRS-R scores and NfL levels. No significant N-terminal proVGF alterations were observed in PD, iRBD, or dystonia cohorts. Oxidative stress similarly upregulated N-terminal proVGF levels in vitro within NSC-34 cells. Conclusion: Alterations of the N-terminal region of proVGF are specific to ALS, highlighting their dual value as diagnostic and prognostic biomarkers.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "N-terminus",
+        "VGF peptides",
+        "neurodegeneration",
+        "oxidative stress"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42839902",
+      "event_key": "pubmed:42839902",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Clinical and genetic characterization of FUS-associated ALS in a tertiary cohort.",
+      "authors": [
+        "Veronica Bettoni",
+        "Samir R Nath",
+        "Stephen Johnson",
+        "Björn Oskarsson",
+        "Alissa Bojko",
+        "Arash Salmaninejad",
+        "Jennifer Tan-Arroyo",
+        "Margot A Cousin",
+        "Nathan P Staff"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-07",
+      "pmid": "42839902",
+      "doi": "10.1080/21678421.2026.2743446",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839902/",
+      "abstract": "An understanding of FUS-related ALS is becoming increasingly actionable with the emergence of targeted therapies. We retrospectively reviewed patients with amyotrophic lateral sclerosis and reported FUS variants evaluated across all Mayo Clinic sites between January 2009 and June 2026. Variants were reevaluated according to ACMG/AMP criteria, and clinical and genetic data were abstracted from medical records. The primary cohort included 12 unrelated patients with pathogenic or likely pathogenic (P/LP) FUS variants; 6 patients with variants of uncertain significance were retained descriptively. Pathogenic variants clustered in the C-terminal region, including one previously unreported likely pathogenic frameshift variant, c.1491_1494dup. Patients with pathogenic variants showed early-onset, rapidly progressive disease with frequent bulbar or respiratory onset, predominant lower motor neuron findings, and short survival. Observed phenotypes were broadly consistent with previous variant-specific reports. These findings expand variant-specific natural history data in FUS-ALS and may inform prognosis, patient stratification, and the interpretation of emerging FUS-targeted therapeutic studies.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "FUS",
+        "TLS",
+        "fused in sarcoma",
+        "motor neuron diseases"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42840744",
+      "event_key": "pubmed:42840744",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The role of neurofilament light chain and other fluid biomarkers in cerebellar ataxias.",
+      "authors": [
+        "Charlotte Mouraux",
+        "Magda M Santana",
+        "Liana S Rosenthal",
+        "Andrea Cortese",
+        "Filippo M Santorelli",
+        "Puneet Opal",
+        "Giulia Coarelli"
+      ],
+      "journal": "Brain communications",
+      "publication_date": "2026-10-06",
+      "pmid": "42840744",
+      "doi": "10.1093/braincomms/fcag313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840744/",
+      "abstract": "The genetic and phenotypic heterogeneity of hereditary ataxias complicates the design of clinical trials since each ataxia progresses at different rates. Consequently, robust biomarkers are urgently needed to monitor therapeutic efficacy and safety of potential therapeutic interventions. Neurofilament light chain has emerged as a leading candidate, serving as a sensitive pharmacodynamic biomarker of neuronal injury and treatment response in neurodegenerative disorders. This review explores the utility of neurofilament light chain across various ataxias, including polyglutamine spinocerebellar ataxias, Friedreich's ataxia, multiple system atrophy, and other genetic ataxias, such as ataxias associated with RCF1 and SPG7 genes. We synthesize evidence from recent studies that have used ultra-sensitive assays. These studies consistently demonstrate elevated neurofilament light chain levels in cerebrospinal fluid and blood, correlating with disease severity, progression and neuroimaging findings. Notably, neurofilament light chain levels rise during the presymptomatic stage in spinocerebellar ataxias, highlighting its potential for stratifying individuals for trial enrolment and tracking therapeutic effects. A treatment-induced reduction in neurofilament light chain could function as a surrogate endpoint for target engagement, analogous to its validated use in amyotrophic lateral sclerosis. Finally, we discuss the results of other studies conducted on other biomarkers, including glial fibrillary acidic protein, total tau and phosphorylated tau, which may reflect complementary aspects of neurodegeneration and glial activation. Glial fibrillary acidic protein may provide insights into astroglial reactivity and neuroinflammation. Similarly, alteration in total tau and phosphorylated tau levels may suggest dysfunction in neuronal cytoskeleton and axonal integrity. The review also focuses on target-engagement biomarkers, including polyglutamine-expanded ataxin proteins in spinocerebellar ataxias and frataxin in Friedreich's ataxia, as critical tools to complement the ataxia biomarker toolkit. The quantification of mutant ataxin proteins provides a mechanistic readout for emerging gene-silencing or protein-lowering therapies. In parallel, the measurement of frataxin levels serves as a pharmacodynamic marker in therapeutic strategies aiming to restore frataxin expression. These target-engagement biomarkers are valuable in early phases of clinical trials, which mainly aim to demonstrate the biological activity of a treatment before later-phase trials assessing clinical efficacy. Finally, we report on somatic instability in polyglutamine spinocerebellar ataxias as an emerging and highly relevant therapeutic target. CAG repeat mosaicism is gene specific and correlates with disease progression. Integrating measures of repeat instability with neurodegenerative biomarkers could provide a comprehensive monitoring approach in clinical studies. This overview underscores the potential of fluid biomarkers, particularly neurofilament light chain, in accelerating therapeutic development for hereditary ataxias.",
+      "mesh_terms": [],
+      "keywords": [
+        "fluid biomarkers",
+        "hereditary cerebellar ataxias",
+        "neurofilament light chain",
+        "target engagement"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42840349",
+      "event_key": "pubmed:42840349",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Nanopore sequencing combined with adaptive sampling and NanoExpansion enables accurate characterization of repeat expansion disorders.",
+      "authors": [
+        "Luca Morandi",
+        "Francesco Casadei",
+        "Sara De Fanti",
+        "Luigi Bonan",
+        "Francesco Ravaioli",
+        "Flavia Palombo",
+        "Alessia Fiorentino",
+        "Silvia de Pasqua",
+        "Veria Vacchiano",
+        "Patrizia Avoni",
+        "Giovanni Rizzo",
+        "Sabina Capellari",
+        "Edoardo Ruggeri",
+        "Vincenzo Donadio",
+        "Gastone Castellani",
+        "Maria Giulia Bacalini",
+        "Raffaele Lodi",
+        "Rocco Liguori",
+        "Valerio Carelli",
+        "Caterina Tonon"
+      ],
+      "journal": "NAR genomics and bioinformatics",
+      "publication_date": "2026-10-06",
+      "pmid": "42840349",
+      "doi": "10.1093/nargab/lqag117",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840349/",
+      "abstract": "Expansion repeat disorders are caused by abnormal expansions of short tandem repeats (STRs). We evaluated targeted long-read nanopore sequencing for comprehensive characterization of STR expansions in 132 participants, including patients with myotonic dystrophy type 1 (DM1, n = 51) and DM2 (n = 3) already characterized by Southern blot, C9orf72-associated amyotrophic lateral sclerosis (ALS n = 11) evaluated by repeat primed polymerase chain reaction (RP-PCR; validation group), suspected spinocerebellar ataxia (SCA, n = 46), cerebellar ataxia with neuropathy and vestibular areflexia syndrome (CANVAS; n = 13), Huntington's disease (1), Kennedy disease (1), Friedreich ataxia (FRDA, 2), and 4 healthy controls (test group). Native DNA was sequenced using adaptive sampling (AS) on Oxford Nanopore GridION or PromethION-2Solo platforms. Long-PCR sequencing was performed for comparison. We also developed NanoExpansion, a Python-based tool for sizing expanded alleles and detecting sequence interruptions. We correctly characterized all DM1, DM2, ALS, FRDA, Huntington's disease, and Kennedy disease cases, and identified eight SCA27B, two SCA37, three SCA31, one SCA3, and nine CANVAS cases. Compared with the AS approach, long-PCR underestimated alleles exceeding 800 repeats. Repeat interruptions were detected in 27/51 (52.9%) DM1 cases and 1/10 (10%) ALS, but not in CANVAS, FRDA, Huntington's disease, Kennedy disease, or SCA cases. This integrated sequencing analysis pipeline provides accurate, comprehensive characterization of repeat expansion disorders and has the potential to improve routine genetic diagnosis.",
+      "mesh_terms": [
+        "Humans",
+        "DNA Repeat Expansion",
+        "Nanopore Sequencing",
+        "Microsatellite Repeats",
+        "Polymerase Chain Reaction",
+        "Amyotrophic Lateral Sclerosis",
+        "Sequence Analysis, DNA",
+        "Spinocerebellar Ataxias",
+        "Myotonic Dystrophy"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42839646",
+      "event_key": "pubmed:42839646",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "One-Year Clinical Course of Patients With Amyotrophic Lateral Sclerosis Admitted to a Home Palliative Care Program: An Extension Study.",
+      "authors": [
+        "Sebastiano Mercadante",
+        "Antonino Petronaci",
+        "Neuro Palliative Care Team of SAMOT"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-10-06",
+      "pmid": "42839646",
+      "doi": "10.1002/mus.70429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839646/",
+      "abstract": "INTRODUCTION/AIMS: Longer term data on ALS patients receiving home palliative care are scarce. We extended follow-up of a 6-month cohort to 12 months to characterize the trajectory of function, symptoms, vital support (noninvasive ventilation [NIV], gastrostomy, and/or tracheostomy), and advance care planning (ACP).\n\nMETHODS: In this prospective, single-center study, 34 consecutive ALS patients in a home palliative care program (SAMOT, Palermo) were assessed at baseline, 2, 4, 6, and 12 months, using Karnofsky, ALS Functional Rating Scale-Revised (ALSFRS-R), Edinburgh Cognitive and Behavioural ALS Screen (ECAS), Edmonton Symptom Assessment Scale (ESAS), dysphagia, vital support, and advanced care planning (ACP).\n\nRESULTS: Ten patients (29.4%) died over 12 months (70% at home); 26 completed the 12-month assessment. Karnofsky (34.4-27.7) and ALSFRS-R (27.1-21.7) declined significantly throughout (both p < 0.0005). Total ESAS rose from 15.7 to 23.7 (p < 0.0005); anxiety increased significantly between T4 and T12. NIV use rose from 20.6% to 50.0% (p = 0.014), while tracheostomy remained stable. Documented end-of-life decisions rose to 70.4% at 6 months but plateaued (69.2% at 12 months); no living wills were completed. Cognitive impairment on ECAS was present in about half of patients, unchanged over time. No patient was referred to or admitted to hospice.\n\nDISCUSSION: Extending follow-up beyond 6 months shows continuous functional decline and rising symptom burden, and highlights late-onset anxiety and early-plateauing ACP. Despite progressive needs, this home palliative care model appeared to support most patients at home until death over 1 year, within this single-center, non-comparative cohort.",
+      "mesh_terms": [],
+      "keywords": [
+        "advance care planning",
+        "amyotrophic lateral sclerosis",
+        "home palliative care",
+        "noninvasive ventilation",
+        "symptom burden"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42839248",
+      "event_key": "pubmed:42839248",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Place and cause of death among people with chronic neurological diseases in Munich: a population-based study using death certificates.",
+      "authors": [
+        "Sarah Kristina Bublitz",
+        "Claudia Bausewein",
+        "Veronika Detter",
+        "Berend Feddersen",
+        "Matthias Graw",
+        "André Klima",
+        "Patricia Klotz",
+        "Stefan Lorenzl",
+        "Sabine Gleich"
+      ],
+      "journal": "Neurological research and practice",
+      "publication_date": "2026-10-06",
+      "pmid": "42839248",
+      "doi": "10.1186/s42466-026-00536-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839248/",
+      "abstract": "INTRODUCTION: Access to palliative care is often delayed and fragmented for patients with chronic neurological diseases. This study aimed to characterize the place and cause of death among individuals with chronic neurological diseases to help identify potential gaps in palliative care provision.\n\nMETHOD: In this cross-sectional study, all death certificates from the city of Munich, Germany (2020-2023) were reviewed. Cases were included if malignant brain tumours, amyotrophic lateral sclerosis (ALS) or other motor neuron diseases, Parkinson's disease (PD), multiple sclerosis (MS) or other neurodegenerative or neuromuscular diseases were recorded as the cause of death or as a comorbidity.\n\nRESULTS: Of 60,357 deaths, 2,536 individuals (4.2%) had at least one chronic neurological disease. The most common place of death was the hospital (43.8%), followed by nursing homes (25.9%) and the private home (25.0%), with variations among disease subgroups. Overall, the neurological disease was recorded as the immediate or underlying cause of death in 57.3% of cases, while in the remaining cases it was documented as a comorbidity, reflecting its presence without formal causal attribution to death.\n\nDISCUSSION: This population-level analysis provides insight into the place and circumstances of death for a large cohort of patients with chronic neurological diseases in a major German metropolitan area and highlights substantial heterogeneity in end-of-life trajectories. The findings indicate that mortality statistics based on death certificates reflect structural limitations in cause-of-death attribution. Nevertheless, place of death remains a robust indicator, showing high hospital utilization and limited hospice use across most diagnostic groups, underscoring potential gaps in goal-concordant care.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Death certificates",
+        "Goal-concordant care",
+        "Neuropalliative care",
+        "Palliative care",
+        "Parkinson’s disease"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
     {
       "id": "42837018",
       "event_key": "pubmed:42837018",
@@ -45,7 +341,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42836993",
@@ -88,7 +384,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42834122",
@@ -120,7 +416,7 @@
       "keywords": [],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42833594",
@@ -150,7 +446,40 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42833279",
+      "event_key": "pubmed:42833279",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Genetics, management and clinical outcomes in familial exudative vitreoretinopathy (FEVR): a multicentre retrospective cohort.",
+      "authors": [
+        "Tomasz Szeligowski",
+        "Amanda Ie",
+        "Peter Kiraly",
+        "Monica Hu",
+        "Tsveta Ivanova",
+        "Assad Jalil",
+        "Panagiotis Sergouniotis",
+        "Graeme Black",
+        "Sui Chien Wong",
+        "Chetan K Patel",
+        "Robert Henderson",
+        "Kanmin Xue"
+      ],
+      "journal": "Klinische Monatsblatter fur Augenheilkunde",
+      "publication_date": "2026-10-05",
+      "pmid": "42833279",
+      "doi": "10.1055/a-2962-8394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833279/",
+      "abstract": "in English Background Familial exudative vitreoretinopathy (FEVR) is a group of inherited retinal diseases characterised by abnormal retinal angiogenesis and peripheral non-perfusion. While over 10 genes have been implicated in FEVR, genotype-phenotype correlations and their clinical significance are incompletely understood. Here we describe a retrospective cohort of FEVR patients and assess the impact of defined genetic variants on protein structure, disease severity, inter-ocular variability, as well as treatment choices and visual outcomes. Methods Retrospective cohort of 51 patients with FEVR across three UK paediatric retina centres. All data was obtained from routine clinical records. Standard FEVR staging system was used throughout. Identified genetic variants were checked against genomic databases (ClinVar, GnomAD, UniProt), and their structural impact was examined using in silico algorithms (MutationTaster and PolyPhen2) to determine the likelihood of pathogenicity. Results 51 patients were included, with variants identified in FZD4 (n=16), LRP5 (n=13), TSPAN12 (n=11), KIF11 (n=6), NDP (n=4), and CTNNB1 (n=1). In silico analysis identified 11 variants not previously reported in FEVR, seven of which were classified as likely pathogenic. NDP variants were associated with the most severe and asymmetrical disease. Management included conservative monitoring (45 eyes), retinal laser photocoagulation (39 eyes), and surgical interventions (12 eyes), with the majority of patients achieving stable or improved visual acuity in all treatment groups. Conclusion This study demonstrates significant diversity among FEVR patients with regards to genetic variants, clinical presentation, and visual outcomes. Understanding genotype-phenotype correlations in FEVR may be crucial for developing novel treatment strategies. ABSTRACT in German Hintergrund Die familiäre exsudative Vitreoretinopathie (FEVR) ist eine Gruppe erblicher Netzhauterkrankungen, die durch eine abnorme retinale Angiogenese und eine periphere Minderperfusion gekennzeichnet ist. Obwohl mehr als 10 Gene mit FEVR in Verbindung gebracht wurden, sind Genotyp-Phänotyp-Korrelationen und deren klinische Bedeutung nur unvollständig verstanden. In dieser Arbeit beschreiben wir eine retrospektive Kohorte von FEVR-Patienten und untersuchen den Einfluss definierter genetischer Varianten auf die Proteinstruktur, den Krankheitsschweregrad, die interokuläre Variabilität sowie auf Behandlungsentscheidungen und visuelle Ergebnisse. Methoden Retrospektive Kohorte von 51 Patienten mit FEVR aus drei pädiatrischen Netzhautzentren im Vereinigten Königreich. Alle Daten wurden aus routinemäßigen klinischen Aufzeichnungen gewonnen. Durchgehend wurde das Standard-FEVR-Staging-System verwendet. Die identifizierten genetischen Varianten wurden mit genomischen Datenbanken (ClinVar, GnomAD, UniProt) abgeglichen, und ihre strukturelle Auswirkung wurde mittels In-silico-Algorithmen (MutationTaster und PolyPhen2) untersucht, um die Wahrscheinlichkeit einer Pathogenität zu bestimmen. Ergebnisse Es wurden 51 Patienten eingeschlossen, wobei Varianten in FZD4 (n=16), LRP5 (n=13), TSPAN12 (n=11), KIF11 (n=6), NDP (n=4) und CTNNB1 (n=1) identifiziert wurden. Die In-silico-Analyse identifizierte 11 zuvor nicht im Zusammenhang mit FEVR beschriebene Varianten, von denen sieben als wahrscheinlich pathogen eingestuft wurden. NDP-Varianten waren mit der schwersten und asymmetrischsten Erkrankung assoziiert. Das Management umfasste konservative Überwachung (45 Augen), retinale Laserphotokoagulation (39 Augen) und chirurgische Eingriffe (12 Augen), wobei die Mehrheit der Patienten in allen Behandlungsgruppen eine stabile oder verbesserte Sehschärfe erreichte. Schlussfolgerung Diese Studie zeigt eine erhebliche Vielfalt unter FEVR-Patienten hinsichtlich genetischer Varianten, klinischer Präsentation und visueller Ergebnisse. Das Verständnis der Genotyp-Phänotyp-Korrelationen bei FEVR könnte entscheidend für die Entwicklung neuartiger Behandlungsstrategien sein.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42832702",
@@ -185,7 +514,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42832558",
@@ -213,7 +542,7 @@
       "keywords": [],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42831972",
@@ -264,7 +593,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42831407",
@@ -289,7 +618,7 @@
       "keywords": [],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42829893",
@@ -350,6 +679,42 @@
       "last_seen_at": "2026-10-07T06:20:13Z"
     },
     {
+      "id": "42843275",
+      "event_key": "pubmed:42843275",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Tyrosine nitration: An emerging mechanistic landscape in neurodegeneration and cardiopulmonary disease.",
+      "authors": [
+        "Nirbachita Adrita",
+        "Inge Claassen",
+        "Miranda Huerta",
+        "Stephen M Black",
+        "Alvaro G Estevez",
+        "Blaine R Roberts",
+        "Joseph S Beckman",
+        "Maria Clara Franco"
+      ],
+      "journal": "Redox biology",
+      "publication_date": "2026-10-03",
+      "pmid": "42843275",
+      "doi": "10.1016/j.redox.2026.104423",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843275/",
+      "abstract": "Protein tyrosine nitration is a post-translational modification associated with conditions of oxidative and inflammatory stress, driven by the production of reactive oxygen and nitrogen species (ROS and RNS). Once considered primarily a footprint of oxidative damage, tyrosine nitration is increasingly recognized as a selective modification that, in specific biological contexts, can alter protein structure, stability, enzymatic activity, and interaction networks. Mechanistically, nitration occurs through peroxynitrite-dependent and heme-peroxidase-dependent pathways and preferentially targets specific tyrosine residues based on local protein structure, solvent accessibility, and microenvironmental chemistry. Accumulating evidence has identified disease-specific nitration signatures across multiple pathological contexts. In neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis, nitration of proteins such as tau, α-synuclein, manganese superoxide dismutase, ATP synthase, glyceraldehyde-3-phosphate dehydrogenase, heat shock proteins, and cytoskeletal components contributes to mitochondrial dysfunction, protein aggregation, metabolic failure, and neuronal loss. Similarly, in cardiovascular and pulmonary diseases, protein tyrosine nitration disrupts vascular and epithelial homeostasis by impairing endothelial signaling, fibrinolysis, lipid metabolism, and barrier integrity through modification of key regulatory proteins. By influencing phosphorylation-dependent signaling, enzymatic function, and protein-protein interactions, tyrosine nitration contributes to the connection between redox imbalance and progressive cellular and tissue dysfunction. This review summarizes current mechanistic insights into site-specific protein tyrosine nitration, highlights the emerging disease-associated nitroproteome, and discusses how advances in analytical and structural approaches are redefining nitration as a functional regulatory modification. Understanding the molecular determinants and consequences of tyrosine nitration may enable the development of targeted diagnostics and therapeutic strategies across diverse human diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "Cardiovascular disease",
+        "Neurodegeneration",
+        "Peroxynitrite",
+        "Pulmonary disease",
+        "Reactive nitrogen species",
+        "Tyrosine nitration"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
       "id": "42831156",
       "event_key": "pubmed:42831156",
       "source_id": "pubmed",
@@ -379,7 +744,38 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
+    },
+    {
+      "id": "42843091",
+      "event_key": "pubmed:42843091",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Gene regulatory co-expression networks decipher potential lncRNA-miRNA-mRNA interactions modulating transcription regulation in neurodegeneration.",
+      "authors": [
+        "Amrit Venkatesan",
+        "Prashasti Sinha",
+        "Jolly Basak",
+        "Ranjit Prasad Bahadur"
+      ],
+      "journal": "Computational biology and chemistry",
+      "publication_date": "2026-10-02",
+      "pmid": "42843091",
+      "doi": "10.1016/j.compbiolchem.2026.109462",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843091/",
+      "abstract": "Neurodegenerative diseases are complex disorders characterised by progressive neuronal loss and widespread transcriptomic dysregulation. However, understanding the molecular interactions among coding and non-coding RNAs, especially lncRNAs and miRNAs, contributing to disease progression remains elusive. In this study, RNA-Seq datasets from disease-relevant neuronal populations and different brain tissues representing Alzheimer's disease (AD), Parkinson's disease (PD) and Amyotrophic Lateral Sclerosis (ALS) are analysed using an integrative network-based framework. Differential expression analysis and weighted gene co-expression network analysis (WGCNA) are combined to identify disease-associated modules and prioritise highly connected hub genes. They are subsequently integrated with curated RNA interaction databases to construct candidate lncRNA-miRNA-mRNA regulatory networks. Functional enrichment and UTR variant analyses are further incorporated to connect the regulatory network framework with biological processes and potential sequence variations. The novelty of the present study lies in the systematic integration of transcriptomic co-expression, post-transcriptional regulation, functional and sequence-level analyses within a single framework. This framework enables the identification of disease-specific and shared regulatory features, and links the candidate regulatory interactions with potential UTR sequence alterations. Across eight tissue-specific samples, 163 hub genes and 4869 candidate lncRNA-miRNA-mRNA interactions are identified. Additionally, we also identify 414 UTR variants associated with the hub genes. Pathways associated with hub genes including axonogenesis, synaptic organization, intracellular transport and RNA regulatory mechanisms are commonly found to be enriched in AD, PD and ALS. These findings provide a quantitative resource for prioritising regulatory interactions between candidate hub genes and associated UTR variants for future experimental validation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Functional enrichment",
+        "Hub genes",
+        "Neurodegenerative diseases",
+        "RNA-Seq",
+        "lncRNA-miRNA-mRNA interactions"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42826761",
@@ -575,6 +971,58 @@
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
       "last_seen_at": "2026-10-05T06:04:52Z"
+    },
+    {
+      "id": "42839768",
+      "event_key": "pubmed:42839768",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Recalibration of the Frontal Behavioural Inventory Cut-Off for Behavioural Screening in Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Barbara Iazzolino",
+        "Francesca Palumbo",
+        "Antonio Canosa",
+        "Stefano Callegaro",
+        "Vita Passidomo",
+        "Umberto Manera",
+        "Rosario Vasta",
+        "Enrico Matteoni",
+        "Sara Cabras",
+        "Giorgio Pellegrino",
+        "Alessandra Maccabeo",
+        "Cristina Moglia",
+        "Andrea Calvo",
+        "Adriano Chiò"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-10-01",
+      "pmid": "42839768",
+      "doi": "10.1111/ene.70778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839768/",
+      "abstract": "OBJECTIVE: The Frontal Behavioural Inventory (FBI) was validated in behavioural-variant frontotemporal dementia (bvFTD) with a cut-off of 25. We tested whether this threshold is appropriate in amyotrophic lateral sclerosis (ALS), where behavioural change is milder and partly confounded by motor pathology.\n\nMETHODS: We analysed 506 ALS patients with a valid FBI assessment. Behavioural impairment was defined using two complementary reference standards, to minimise dependence on any single behavioural instrument: a consensus rule (pathology on ≥ 2 of three independent instruments: Edinburgh Cognitive and Behavioural ALS Screen, Frontal Systems Behaviour Scale, Beaumont Behavioural Inventory) and Latent Class Analysis. ROC analysis identified the Youden-optimal cut-off; agreement was quantified by Cohen's κ; internal validity was assessed by stratified 5-fold cross-validation. Total and subscale scores were analysed separately.\n\nRESULTS: Among 345 complete-case patients, 24.6% met criteria for behavioural impairment. The FBI total discriminated impairment well (AUC 0.855, 95% CI 0.806-0.898). The Youden-optimal cut-off was FBI ≥ 9 (sensitivity 0.87, specificity 0.74), whereas the legacy cut-off of 25 showed sensitivity 0.22. Subscale recalibration yielded cut-offs of FBI-Apathy ≥ 7 (AUC 0.808) and FBI-Disinhibition ≥ 4 (AUC 0.851).\n\nCONCLUSIONS: In ALS, the bvFTD-derived threshold of 25 misses most patients with behavioural involvement. FBI ≥ 9 is a promising candidate ALS-specific screening threshold, with scores ≥ 15 indicating a higher probability of behavioural involvement; exploratory subscale thresholds of ≥ 7 for Apathy and ≥ 4 for Disinhibition are also proposed. These cut-offs substantially improve sensitivity while maintaining acceptable specificity, but require prospective external validation before replacing current practice.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Aged",
+        "Middle Aged",
+        "Neuropsychological Tests",
+        "Sensitivity and Specificity",
+        "Frontotemporal Dementia",
+        "Reproducibility of Results"
+      ],
+      "keywords": [
+        "Frontal Behavioural Inventory",
+        "amyotrophic lateral sclerosis",
+        "behavioural impairment",
+        "frontotemporal degeneration",
+        "psychometric recalibration"
+      ],
+      "collected_at": "2026-10-08T06:31:38Z",
+      "first_seen_at": "2026-10-08T06:31:38Z",
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42823490",
@@ -968,7 +1416,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42816153",
@@ -2559,7 +3007,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42834925",
@@ -2598,7 +3046,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42793425",
@@ -3031,7 +3479,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42782801",
@@ -6309,7 +6757,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42792156",
@@ -6458,7 +6906,7 @@
       ],
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
-      "last_seen_at": "2026-10-07T06:20:13Z"
+      "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
       "id": "42829678",
