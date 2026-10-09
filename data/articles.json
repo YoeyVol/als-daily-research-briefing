@@ -1,20 +1,398 @@
 {
-  "updated_at": "2026-10-08T06:31:38Z",
+  "updated_at": "2026-10-09T06:32:43Z",
   "new_keys": [
-    "pubmed:42840349",
-    "pubmed:42844074",
-    "pubmed:42842169",
-    "pubmed:42841866",
-    "pubmed:42839902",
-    "pubmed:42840744",
-    "pubmed:42839646",
-    "pubmed:42839248",
-    "pubmed:42833279",
-    "pubmed:42843275",
-    "pubmed:42843091",
-    "pubmed:42839768"
+    "pubmed:42849176",
+    "pubmed:42849148",
+    "pubmed:42848219",
+    "pubmed:42848030",
+    "pubmed:42847641",
+    "pubmed:42847638",
+    "pubmed:42847178",
+    "pubmed:42844308",
+    "pubmed:42844425",
+    "pubmed:42849018",
+    "pubmed:42847522",
+    "pubmed:42846340",
+    "pubmed:42845299"
   ],
   "items": [
+    {
+      "id": "42849176",
+      "event_key": "pubmed:42849176",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Immune effects of faecal microbiota transplantation in amyotrophic lateral sclerosis: a pilot multicentre, randomised, masked, sham-controlled, proof-of concept trial.",
+      "authors": [
+        "Elisabetta Zucchi",
+        "Elena Niccolai",
+        "Flavio De Maio",
+        "Riccardo Cuoghi Costantini",
+        "Gianluca Quaranta",
+        "Alessandra Guarnaccia",
+        "Stefano Bibbò",
+        "Ilaria Martinelli",
+        "Giulia Gianferrari",
+        "Cecilia Simonini",
+        "Giulia Nannini",
+        "Matteo Lulli",
+        "Simone Baldi",
+        "Gianluca Bartolucci",
+        "Roberto Vicini",
+        "Margherita Capasso",
+        "Giulia Bisogni",
+        "Amelia Conte",
+        "Paola Brunori",
+        "Giovanni Cammarota",
+        "Sabrina Paganoni",
+        "Roberto D'Amico",
+        "Amedeo Amedei",
+        "Luca Masucci",
+        "Jessica Mandrioli",
+        "FETR-ALS Study Group"
+      ],
+      "journal": "EBioMedicine",
+      "publication_date": "2026-10-08",
+      "pmid": "42849176",
+      "doi": "10.1016/j.ebiom.2026.106509",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849176/",
+      "abstract": "BACKGROUND: The gut microbiota modulates peripheral immunity, which is altered in amyotrophic lateral sclerosis (ALS). Faecal microbiota transplantation (FMT) may exert immunological effects, but its impact in ALS remains unclear.\n\nMETHODS: FETR-ALS was a multicentre, randomised, masked, sham-controlled proof-of-concept trial conducted at four Italian ALS centres. Adults with ALS of 18 months duration or less and forced vital capacity of at least 70% predicted were randomly assigned (2:1) to receive FMT or a sham procedure (SP). The intervention consisted of two nasojejunal administrations of screened-donor faecal suspension at baseline and month 6, without antibiotic preconditioning. The primary endpoint was change in circulating Tregs among CD4+ T cells at 6 months. Secondary endpoints included safety, ALS Functional Rating Scale-Revised slope, respiratory and nutritional measures, survival, and exploratory biomarker profiles. Analyses followed the intention-to-treat principle.\n\nCLINICALTRIALS: gov identifier: NCT03766321.\n\nFINDINGS: Between 2020 and 2024, 43 individuals were screened and 42 were enrolled and randomly assigned to FMT (n = 28; mean age 56.1 years [SD 8.2]; 14 [50%] male) or SP (n = 14; 59.6 years [9.1]; eight [57%] male). Overall, 29 participants completed the second procedure and 6-month follow-up, and Treg measurements were available for 28. The primary outcome was not met: at 6 months, 8/18 (44%) participant receiving FMT versus 2/10 (20%) receiving SP achieved a ≥20% increase in circulating Tregs (odds ratio [OR] 3.20, 95% CI 0.59-25.36; p = 0.21). Mean Treg increase was 2.36 percentage points higher with FMT (95% CI 0.19-4.55; p = 0.04). ALSFRS-R declined by -1.07 points/month in the SP group and -0.76 points/month in the FMT group, with a between-group difference in monthly decline of 0.31 points/month favouring FMT (95% CI 0.11-0.51; p = 0.002). Conversely, at month 6, the MRC score was lower in the FMT group than in the SP group (0.75 versus 0.89; mean difference -0.13, 95% CI -0.26 to 0.00; p = 0.042). FMT was associated with 32 adverse events (12.5% severe) versus 14 (28.6% severe) in SP, mostly gastrointestinal or infectious.\n\nINTERPRETATION: In this exploratory trial, FMT was not associated with major safety concerns. Although the primary endpoint was not met, FMT was associated with a modest increase in circulating Tregs.\n\nFUNDING: Italian Ministry of Health.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Faecal microbiota transplantation",
+        "Gut microbiota",
+        "Immune modulation",
+        "Randomised controlled trial",
+        "T regulatory cells"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42849148",
+      "event_key": "pubmed:42849148",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Update on somatic mutations in major neurodegenerative diseases: mutational signatures in neurons and mosaicism.",
+      "authors": [
+        "Axel Freischmidt",
+        "Jochen H Weishaupt"
+      ],
+      "journal": "Current opinion in genetics & development",
+      "publication_date": "2026-10-08",
+      "pmid": "42849148",
+      "doi": "10.1016/j.gde.2026.102549",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849148/",
+      "abstract": "Somatic mutations in major neurodegenerative diseases are poorly understood, but research over the past 2 years provides valuable insights. Single-cell whole-genome sequencing of vulnerable neurons in Alzheimer's disease and amyotrophic lateral sclerosis/frontotemporal dementia (ALS/FTD) revealed excess accumulation of single-nucleotide variant signatures and two-bp deletions independent of pathogenic protein aggregation. Increased oxidative DNA damage and possibly impaired DNA damage repair pathways may explain more pronounced signatures in patients. Ultra-deep sequencing of disease-associated genes in relevant tissues in ALS/FTD identified a subset of sporadic patients carrying mosaic variants that cause disease when present in the germline, but the pathogenicity of such mosaic variants at low allele frequencies is unclear. Research on somatic variants in Parkinson's disease remains underrepresented in the literature.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42848219",
+      "event_key": "pubmed:42848219",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Pre-diagnostic ALSFRS-R slope provides limited incremental information about the variability in subsequent functional decline in amyotrophic lateral sclerosis: a population-based study.",
+      "authors": [
+        "Rosario Vasta",
+        "Andrea Calvo",
+        "Cristina Moglia",
+        "Antonio Canosa",
+        "Umberto Manera",
+        "Giulia Gianferrari",
+        "Elisabetta Zucchi",
+        "Ilaria Martinelli",
+        "Gabriele Mora",
+        "Sara Cabras",
+        "Francesca Palumbo",
+        "Enrico Matteoni",
+        "Alessandra Maccabeo",
+        "Giorgio Pellegrino",
+        "Emilio Minerva",
+        "Daniela Pascariu",
+        "Stefano Callegaro",
+        "Fabrizio D'Ovidio",
+        "Letizia Mazzini",
+        "Fabiola De Marchi",
+        "Jessica Mandrioli",
+        "Adriano Chiò"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-10-08",
+      "pmid": "42848219",
+      "doi": "10.1007/s00415-026-14177-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848219/",
+      "abstract": "BACKGROUND: The pre-diagnostic ALSFRS-R slope is frequently used in a clinical trial design and clinical practice under the implicit assumption that it reflects subsequent functional decline. We assessed the association between the pre-diagnostic ALSFRS-R slope and subsequent functional decline.\n\nMETHODS: The Piemonte and Valle d'Aosta ALS Registry (PARALS) was used as the primary cohort. The associations between pre- and post-diagnostic slopes at 6, 12, and 18 months were examined using correlation coefficients and multivariable linear regression. Linear and quadratic mixed-effects models used all ALSFRS-R assessments obtained during the first 18 months to evaluate longitudinal trajectories and quantify the incremental contribution of the pre-diagnostic slope. All analyses were replicated in the Emilia Romagna Registry for ALS (ERRALS).\n\nRESULTS: A total of 2,222 patients from PARALS and 1,543 from ERRALS were included. In PARALS, the pre-diagnostic ALSFRS-R slope showed only a modest monotonic association with post-diagnostic functional decline (Spearman's ρ = 0.19-0.30) and explained 6.1% of its variance at 6 months, with this proportion decreasing thereafter. Quadratic mixed-effects models estimated that, at 12 months, the difference in ALSFRS-R change between patients in the highest and lowest pre-diagnostic slope quartiles was 2.04 points in PARALS (95% CI 1.25-2.83) and 2.47 points in ERRALS (95% CI 1.07-3.86). However, the linear and quadratic interactions together increased the marginal R2 by only 0.43 percentage points in PARALS and 1.68 percentage points in ERRALS.\n\nCONCLUSIONS: The pre-diagnostic ALSFRS-R slope identifies meaningful average differences in subsequent decline between patient groups but provides limited information for predicting individual trajectories.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Registries",
+        "Disease Progression",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Longitudinal Studies",
+        "Cohort Studies"
+      ],
+      "keywords": [
+        "ALSFRS-R",
+        "Amyotrophic lateral sclerosis",
+        "Clinical trials",
+        "Disease progression"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42848030",
+      "event_key": "pubmed:42848030",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Contrasting clinical trajectories in two ALS patients with rare FUS variants: implications for variant interpretation, penetrance, and trial readiness.",
+      "authors": [
+        "Paula V Gaete",
+        "Martha Peña Preciado",
+        "John Jairo Forero Díaz"
+      ],
+      "journal": "Neurogenetics",
+      "publication_date": "2026-10-08",
+      "pmid": "42848030",
+      "doi": "10.1007/s10048-026-00927-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848030/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease that primarily affects the motor system. A minority of cases are associated with a genetic variant. Variants in C9orf72, SOD1, TARDBP, and FUS are the most common. Compared with other forms of ALS, ALS presenting with FUS variants is relatively aggressive. However, phenotypic heterogeneity has been reported. We describe two cases of ALS with rare FUS variants with contrasting clinical courses. These cases highlight the importance of the different factors that influence ALS phenotypic presentation and the challenges of variant interpretation in ALS, as outlined in the ACMG Guidelines. It is essential to recognise specific genotype-phenotype relationships and environmental factors that could alter the clinical course of the disease and affect therapeutic agent selection.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "RNA-Binding Protein FUS",
+        "Penetrance",
+        "Phenotype",
+        "Middle Aged",
+        "Male",
+        "Female",
+        "Genetic Variation",
+        "Mutation",
+        "Genetic Association Studies",
+        "Aged"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Case report",
+        "FUS",
+        "Genetics",
+        "Motor neuron disease"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42847641",
+      "event_key": "pubmed:42847641",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "White matter hyperintensity burden in amyotrophic lateral sclerosis: motor and survival correlates.",
+      "authors": [
+        "Alberto De Lorenzo",
+        "Alessio Maranzano",
+        "Alessandro Cocuzza",
+        "Francesco Gentile",
+        "Massimiliano Passaretti",
+        "Eleonora Colombo",
+        "Silvia Torre",
+        "Edoardo Nicolò Aiello",
+        "Narghes Calcagno",
+        "Claudia Gendarini",
+        "Marco Olivero",
+        "Francesco Scheveger",
+        "Valerio Patisso",
+        "Jacopo Spagliardi",
+        "Alessandro Di Maio",
+        "Simone Pierro",
+        "Mauro Treddenti",
+        "Delia Gagliardi",
+        "Giacomo Pietro Comi",
+        "Stefania Corti",
+        "Joana B Pereira",
+        "Pasquale Agosti",
+        "Flora Peyvandi",
+        "Stefano Messina",
+        "Alberto Doretti",
+        "Barbara Poletti",
+        "Claudia Morelli",
+        "Vincenzo Silani",
+        "Claudia Mara Cinnante",
+        "Federico Verde",
+        "Nicola Ticozzi"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-10-08",
+      "pmid": "42847641",
+      "doi": "10.1093/brain/awag347",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847641/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive motor neuron degeneration. Microvascular dysfunction has been implicated by recent research in ALS pathogenesis and motor neuron vulnerability. The aim of this study is to investigate whether MRI markers of white matter hyperintensities (WMHs), reflecting small-vessel disease, are associated with motor and cognitive impairment, disease staging and prognosis in ALS. In this retrospective cohort study MRI scans from 399 ALS patients were evaluated for periventricular and deep white matter hyperintensities (pvWMH and dWMH) using visual grading scales together with semi-automated volumetric quantification of relative WMH volume (WMHrv). The primary outcome was survival. Secondary outcomes included disease staging, functional impairment, motor and cognitive outcome measures. WMH burden was associated with more advanced King's topographic staging [pvWMH (P < 0.001), dWMH (P = 0.002)] and MiToS functional staging [pvWMH (P < 0.001), dWMH (P = 0.017)]. High pvWMH burden was associated with shorter survival [exp(β) = 3.503; 95% CI = 1.131, 10.832; P = 0.030] after adjustment for known prognostic factors. WMH measures correlated with greater functional impairment on ALSFRS-R score [pvWMH (P < 0.001), dWMH (P = 0.003), WMHrv (P = 0.008)]. WMH burden correlated with more severe lower, but not upper, motor neuron impairment, as measured with the MRC sum score [pvWMH (P = 0.002), dWMH (P = 0.024), WMHrv (p=0.030)] and lower motor neuron score [pvWMH (P < 0.001), dWMH (P = 0.001)]. WMH burden was also associated with cognitive deficits on the Edinburgh Cognitive and Behavioural ALS Screen (ECAS), as indicated by total [pvWMH (P = 0.007), dWMH (P = 0.009), WMHrv (P = 0.037)] and ALS-specific ECAS scores [pvWMH (P = 0.001), dWMH (P = 0.020), WMHrv (P = 0.022)]. This large-scale MRI study links small-vessel disease to clinical staging, survival and ALS-specific motor (distinctively LMN) and cognitive impairments. These results suggest that WMHs may reflect a diffuse neurovascular pathology spanning cortical and spinal regions and may be relevant to ALS progression. Routine MRI assessment of WMHs could aid patient stratification and inform trial designs. Longitudinal studies are needed to clarify causal relationships and neurovascular-targeted therapeutic implications.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "disease staging",
+        "lower motor neuron",
+        "small vessel disease",
+        "survival",
+        "white matter hyperintensities"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42847638",
+      "event_key": "pubmed:42847638",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Considerations for therapeutic targets for clinical trials in biomarker-characterized prodromal Parkinson's disease populations.",
+      "authors": [
+        "R B Schneider",
+        "G Skibinski",
+        "B Fiske",
+        "C M Kopil",
+        "K Merchant",
+        "T Simuni"
+      ],
+      "journal": "Journal of Parkinson's disease",
+      "publication_date": "2026-10-08",
+      "pmid": "42847638",
+      "doi": "10.1177/1877718X261493297",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847638/",
+      "abstract": "Parkinson's disease (PD) is a growing public health problem and biologically targeted therapeutics (BTTs) that slow disease progression are urgently needed. However, the development of effective BTTs is challenging as PD is a clinically defined syndrome with pathobiological heterogeneity and the pathobiological process begins many years before the onset of clinically detectable motor symptoms. Testing BTTs in a biomarker-defined population at an earlier stage in the disease course, before a clinical PD diagnosis, may be the key to achieving this objective. The recent emergence of biological definitions of neuronal α-synuclein disease (NSD) and research frameworks for staging disease represent the first step towards testing BTTs in biomarker-defined prodromal populations. While biomarker-defined populations are essential for implementing precision therapeutic approaches, selecting and prioritizing BTTs for testing in early-stage populations is also critical, and requires consideration of biological relevance, safety, and operational feasibility. Here, in preparation for such studies, we review the landscape of publicly available PD BTTs organized by mechanistic pathways and targets, and summarize scientific, safety, and operational considerations relevant to early-stage, biomarker-defined trials targeting NSD participants prior to PD clinical diagnosis. Recognizing that there are shared biological mechanisms across neurodegenerative disorders, we complement this review of the PD therapeutic target landscape with a review of publicly available Alzheimer's dementia and amyotrophic lateral sclerosis BTTs and provide a comprehensive list of agents for reference.",
+      "mesh_terms": [],
+      "keywords": [
+        "Parkinson's disease",
+        "clinical trials",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42847178",
+      "event_key": "pubmed:42847178",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Harmonizing ALS research data across multimodal data sets using the OMOP Common Data Model.",
+      "authors": [
+        "Brandon Jernigan",
+        "Hannah L Walters",
+        "Diane Corey",
+        "Albert Garcia",
+        "Alan Premasiri",
+        "William T Roddy",
+        "Dillon Shearer",
+        "Terri G Thompson",
+        "Jason Tucker",
+        "Fernando Vieira",
+        "Danielle Boyce"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-08",
+      "pmid": "42847178",
+      "doi": "10.1080/21678421.2026.2738533",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847178/",
+      "abstract": "Three nonprofit organizations-ALS Therapy Development Institute (ALS TDI), Answer ALS, and the Critical Path Institute (C-Path)-collaborated to harmonize distinct ALS research datasets using the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM). This effort was designed to make otherwise separate ALS resources more comparable, enabling larger and more informative cross-cohort analyses. The teams coordinated vocabulary mapping, identified OMOP vocabulary gaps, and submitted new concepts to the Observational Health Data Science and Informatics (OHDSI) community for approval. Harmonized data from ALS TDI and Answer ALS were merged in the Neuromine data portal, while their clinical and digital health technology (DHT) datasets are also available through C-Path's Rare Disease Cures Accelerator-Data Analytics Platform (RDCA-DAP). This collaboration aligns with current regulatory priorities for data sharing and offers a model for harmonizing rare disease data. A robust, public GitHub repository was established to share real-time updates with the ALS research community.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "Act for ALS",
+        "OMOP",
+        "data harmonization",
+        "digital health technology"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42844308",
+      "event_key": "pubmed:42844308",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "RVG29-functionalized nanocarriers for brain-targeted therapy of neurodegenerative diseases: mechanisms, therapeutic advances, and translational perspectives.",
+      "authors": [
+        "Sonam M Gandhi",
+        "Saraswati Patel",
+        "Nitin G Haswani",
+        "Shadma Wahab",
+        "Zia-Ul- Sabah",
+        "Devesh U Kapoor"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "2026-10-08",
+      "pmid": "42844308",
+      "doi": "10.1007/s00210-026-05958-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844308/",
+      "abstract": "Neurodegenerative diseases (NDs) affect more than 55 million people worldwide, with this number projected to exceed 139 million by 2050 due to population aging. Alzheimer's disease (AD) accounts for 60-70% of dementia cases, while Parkinson's disease (PD) affects over 10 million individuals globally, highlighting the growing clinical and socioeconomic burden of these progressive neurological disorders. Effective treatment of AD, PD, amyotrophic lateral sclerosis (ALS), and related central nervous system disorders remains hindered by the blood-brain barrier (BBB), poor brain accumulation, rapid systemic clearance, and off-target toxicity. RVG29, a 29-amino-acid peptide derived from rabies virus glycoprotein, has emerged as a promising brain-targeting ligand because of its high affinity for nicotinic acetylcholine receptors expressed on neuronal and brain endothelial cells. This review critically examines the mechanisms underlying RVG29-mediated receptor-dependent BBB transcytosis, intracellular trafficking, and neuronal uptake. Furthermore, it comprehensively evaluates RVG29-functionalized lipid nanoparticles, polymeric nanoparticles, exosomes, biomimetic nanocarriers, micelles, inorganic nanostructures, and hybrid systems with respect to their physicochemical characteristics, targeting efficiency, therapeutic efficacy, and safety. Collectively, these nanocarriers demonstrate enhanced BBB penetration, increased drug accumulation in diseased brain regions, and efficient delivery of small molecules, genes, mRNA, and siRNA. By modulating oxidative stress, neuroinflammation, protein aggregation, ferroptosis, and mitochondrial dysfunction, RVG29-engineered nanocarriers provide significant neuroprotection with favorable biocompatibility and minimal immunogenicity. Despite these advances, challenges related to large-scale manufacturing, peptide stability, regulatory approval, and long-term biosafety must be addressed to facilitate their clinical translation as precision neurotherapeutics.",
+      "mesh_terms": [],
+      "keywords": [
+        "Blood–brain barrier targeting",
+        "Brain-targeted drug delivery",
+        "Neurodegenerative diseases",
+        "RVG29-functionalized nanocarriers",
+        "Receptor-mediated transcytosis"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42844425",
+      "event_key": "pubmed:42844425",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Astrocytes regulate axonal mitochondrial transport deficits in C9ORF72 amyotrophic lateral sclerosis motor neurons.",
+      "authors": [
+        "Maria Stavrou",
+        "Áine Bríd Heffernan",
+        "Roderick N Carter",
+        "Owen Dando",
+        "Zoeb Jiwaji",
+        "Karen Burr",
+        "Jyoti Nanda",
+        "David Villarroel-Campos",
+        "Alya Masoud Abdelhafid",
+        "Justyna Cholewa-Waclaw",
+        "Daniel Soong",
+        "David Story",
+        "Giampietro Schiavo",
+        "Giles E Hardingham",
+        "Siddharthan Chandran",
+        "Bhuvaneish T Selvaraj"
+      ],
+      "journal": "Nature neuroscience",
+      "publication_date": "2026-10-07",
+      "pmid": "42844425",
+      "doi": "10.1038/s41593-026-02464-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844425/",
+      "abstract": "Disrupted axonal transport and astrocyte dysfunction are implicated in amyotrophic lateral sclerosis (ALS). Here we show these processes are linked-human-induced pluripotent stem-cell-derived astrocytes carrying the C9ORF72 mutation disrupt mitochondrial axonal transport and mitochondrial function in cocultured motor neurons (MNs). Conversely, isogenic gene-corrected astrocytes or boosting astrocytic mitochondrial bioenergetics rescue axonal mitochondrial transport deficits in C9ORF72 MNs. Our results delineate a non-cell-autonomous role for astrocytes in regulating mitochondrial transport along axons in ALS models.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
     {
       "id": "42844074",
       "event_key": "pubmed:42844074",
@@ -37,7 +415,7 @@
       "keywords": [],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42842169",
@@ -78,7 +456,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42841866",
@@ -115,7 +493,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42839902",
@@ -151,7 +529,33 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
+      "id": "42849018",
+      "event_key": "pubmed:42849018",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Early Palliative Care and Structured Serious Illness Communication in a Refugee Patient With Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Jillian Rankin",
+        "Carina Oltmann",
+        "Emily Pinto Taylor",
+        "Daniel Schachter",
+        "Ashima Lal"
+      ],
+      "journal": "The primary care companion for CNS disorders",
+      "publication_date": "2026-10-06",
+      "pmid": "42849018",
+      "doi": "10.4088/PCC.26cr04223",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849018/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42840744",
@@ -184,7 +588,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42840349",
@@ -235,7 +639,7 @@
       "keywords": [],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42839646",
@@ -265,7 +669,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42839248",
@@ -302,7 +706,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42837018",
@@ -341,7 +745,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42836993",
@@ -366,15 +770,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42836993/",
       "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder with substantial clinical heterogeneity, complicating the design and interpretation of clinical trials. Two strategies have been proposed to address this variability: phenotype-based prognostic modelling and biomarker-based stratification using neurofilaments. We aimed to determine whether a widely used phenotype-based method, the TRICALS risk score, could substitute for neurofilament biomarkers in a clinical trial.\n\nMETHODS: We used data from the MIROCALS phase 2b randomised controlled trial of low-dose interleukin-2 in ALS (n = 220). The TRICALS risk score was calculated for each participant. The published biomarker model includes CSF phosphorylated neurofilament heavy chain (pNFH) and a pNFH × treatment interaction. We analysed the effects of replacing CSF pNFH with the TRICALS risk score and of adding TRICALS score as an additional covariate to the original model. Model performance was assessed using likelihood ratio χ2 statistics and - 2 log likelihood (- 2LL). The primary outcome was survival.\n\nRESULTS: TRICALS risk score was moderately correlated with CSF pNFH (r = 0.357), explaining 12.7% of shared variance. Substituting CSF pNFH with TRICALS score reduced model performance (- 2LL 928.25 vs 793.36). The TRICALS × treatment interaction was statistically significant (hazard ratio [HR] 0.72, 95% CI 0.54-0.96 p = 0.025), but contributed modestly to model fit (Δχ2 = 4.76), compared with the pNFH × treatment interaction (Δχ2 = 14.24). Incorporating the pNFH × treatment interaction significantly improved model fit and identified a treatment effect (HR 0.28, 95% CI 0.12-0.63; p = 0.002).\n\nCONCLUSIONS: The TRICALS risk score does not substitute for CSF neurofilament biomarkers as a prognostic or stratification variable but provides complementary information.",
       "mesh_terms": [
-        "Humans",
-        "Amyotrophic Lateral Sclerosis",
-        "Neurofilament Proteins",
-        "Biomarkers",
-        "Prognosis",
+        "Aged",
         "Female",
+        "Humans",
         "Male",
         "Middle Aged",
-        "Aged"
+        "Amyotrophic Lateral Sclerosis",
+        "Biomarkers",
+        "Neurofilament Proteins",
+        "Prognosis",
+        "Interleukin-2"
       ],
       "keywords": [
         "ALS",
@@ -384,7 +789,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42834122",
@@ -416,7 +821,7 @@
       "keywords": [],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42833594",
@@ -712,7 +1117,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42831156",
@@ -775,7 +1180,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42826761",
@@ -973,6 +1378,45 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42847522",
+      "event_key": "pubmed:42847522",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Synaptic Proteostasis in Health and Disease.",
+      "authors": [
+        "Paul G Donlin-Asp",
+        "Emma L Clayton"
+      ],
+      "journal": "Journal of neurochemistry",
+      "publication_date": "2026-10-01",
+      "pmid": "42847522",
+      "doi": "10.1111/jnc.70565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847522/",
+      "abstract": "Neurons rely on tightly coordinated mechanisms of protein synthesis and degradation to maintain cellular homeostasis, a process known as proteostasis. Given their highly polarised and compartmentalised nature, regulation of proteostasis is especially important at neuronal synapses, which are spatially distant from the soma yet require rapid on-demand adaptation of the synaptic proteome. Neurons meet their demand for synaptic proteostasis through localised mRNA transport and translation, alongside specialised pathways for protein degradation. Recent advances reveal that thousands of transcripts localise to distal neuronal compartments and that their distribution may be shaped by RNA stability, RNA dynamics, and organelle-hitchhiking transport mechanisms. In parallel, processes such as synaptic autophagy and endolysosomal trafficking are crucial for maintaining synaptic structure and neurotransmission. Disruptions in these finely balanced mechanisms are a common underlying feature of various neurological disorders, including fragile X syndrome, amyotrophic lateral sclerosis, Parkinson's disease, and Alzheimer's disease. This overview highlights key milestones and remaining questions in synaptic proteostasis, focusing on how local protein synthesis and degradation work together to preserve synaptic integrity and how their dysregulation can lead to disease.",
+      "mesh_terms": [
+        "Humans",
+        "Proteostasis",
+        "Synapses",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Autophagy",
+        "Neurons",
+        "Proteotoxic Stress"
+      ],
+      "keywords": [
+        "autophagy",
+        "local translation",
+        "neurodegenerative disease",
+        "neurodevelopmental disease",
+        "proteostasis",
+        "synapse"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
       "id": "42839768",
       "event_key": "pubmed:42839768",
       "source_id": "pubmed",
@@ -1022,7 +1466,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42823490",
@@ -2464,6 +2908,41 @@
       "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
+      "id": "42846340",
+      "event_key": "pubmed:42846340",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Correction: Feasibility study of noninvasive assessment of emotional state in patients with ALS.",
+      "authors": [
+        "Marc Garbey",
+        "Quentin Lesport",
+        "Gülşen Öztosun",
+        "Megan Heidebrecht",
+        "Kamyab Pirouz",
+        "Elham Bayat"
+      ],
+      "journal": "Frontiers in digital health",
+      "publication_date": "2026-09-23",
+      "pmid": "42846340",
+      "doi": "10.3389/fdgth.2026.1977072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846340/",
+      "abstract": "[This corrects the article DOI: 10.3389/fdgth.2026.1886561.].",
+      "mesh_terms": [],
+      "keywords": [
+        "affective computing",
+        "amyotrophic lateral sclerosis",
+        "clinical trial",
+        "generative language",
+        "natural language processing",
+        "signal analysis",
+        "telemedicine"
+      ],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
+    },
+    {
       "id": "42790169",
       "event_key": "pubmed:42790169",
       "source_id": "pubmed",
@@ -3007,7 +3486,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42834925",
@@ -3046,7 +3525,7 @@
       ],
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42793425",
@@ -8525,6 +9004,45 @@
       "collected_at": "2026-09-23T05:02:11Z",
       "first_seen_at": "2026-09-23T05:02:11Z",
       "last_seen_at": "2026-09-25T05:14:47Z"
+    },
+    {
+      "id": "42845299",
+      "event_key": "pubmed:42845299",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Oral administration of dibenzoylmethane (DBM) prevents cognitive decline in a C9ORF72-mediated FTD mouse model.",
+      "authors": [
+        "Paulina Torres",
+        "Daniela Becerra",
+        "José I Astorga",
+        "Matías Fuentealba",
+        "Grant Kauwe",
+        "Luis Gonzalez",
+        "Guillermo Diaz",
+        "Vania Morales",
+        "Vicente Valenzuela",
+        "Cameron Wehrfritz",
+        "Yani Y Ngwala",
+        "Claudia Sepulveda-Quiñenao",
+        "Samah Shah",
+        "Joanna Bons",
+        "Leonard Petrucelli",
+        "Tara E Tracy",
+        "Birgit Schilling",
+        "Claudio Hetz"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-08-10",
+      "pmid": "42845299",
+      "doi": "10.64898/2026.08.07.743573",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42845299/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) are two related neurodegenerative disorders that display overlapping features. The hexanucleotide repeat expansion GGGGCC (G 4 C 2 ) in the C9ORF72 gene is the most common cause of ALS and FTD, which results in the accumulation of dipeptide-repeat protein aggregates. Regulation of protein synthesis at the level of the initiation factor eIF2α has been suggested as a transversal event contributing to neurodegeneration in ALS and FTD. eIF2α phosphorylation blocks protein synthesis to alleviate protein misfolding overload, but conversely it can reduce the expression of synaptic proteins resulting in neuronal dysfunction. Dibenzoylmethane (DBM) is a small molecule that reverses the translational attenuation mediated by eIF2α phosphorylation which has been shown to alleviate neurodegeneration in prion-infected mice and Tau transgenic animals. Here we investigated the efficacy of the oral administration of DBM in protecting a mouse model of C9ORF72 pathogenesis. Treatment of mice with 0.5% of DBM mixture in powdered food ad libitum was sufficient to prevent cognitive impairment in C9ORF72 mice. Unexpectedly, DBM treatment did not modify the content of poly(GA) and poly(GR) protein inclusion in the hippocampus and brain cortex. Proteomic profiling of brain tissue indicated that DBM administration corrected nearly 70% of the changes in gene expression triggered by expanded G 4 C 2 , where the main pathways modified by DBM were related to cytoskeleton organization, ALS, and metabolic processes. Most proteins corrected by DBM in our C9ORF72 model were also altered in the brain of human FTD/ALS patients. Overall, our results reinforce the idea that targeting protein synthesis with small molecules in patients carrying C9ORF72 mutations may result in improved cognitive capacity.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-09T06:32:42Z",
+      "first_seen_at": "2026-10-09T06:32:42Z",
+      "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
       "id": "42724165",

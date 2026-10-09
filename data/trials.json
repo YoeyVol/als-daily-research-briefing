@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-10-08T06:31:38Z",
+  "updated_at": "2026-10-09T06:32:43Z",
   "new_keys": [
-    "clinicaltrials:NCT07862959:2026-10-07",
-    "clinicaltrials:NCT04363684:2026-10-07"
+    "clinicaltrials:NCT07865260:2026-10-08",
+    "clinicaltrials:NCT07454733:2026-10-08"
   ],
   "items": [
+    {
+      "id": "NCT07865260",
+      "event_key": "clinicaltrials:NCT07865260:2026-10-08",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07865260",
+      "title": "PhiCube for Bilateral Upper Limb Neuromotor and Cognitive Rehabilitation in Adults",
+      "sponsor": "Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Device: PhiCube",
+        "Other: Conventional rehabilitation"
+      ],
+      "start_date": "2026-09",
+      "last_update_date": "2026-10-08",
+      "url": "https://clinicaltrials.gov/study/NCT07865260",
+      "collected_at": "2026-10-09T06:32:43Z",
+      "first_seen_at": "2026-10-09T06:32:43Z",
+      "last_seen_at": "2026-10-09T06:32:43Z"
+    },
+    {
+      "id": "NCT07454733",
+      "event_key": "clinicaltrials:NCT07454733:2026-10-08",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07454733",
+      "title": "Do Video Recordings of Multidisciplinary Clinics Improve Quality of Life for People With ALS and Their Caregivers?",
+      "sponsor": "Trustees of Dartmouth College",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Behavioral: Video recording",
+        "Behavioral: Notes Instruction"
+      ],
+      "start_date": "2026-08-12",
+      "last_update_date": "2026-10-08",
+      "url": "https://clinicaltrials.gov/study/NCT07454733",
+      "collected_at": "2026-10-09T06:32:43Z",
+      "first_seen_at": "2026-10-09T06:32:43Z",
+      "last_seen_at": "2026-10-09T06:32:43Z"
+    },
     {
       "id": "NCT07862959",
       "event_key": "clinicaltrials:NCT07862959:2026-10-07",
@@ -26,7 +74,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07862959",
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT04363684",
@@ -49,7 +97,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04363684",
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT07322003",
@@ -73,7 +121,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT06126315",
@@ -98,7 +146,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06126315",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT03578796",
@@ -124,7 +172,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03578796",
       "collected_at": "2026-10-07T06:20:13Z",
       "first_seen_at": "2026-10-07T06:20:13Z",
-      "last_seen_at": "2026-10-08T06:31:38Z"
+      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT04562831",
