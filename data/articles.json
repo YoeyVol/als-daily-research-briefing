@@ -1,21 +1,409 @@
 {
-  "updated_at": "2026-10-09T06:32:43Z",
+  "updated_at": "2026-10-10T06:15:26Z",
   "new_keys": [
-    "pubmed:42849176",
-    "pubmed:42849148",
-    "pubmed:42848219",
-    "pubmed:42848030",
-    "pubmed:42847641",
-    "pubmed:42847638",
-    "pubmed:42847178",
-    "pubmed:42844308",
-    "pubmed:42844425",
-    "pubmed:42849018",
-    "pubmed:42847522",
-    "pubmed:42846340",
-    "pubmed:42845299"
+    "pubmed:42854693",
+    "pubmed:42854356",
+    "pubmed:42853426",
+    "pubmed:42853422",
+    "pubmed:42853386",
+    "pubmed:42852552",
+    "pubmed:42850460",
+    "pubmed:42850785",
+    "pubmed:42850388",
+    "pubmed:42850529",
+    "pubmed:42852066",
+    "pubmed:42851781",
+    "pubmed:42851749",
+    "pubmed:42852085",
+    "pubmed:42851615"
   ],
   "items": [
+    {
+      "id": "42854693",
+      "event_key": "pubmed:42854693",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Anti-HDGFL2 cryptic protein antibodies provide a sensitive readout of TDP-43 pathology and clinical disease features.",
+      "authors": [
+        "Kathryn J Citrano",
+        "Vidhya Bharathi Maheswari Jawahar",
+        "Madison M Reeves",
+        "Leonardo Petrucelli",
+        "Yari Carlomagno",
+        "Mei Yue",
+        "Jorge Alaiz Noya",
+        "Lillian M Daughrity",
+        "Raul Baena Tomé",
+        "Karen Jansen-West",
+        "Bailey Rawlinson",
+        "Michael DeTure",
+        "Erica Engelberg-Cook",
+        "Alpana Singh",
+        "Neill R Graff-Radford",
+        "Gregory S Day",
+        "Bradley F Boeve",
+        "Adam L Boxer",
+        "David S Knopman",
+        "Keith A Josephs",
+        "Ronald C Petersen",
+        "Björn Oskarsson",
+        "Nicholas J Ashton",
+        "Dennis W Dickson",
+        "Tania F Gendron",
+        "Mercedes Prudencio",
+        "Yong-Jie Zhang",
+        "Leonard Petrucelli"
+      ],
+      "journal": "Cell reports. Medicine",
+      "publication_date": "2026-10-09",
+      "pmid": "42854693",
+      "doi": "10.1016/j.xcrm.2026.103105",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854693/",
+      "abstract": "TAR DNA-binding protein (TDP-43) cytoplasmic aggregates and nuclear depletion contribute to TDP-43 dysfunction in frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP) and forms of motor neuron disease (MND), particularly amyotrophic lateral sclerosis (ALS). TDP-43 regulates alternative splicing, but its dysfunction can engender the inclusion of cryptic exons (CEs) during splicing. Transcripts harboring an in-frame CE can generate de novo proteins. One example is the CE variant of hepatoma-derived growth factor-like protein 2 (HDGFL2-CE). To understand HDGFL2-CE as a readout of TDP-43 dysfunction, and its spatial relationship with TDP-43 pathology, we generate anti-HDGFL2-CE polyclonal and monoclonal antibodies and develop sensitive HDGFL2-CE immunoassays. With these tools, we observe that HDGFL2-CE accumulates in neurons with TDP-43 pathology, and that higher frontal cortex HDGFL2-CE in FTLD-TDP and FTLD-TDP/MND associates with greater pathological TDP-43, earlier age of onset, and shorter survival, supporting HDGFL2-CE as a marker tightly linked to TDP-43 dysfunction and clinical disease features.",
+      "mesh_terms": [],
+      "keywords": [
+        "HDGFL2-CE",
+        "TDP-43",
+        "amyotrophic lateral sclerosis",
+        "cryptic exon",
+        "frontotemporal lobar degeneration",
+        "motor neuron disease"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42854356",
+      "event_key": "pubmed:42854356",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis.",
+      "authors": [
+        "Isabell Cordts",
+        "Ana Galhoz",
+        "Laura Tzeplaeff",
+        "Anne Gründel",
+        "Florian Kohlmayer",
+        "Andreas Schwersenz",
+        "Ines Marschalkowski",
+        "Bogdan Bjelica",
+        "Verena Panitz",
+        "Christian Schulze",
+        "Martin Svačina",
+        "Petra Rau",
+        "André C Dorigan",
+        "Marcus Deschauer",
+        "Simon Witzel",
+        "David Brenner",
+        "Jochen H Weishaupt",
+        "Sarah K Bublitz",
+        "Stefan Lorenzl",
+        "Andreas Hermann",
+        "Tim Hagenacker",
+        "Joachim Wolf",
+        "Martin Regensburger",
+        "Helmar C Lehmann",
+        "Maike F Dohrn",
+        "Johannes Dorst",
+        "René Guenther",
+        "André Maier",
+        "Thomas Meyer",
+        "Daniel Zeller",
+        "Christoph Neuwirth",
+        "Markus Weber",
+        "Jan C Koch",
+        "Matthias Boentert",
+        "Markus Weiler",
+        "Susanne Petri",
+        "Ute Weyen",
+        "Torsten Grehl",
+        "Michael P Menden",
+        "Paul Lingor"
+      ],
+      "journal": "EBioMedicine",
+      "publication_date": "2026-10-09",
+      "pmid": "42854356",
+      "doi": "10.1016/j.ebiom.2026.106505",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854356/",
+      "abstract": "BACKGROUND: Neurodegenerative diseases often feature a prolonged phase of subtle changes preceding diagnosis. In amyotrophic lateral sclerosis (ALS), defining this prodromal period is critical for identifying early disease features and intervention windows.\n\nMETHODS: In this case-control study, 475 patients with ALS and 285 controls from 20 centres in Germany and Switzerland completed a digital questionnaire on prodromal symptoms and health-related factors. Logistic regression included subgroup analyses by sex and clinical strata.\n\nFINDINGS: Patients with ALS reported a higher burden of prodromal complaints (OR 7.50, 95% CI 4.27-13.17; P < 0.001), particularly neuro-motor, sensory, and pain-related symptoms. Before symptom onset, patients consulted neurologists more often (OR 1.26, 1.10-1.44; P < 0.001) and females more often received speech therapy (OR 2.35, 1.05-5.28; P = 0.038). Prodromal herniated discs were more common in males (OR 2.21, 1.04-4.68; P = 0.038) and spinal-onset patients (OR 2.14, 1.25-3.67; P = 0.006). Patients more often had lower secondary education (OR 1.93, 1.24-3.01; P = 0.004), physically demanding occupations (OR 2.21, 1.42-3.43; P < 0.001), and higher consumption habits (P < 0.005). Weight trajectories differed by sex (P = 0.009), with pre-onset weight loss in male patients (P < 0.001).\n\nINTERPRETATION: Patients with ALS retrospectively reported subtle motor impairment before recognised symptom onset, alongside altered healthcare use and sex- and subgroup-specific patterns. These findings suggest that sporadic ALS may be preceded by a prodromal period and identify mild motor impairment as a potential marker, pending prospective validation.\n\nFUNDING: DGM e. V.",
+      "mesh_terms": [],
+      "keywords": [
+        "Case–control study",
+        "Early disease detection",
+        "Environmental risk factors",
+        "Motor neuron disease",
+        "Preclinical neurodegeneration",
+        "Sex-specific differences"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42853426",
+      "event_key": "pubmed:42853426",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Lateral sclerosis in amyotrophic lateral sclerosis is an upper motor neuron distal axonopathy (\"dying back\"): a clinical-neuropathological study.",
+      "authors": [
+        "Jianguo Liu",
+        "Kailee Ong",
+        "Alex Meng",
+        "Gorazd B Stokin",
+        "Jeffrey A Loeb",
+        "John Ravits",
+        "Fei Song"
+      ],
+      "journal": "Acta neuropathologica",
+      "publication_date": "2026-10-09",
+      "pmid": "42853426",
+      "doi": "10.1007/s00401-026-03072-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853426/",
+      "abstract": "The hallmark neuropathological feature of upper motor neuron (UMN) degeneration in amyotrophic lateral sclerosis (ALS) is the \"sclerosis\" of the lateral corticospinal tract (CST)-the major axonal pathway connecting UMNs to lower motor neurons (LMNs). However, few studies since Charcot's original descriptions in the nineteenth century have directly correlated clinical UMN phenotypes with corresponding neuropathological findings. We examined the pathology of the lateral CST at the cervical, thoracic, and lumbar levels of the spinal cord from ALS patients with predominantly UMN (UMN-p) phenotypes and compared it with that in patients with predominantly LMN (LMN-p) phenotypes. We assessed myelin loss, axonal degeneration, neuroinflammation, and TDP-43 pathology. Spinal cords from UMN-p ALS cases exhibited pronounced myelin loss in the lateral CST compared to LMN-p cases and controls, consistent with clinical phenotyping. Quantitative analysis revealed significant axonal loss across all axon diameter ranges in UMN-p ALS, which was more severe than in LMN-p ALS. Importantly, axonal loss was more pronounced in the lumbar than in the cervical spinal cord. We identified a distinct population of foamy, inflammatory microglia localized to regions of severe myelin and axonal loss in UMN-p ALS. TDP-43 was measurably increased in the UMN axons of the lateral and ventral CSTs. In summary, \"lateral sclerosis\" of ALS correlates to clinically imputed UMN degeneration. It consists of a combination of myelin loss, distal greater than proximal axonal degeneration, inflammatory microglial activation within the CSTs, and abnormally increased axonal TDP-43. The length-dependent gradient of motor axonal loss supports a \"dying-back\" process. A detailed comparison of \"dying-forward\" and \"dying-forward\" is provided in the Discussion. The association of loss of axons and myelin with abnormal microglial activity shows glio-axonal interactions in UMN axon degeneration, the latter CST (lateral sclerosis) across all three spinal cord levels in the ALS UMN-p samples but does not establish a causal relationship.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Motor Neurons",
+        "Middle Aged",
+        "Axons",
+        "Pyramidal Tracts",
+        "Aged",
+        "Spinal Cord",
+        "DNA-Binding Proteins",
+        "Nerve Degeneration",
+        "Myelin Sheath",
+        "Adult"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Axon neurodegeneration",
+        "Corticospinal tracts",
+        "Dying back",
+        "Myelin loss",
+        "Neuroinflammation"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42853422",
+      "event_key": "pubmed:42853422",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Multiple motor proteins regulate TDP-43 anterograde axonal transport.",
+      "authors": [
+        "Monica Feole",
+        "Victorio M Pozo Devoto",
+        "Neda Dragišić",
+        "Maria Čarna",
+        "Katja Klosterman",
+        "Clara Limbaek-Stokin",
+        "Giancarlo Forte",
+        "Kenneth L Moya",
+        "Richard A Smith",
+        "Clive N Svendsen",
+        "Gorazd B Stokin"
+      ],
+      "journal": "Acta neuropathologica",
+      "publication_date": "2026-10-09",
+      "pmid": "42853422",
+      "doi": "10.1007/s00401-026-03071-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853422/",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) is an RNA-binding protein essential for RNA metabolism. Under physiological conditions, it predominantly resides in the nucleus but is also expressed in the cytoplasm, where it regulates mRNA trafficking and local translation. In nearly 97% of amyotrophic lateral sclerosis (ALS) cases, TDP-43 undergoes nuclear depletion and cytoplasmic aggregation. While its nuclear functions are well characterized, its axonal roles remain poorly understood, despite axonal degeneration being a hallmark of ALS pathology. To address this gap, we investigated TDP-43 localization and transport dynamics in axons of H9-derived human neurons. We compared fluorescently labeled TDP-43 with three well-characterized axonal cargoes, ras-related protein Rab5, synaptophysin, and amyloid precursor protein, and examined protein-protein interactions between TDP-43 and the axonal transport machinery. Our analyses revealed that TDP-43 exhibits active anterograde axonal transport and interacts with multiple kinesin motor proteins, including all three KIF5 isoforms, through the adaptor KLC1, and the synaptic vesicles motor KIF1A. This multi-motor engagement suggests a flexible transport system that ensures mRNA delivery to distal axons. In ALS, where TDP-43 accumulates abnormally in the cytoplasm, this flexibility may become compromised, with multiple transport mechanisms simultaneously affected. This could contribute to progressive accumulation of non-functional TDP-43 granules, disrupting mRNA trafficking and local translation. Our findings provide a foundation for understanding how physiological TDP-43 transport mechanisms may be impaired during disease, highlighting axonal TDP-43 transport pathways as potential therapeutic targets.",
+      "mesh_terms": [
+        "Humans",
+        "Axonal Transport",
+        "DNA-Binding Proteins",
+        "Kinesins",
+        "Neurons",
+        "Synaptophysin",
+        "rab5 GTP-Binding Proteins",
+        "Axons",
+        "Amyloid beta-Protein Precursor",
+        "Amyotrophic Lateral Sclerosis",
+        "Animals"
+      ],
+      "keywords": [
+        "Adaptors",
+        "Amyotrophic lateral sclerosis",
+        "Axonal transport",
+        "Cargoes",
+        "Motor proteins",
+        "TDP-43"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42853386",
+      "event_key": "pubmed:42853386",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neurofilaments support the differentiation of amyotrophic lateral sclerosis from degenerative cervical myelopathy.",
+      "authors": [
+        "Julia Goebell",
+        "Franziska Bachhuber",
+        "Jutta Karmann",
+        "Veronika Klose",
+        "Jan Kassubek",
+        "Hans-Peter Müller",
+        "Hayrettin Tumani",
+        "Albert Ludolph"
+      ],
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "publication_date": "2026-10-09",
+      "pmid": "42853386",
+      "doi": "10.1007/s00702-026-03277-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853386/",
+      "abstract": "The differential diagnosis between degenerative cervical myelopathy (DCM) and early amyotrophic lateral sclerosis (ALS) is often clinically challenging; laboratory tests that support this distinction could be highly valuable. This study examined the concentrations of neurofilament light chain (NfL) and the phosphorylated neurofilament heavy chain (pNfH), in CSF and serum of carefully selected patients with DCM, spinal canal stenosis (SCS) and ALS, after exclusion of major neurological confounders. Patients were assigned to five groups according to MRI findings and ALS diagnosis. All patients were treated in the Department of Neurology, and were only included if a CSF or serum sample was available for retrospective measurement of neurofilaments. Z-scores were used for age-adjusted interpretation of NfL concentrations in CSF and serum. In addition, the albumin quotient (QAlb), as a marker for the integrity of the blood-CSF barrier, was investigated in the five patient groups. The levels of NfL and pNfH, including Z-score distributions, differed significantly. The groups with diagnosed ALS had elevated neurofilaments both in CSF and Serum. Comparison of neurofilament concentrations between patients with isolated spinal canal stenosis and patients with cervical myelopathy revealed no significant difference. The QAlb showed no clear correlation with elevated neurofilaments and provided limited value for differential diagnosis. In summary, we showed that NfL and pNfH in CSF and serum support the differential diagnosis of cervical SCS with and without myelopathy from ALS in carefully selected cohorts. However, since neurofilaments are not specific, they should be used in context with clinical assessment and imaging for individual diagnostic and treatment decisions.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "Biomarkers",
+        "Myelopathy",
+        "NfL pNfH"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42852552",
+      "event_key": "pubmed:42852552",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Targeting protein misfolding and aggregation in neurodegenerative diseases: challenges for the identification and validation of targets for small molecules.",
+      "authors": [
+        "Arunabh Choudhury",
+        "Sneh Prabha",
+        "Mohammad Umar Saeed",
+        "Md Nayab Sulaimani",
+        "Md Imtaiyaz Hassan"
+      ],
+      "journal": "Expert opinion on therapeutic targets",
+      "publication_date": "2026-10-09",
+      "pmid": "42852552",
+      "doi": "10.1080/14728222.2026.2747518",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852552/",
+      "abstract": "INTRODUCTION: Neurodegenerative diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and related proteinopathies are characterized by the misfolding, aggregation, and accumulation of specific proteins that disrupt neuronal homeostasis, leading to neuronal death. Despite major advances in structural biology and molecular neuroscience, identifying and validating druggable targets in neurodegenerative diseases remains challenging. Many involved proteins are intrinsically disordered, exhibit conformational heterogeneity, and form highly dynamic toxic species.\n\nAREAS COVERED: This review summarizes the mechanisms of protein folding, misfolding, aggregation, and prion-like propagation in major neurodegenerative proteinopathies, including amyloid-beta and tau in Alzheimer's disease, alpha-synuclein in synucleinopathies, TDP-43 and FUS in ALS/FTLD, polyglutamine-expanded proteins, prion proteins, and rare hereditary amyloidosis. We also discuss major barriers to target identification and validation, including conformational flexibility, oligomer toxicity, blood-brain barrier penetration, and target engagement complexity. Finally, we highlight emerging strategies integrating structural biology, computational methods, and improved experimental models to discover small-molecule inhibitors for neurodegenerative diseases.\n\nEXPERT OPINION: Effective therapeutic discovery will require moving beyond single-target models toward ensemble-based validation strategies. Integrating structural biology, advanced imaging, biomarkers, and computational approaches may improve the identification of druggable targets and support precision-medicine-based interventions for neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "Intrinsically disordered proteins",
+        "Small-molecule inhibitors",
+        "neurodegenerative diseases",
+        "protein aggregation",
+        "protein misfolding"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42850460",
+      "event_key": "pubmed:42850460",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Long-term trends in selected neurological disorders in Italy (1990-2023): analysis of the global burden of disease (GBD) 2023 data.",
+      "authors": [
+        "Francesco Brigo",
+        "Gianni Turcato",
+        "Arian Zaboli",
+        "Simona Lattanzi"
+      ],
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "publication_date": "2026-10-09",
+      "pmid": "42850460",
+      "doi": "10.1007/s10072-026-09457-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850460/",
+      "abstract": "BACKGROUND: Neurological disorders are major contributors to disability and premature mortality. We examined long-term trends in selected neurological, cerebrovascular, central nervous system (CNS) infectious, headache, and brain and CNS cancer causes in Italy from 1990 to 2023.\n\nMETHODS: Age-standardized disability-adjusted life year (DALY), years of life lost (YLL), and years lived with disability (YLD) rates were obtained from the GBD 2023 Results Tool. Causes were grouped into clinically coherent clusters. EAPCs were estimated using log-linear models with Newey-West HAC standard errors (lag 1), and Joinpoint regression characterized non-linear patterns. Sex-specific trends, descriptive uncertainty widths, and YLL/YLD ratios were evaluated.\n\nRESULTS: Overall DALY rates declined (EAPC - 1.01%, 95% CI -1.13 to -0.89). Cerebrovascular and CNS infectious causes showed the largest reductions, whereas multiple sclerosis, Parkinson's disease, idiopathic epilepsy, and motor neuron disease increased. Joinpoint regression identified multi-phase patterns. Migraine, multiple sclerosis, and dementia showed higher female burden, whereas stroke, Parkinson's disease, and brain and CNS cancer showed higher male burden. Uncertainty widths varied across causes; cluster summaries represent mean constituent-cause widths, not uncertainty intervals for aggregated cluster rates. YLL/YLD ratios showed marked heterogeneity between fatal and disability-driven conditions.\n\nCONCLUSIONS: Italy experienced substantial declines in age-standardized DALY rates across several selected causes from 1990 to 2023, driven predominantly by reductions in cerebrovascular causes, alongside increasing burdens from several chronic neurological conditions. The relative contributions of premature mortality and non-fatal disability varied markedly across individual causes and clusters.",
+      "mesh_terms": [
+        "Humans",
+        "Nervous System Diseases",
+        "Italy",
+        "Male",
+        "Female",
+        "Global Burden of Disease",
+        "Disability-Adjusted Life Years",
+        "Middle Aged",
+        "Adult",
+        "Aged"
+      ],
+      "keywords": [
+        "Burden of disease",
+        "DALY",
+        "Italy",
+        "Neurological disorders",
+        "Temporal trends"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42850785",
+      "event_key": "pubmed:42850785",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Gait-based neurodegenerative disease classification using multimodal temporal-spectral representations and a dual-branch CNN.",
+      "authors": [
+        "İsmihan Gül Ozeloglu",
+        "Eda Akman Aydin"
+      ],
+      "journal": "Computer methods in biomechanics and biomedical engineering",
+      "publication_date": "2026-10-08",
+      "pmid": "42850785",
+      "doi": "10.1080/10255842.2026.2736243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850785/",
+      "abstract": "Neurodegenerative diseases (NDDs) often cause gait impairments with overlapping motor symptoms, complicating multi-class discrimination. This study proposes a lightweight dual-branch convolutional neural network integrating recurrence plots and spectrogram representations of vertical ground reaction force signals to classify Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, and healthy controls. Evaluated on the Gait in NDDs Dataset comprising 64 subjects, the proposed framework achieved 96.15% accuracy, outperforming recurrence-based (94.19%) and spectrogram-based (95.75%) single-branch models. The findings demonstrate that combining complementary temporal recurrence and spectral information improves discrimination of neurodegenerative gait patterns while maintaining low computational complexity.",
+      "mesh_terms": [],
+      "keywords": [
+        "Neurodegenerative diseases",
+        "convolutional neural network (CNN)",
+        "dual-branch CNN",
+        "recurrence plot",
+        "spectrogram"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42850388",
+      "event_key": "pubmed:42850388",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Genetic testing and counselling of patients with monogenic amyotrophic lateral sclerosis in Northern Finland: a retrospective, single-centre study.",
+      "authors": [
+        "Maari Kytöharju",
+        "Jukka S Moilanen",
+        "Mika H Martikainen"
+      ],
+      "journal": "European journal of human genetics : EJHG",
+      "publication_date": "2026-10-08",
+      "pmid": "42850388",
+      "doi": "10.1038/s41431-026-02246-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850388/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a common neurodegenerative disease. Its aetiology is complex, but a subset is caused by single-gene pathogenic variants (monogenic ALS). The most common ALS-associated genes are SOD1 and C9orf72. We evaluated the implementation of genetic testing and associated genetic counselling for ALS at a Finnish tertiary-level university hospital. We used the electronic patient records of Oulu University Hospital (Oulu, Finland) to identify patients diagnosed with ALS between 2000 and 2023. Medical records were reviewed for neurological diagnosis and completion of genetic testing and counselling. We identified a total of 387 patients diagnosed with ALS. Of these, 225 patients (58%) were offered genetic testing, and 186 (83%) accepted. The offer for genetic counselling was given to 60 patients, of whom 46 (77%) attended counselling, whilst 13 did not. The proportion of patients who declined counselling did not differ between those with SOD1 and C9orf72 variants. Among the 143 patients tested for SOD1 variants, 36 (25%) were confirmed to harbor the ALS-associated p.Asp91Ala variant in SOD1; 31 were homozygous and 5 were heterozygous. In the 96 analyses of the C9orf72 hexanucleotide expansion, the diagnostic yield was 27 (28%) patients. A positive family history was more common in SOD1-ALS than in C9orf72-ALS (53% vs 33%). Nearly one fifth of patients declined testing and over one fifth of those with genetic ALS did not attend genetic counselling. The reasons for this warrant further investigation.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
     {
       "id": "42849176",
       "event_key": "pubmed:42849176",
@@ -68,7 +456,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42849148",
@@ -91,7 +479,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42848219",
@@ -150,7 +538,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42848030",
@@ -193,7 +581,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42847641",
@@ -252,7 +640,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42847638",
@@ -283,7 +671,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42847178",
@@ -321,7 +709,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42844308",
@@ -354,7 +742,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42844425",
@@ -391,7 +779,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42844074",
@@ -415,7 +803,7 @@
       "keywords": [],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42842169",
@@ -456,7 +844,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42841866",
@@ -493,7 +881,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42839902",
@@ -529,7 +917,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42849018",
@@ -555,7 +943,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42840744",
@@ -588,7 +976,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42840349",
@@ -639,7 +1027,7 @@
       "keywords": [],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42839646",
@@ -669,7 +1057,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42839248",
@@ -706,7 +1094,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42837018",
@@ -1117,7 +1505,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42831156",
@@ -1180,7 +1568,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42826761",
@@ -1378,6 +1766,29 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42850529",
+      "event_key": "pubmed:42850529",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Amyotrophic lateral sclerosis: Specific considerations in palliative care].",
+      "authors": [
+        "Peter Reilich",
+        "Florian Schöberl"
+      ],
+      "journal": "MMW Fortschritte der Medizin",
+      "publication_date": "2026-10-01",
+      "pmid": "42850529",
+      "doi": "10.1007/s15006-026-6225-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850529/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
       "id": "42847522",
       "event_key": "pubmed:42847522",
       "source_id": "pubmed",
@@ -1414,7 +1825,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42839768",
@@ -1466,7 +1877,7 @@
       ],
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42823490",
@@ -2492,6 +2903,38 @@
       "last_seen_at": "2026-09-29T06:01:55Z"
     },
     {
+      "id": "42852066",
+      "event_key": "pubmed:42852066",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Comparison between ultrasound and electromyography for detection of fasciculations in amyotrophic lateral sclerosis: an updated systematic review and meta-analysis.",
+      "authors": [
+        "Márcio Luís Duarte",
+        "Wagner Iared",
+        "Acary Bulle Souza Oliveira",
+        "Lucas Ribeiro Dos Santos",
+        "Maria Stella Peccin da Silva"
+      ],
+      "journal": "Radiologia brasileira",
+      "publication_date": "2026-09-25",
+      "pmid": "42852066",
+      "doi": "10.1590/0100-3984.2026.0011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852066/",
+      "abstract": "Fasciculations are a key manifestation of lower motor neuron dysfunction in amyotrophic lateral sclerosis (ALS). Al-though electromyography is considered the gold-standard method for the detection of fasciculations, its sensitivity for that purpose depends on the muscle sampled and the examination time. Muscle ultrasound has emerged as a dynamic, noninvasive technique with high sensitivity for detecting spontaneous muscle activity. This updated system-atic review compares ultrasound and electromyography in terms of their performance for the detection of muscle fas-ciculations in ALS, with stratification by muscle group and observation time. A comprehensive search of the literature identified studies evaluating both techniques. Data were synthesized descriptively and, when possible, quantitatively. Ultrasound demonstrated higher or comparable detection rates across most muscle groups, particularly in muscles that are large or deep, such as the biceps brachii, tibialis anterior, and vastus lateralis. Longer ultrasound observation times, especially 60 s, were associated with substantially higher detection rates without a loss of specificity. Although electromyography is still essential for electrophysiological characterization, ultrasound offers broader muscle cover-age, excellent reproducibility, and a noninvasive approach. These findings support muscle ultrasound as a valuable complementary tool for the detection and assessment of fasciculations in patients with motor neuron disease.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Electromyography",
+        "Fasciculation",
+        "Motor neuron disease.",
+        "Ultrasonography"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
       "id": "42813639",
       "event_key": "pubmed:42813639",
       "source_id": "pubmed",
@@ -2710,6 +3153,76 @@
       "last_seen_at": "2026-09-28T05:44:22Z"
     },
     {
+      "id": "42851781",
+      "event_key": "pubmed:42851781",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Minding the gates: dual cell-autonomous and non-cell-autonomous mechanisms of TBK1 in ALS/FTD.",
+      "authors": [
+        "Julie Smeyers",
+        "Daniel A Mordes"
+      ],
+      "journal": "Frontiers in neuroscience",
+      "publication_date": "2026-09-24",
+      "pmid": "42851781",
+      "doi": "10.3389/fnins.2026.1941293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851781/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) comprise a neurodegenerative disease spectrum characterized by TDP-43 pathology and overlapping genetic risk factors. Loss-of-function variants in TBK1 (TANK-binding kinase 1) represent one of the most common genetic causes of ALS/FTD, highlighting haploinsufficiency for TBK1 as a major contributor to disease pathogenesis. Emerging evidence from iPSC and mouse models suggests that reduced TBK1 activity disrupts interconnected autophagy, endo-lysosomal, and innate immune pathways through both cell-autonomous and non-cell-autonomous mechanisms. In this review, we discuss the multifaceted role of TBK1 as a master regulator of proteostasis and inflammatory pathways, highlight its critical role in maintaining microglial homeostasis, and explore how these convergent functions inform therapeutic strategies for ALS/FTD.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "FTD",
+        "TBK1",
+        "cell autonomous",
+        "in vivo models",
+        "non-cell-autonomous"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42851749",
+      "event_key": "pubmed:42851749",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Traditional Chinese botanical medicines and plant-derived bioactive compounds in amyotrophic lateral sclerosis: mechanistic evidence, translational challenges, and therapeutic opportunities.",
+      "authors": [
+        "Mengfan Li",
+        "Ronghao Li",
+        "Zhe Deng",
+        "Liqun Zhang",
+        "Shimeng Lv",
+        "Jinjing Shi",
+        "Haoteng Ma",
+        "Wenhui Guan",
+        "Han Zhang",
+        "Jiamin Li",
+        "Jing Teng"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2026-09-24",
+      "pmid": "42851749",
+      "doi": "10.3389/fphar.2026.1918967",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851749/",
+      "abstract": "INTRODUCTION: Amyotrophic lateral sclerosis (ALS) is a fatal motor neuron disease with limited therapeutic options, highlighting the need for multi-target interventions. Traditional Chinese botanical medicine (TCBM) interventions have attracted increasing attention as potential multi-target pharmacological candidates for ALS. In addition, a separate body of evidence derived from selected plant-derived bioactive compounds directly investigated in ALS-specific models provides complementary mechanistic insights into ALS-related pathways. However, the pharmacological mechanisms and translational potential of these two distinct evidence categories remain insufficiently summarized. This review systematically summarizes ALS-related pathological mechanisms and the molecular actions reported within these two distinct evidence categories, together with translational challenges and future research directions.\n\nMETHODS: A structured literature search was conducted in PubMed, Web of Science, and ScienceDirect up to May 2026. A total of 198 publications were retained, including 48 ALS-specific original intervention studies forming the core pharmacological evidence set.\n\nRESULTS: ALS involves interconnected pathological processes, including neuroinflammation, oxidative stress, mitochondrial dysfunction, impaired proteostasis, excitotoxicity, and neuromuscular junction injury. Evidence across these two categories suggests modulation of multiple ALS-related pathological processes. Reported effects include regulation of inflammatory signaling, enhancement of Nrf2-mediated antioxidant responses, improvement of PGC-1α/MFN2-associated mitochondrial homeostasis, and promotion of protein clearance pathways.\n\nCONCLUSION: Together, these distinct but complementary evidence categories highlight the potential for multi-target modulation of ALS-related pathology. However, current evidence remains predominantly preclinical, and clinical efficacy and translational feasibility require further validation.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "molecular mechanisms",
+        "neuroprotection",
+        "phytochemicals",
+        "traditional Chinese botanical medicine",
+        "traditional Chinese medicine",
+        "translational pharmacology"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
       "id": "42826647",
       "event_key": "pubmed:42826647",
       "source_id": "pubmed",
@@ -2908,6 +3421,45 @@
       "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
+      "id": "42852085",
+      "event_key": "pubmed:42852085",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Plasma cardiac troponin T as a marker of skeletal muscle involvement in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Linn Öijerstedt",
+        "Jianing Lin",
+        "Aditya Singh",
+        "Solmaz Yazdani",
+        "Annamari M Saarinen",
+        "Ulf Kläppe",
+        "Alexander Juto",
+        "Sanharib Chamoun",
+        "Sofia Imrell",
+        "Fang Fang",
+        "Sebastian A Lewandowski",
+        "Caroline Ingre"
+      ],
+      "journal": "Brain communications",
+      "publication_date": "2026-09-23",
+      "pmid": "42852085",
+      "doi": "10.1093/braincomms/fcag358",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852085/",
+      "abstract": "Plasma cardiac troponin T (cTnT) is widely used as a marker of myocardial injury, yet recent studies suggest elevations in amyotrophic lateral sclerosis (ALS). Whether these elevations reflect disease-associated skeletal muscle remodelling remains unresolved. In this translational study, we analysed longitudinal plasma cTnT in a large clinical cohort comprising 496 patients with ALS and 84 with benign fasciculation syndrome (BFS). To investigate the biological origin of circulating cTnT, we examined publicly available skeletal muscle transcriptomes from patients with ALS (n = 28) and healthy controls (n = 17), and quantified troponin isoform expression in skeletal muscle from SOD1G93A mice and wild-type littermates. Plasma cTnT was significantly higher in ALS than in BFS (median 18 versus 6 ng/L, P = 3.6 × 10-27), with 57% of patients with ALS exceeding the cardiologic threshold of 15 ng/L. Diagnostic performance was high [area under the curve (AUC) 0.87], with excellent specificity (94%). Longitudinal modelling revealed a progressive increase in cTnT in ALS whereas levels remained stable in BFS. Skeletal muscle transcriptomics demonstrated robust upregulation of TNNT2, encoding cardiac troponin T, in ALS muscle, while other troponin isoforms were unchanged. In SOD1G93A mice, severely affected gastrocnemius muscle exhibited isoform-specific remodelling, including 20-fold upregulation of Tnnt2 and slow-fibre troponins, alongside downregulation of fast skeletal isoforms. Across clinical, transcriptomic, and experimental data, elevated plasma cTnT in ALS is best explained by disease-associated skeletal muscle remodelling rather than cardiomyocyte injury. Plasma cTnT emerges as a dynamic and accessible biomarker in ALS capturing muscle involvement. Prospective incorporation of cTnT into clinical trials and evaluation across broader neuromuscular differentials are warranted.",
+      "mesh_terms": [],
+      "keywords": [
+        "denervation",
+        "isoform",
+        "longitudinal",
+        "motor neuron disease",
+        "muscle"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
       "id": "42846340",
       "event_key": "pubmed:42846340",
       "source_id": "pubmed",
@@ -2940,7 +3492,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42790169",
@@ -3455,6 +4007,40 @@
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
       "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "42851615",
+      "event_key": "pubmed:42851615",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Nucleic acid therapeutics in neurodegenerative disorders: emerging technologies and clinical landscape.",
+      "authors": [
+        "Masahiro Ohara",
+        "Shinsuke Ishigaki",
+        "Jonathan K Watts",
+        "Ken Yamada",
+        "Tsuneya Ikezu",
+        "Seiko Ikezu"
+      ],
+      "journal": "Molecular neurodegeneration advances",
+      "publication_date": "2026-09-21",
+      "pmid": "42851615",
+      "doi": "10.1186/s44477-026-00044-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851615/",
+      "abstract": "Neurodegenerative disorders have diverse etiologies from monogenic mechanisms such as toxic gain-of-function mutation in subsets of amyotrophic lateral sclerosis (ALS) to multifactorial cascades exemplified by Alzheimer's disease (AD), which feature proteostasis failure, neuroinflammation, mitochondrial dysfunction, or age-associated cellular stress. While small molecules can modulate downstream pathways, nucleic acid therapeutics (NATs) target defined RNA sequences to directly reduce pathogenic gene expression, correct or shift isoform usage via splice modulation, and tune disease-relevant networks, positioning them as promising therapeutic modalities for neurodegenerative disorders. Recent clinical applications of NATs in the central nervous system (CNS) have made significant progress by optimized chemistries, improved tolerability, and established intrathecal administration routes, supporting sustained target engagement in relevant neural and glial compartments. This review summarizes three major NAT platforms-antisense oligonucleotides, small interfering RNAs, and aptamers-by highlighting their mechanisms of action, design principles to enhance their biodistribution, durability, and safety, and emerging novel delivery strategies for CNS targeting. We further discuss emerging translational opportunities across ALS, AD, polyglutamine disorders, prion diseases, and synucleinopathies by integrating disease biology with therapeutic rationale, and by summarizing regulatory approvals, ongoing clinical trials, and next generation NATs in preclinical development.",
+      "mesh_terms": [],
+      "keywords": [
+        "Antisense oligonucleotide",
+        "Aptamer",
+        "Blood brain barrier",
+        "Clinical trial",
+        "Neurodegenerative disorders",
+        "SiRNA"
+      ],
+      "collected_at": "2026-10-10T06:15:25Z",
+      "first_seen_at": "2026-10-10T06:15:25Z",
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42835448",
@@ -9042,7 +9628,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-09T06:32:42Z"
+      "last_seen_at": "2026-10-10T06:15:25Z"
     },
     {
       "id": "42724165",

@@ -1,10 +1,57 @@
 {
-  "updated_at": "2026-10-09T06:32:43Z",
+  "updated_at": "2026-10-10T06:15:26Z",
   "new_keys": [
-    "clinicaltrials:NCT07865260:2026-10-08",
-    "clinicaltrials:NCT07454733:2026-10-08"
+    "clinicaltrials:NCT06249867:2026-10-09",
+    "clinicaltrials:NCT07521930:2026-10-09"
   ],
   "items": [
+    {
+      "id": "NCT07521930",
+      "event_key": "clinicaltrials:NCT07521930:2026-10-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07521930",
+      "title": "Interfacing With NeuroTechnology to Expand Neural Throughput (INTENT)",
+      "sponsor": "Johns Hopkins University",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: INTENT Neural Interface System"
+      ],
+      "start_date": "2027-01",
+      "last_update_date": "2026-10-09",
+      "url": "https://clinicaltrials.gov/study/NCT07521930",
+      "collected_at": "2026-10-10T06:15:26Z",
+      "first_seen_at": "2026-10-10T06:15:26Z",
+      "last_seen_at": "2026-10-10T06:15:26Z"
+    },
+    {
+      "id": "NCT06249867",
+      "event_key": "clinicaltrials:NCT06249867:2026-10-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06249867",
+      "title": "A Study to Assess the Safety, Tolerability, and Pharmacology of Darifenacin in Patients With ALS",
+      "sponsor": "Oliver Blanchard",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Darifenacin 7.5 MG Extended Release Oral Tablet",
+        "Drug: Placebo"
+      ],
+      "start_date": "2024-11-08",
+      "last_update_date": "2026-10-09",
+      "url": "https://clinicaltrials.gov/study/NCT06249867",
+      "collected_at": "2026-10-10T06:15:26Z",
+      "first_seen_at": "2026-10-10T06:15:26Z",
+      "last_seen_at": "2026-10-10T06:15:26Z"
+    },
     {
       "id": "NCT07865260",
       "event_key": "clinicaltrials:NCT07865260:2026-10-08",
@@ -27,7 +74,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07865260",
       "collected_at": "2026-10-09T06:32:43Z",
       "first_seen_at": "2026-10-09T06:32:43Z",
-      "last_seen_at": "2026-10-09T06:32:43Z"
+      "last_seen_at": "2026-10-10T06:15:26Z"
     },
     {
       "id": "NCT07454733",
@@ -51,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07454733",
       "collected_at": "2026-10-09T06:32:43Z",
       "first_seen_at": "2026-10-09T06:32:43Z",
-      "last_seen_at": "2026-10-09T06:32:43Z"
+      "last_seen_at": "2026-10-10T06:15:26Z"
     },
     {
       "id": "NCT07862959",
@@ -74,7 +121,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07862959",
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:43Z"
+      "last_seen_at": "2026-10-10T06:15:26Z"
     },
     {
       "id": "NCT04363684",
@@ -97,7 +144,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04363684",
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
-      "last_seen_at": "2026-10-09T06:32:43Z"
+      "last_seen_at": "2026-10-10T06:15:26Z"
     },
     {
       "id": "NCT07322003",
