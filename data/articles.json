@@ -1,23 +1,69 @@
 {
-  "updated_at": "2026-10-10T06:15:26Z",
+  "updated_at": "2026-10-11T06:14:38Z",
   "new_keys": [
-    "pubmed:42854693",
-    "pubmed:42854356",
-    "pubmed:42853426",
-    "pubmed:42853422",
-    "pubmed:42853386",
-    "pubmed:42852552",
-    "pubmed:42850460",
-    "pubmed:42850785",
-    "pubmed:42850388",
-    "pubmed:42850529",
-    "pubmed:42852066",
-    "pubmed:42851781",
-    "pubmed:42851749",
-    "pubmed:42852085",
-    "pubmed:42851615"
+    "pubmed:42855901",
+    "pubmed:42855485",
+    "pubmed:42855762"
   ],
   "items": [
+    {
+      "id": "42855901",
+      "event_key": "pubmed:42855901",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Specialist psychology provision for ALS/MND: results from a survey of UK ALS/MND services.",
+      "authors": [
+        "Emily J Mayberry",
+        "Sarah Creer",
+        "Alys Wyn Griffiths",
+        "Esther V Hobson",
+        "Sian Davies",
+        "Jennifer Bedford",
+        "Rebecca L Gould",
+        "Christopher J McDermott"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-09",
+      "pmid": "42855901",
+      "doi": "10.1080/21678421.2026.2742816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855901/",
+      "abstract": "OBJECTIVE: This study aimed to map and evaluate specialist psychological and neuropsychological care provision within ALS/MND multidisciplinary teams across the UK.\n\nMETHODS: A cross-sectional, mixed-methods online survey was circulated to ALS/MND specialist services across England, Wales, Northern Ireland, and Scotland. The survey evaluated service demographics, specialist psychological staffing models, referral pathways, perceived adequacy of care, and access to other wellbeing support.\n\nRESULTS: Responses were received from 25/36 services (69% response rate), representing an estimated 3,500 patients. Access to specialist care was highly variable, with 24% of services lacking an established referral pathway and 20% having a referral pathway for patients living in some parts of their service area but not others. Importantly, even for those services with access to specialist psychology, nearly all reported that the specialist psychology provision was insufficient to meet the needs of their service users and the service; 80% of these services reported insufficient capacity to deliver direct assessments and interventions. Qualitative data highlighted inequitable and insufficient provision, the fragmented nature of current psychological care, and the need for sufficient and stable funding for specialist psychology provision in ALS/MND.\n\nCONCLUSIONS: Despite international guidelines recognizing the necessity of specialist psychological and neuropsychological care in ALS/MND, access across the UK remains highly inequitable and under-resourced. To meet UK national standards (NICE) and prevent the negative impacts of untreated psychological distress and inequitable access, more resource allocation is required to integrate specialist psychology as a core component of ALS/MND care.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "MND",
+        "clinical neuropsychology",
+        "clinical psychology",
+        "cognition",
+        "emotional distress"
+      ],
+      "collected_at": "2026-10-11T06:14:38Z",
+      "first_seen_at": "2026-10-11T06:14:38Z",
+      "last_seen_at": "2026-10-11T06:14:38Z"
+    },
+    {
+      "id": "42855485",
+      "event_key": "pubmed:42855485",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Progressive sleep abnormalities precede ALS clinical onset.",
+      "authors": [
+        "Lisa Kiani"
+      ],
+      "journal": "Nature reviews. Neurology",
+      "publication_date": "2026-10-09",
+      "pmid": "42855485",
+      "doi": "10.1038/s41582-026-01279-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855485/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-11T06:14:38Z",
+      "first_seen_at": "2026-10-11T06:14:38Z",
+      "last_seen_at": "2026-10-11T06:14:38Z"
+    },
     {
       "id": "42854693",
       "event_key": "pubmed:42854693",
@@ -72,7 +118,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42854356",
@@ -140,7 +186,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42853426",
@@ -190,7 +236,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42853422",
@@ -241,7 +287,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42853386",
@@ -275,7 +321,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42852552",
@@ -307,7 +353,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42850460",
@@ -349,7 +395,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42850785",
@@ -378,7 +424,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42850388",
@@ -402,7 +448,7 @@
       "keywords": [],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42849176",
@@ -456,7 +502,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42849148",
@@ -479,7 +525,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42848219",
@@ -538,7 +584,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42848030",
@@ -581,7 +627,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42847641",
@@ -640,7 +686,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42847638",
@@ -671,7 +717,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42847178",
@@ -709,7 +755,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42844308",
@@ -742,7 +788,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42844425",
@@ -779,7 +825,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42844074",
@@ -943,7 +989,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42840744",
@@ -1766,6 +1812,43 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42855762",
+      "event_key": "pubmed:42855762",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[The role of the GSTP1/JNK signaling pathway in regulating oxidative stress and programmed cell death in amyotrophic lateral sclerosis].",
+      "authors": [
+        "H F Wang",
+        "B Sun",
+        "J Pan",
+        "X Y Pang",
+        "J M Bai",
+        "J L Feng"
+      ],
+      "journal": "Zhonghua nei ke za zhi",
+      "publication_date": "2026-10-01",
+      "pmid": "42855762",
+      "doi": "10.3760/cma.j.cn112138-20260501-00268",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855762/",
+      "abstract": "",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Oxidative Stress",
+        "Glutathione S-Transferase pi",
+        "Humans",
+        "Apoptosis",
+        "Animals",
+        "MAP Kinase Signaling System",
+        "Signal Transduction",
+        "JNK Mitogen-Activated Protein Kinases"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-11T06:14:38Z",
+      "first_seen_at": "2026-10-11T06:14:38Z",
+      "last_seen_at": "2026-10-11T06:14:38Z"
+    },
+    {
       "id": "42850529",
       "event_key": "pubmed:42850529",
       "source_id": "pubmed",
@@ -1786,7 +1869,7 @@
       "keywords": [],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42847522",
@@ -1825,7 +1908,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42839768",
@@ -2932,7 +3015,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42813639",
@@ -3180,7 +3263,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42851749",
@@ -3220,7 +3303,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42826647",
@@ -3457,7 +3540,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42846340",
@@ -3492,7 +3575,7 @@
       ],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42790169",
@@ -4040,7 +4123,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42835448",
@@ -9628,7 +9711,7 @@
       "keywords": [],
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
-      "last_seen_at": "2026-10-10T06:15:25Z"
+      "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
       "id": "42724165",
