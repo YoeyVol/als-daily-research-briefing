@@ -1,11 +1,82 @@
 {
-  "updated_at": "2026-10-11T06:14:38Z",
+  "updated_at": "2026-10-12T06:21:56Z",
   "new_keys": [
-    "pubmed:42855901",
-    "pubmed:42855485",
-    "pubmed:42855762"
+    "pubmed:42857254",
+    "pubmed:42858780",
+    "pubmed:42858164",
+    "pubmed:42858511",
+    "pubmed:42856515",
+    "pubmed:42856371",
+    "pubmed:42856249",
+    "pubmed:42856458",
+    "pubmed:42856741",
+    "pubmed:42856205"
   ],
   "items": [
+    {
+      "id": "42858780",
+      "event_key": "pubmed:42858780",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Partial convergence of alternative polyadenylation changes across ALS-Associated RNA-Binding proteins.",
+      "authors": [
+        "Changhe Ji"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2026-10-10",
+      "pmid": "42858780",
+      "doi": "10.1016/j.neuroscience.2026.10.012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858780/",
+      "abstract": "Alternative polyadenylation (APA) regulates transcript 3'-end architecture, stability, localization, and translation. Although RNA-binding protein dysfunction is central to amyotrophic lateral sclerosis (ALS), whether different ALS-associated proteins cause shared APA abnormalities remains unclear. We analyzed poly(A)-site usage after TDP-43 knockdown, TDP-43 K263E expression, FUS knockout, FUS P525L expression, and MATR3 knockout. Using false-discovery rate (FDR) < 0.05 as the primary criterion, evidence varied markedly among datasets. FUS knockout produced the strongest response, with 373 significant events affecting 239 genes. Three events involving two genes remained significant after TDP-43 knockdown, and two events involving one gene remained significant in the TDP-43 K263E dataset. No events survived FDR correction after FUS P525L expression or MATR3 knockout, and no FDR-significant events or genes were shared between datasets. We therefore examined nominal events (unadjusted P < 0.05) as an explicitly exploratory layer. Nominal event overlap was enriched in 7 of 10 pairwise comparisons, and nominal gene overlap in 9 of 10. TDP-43 knockdown and TDP-43 K263E showed the strongest directional agreement: 65 nominal events were shared; 25 were directionally classified in both datasets, of which 23 were concordant. FUS knockout and FUS P525L also showed enriched nominal overlap, but without significant directional concordance or correlated ΔPAU responses. Thus, FUS loss induces a robust FDR-supported APA phenotype, whereas evidence is substantially weaker in other contexts. Cross-dataset similarities occur mainly among exploratory nominal targets and do not consistently extend to direction or magnitude. APA responses therefore show partial, context-dependent convergence rather than a universal defect.",
+      "mesh_terms": [],
+      "keywords": [
+        "3′UTRremodeling",
+        "Alternativepolyadenylation(APA)",
+        "Amyotrophiclateralsclerosis(ALS)",
+        "FUS",
+        "MATR3",
+        "Neurodegeneration",
+        "Poly(A)siteusage",
+        "RNA-bindingproteins",
+        "RNAprocessing",
+        "TDP-43"
+      ],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
+      "id": "42858164",
+      "event_key": "pubmed:42858164",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Prognostication in Amyotrophic Lateral Sclerosis: A Narrative Review of Pre-Diagnosis and Functional Outcomes.",
+      "authors": [
+        "Amber Vocelle",
+        "Erik Ensrud",
+        "Ileana M Howard"
+      ],
+      "journal": "NeuroRehabilitation",
+      "publication_date": "2026-10-10",
+      "pmid": "42858164",
+      "doi": "10.1177/10538135261490936",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858164/",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a very heterogeneous disease, yet some of the most common questions received by physicians in the ALS clinic are \"how much time do I have?\" and \"what can I expect to happen next?\" This line of inquiry is not strictly limited to patients; clinicians also need an idea of prognosis to appropriately plan for treatment decisions and prepare the patient and caregiver for future care needs. This narrative review synthesizes current evidence on prognostic indicators in ALS, organized across three temporal phases: factors preceding diagnosis, factors present at diagnosis, and factors emerging after diagnosis. Pre-diagnosis predictors include age at onset, sex, socioeconomic status, genetic background, premorbid Body Mass Index (BMI) and nutritional status, and comorbid disease. At diagnosis, clinical phenotype and site of onset, diagnostic delay, baseline Amyotrophic Lateral Sclerosis Functional Rating Score-Revised (ALSFRS-R) and forced vital capacity, cognitive involvement, fluid biomarkers, and electrophysiologic measures carry prognostic weight. Post-diagnosis, the trajectory is refined by the rate of ALSFRS-R decline, serial respiratory measures, and weight loss, and is actively modified by clinical interventions including noninvasive ventilation, enteral nutrition, disease-modifying therapy, and multidisciplinary care. Notably, quality of life does not track with physical decline, consistent with the disability paradox described in other severe neurological conditions. For neurorehabilitation, these indicators support a shift from reactive to anticipatory practice: timing equipment provision, communication support, respiratory intervention, and goals-of-care discussions to the predicted trajectory rather than to established deficit. Refinement of prognostic models may also improve stratification in ALS clinical trials.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "biomarkers",
+        "function",
+        "outcome",
+        "prognosis",
+        "survival"
+      ],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
     {
       "id": "42855901",
       "event_key": "pubmed:42855901",
@@ -40,7 +111,7 @@
       ],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42855485",
@@ -62,7 +133,7 @@
       "keywords": [],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42854693",
@@ -118,7 +189,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42854356",
@@ -186,7 +257,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42853426",
@@ -236,7 +307,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42853422",
@@ -287,7 +358,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42853386",
@@ -321,7 +392,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42852552",
@@ -353,7 +424,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42850460",
@@ -395,7 +466,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42850785",
@@ -424,7 +495,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42850388",
@@ -448,7 +519,7 @@
       "keywords": [],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42849176",
@@ -964,6 +1035,38 @@
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
       "last_seen_at": "2026-10-10T06:15:25Z"
+    },
+    {
+      "id": "42858511",
+      "event_key": "pubmed:42858511",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Cocaine profiling: Implementation of MCR-ALS for adulterant identification using ATR-FTIR in forensic analysis.",
+      "authors": [
+        "Maria Eduarda Panza Maia",
+        "Leonardo Francisco Rafael Lemes",
+        "Frederico Luis Felipe Soares"
+      ],
+      "journal": "Forensic science international",
+      "publication_date": "2026-10-06",
+      "pmid": "42858511",
+      "doi": "10.1016/j.forsciint.2026.113155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858511/",
+      "abstract": "Cocaine stands out due to its significant social problems stemming from trafficking, leading to increased violence and detrimental effects on the physical and mental health of its users. Brazil serves as a transit route for cocaine produced in Colombia, Peru, and Bolivia to Europe, with Paraná being a strategic region due to its border with Paraguay and the second-largest port in Brazil. Cocaine is gradually adulterated with cutting agents along the distribution chain, altering its chemical profile. Paradoxically, these components can create a unique chemical signature, enabling the tracing of the drug's origin and distribution routes. This study analysed 298 mid-infrared spectra of cocaine samples seized in Paraná and applied Multivariate Curve Resolution with Alternating Least Squares (MCR-ALS) to identify and characterise the main adulterants and diluents present. MCR-ALS was chosen due to its ability to decompose overlapping spectra into individual component contributions, making it ideal for analysing complex mixtures. Five distinct chemical profiles were identified, and based on their spectral interpretation and the most reported adulterants and diluents in cocaine samples, the five components were defined as: cornstarch, cocaine, caffeine, sodium bicarbonate, and creatine. The concentration profiles of the components were clustered using Hierarchical Cluster Analysis, and seven profiles of cocaine samples were identified based on the amount of cocaine and the presence of adulterants and diluents. The MCR-ALS method proved effective in identifying cocaine cutting agents via ATR-FTIR, offering a fast and reliable approach for forensic analysis that can help to identify commercial routes.",
+      "mesh_terms": [],
+      "keywords": [
+        "Adulterants",
+        "Chemometrics",
+        "Cocaine",
+        "Diluents",
+        "Drug profiling",
+        "Infrared spectroscopy",
+        "Multivariate Curve Resolution"
+      ],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42849018",
@@ -1586,6 +1689,39 @@
       "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
+      "id": "42856515",
+      "event_key": "pubmed:42856515",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALS/FTD-linked TDP-43 alterations prevent HSV-1 infection by disrupting cell-adhesion pathways.",
+      "authors": [
+        "Stephanie Jackvony Infurna",
+        "Laraib Ijaz",
+        "Evelyn J Hardin",
+        "Abulimiti Aikedan",
+        "Constance Zhou",
+        "Tejabhiram Yadavalli",
+        "Minwoo Wendy Jang",
+        "Matthew Mahoney",
+        "Li Gan",
+        "Deepak Shukla",
+        "Adam L Orr",
+        "Anna G Orr"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-02",
+      "pmid": "42856515",
+      "doi": "10.64898/2026.09.28.755069",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856515/",
+      "abstract": "TAR DNA-binding protein-43 (TDP-43) alterations are a key hallmark of amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and other neurodegenerative disorders. Increasing evidence links these conditions to viral infections, but it is not known if and how viral pathogens may be affected by disease-associated TDP-43. We found that ALS/FTD-linked forms of human TDP-43 prevent infection by herpes simplex virus type-1 (HSV-1), a common neurotropic virus. This cell-autonomous protective effect was conserved across different TDP-43 mutations, sporadic ALS, and C9ORF72 -ALS, in neural and non-neural cell types, and in patient-derived cells and animal models. In addition to restricting infection, TDP-43 mutation prevented inflammatory and cell stress-related responses to HSV-1 exposure. TDP-43 knockdown but not overexpression was sufficient to protect cells from HSV-1 infection, implicating a loss-of-function mechanism. Neurons with TDP-43 mutation had disruptions in adhesion-related pathways and, accordingly, had reduced early-stage viral binding and entry. Further analyses revealed alternative RNA splicing and impairment of focal adhesion kinase (FAK/PTK2), a key mediator of cell-adhesion pathways. Inhibition of FAK was sufficient to decrease HSV-1 infection, and genetic enhancement of functional but not inactive FAK promoted infectivity in cells with TDP-43 mutation. Together, these data indicate that TDP-43 affects virus-host interactions by influencing adhesion pathways required for viral infection.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
       "id": "42843091",
       "event_key": "pubmed:42843091",
       "source_id": "pubmed",
@@ -1812,6 +1948,57 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42856371",
+      "event_key": "pubmed:42856371",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond snapshots: A dynamic framework for continuous motor unit tracking to enhance neurophysiological assessments.",
+      "authors": [
+        "Subaryani Dambawati H Soedirdjo",
+        "Aleš Holobar",
+        "Yasin Y Dhaher"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-01",
+      "pmid": "42856371",
+      "doi": "10.64898/2026.09.25.754489",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856371/",
+      "abstract": "Tracking individual motor units (MUs) across multiple testing visits is critical for understanding neuromuscular adaptations and disease progression. However, existing methods fail to account reliably for spatiotemporal variations in motor unit action potentials (MUAPs) and lack validation for longitudinal tracking. Here, we present a robust computational framework for continuous MU tracking that integrates automatic estimation of electrode grid displacements and compensation for MUAP shape variations. Our algorithm demonstrated superior tracking accuracy, capturing 63% and 75% of MUs in the tibialis anterior and medial gastrocnemius, respectively, substantially outperforming state-of-the-art methods. By applying this approach to investigate estradiol-driven neuromuscular plasticity as a model system, we reveal previously undetectable modulations in recruitment thresholds and firing rates, linking hormonal fluctuations to motor unit behavior. Beyond advancing fundamental neuromuscular research, our approach holds promise for enhancing biomarker sensitivity in clinical trials, particularly in conditions such as amyotrophic lateral sclerosis, where reliable MU tracking is paramount. These findings establish a new standard for non-invasive motor unit tracking, unlocking opportunities for longitudinal neurophysiological assessment and evaluation of therapeutics.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
+      "id": "42856249",
+      "event_key": "pubmed:42856249",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Early life social isolation primes flies for more rapid TDP-43 dependent neurodegeneration later in life.",
+      "authors": [
+        "S MurthyGowda",
+        "K Huyghue",
+        "B Castillo",
+        "F Gugala",
+        "W Li",
+        "J Dubnau"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-01",
+      "pmid": "42856249",
+      "doi": "10.64898/2026.09.23.753732",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856249/",
+      "abstract": "A key pathophysiological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) is loss of nuclear localization and abnormal cytoplasmic aggregation of TAR DNA-binding protein 43 (TDP-43). Upstream factors that trigger the onset and progression of such neurodegenerative diseases are largely unknown. Aging and environmental factors contribute as potential risk factors. But epidemiological evidence suggests psychological stressors such as social isolation and loneliness are also associated with increased risks of neurodegenerative disease [1-8]. We examined the impacts of social isolation on TDP-43 related neurodegeneration. To investigate the potential for causative impact on neurodegeneration, we compared the effects of social isolation versus social enrichment in Drosophila . We utilized an established social isolation paradigm in which flies were either housed alone or in groups as young adults. We found that early-life social isolation acts as a primer to exacerbate the rate of neurodegeneration in response to subsequent induction of pathological levels of TDP-43. Social isolation stress drives more rapid activation of mdg4, an endogenous retrovirus that functionally mediates TDP-43 effects and more aggressive propagation of TDP-43 protein pathology from surface glial cells to nearby neurons. Shortened life span also ensues. We demonstrate that providing isolated flies with visual, olfactory and tactile social cues from conspecifics living behind a divider was insufficient to alleviate these effects of social isolation on neurodegeneration. Our findings have implications for the association between psychological stressors such as loneliness and risk of neurodegenerative diseases in humans and provide a platform to investigate mechanistic underpinnings in animal models.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
       "id": "42855762",
       "event_key": "pubmed:42855762",
       "source_id": "pubmed",
@@ -1846,7 +2033,7 @@
       "keywords": [],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42850529",
@@ -1869,7 +2056,7 @@
       "keywords": [],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42847522",
@@ -2329,6 +2516,39 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42856458",
+      "event_key": "pubmed:42856458",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Divergent PML and Nucleolar Body Programs Distinguish Protected from Vulnerable Neurons in FTLD-TDP.",
+      "authors": [
+        "Oseas Medina",
+        "Alissa Nana Li",
+        "Lily Talley",
+        "Stephanie E Gaus",
+        "Joel H Kramer",
+        "Jennifer S Yokoyama",
+        "Howard J Rosen",
+        "Maria Luisa Gorno Tempini",
+        "Salvatore Spina",
+        "Lea T Grinberg",
+        "Bruce L Miller",
+        "William W Seeley"
+      ],
+      "journal": "Research square",
+      "publication_date": "2026-09-30",
+      "pmid": "42856458",
+      "doi": "10.21203/rs.3.rs-11089898/v1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856458/",
+      "abstract": "TDP-43 nuclear depletion and cytoplasmic aggregation are hallmarks of frontotemporal lobar degeneration (FTLD) and motor neuron disease, yet the events preceding depletion remain poorly characterized. PML nuclear bodies and the nucleolus are phase-separated protein quality control (PQC) compartments; SUMO1 is integral to PML nuclear body assembly and accumulates in the nucleolus under proteostatic stress. How they remodel in relation to TDP-43 pathobiology has not been examined at single-cell resolution in human tissue. We analyzed 18,742 anterior cingulate cortex neurons across 29 subjects (10 sporadic FTLD-TDP, 10 C9orf72-associated FTLD-TDP, 9 controls) by multichannel confocal immunofluorescence, scoring each neuron for five nuclear body phenomena and TDP-43 nuclear depletion. Three phenomena were elevated in nuclear TDP-43-preserved patient neurons relative to controls and returned to approximately control levels in depleted neurons, consistent with a protective role (control → preserved → depleted): SUMO1 nucleolar granules (3.2% → 13.9% → 5.0%), SUMO1 nucleolar puncta (0.2% → 11.0% → 3.1%), and PML nucleolar contacts (2.5% → 6.4% → 1.7%). In contrast, PML nuclear membrane contacts (0.1% → 2.6% → 19.9%) and macro-PML bodies (0.0% → 0.9% → 15.6%) increased progressively, and both were associated with depletion (odds ratio 9.2, 95% CI 6.1-14.0 and 20.2, 95% CI 13.9-29.4), consistently across sporadic and C9orf72-associated disease. Within nuclear TDP-43-preserved neurons, protection-associated phenomena rarely co-occurred with PML nuclear membrane contacts (odds ratio 0.39-0.54, all p < 0.05) but co-occurred with each other (odds ratio 3.3-4.0), defining two segregated remodeling programs; depletion fell from 15.3% in neurons bearing no protection-associated phenomenon to 2.3% in those bearing all three (Kendall's τ = -0.135). These findings identify opposing nuclear body remodeling programs in FTLD-TDP, expand the spectrum of pre-depletion changes, implicate phase-separated nuclear PQC compartments as determinants of neuronal fate, and raise the possibility that SUMO1 nucleolar accumulation is a general marker of neuronal stress.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
       "id": "42831014",
       "event_key": "pubmed:42831014",
       "source_id": "pubmed",
@@ -2493,6 +2713,62 @@
       "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
+      "id": "42857254",
+      "event_key": "pubmed:42857254",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Corrigendum to \"Aberrant CDK4/6-driven cell-cycle reentry drives neuronal loss and defines a therapeutic target in C9orf72 ALS/FTD\" [iScience 29 (2026) 114596].",
+      "authors": [
+        "Sk Imran Ali",
+        "Ling Lian",
+        "Hayley Robinson",
+        "Noah Daniels",
+        "G Aleph Prieto",
+        "Gunnar H D Poplawski",
+        "Rodrigo Lopez-Gonzalez"
+      ],
+      "journal": "iScience",
+      "publication_date": "2026-09-29",
+      "pmid": "42857254",
+      "doi": "10.1016/j.isci.2026.117845",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857254/",
+      "abstract": "[This corrects the article DOI: 10.1016/j.isci.2025.114596.].",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
+      "id": "42856741",
+      "event_key": "pubmed:42856741",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "All Roads Lead to Rome: Resting-State Criticality as a Neurophysiological Marker of Brain-Computer Interface (BCI) Performance in People with Amyotrophic Lateral Sclerosis (ALS) and Healthy Participants.",
+      "authors": [
+        "Tomko Settgast",
+        "Oren Shriki",
+        "Georg Northoff",
+        "Federico Zilio",
+        "Seyyed Bahram Borgheai",
+        "Yalda Shahriari",
+        "Andrea Kübler"
+      ],
+      "journal": "Research square",
+      "publication_date": "2026-09-29",
+      "pmid": "42856741",
+      "doi": "10.21203/rs.3.rs-10422321/v1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856741/",
+      "abstract": "This exploratory study investigates the relationship between resting-state brain dynamics (EEG) and subsequent brain-computer interface (BCI) performance in people with amyotrophic lateral sclerosis (ALS) and healthy participants. Grounded in the critical brain hypothesis, we examined whether neurophysiological markers of criticality in resting-state EEG correlate with subsequent BCI performance. We analyzed neuronal avalanche dynamics, multiscale criticality measures, the spectral slope, and Lempel-Ziv complexity across two datasets: a longitudinal single-case study of a person in the locked-in state after a disease history with ALS (Dataset 1) and longitudinal data from 5 people with ALS and single sessions from 6 healthy participants (Dataset 2). Neuronal avalanche dynamics, the spectral slope, and Lempel-Ziv complexity consistently correlated with subsequent BCI performance in people with ALS. Conversely, healthy participants showed inverted correlation patterns for the neuronal avalanche dynamics. While group comparisons were not statistically significant, effect size analyses indicated supercritical brain dynamics in people with ALS. We integrate these findings into the B-ARC (BCI-Aptitude through Resting-State Criticality) framework proposing an inverted U-shaped relationship between the proximity of resting-state brain activity to criticality and BCI control. In this framework, healthy participants approach the critical optimum from a subcritical regime, while people with ALS appear to approach it from a putatively supercritical regime characterized by cortical hyperexcitability. These findings and the proposed framework provide potential resting-state predictors of BCI aptitude in people with ALS and may inform the detection of so-called Windows of Consciousness .",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
+    },
+    {
       "id": "42826575",
       "event_key": "pubmed:42826575",
       "source_id": "pubmed",
@@ -2611,6 +2887,33 @@
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
       "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42856205",
+      "event_key": "pubmed:42856205",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Structural polymorphism and population-variable coding capacity of HERV-K(HML-2) in human pangenomes.",
+      "authors": [
+        "Daniel A Murimi-Worstell",
+        "Michael Freeman",
+        "Anna Minkina",
+        "Mitchell R Vollger",
+        "Andrew B Stergachis",
+        "John M Coffin"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-28",
+      "pmid": "42856205",
+      "doi": "10.64898/2026.09.22.753638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856205/",
+      "abstract": "Approximately 8% of the human genome is derived from ancient retroviral infections. The most recently integrated of these endogenous retroviruses is the HERV-K(HML-2) clade, whose expression has been associated with cancer, amyotrophic lateral sclerosis, and embryogenesis. Studies of HERV expression, particularly HML-2, have relied predominantly on short-read sequencing. However, the high similarity among HML-2 proviruses prevents many short reads from being assigned uniquely to individual loci. We therefore compared haplotype-resolved long-read genome assemblies from 292 donors to resolve variation in proviral structure and coding capacity. Several loci previously thought to be fixed were structurally polymorphic. Tandem arrays occurred at 13 loci and contained up to six proviral copies in a single array. At 8q11.23, we identified a previously undescribed full-length provirus in one haplotype. All 583 other haplotypes carried a solo-LTR. We found that standard reference genomes failed to represent the coding capacity retained in many individuals, whose proviruses contained intact open reading frames despite disruptive mutations in the reference sequences. Short-read genotypes left 32.5% of the tested donor-variant pairs unresolved at sites associated with viral reading frames. These findings show why HML-2 expression must be interpreted in the context of the structural and coding alleles each individual carries.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-12T06:21:56Z",
+      "first_seen_at": "2026-10-12T06:21:56Z",
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42807842",
@@ -3015,7 +3318,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42813639",
@@ -3263,7 +3566,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42851749",
@@ -3303,7 +3606,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42826647",
@@ -3540,7 +3843,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42846340",
@@ -4123,7 +4426,7 @@
       ],
       "collected_at": "2026-10-10T06:15:25Z",
       "first_seen_at": "2026-10-10T06:15:25Z",
-      "last_seen_at": "2026-10-11T06:14:38Z"
+      "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
       "id": "42835448",
