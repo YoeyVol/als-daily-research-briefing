@@ -1,18 +1,302 @@
 {
-  "updated_at": "2026-10-12T06:21:56Z",
+  "updated_at": "2026-10-13T07:00:32Z",
   "new_keys": [
-    "pubmed:42857254",
-    "pubmed:42858780",
-    "pubmed:42858164",
-    "pubmed:42858511",
-    "pubmed:42856515",
-    "pubmed:42856371",
-    "pubmed:42856249",
-    "pubmed:42856458",
-    "pubmed:42856741",
-    "pubmed:42856205"
+    "pubmed:42863953",
+    "pubmed:42864293",
+    "pubmed:42862794",
+    "pubmed:42862650",
+    "pubmed:42862306",
+    "pubmed:42862052",
+    "pubmed:42862034",
+    "pubmed:42861689",
+    "pubmed:42860504",
+    "pubmed:42863218",
+    "pubmed:42861801",
+    "pubmed:42862029",
+    "pubmed:42860740"
   ],
   "items": [
+    {
+      "id": "42862794",
+      "event_key": "pubmed:42862794",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "History of Head Injury and Risk of Amyotrophic Lateral Sclerosis: An Updated Comprehensive Systematic Review with Meta-Analysis of 5,033,215 Participants.",
+      "authors": [
+        "Yousef Hawas",
+        "Ahmed Abdelmageed",
+        "Mark Messak",
+        "Abdulrahman Ziada",
+        "Mohamed Gamal",
+        "Thoria I Eissa Ghanem",
+        "Maya Magdy Abdelwahab",
+        "Mostafa Meshref",
+        "Muataz Omar Kashbour"
+      ],
+      "journal": "Neuroepidemiology",
+      "publication_date": "2026-10-12",
+      "pmid": "42862794",
+      "doi": "10.1159/ned/adwag050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862794/",
+      "abstract": "BACKGROUND: Head injury has been proposed as a potential modifiable risk factor for amyotrophic lateral sclerosis (ALS); however, prior studies have yielded inconsistent findings. We aimed to re-evaluate this association through an updated systematic review and meta-analysis, incorporating the latest evidence and exploring the influence of injury severity, frequency, timing, and definition.\n\nMETHODS: A systematic search of PubMed, Scopus, Web of Science, Embase, EBSCO, and ProQuest from inception to January 2026 was conducted. Observational studies (cohort and case-control) reporting the association between head injury and ALS risk were included. Pooled effect estimates were generated using random-effects models. Subgroup, sensitivity, cumulative, and publication bias analyses were performed.\n\nRESULTS: Twenty-nine studies encompassing 5,033,215 participants were included. These comprised 22 case-control studies and seven cohort studies. Case-control meta-analysis showed that head injury was associated with 36% higher odds of ALS (AOR = 1.36; 95% CI: 1.24-1.48; I² = 20.4%). Cohort studies showed a positive but non-significant association (RR = 1.59; 95% CI: 0.93-2.71). Subgroup analyses showed significant associations within mild, moderate, and severe injury categories and among studies with clearly defined traumatic brain injury exposure. Single head injury was associated with higher odds of ALS (AOR = 1.22; 95% CI: 1.11-1.34).\n\nCONCLUSION: Head injury was associated with an increased risk of ALS across multiple analyses, including different injury severity levels and exposure definitions. However, the observational nature of available evidence and the possibility of reverse causation and residual confounding limit causal interpretation. Further prospective studies and mechanistic investigations are required to clarify the potential relationship between head injury and ALS development.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42862650",
+      "event_key": "pubmed:42862650",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The Impact of Neuropalliative Care on Caregivers of Individuals with Motor Neuron Disorders or Atypical Parkinsonism.",
+      "authors": [
+        "Antonella Mossa",
+        "Susan Price",
+        "Olimpia Paun",
+        "Chuka Emezue"
+      ],
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association",
+      "publication_date": "2026-10-12",
+      "pmid": "42862650",
+      "doi": "10.1097/NJH.0000000000001263",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862650/",
+      "abstract": "Neurodegenerative disorders, including motor neuron disease (MND) and atypical parkinsonism (AP), progress rapidly and place substantial physical, emotional, and financial strain on family caregivers who often provide complex care with limited support. Neuropalliative care (NPC) offers interdisciplinary, noncurative services aimed at improving quality of life (QoL), yet it is underutilized and often misunderstood. Employing Ferrans and Powers QoL Model, this study used an exploratory descriptive qualitative design to examine the experiences of 10 family caregivers of individuals with MND and AP receiving NPC at a specialized clinic. Thematically analyzed semi-structured interviews produced 4 themes that were identified: (1) caregiver QoL, (2) caregiver burden, (3) support, and (4) system barriers. Caregivers described significant emotional and physical strain, loss of personal time, and financial pressures. Clinic services such as anticipatory guidance, interdisciplinary support, and resource navigation were valued; however, many caregivers were unaware they were receiving NPC. Caregivers of individuals with MND reported broader access to resources than those supporting individuals with AP, who experienced more systemic barriers. Findings emphasize the need for earlier NPC integration; increasing awareness of services provided, improving caregiver education, and ensuring equitable access. These steps are necessary for enhancing caregiver well-being and optimizing care outcomes in this population.",
+      "mesh_terms": [],
+      "keywords": [
+        "atypical parkinsonism",
+        "caregivers",
+        "motor neuron disease",
+        "neuropalliative care",
+        "quality of life"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42862306",
+      "event_key": "pubmed:42862306",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "CRISPR/Cas9-based nanodelivery systems for precision gene editing in neuroinflammation.",
+      "authors": [
+        "Sanjana Sahu",
+        "Parag Jain",
+        "Karan Kumar Dharme",
+        "Krishna Yadav"
+      ],
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "publication_date": "2026-10-12",
+      "pmid": "42862306",
+      "doi": "10.1007/s00011-026-02383-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862306/",
+      "abstract": "BACKGROUND: Neuroinflammation is a characteristic feature of many neurological diseases, such as Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. Uncontrolled activation of microglia and astrocytes results in the production of proinflammatory mediators that contribute to neuronal dysfunction and degeneration.\n\nPURPOSE: CRISPR/Cas9 genome-editing technology provides highly precise targeting of genes involved in these pathways, enabling the deletion, correction, or modulation of disease-associated genetic alterations. Nonetheless, effective delivery of CRISPR components to the central nervous system (CNS) remains a major challenge because of protective barriers such as the blood-brain barrier (BBB), as well as concerns regarding genomic instability and immunogenicity.\n\nMETHODS: Nanotechnology-guided delivery platforms, such as lipid nanoparticles, liposomes, dendrimers and polymeric carriers, have been developed as promising strategies to address these challenges. These nanosystems can improve biodistribution, pharmacokinetic behavior, and cellular uptake, while potentially reducing off-target effects and systemic toxicity.\n\nRESULTS: The preclinical studies demonstrate successful modulation of key neuroinflammatory targets, including the NLRP3 inflammasome, triggering receptor expressed on myeloid cells 2 (TREM2), Janus kinase (JAK) signaling, and the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway, with potential therapeutic relevance to neurodegenerative diseases. In addition, novel techniques, such as mitochondrial base editing, prime editing, and epigenetic modulation, expand the scope of CRISPR-mediated therapeutic strategies. Although outcomes from animal models are promising, translation to the clinical setting requires careful consideration of safety, ethical concerns, and long-term efficacy.\n\nCONCLUSIONS: This review highlights the potential of integrating CRISPR/Cas9 with nanodelivery systems to advance precision medicine for neuroinflammatory disorders, while emphasizing their potential for therapeutic applications in complex CNS conditions. Ongoing studies aimed at optimizing delivery and reducing off-target effects will be essential for advancing these approaches toward clinical practice.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Neuroinflammatory Diseases",
+        "Gene Editing",
+        "CRISPR-Cas Systems",
+        "Nanoparticles"
+      ],
+      "keywords": [
+        "BBB",
+        "CRISPR/Cas9",
+        "JAK signaling",
+        "NLRP3",
+        "Nanodelivery",
+        "Neuroinflammation"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42862052",
+      "event_key": "pubmed:42862052",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Carbon dot-based nanomaterials in neurodegeneration: addressing neurobiological barriers and targeting challenges.",
+      "authors": [
+        "Binesh Unnikrishnan",
+        "Anisha Anand",
+        "Chih-Nan Fang",
+        "Shou-Mei Wu",
+        "Chun-Chi Wang",
+        "Chih-Ching Huang",
+        "Han-Wei Chu",
+        "Huan-Tsung Chang"
+      ],
+      "journal": "Chemical communications (Cambridge, England)",
+      "publication_date": "2026-10-12",
+      "pmid": "42862052",
+      "doi": "10.1039/d6cc03262a",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862052/",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, represent a major global health challenge due to their progressive nature and limited therapeutic options. One of the primary obstacles to treating these disorders is the blood-brain barrier (BBB), which restricts the delivery of most therapeutic agents into the central nervous system. In recent years, carbon-based nanomaterials, particularly carbon dot (CD) nanostructures, have emerged as promising platforms for neurological applications owing to their ultrasmall size, BBB-crossing ability, and anti-inflammatory and neuroprotective properties, in addition to tunable surface chemistry, strong photoluminescence, and favorable biocompatibility. This review provides a comprehensive overview of recent research developments in the application of CD-based nanomaterials, including carbon nanodots, carbon quantum dots, graphene quantum dots, and carbon polymer dots, for the potential treatment of neurodegenerative diseases. The synthesis strategies and carbonization approaches used to produce these carbon nanomaterials are discussed, along with their physicochemical properties relevant to neurobiological applications, such as particle size, surface functionalization, heteroatom doping, optical properties, and stability in biological environments. Furthermore, the mechanisms by which CD-based nanomaterials can traverse the BBB are examined, including receptor-mediated and adsorptive-mediated transcytosis pathways. In addition, their applications are discussed, with particular focus on their roles in bioimaging, biosensing, inhibition of pathological protein aggregation, antioxidative activity, and targeted drug delivery. Finally, key challenges related to toxicity, biodistribution, large-scale synthesis, and clinical translation are discussed, along with future perspectives for the development of multifunctional theranostic platforms. Overall, use of CD-based nanomaterials represents a promising emerging strategy for overcoming neurobiological barriers and enabling the development of next-generation nanotherapeutics for the management of neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42862034",
+      "event_key": "pubmed:42862034",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Assessing the metabolic rate in patients with Amyotrophic Lateral Sclerosis, Progressive Muscular Atrophy, and Primary Lateral Sclerosis.",
+      "authors": [
+        "Mark R Janse van Mantgem",
+        "Merle M Kuiper",
+        "Frederik J Steyn",
+        "Cory J Holdom",
+        "Myrte Meyjes",
+        "Annemieke Kok",
+        "Shyuan T Ngo",
+        "Leonard H van den Berg",
+        "Ruben P A van Eijk"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-12",
+      "pmid": "42862034",
+      "doi": "10.1080/21678421.2026.2745871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862034/",
+      "abstract": "OBJECTIVE: To determine whether resting energy expenditure (REE) differs between patients with amyotrophic lateral sclerosis (ALS), progressive muscular atrophy (PMA), and primary lateral sclerosis (PLS).\n\nMETHODS: Patients with ALS, PMA, and PLS were enrolled between 2017 and 2021 in a prospective cross-sectional study. REE was measured by indirect calorimetry. Body composition was assessed using air displacement plethysmography and used to calculate predicted resting energy expenditure (pREE). Metabolic index (MI) was defined as mREE relative to pREE and expressed as a percentage. Differences between disease categories were assessed using multivariable regression adjusted for sex, age, fat-free mass, fat mass, height, and smoking status.\n\nRESULTS: In total, 79 patients with ALS, 33 with PMA, and 30 with PLS were included. MI of ≥110% was observed in 55.7% of patients with ALS, 27.3% with PMA, and 26.7% with PLS. After adjustment, MI differed significantly between disease subtypes (p = 0.019), with the highest mean observed in ALS (108.5%, 95% CI 105.8-111.1), followed by PMA (105.9%, 95% CI 102.6-109.3) and PLS (103.2%, CI 99.8 -106.6). Metabolic measures were not statistically correlated with disease-specific clinical characteristics.\n\nCONCLUSIONS: Our findings suggest that metabolic phenotype varies across MND subtypes. In the absence of non-neurological controls, findings are best interpreted as indicating that MI-defined hypermetabolism is most prevalent in ALS; however, whether metabolic rate is increased in PMA or PLS relative to the general population remains unknown.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "metabolic index",
+        "primary lateral sclerosis",
+        "progressive muscle atrophy",
+        "resting energy expenditure"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42861689",
+      "event_key": "pubmed:42861689",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Statin Exposure and Survival Outcomes in Amyotrophic Lateral Sclerosis in an Asian Cohort.",
+      "authors": [
+        "Anushika Raheja",
+        "Kexin Ang",
+        "Bernett Lee",
+        "Seyed Ehsan Saffari",
+        "Eng King Tan",
+        "Crystal Jing Jing Yeo"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-10-12",
+      "pmid": "42861689",
+      "doi": "10.1002/mus.70427",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42861689/",
+      "abstract": "INTRODUCTION: Data from Asian cohorts on whether statin therapy affects amyotrophic lateral sclerosis (ALS) progression are limited. We examined whether statin exposure was associated with ALS disease duration or tracheostomy-free survival in a multiethnic Asian ALS cohort.\n\nMETHODS: Data from patients diagnosed with ALS between 2012 and 2025 were retrospectively reviewed. Patients were categorized as \"ever\" or \"never\" statin users for primary analyses, and as \"never,\" \"former,\" or \"current\" users at diagnosis for additional analyses. Disease duration was defined as time from symptom onset to death, and tracheostomy-free survival as time from symptom onset to tracheostomy or death without tracheostomy. Kaplan-Meier and Cox regression analyses evaluated associations between statin exposure and both outcomes. Additional analyses examined statin discontinuation after diagnosis using time-varying exposures. Sensitivity analyses excluded post-diagnosis imitators and applied 30-, 90-, and 180-day lags.\n\nRESULTS: Among 103 ALS patients, 27 (26.2%) had ever received statins. Statin exposure was not significantly associated with disease duration (hazard ratio [HR]: 1.42, 95% CI: 0.64-3.14, p = 0.387) or tracheostomy-free survival (HR: 1.04, 95% CI: 0.50-2.18, p = 0.913). Post-diagnosis statin discontinuation was associated with shorter survival in a time-varying analysis (HR: 6.52, 95% CI: 1.48-28.74, p = 0.013), although this finding was hypothesis-generating. Sensitivity analyses did not show statistically significant associations.\n\nDISCUSSION: In this multiethnic Asian ALS cohort, statin exposure was not significantly associated with disease duration or tracheostomy-free survival. These findings add to the evidence that statins do not need to be discontinued due to ALS diagnosis. Larger studies are needed to define this association.",
+      "mesh_terms": [],
+      "keywords": [
+        "Asia",
+        "amyotrophic lateral sclerosis",
+        "disease progression",
+        "statins",
+        "survival analysis"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42860504",
+      "event_key": "pubmed:42860504",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Sigma-1 Receptor Mitigates Poly-GR-Associated Redox Dysregulation by Restoring NRF2/HO1 Signaling in C9orf72-Associated ALS.",
+      "authors": [
+        "Chao-Yi Tsai",
+        "Hsuan-Cheng Wu",
+        "Tsung-Ping Su",
+        "Eddie Feng-Ju Weng",
+        "Shao-Ming Wang"
+      ],
+      "journal": "Neuromolecular medicine",
+      "publication_date": "2026-10-11",
+      "pmid": "42860504",
+      "doi": "10.1007/s12017-026-08951-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860504/",
+      "abstract": "Hexanucleotide GGGGCC repeat expansions in C9orf72 produce arginine-rich dipeptide repeat proteins, including poly-GR and poly-PR, that contribute to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia. Although poly-GR has been linked to oxidative stress and mitochondrial dysfunction, the mechanisms that determine whether antioxidant defenses are preserved or suppressed in poly-GR-expressing motor neurons remain incompletely understood. Here, we investigated whether Sigma-1 receptor (Sigma-1R) modulates poly-GR-associated redox dysregulation in cellular and mouse models. In NSC34 cells, both EGFP-PR42 and EGFP-GR50 expression reduced NRF2 protein levels. EGFP-GR50 expression was also associated with reduced NRF1 and HO1 levels and increased reactive oxygen species (ROS) accumulation. Sigma-1R overexpression or pharmacological activation with fluvoxamine or PRE084 restored NRF2 and HO1 expression and attenuated both cellular and mitochondrial oxidative stress in EGFP-GR50-expressing cells. Co-treatment with the Sigma-1R antagonist NE100 attenuated the agonist-induced restoration of NRF2 and HO1. Furthermore, the NRF2 inhibitor ML385 attenuated agonist-mediated HO1 restoration, supporting the involvement of NRF2 activity in this downstream response. In an AAV-mediated EGFP-GR50 mouse model, Sigma-1R deficiency was associated with shortened survival, reduced NeuN-positive neuronal counts, and decreased NRF2 immunoreactivity in the brain. Together, these findings identify Sigma-1R as a modulator of poly-GR-associated redox dysregulation and neuronal vulnerability and support further investigation of Sigma-1R modulation as a potential therapeutic strategy for C9orf72-associated ALS.",
+      "mesh_terms": [
+        "Receptors, sigma",
+        "Animals",
+        "NF-E2-Related Factor 2",
+        "Sigma-1 Receptor",
+        "Amyotrophic Lateral Sclerosis",
+        "Heme Oxygenase-1",
+        "Signal Transduction",
+        "Mice",
+        "Humans",
+        "Oxidative Stress",
+        "Reactive Oxygen Species",
+        "Oxidation-Reduction",
+        "Motor Neurons",
+        "C9orf72 Protein",
+        "Membrane Proteins",
+        "Mice, Transgenic",
+        "Fluvoxamine",
+        "Cell Line",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Morpholines"
+      ],
+      "keywords": [
+        "C9orf72 ALS",
+        "NRF2",
+        "Poly-GR",
+        "ROS",
+        "Sigma-1R"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42863218",
+      "event_key": "pubmed:42863218",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Novel compounds induce AChR clustering and improve motor function in myasthenia gravis animal models.",
+      "authors": [
+        "Asako Saito",
+        "Ryuichi Sekioka",
+        "Akira Nagashima",
+        "Takuya Washio",
+        "Eriko Honjo",
+        "Yohei Koganemaru",
+        "Kei Ohnuki",
+        "Sadanori Miyoshi"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2026-10-10",
+      "pmid": "42863218",
+      "doi": "10.1016/j.bbrc.2026.154728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863218/",
+      "abstract": "The neuromuscular junction (NMJ), the synapse between motor nerves and skeletal muscles, is implicated in the pathogenesis of various neuromuscular disorders, including myasthenia gravis (MG), congenital myasthenia, and amyotrophic lateral sclerosis. Postsynaptic clustering of acetylcholine receptors (AChRs) is crucial for NMJ formation. This process is initiated by agrin, a glycoprotein secreted from motor nerve terminals, which activates muscle-specific tyrosine kinase (MuSK) via its coreceptor, low-density lipoprotein receptor-related protein 4 (Lrp4), and thereby activates downstream signaling pathways that induce AChR clustering. MG is an autoimmune disease characterized by the production of autoantibodies against NMJ components such as AChR, MuSK, and Lrp4, which leads to impaired neuromuscular transmission and motor dysfunction. In this study, we identified orally active small-molecule compounds that promote AChR clustering through the Lrp4-MuSK signaling axis. Knockdown experiments demonstrated that Lrp4 was responsible for the compounds to induce AChR clustering. The compounds induced MuSK phosphorylation following the compound treatment in C2C12 cells and improved motor function and increased muscle volume in both MuSK-MG mice and AChR-MG rat models. Together, these findings identify orally active small molecules that potentiate Lrp4-MuSK signaling and highlight a pharmacological strategy to modulate NMJ function for MG and related neuromuscular disorders.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
     {
       "id": "42858780",
       "event_key": "pubmed:42858780",
@@ -44,7 +328,7 @@
       ],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42858164",
@@ -75,7 +359,7 @@
       ],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42855901",
@@ -111,7 +395,7 @@
       ],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42855485",
@@ -133,7 +417,7 @@
       "keywords": [],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42854693",
@@ -1066,7 +1350,7 @@
       ],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42849018",
@@ -1689,6 +1973,35 @@
       "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
+      "id": "42861801",
+      "event_key": "pubmed:42861801",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Crossing the Blood-brain Barrier: Emerging Nanotechnological Approaches for Neurodegenerative Disease Therapy.",
+      "authors": [
+        "Alpana",
+        "Hitesh Kumar Dewangan"
+      ],
+      "journal": "Current neurovascular research",
+      "publication_date": "2026-10-02",
+      "pmid": "42861801",
+      "doi": "10.2174/0115672026454704261001071449",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42861801/",
+      "abstract": "Neurodegenerative disorders such as Parkinson's Disease (PD), Alzheimer's Disease (AD), Amyotrophic Lateral Sclerosis (ALS), and Huntington's Disease (HD) are characterized by progressive neuronal degeneration and severe therapeutic limitations due to the Blood-Brain Barrier (BBB). Recent advances in nanotechnology have enabled the development of nanoscale drug delivery systems capable of improving BBB penetration and enhancing therapeutic efficacy. This review discusses recent progress in Lipid Nanoparticles (LNPs), polymeric nanoparticles, exosomes, magnetic nanoparticles, gold nanoparticles, graphene quantum dots, and RNAloaded nanocarriers for brain-targeted delivery. Special emphasis is placed on receptor-mediated transcytosis, intranasal delivery, magnetic targeting, and ionizable lipid nanoparticle systems for nucleic acid delivery. Recent nanoformulations including curcumin-loaded nanoparticles, siRNA- loaded lipid nanoparticles, dopamine-loaded liposomes, and lactoferrin-functionalized polymeric nanoparticles are critically compared based on BBB penetration, therapeutic efficacy, toxicity, and translational potential. Furthermore, current clinical challenges including nanotoxicity, pharmacokinetics, large-scale manufacturing, and regulatory barriers are discussed. Nanotechnology- based therapeutics represent a promising strategy for improving diagnosis and treatment of neurodegenerative disorders and may facilitate the future development of precision nanomedicine.",
+      "mesh_terms": [],
+      "keywords": [
+        "Nanotechnology",
+        "drug delivery",
+        "nanoformulation",
+        "nanomaterial",
+        "neurodegenerative disorders."
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
       "id": "42856515",
       "event_key": "pubmed:42856515",
       "source_id": "pubmed",
@@ -1719,7 +2032,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42843091",
@@ -1948,6 +2261,42 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42862029",
+      "event_key": "pubmed:42862029",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Transcutaneous Carbon Dioxide Monitoring in Amyotrophic Lateral Sclerosis: A Scoping Review.",
+      "authors": [
+        "Cláudia Santos Silva",
+        "Mamede de Carvalho"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-10-01",
+      "pmid": "42862029",
+      "doi": "10.1111/ene.70782",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862029/",
+      "abstract": "BACKGROUND: Respiratory failure is the leading cause of death in amyotrophic lateral sclerosis (ALS). Conventional pulmonary function tests are effort-dependent and may fail to detect early nocturnal hypoventilation. Transcutaneous carbon dioxide (PtcCO2) measurement is a non-invasive method for assessing ventilation, but its role in ALS remains unclear. We performed a scoping review to map the current evidence.\n\nMETHODS: PubMed, Web of Science, Scopus, and Google Scholar were searched from inception to April 2026. Original studies evaluating PtcCO2 monitoring in ALS were included. Due to heterogeneity in study designs, populations, and outcomes, a narrative synthesis was performed, categorized by study characteristics, measurement protocols, and clinical endpoints.\n\nRESULTS: Twenty-one studies were included. Most were observational and conducted in tertiary centres. Twelve studies evaluated PtcCO2 as a surrogate marker for nocturnal hypoventilation, mainly to guide initiation or titration of non-invasive ventilation. Definitions of hypoventilation and reported PtcCO2 metrics varied widely. Only three studies evaluated PtcCO2 in relation to respiratory impairment or hypercapnia, but none reported formal measures of diagnostic accuracy. Evidence regarding the prognostic value was limited and inconsistent. Three studies showed that nocturnal hypercapnia preceded abnormalities in spirometry or daytime hypercapnia.\n\nCONCLUSIONS: PtcCO2 monitoring shows promise as a non-invasive method for assessing nocturnal ventilatory abnormalities in ALS, including nocturnal hypoventilation. However, due to methodological heterogeneity, its diagnostic and prognostic roles remain uncertain. Current evidence is insufficient to support PtcCO2 as a standalone criterion for NIV initiation. Large-scale prospective studies with standardized protocols are essential to delineate its clinical utility.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Carbon Dioxide",
+        "Blood Gas Monitoring, Transcutaneous",
+        "Hypoventilation",
+        "Respiratory Insufficiency"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "nocturnal hypoventilation",
+        "respiratory insufficiency",
+        "scoping review",
+        "transcutaneous carbon dioxide monitoring"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
       "id": "42856371",
       "event_key": "pubmed:42856371",
       "source_id": "pubmed",
@@ -1969,7 +2318,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42856249",
@@ -1996,7 +2345,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42855762",
@@ -2033,7 +2382,7 @@
       "keywords": [],
       "collected_at": "2026-10-11T06:14:38Z",
       "first_seen_at": "2026-10-11T06:14:38Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42850529",
@@ -2516,6 +2865,36 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42860740",
+      "event_key": "pubmed:42860740",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Integrative ALS therapy: gene targeted therapy by base editing and potential exercise rehabilitation as synergistic strategies for functional recovery.",
+      "authors": [
+        "Kwangjun Lee",
+        "Taejin Kwak",
+        "Wonil Park"
+      ],
+      "journal": "Physical activity and nutrition",
+      "publication_date": "2026-09-30",
+      "pmid": "42860740",
+      "doi": "10.20463/pan.2026.0045",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860740/",
+      "abstract": "PURPOSE: A key pathological hallmark of amyotrophic lateral sclerosis (ALS) is transactive response DNA-binding protein 43 (TDP-43, encoded by TARDBP) proteinopathy. Mutations in TARDBP and cellular stress can drive nuclear clearance and cytoplasmic aggregation of TDP-43. TDP-43 is an essential nuclear RNA-binding protein that regulates RNA metabolism, and cytoplasmic TDP-43 aggregation leads to aberrant splicing of essential neuronal transcripts including stathmin-2 (STMN2) and unc-13 homolog A (UNC13A). Dysregulated RNA splicing causes cryptic exon (CE) inclusion in STMN2 and UNC13A mRNA, resulting in non-functional proteins and disruption of axonal regeneration and synaptic integrity. Splice-switching antisense oligonucleotides and gene-editing platforms can correct STMN2 and UNC13A mis-splicing defects. However, restoring STMN2 and UNC13A expression alone is not sufficient to regenerate neuromuscular junctions or reverse skeletal muscle atrophy, both of which are crucial for functional recovery in patients with ALS.\n\nMETHODS: We reviewed gene-targeted treatment strategies and rehabilitative mechanisms that inhibit ALS progression and reverse neuromuscular degeneration by analyzing databases, including Google Scholar, PubMed, and ScienceDirect. We proposed a dual-modality therapeutic approach integrating base-editing-mediated gene therapy with exercise-based rehabilitation.\n\nRESULTS: Antisense oligonucleotides and genome editing can restore transcript fidelity by preventing cryptic exons inclusion in STMN2 and UNC13A, thereby stabilizing neuronal function. Gene-targeted therapies halt ALS progression; however, these treatments alone are insufficient to reverse neuromuscular degeneration or achieve functional recovery needed for patients with ALS to return to daily life.\n\nCONCLUSION: Integrated rehabilitation is a crucial step in gene-targeted therapy for ALS. This strategy halts disease progression and restores neuromuscular function, thereby improving the lifespan and quality of life of patients with ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "TDP- 43 proteinopathy",
+        "amyotrophic lateral sclerosis (ALS)",
+        "antisense oligonucleotides (ASOs)",
+        "exercise rehabilitation",
+        "genome editing"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
       "id": "42856458",
       "event_key": "pubmed:42856458",
       "source_id": "pubmed",
@@ -2546,7 +2925,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42831014",
@@ -2738,7 +3117,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42856741",
@@ -2766,7 +3145,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42826575",
@@ -2913,7 +3292,7 @@
       "keywords": [],
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
-      "last_seen_at": "2026-10-12T06:21:56Z"
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42807842",
@@ -10090,6 +10469,95 @@
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
       "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "42863953",
+      "event_key": "pubmed:42863953",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Imaging of Neurodegenerative Disorders of the Spinal Cord.",
+      "authors": [
+        "Hamza Abu-Jabeh",
+        "Tilak Das",
+        "Fulvio Zaccagna"
+      ],
+      "journal": "Neuroimaging clinics of North America",
+      "publication_date": "2026-07-21",
+      "pmid": "42863953",
+      "doi": "10.1016/j.nic.2026.05.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863953/",
+      "abstract": "This article aims to provide a comprehensive review of imaging features of non-compressive spinal cord degeneration. It covers a range of disorders including multiple sclerosis, motor neuron disease, hereditary ataxias, metabolic myelopathies, and acquired conditions. The article highlights the diagnostic limitations of conventional MRI and points out the role of advanced quantitative techniques such as diffusion tensor imaging and magnetization transfer imaging in detecting structural changes that underpin early disease. It concludes by outlining the pathway for integrating conventional and advanced imaging techniques with the clinical picture to reach an accurate diagnosis.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Spinal Cord Diseases",
+        "Magnetic Resonance Imaging",
+        "Spinal Cord",
+        "Neuroimaging"
+      ],
+      "keywords": [
+        "Atrophy",
+        "MND",
+        "Myelopathies",
+        "Neurodegeneration"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "42864293",
+      "event_key": "pubmed:42864293",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Effect of electroacupuncture at Jiaji (EX-B2) on disease progression in mice with amyotrophic lateral sclerosis based on NLRP3/Caspase-1/ASC signaling pathway].",
+      "authors": [
+        "Shilin Wang",
+        "Mingyue Wang",
+        "Yuanzheng Sun",
+        "Guanping Liu",
+        "Yingying Li",
+        "Wenzhao Zhang",
+        "Jia Yao"
+      ],
+      "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+      "publication_date": "2026-07-03",
+      "pmid": "42864293",
+      "doi": "10.13703/j.0255-2930.20250518-k0001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864293/",
+      "abstract": "OBJECTIVE: To explore the underlying mechanism of electroacupuncture (EA) at \"Jiaji\" (EX-B2) on the disease progression through modulating NOD-like receptor family pyrin domain containing 3 (NLRP3)/cysteine-aspartic acid protease 1 (Caspase-1)/apoptosis-associated speck-like protein containing a caspase recruitment domain (ASC) signaling pathway in mice with amyotrophic lateral sclerosis.\n\nMETHODS: Forty-five mice carrying the human superoxide dismutase 1 G93A (hSOD1G93A) gene were randomly divided into a model group, a Jiaji EA group, and an inhibitor group, 15 mice per group. The other 15 mice without hSOD1G93A gene carried were collected as a wild group. When the mice were aged 60 days, in the Jiaji EA group, EA was operated at \"Jiaji\" (EX-B2) of L1/L2, L5/L6, with continuous wave, a frequency of 2 Hz and an intensity of 1 mA, retained for 20 min, twice a week; in the inhibitor group, the intraperitoneal injection with NLRP3 inhibitor (10 mg/kg) was administered, twice a week. The interventions lasted for 4 weeks in each group. When the mice were aged 120 days, 9 mice in each group were randomly selected for tissue collection from lumbar spinal cord, and the disease progression and limb function were observed for the remaining 6 mice. The neurological function score was employed to assess the disease progression of mice in each group, and the gait experiment was conducted to observe the gait and stride length; HE staining was used to observe the motor neuron morphology in the anterior horn of the lumbar spinal cord, immunohistochemistry was used to detect the expression of ionic calcium-binding adapter molecule 1 (Iba-1) in the anterior horn of the lumbar spinal cord, and Western blot was used to detect the protein expression of NLRP3, Caspase-1, ASC, interleukin (IL)-18 and IL-1β in lumbar spinal cord.\n\nRESULTS: Compared with the wild group, in the model group, the disease was worsened progressively, on days 90 and 120 after birth, the stride length of mice was reduced (P<0.05, P<0.01), and the gait was unstable and dragging on 120 days after birth; the motor neurons in the anterior horn of the spinal cord exhibited obvious cellular edema and rupture, marked vacuolization and nuclear pyknosis, along with severe neuron loss; the expression of Iba-1 increased in the anterior horn of the lumbar spinal cord (P<0.01), colored dark brown and densely aggregated; and the protein expression of NLRP3, Caspase-1, ASC, IL-18, IL-1β in lumbar spinal cord was up-regulated (P<0.01). When compared with the model group, in the inhibitor group and the Jiaji EA group, the onset of paresis and the progression of paralysis were delayed and the survival rates increased (P<0.01); stride length was larger in the mice at the age of 120 d (P<0.01); more clear gait was presented, and the ages in days was significantly delayed for gait dragging; the improvements were exhibited in the degree of edema, vacuolization, and nuclear pyknosis observed in the motor neurons of the anterior horn of the lumbar spinal cord; the expression of Iba-1 was reduced in the anterior horn of the lumbar spinal cord (P<0.01), appearing gray-brown, and scattered clusters in small number; and the protein expression of NLRP3, Caspase-1, ASC, IL-18, and IL-1β in lumbar spinal cord was decreased (P<0.05, P<0.01). The protein expression of NLRP3, Caspase-1 and IL-18 in lumbar spinal cord in the Jiaji EA group was up-regulated in comparison with that in the inhibitor group (P<0.05).\n\nCONCLUSION: Electroacupuncture at \"Jiaji\" (EX-B2) can delay the disease progression in mice with amyotrophic lateral sclerosis, which may be related to modulating NLRP3/Caspase-1/ASC signaling pathway and inhibiting the inflammatory response, thereby attenuating the inflammatory injury of lumbar spinal cord.",
+      "mesh_terms": [
+        "Animals",
+        "Electroacupuncture",
+        "Amyotrophic Lateral Sclerosis",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Mice",
+        "Signal Transduction",
+        "Humans",
+        "Male",
+        "Caspase 1",
+        "Disease Progression",
+        "Acupuncture Points",
+        "CARD Signaling Adaptor Proteins",
+        "Female",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Spinal Cord",
+        "Carrier Proteins"
+      ],
+      "keywords": [
+        "NOD-like receptor family pyrin domain containing 3 (NLRP3)",
+        "Point EX-B2 (Jiaji)",
+        "amyotrophic lateral sclerosis",
+        "electroacupuncture",
+        "microglia",
+        "neuroinflammatory response"
+      ],
+      "collected_at": "2026-10-13T07:00:32Z",
+      "first_seen_at": "2026-10-13T07:00:32Z",
+      "last_seen_at": "2026-10-13T07:00:32Z"
     },
     {
       "id": "42782554",
