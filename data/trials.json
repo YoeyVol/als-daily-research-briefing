@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-10-13T07:00:32Z",
-  "new_keys": [],
+  "updated_at": "2026-10-14T05:15:02Z",
+  "new_keys": [
+    "clinicaltrials:NCT07161999:2026-10-13",
+    "clinicaltrials:NCT06280079:2026-10-13",
+    "clinicaltrials:NCT07871071:2026-10-13"
+  ],
   "items": [
+    {
+      "id": "NCT07871071",
+      "event_key": "clinicaltrials:NCT07871071:2026-10-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07871071",
+      "title": "Brain-Computer Interface Communication Device for People With ALS",
+      "sponsor": "Cognixion",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Device: Cognixion ONE AR-BCI configuration",
+        "Device: Cognixion ONE screen-based BCI configuration",
+        "Device: Existing eye-gaze speech generating device"
+      ],
+      "start_date": "2026-11-15",
+      "last_update_date": "2026-10-13",
+      "url": "https://clinicaltrials.gov/study/NCT07871071",
+      "collected_at": "2026-10-14T05:15:02Z",
+      "first_seen_at": "2026-10-14T05:15:02Z",
+      "last_seen_at": "2026-10-14T05:15:02Z"
+    },
+    {
+      "id": "NCT07161999",
+      "event_key": "clinicaltrials:NCT07161999:2026-10-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07161999",
+      "title": "Study of COYA 302 for the Treatment of ALS",
+      "sponsor": "Coya Therapeutics",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: COYA 302",
+        "Drug: Placebo"
+      ],
+      "start_date": "2025-10-01",
+      "last_update_date": "2026-10-13",
+      "url": "https://clinicaltrials.gov/study/NCT07161999",
+      "collected_at": "2026-10-14T05:15:02Z",
+      "first_seen_at": "2026-10-14T05:15:02Z",
+      "last_seen_at": "2026-10-14T05:15:02Z"
+    },
+    {
+      "id": "NCT06280079",
+      "event_key": "clinicaltrials:NCT06280079:2026-10-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06280079",
+      "title": "Ultra-high-caloric, Fatty Diet in ALS",
+      "sponsor": "University of Ulm",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Dietary_Supplement: Ultra-high-caloric fatty diet",
+        "Other: Placebo"
+      ],
+      "start_date": "2024-07-02",
+      "last_update_date": "2026-10-13",
+      "url": "https://clinicaltrials.gov/study/NCT06280079",
+      "collected_at": "2026-10-14T05:15:02Z",
+      "first_seen_at": "2026-10-14T05:15:02Z",
+      "last_seen_at": "2026-10-14T05:15:02Z"
+    },
     {
       "id": "NCT07521930",
       "event_key": "clinicaltrials:NCT07521930:2026-10-09",
