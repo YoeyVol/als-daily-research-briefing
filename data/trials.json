@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-10-15T05:01:49Z",
+  "updated_at": "2026-10-16T04:51:29Z",
   "new_keys": [
-    "clinicaltrials:NCT07674667:2026-10-14"
+    "clinicaltrials:NCT07875972:2026-10-15"
   ],
   "items": [
+    {
+      "id": "NCT07875972",
+      "event_key": "clinicaltrials:NCT07875972:2026-10-15",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07875972",
+      "title": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Liu Qing",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Orelabrutinib"
+      ],
+      "start_date": "2026-10",
+      "last_update_date": "2026-10-15",
+      "url": "https://clinicaltrials.gov/study/NCT07875972",
+      "collected_at": "2026-10-16T04:51:29Z",
+      "first_seen_at": "2026-10-16T04:51:29Z",
+      "last_seen_at": "2026-10-16T04:51:29Z"
+    },
     {
       "id": "NCT07674667",
       "event_key": "clinicaltrials:NCT07674667:2026-10-14",
@@ -27,7 +50,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07674667",
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:29Z"
     },
     {
       "id": "NCT07871071",
@@ -52,7 +75,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07871071",
       "collected_at": "2026-10-14T05:15:02Z",
       "first_seen_at": "2026-10-14T05:15:02Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:29Z"
     },
     {
       "id": "NCT07161999",
@@ -77,7 +100,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07161999",
       "collected_at": "2026-10-14T05:15:02Z",
       "first_seen_at": "2026-10-14T05:15:02Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:29Z"
     },
     {
       "id": "NCT06280079",
@@ -101,7 +124,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06280079",
       "collected_at": "2026-10-14T05:15:02Z",
       "first_seen_at": "2026-10-14T05:15:02Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:29Z"
     },
     {
       "id": "NCT07521930",

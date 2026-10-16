@@ -1,27 +1,19 @@
 {
-  "updated_at": "2026-10-15T05:01:49Z",
+  "updated_at": "2026-10-16T04:51:29Z",
   "new_keys": [
-    "pubmed:42864601",
-    "pubmed:42875203",
-    "pubmed:42874698",
-    "pubmed:42873357",
-    "pubmed:42869990",
-    "pubmed:42873683",
-    "pubmed:42872742",
-    "pubmed:42869255",
-    "pubmed:42865281",
-    "pubmed:42864501",
-    "pubmed:42864685",
-    "pubmed:42865191",
-    "pubmed:42871744",
-    "pubmed:42871488",
-    "pubmed:42866729",
-    "pubmed:42864787",
-    "pubmed:42864786",
-    "pubmed:42872064",
-    "pubmed:42865955",
-    "pubmed:42864345",
-    "pubmed:42875146"
+    "pubmed:42879493",
+    "pubmed:42880988",
+    "pubmed:42880226",
+    "pubmed:42879383",
+    "pubmed:42878739",
+    "pubmed:42875680",
+    "pubmed:42877817",
+    "pubmed:42880056",
+    "pubmed:42879998",
+    "pubmed:42875948",
+    "pubmed:42876567",
+    "pubmed:42877417",
+    "pubmed:42880848"
   ],
   "items": [
     {
@@ -65,7 +57,235 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42880988",
+      "event_key": "pubmed:42880988",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Corrigendum to \"Exploring the cuproptosis-related molecular clusters in the peripheral blood of patients with amyotrophic lateral sclerosis\" [Comput. Biol. Med. 168, (2024), 107776].",
+      "authors": [
+        "Fang Jia",
+        "Bingchang Zhang",
+        "Weijie Yu",
+        "Zheng Chen",
+        "Wenbin Xu",
+        "Wenpeng Zhao",
+        "Zhanxiang Wang"
+      ],
+      "journal": "Computers in biology and medicine",
+      "publication_date": "2026-10-15",
+      "pmid": "42880988",
+      "doi": "10.1016/j.compbiomed.2026.111997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880988/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42880226",
+      "event_key": "pubmed:42880226",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Protein arginine methylation rewires molecular interactions.",
+      "authors": [
+        "Joseph D DeAngelo",
+        "Aliza M Silverstein",
+        "David Shechter"
+      ],
+      "journal": "Cell chemical biology",
+      "publication_date": "2026-10-15",
+      "pmid": "42880226",
+      "doi": "10.1016/j.chembiol.2026.09.011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880226/",
+      "abstract": "Protein arginine methyltransferases (PRMT1-9) catalyze monomethylation and dimethylation of arginine residues in RNA- and DNA-associated proteins. Protein arginine methylation can weaken or strengthen nucleic acid binding, recruit or exclude protein partners, and promote or suppress higher-order assembly, making its molecular consequences highly context dependent. Methylation preserves the cationic character of the guanidinium group, while altering hydrogen-bond donor topology, steric accessibility, and interaction geometry. These effects are particularly consequential in intrinsically disordered regions (IDRs), where arginine-rich motifs mediate multivalent protein-protein and protein-nucleic acid interactions. Here, we propose an interaction-equilibrium framework in which arginine methylation redistributes binding capacity among the competing protein, nucleic acid, and assembly states. This framework integrates reader-dependent and reader-independent effects of methylarginine and provides a chemical basis for understanding how a charge-preserving modification can reweight molecular interactions across diverse cellular contexts.",
+      "mesh_terms": [
+        "Arginine",
+        "Methylation",
+        "Protein-Arginine N-Methyltransferases",
+        "Humans",
+        "Protein Binding",
+        "Intrinsically Disordered Proteins"
+      ],
+      "keywords": [
+        "ALS",
+        "FTD",
+        "IDRs",
+        "PRMT5",
+        "RNA splicing",
+        "RNA-binding proteins",
+        "Tudor domains",
+        "amyotrophic lateral sclerosis",
+        "biomolecular condensates",
+        "intrinsically disordered regions",
+        "methylarginine readers"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42879493",
+      "event_key": "pubmed:42879493",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "An integrative transcriptomic atlas of ALS and aging skeletal muscle defines shared and distinct molecular programs of degeneration.",
+      "authors": [
+        "Mercedes Grima-Terrén",
+        "Megan Rommelfanger",
+        "Silvia Campanario",
+        "Aina Calls-Cobos",
+        "Andrés Cisneros",
+        "Ignacio Ramírez-Pardo",
+        "Grace Chou",
+        "Yuewen Zheng",
+        "Nasun Hah",
+        "Antonio L Serrano",
+        "Eusebio Perdiguero",
+        "Joan Isern",
+        "Pura Muñoz-Cánoves"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2026-10-15",
+      "pmid": "42879493",
+      "doi": "10.1073/pnas.2613546123",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879493/",
+      "abstract": "Skeletal muscle atrophy and weakness resulting from loss of motor neuron innervation are shared hallmarks of amyotrophic lateral sclerosis (ALS) and age-associated sarcopenia. However, muscle wasting in ALS is rapid and severe, whereas sarcopenia progresses gradually over decades, peaking at an advanced age. The molecular mechanisms underlying muscle wasting in these conditions remain incompletely defined. Here, we used the SOD1G93A ALS mouse model and wild-type mice across the lifespan to generate an integrated single-nucleus transcriptomic atlas of skeletal muscle, mapping changes associated with ALS and aging. This atlas is complemented by structural and functional analyses. Our results identify transcriptionally distinct condition-specific myonuclear states, including disease-responsive programs within synaptic myonuclei at the neuromuscular junction, that are shared or distinct between the two conditions. Notably, at early stages, muscle from ALS mice exhibits molecular hallmarks of aged muscle at the myofiber level, indicating premature aging and reinforcing aging as a risk factor in ALS. At advanced disease stages and in old age, myonuclear subpopulations follow similar degenerative pathways in fast glycolytic fibers, consistent with their loss in both conditions. However, a distinct ALS-enriched myonuclei subpopulation displays uniquely regulated genes not observed in aged muscle, potentially underlying the more rapid and severe pathology observed in ALS. This atlas maps shared and divergent mechanisms of muscle degeneration in ALS and sarcopenia and provides a resource for identifying therapeutic targets tailored to each condition.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Muscle, Skeletal",
+        "Aging",
+        "Mice",
+        "Transcriptome",
+        "Sarcopenia",
+        "Mice, Transgenic",
+        "Disease Models, Animal",
+        "Neuromuscular Junction",
+        "Muscular Atrophy",
+        "Superoxide Dismutase-1"
+      ],
+      "keywords": [
+        "aging",
+        "amyotrophic lateral sclerosis",
+        "atrophy",
+        "skeletal muscle"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42879383",
+      "event_key": "pubmed:42879383",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Needs and Expectations of ALS Patients and Caregivers: An Integrated Perspective.",
+      "authors": [
+        "Elisa Bianchi",
+        "E Beghi",
+        "Anisia Carlino",
+        "Federica Cerri",
+        "Christian Lunetta",
+        "Eugenio Vitelli",
+        "Ammar Al-Chalabi",
+        "Maurizio A Leone",
+        "Elisabetta Pupillo"
+      ],
+      "journal": "European neurology",
+      "publication_date": "2026-10-15",
+      "pmid": "42879383",
+      "doi": "10.1159/ene/acsag005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879383/",
+      "abstract": "UNLABELLED: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease requiring complex multidisciplinary care. As disability advances, patients' and caregivers' needs may diverge.\n\nOBJECTIVES: to assess needs, priorities and satisfaction with care among people with ALS (pALS) and their caregivers; to examine the association between satisfaction and Quality of life (QoL); to explore differences according to clinical characteristics; to understand the Italian ALS community's willingness to engage in research.\n\nMETHODS: In this cross-sectional multicentre study, 154 pALS and 211 caregivers were recruited (July 2021-November 2022). Structured interviews explored information received, care priorities, research expectations and satisfaction. Answers to the interview were compared between patients and caregivers and between different patients' subgroups with the chi-square or the Fisher's exact test. The scores of QoL questionnaires were compared between satisfied vs. unsatisfied with the Wilcoxon-Mann-Whitney test in patients (ALSAQ-40) and caregivers (SF-36).\n\nRESULTS: Patients prioritized finding a cure (95%) and overcoming disease-related limitations (72%) over safe and tolerable drugs (55%), similarly to caregivers. Research on psychological and emotional support was rated more important by caregivers (70%) than patients (49%). QoL was higher among satisfied patients, with better ALSAQ-40 scores in mobility, daily activities, communication and emotional domains. Caregivers needing urgent psychological support were fewer among the satisfied (35%) than the not satisfied (50%), and SF-36 mental health scores were also higher in satisfied caregivers.\n\nCONCLUSIONS: Incorporating both pALS and caregiver perspectives into clinical practice and research planning may enhance patient- and family-centered care, improve QoL, and better align healthcare research and resources with societal needs.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42878739",
+      "event_key": "pubmed:42878739",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Diagnostic evolution of carbonic anhydrase 3 (CA3) in Amyotrophic Lateral Sclerosis (ALS): an emerging prognostic biomarker.",
+      "authors": [
+        "Nitesh Sanghai",
+        "Geoffrey K Tranmer"
+      ],
+      "journal": "Expert review of neurotherapeutics",
+      "publication_date": "2026-10-15",
+      "pmid": "42878739",
+      "doi": "10.1080/14737175.2026.2748281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878739/",
+      "abstract": "INTRODUCTION: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease traditionally viewed as a motor neuron disorder in which muscle atrophy occurs secondary to neuronal loss. However, recent clinical proteomic advances have highlighted carbonic anhydrase 3 (CA3), a muscle-enriched enzyme, as a promising biomarker associated with ALS disease progression. Therefore, considering ALS a neurocentric disease is not untenable.\n\nAREAS COVERED: In this review, the authors examined the emergence of CA3 as an ALS biomarker and evaluated evidence from recent large-scale clinical consortium studies supporting its diagnostic and prognostic utility. They also compare CA3 with established biomarkers, neurofilament light chain (NEFL), a surrogate endpoint approved by the FDA.\n\nEXPERT OPINION: Discoveries of CA3 biomarker in ALS highlight that peripheral skeletal muscle is not merely a passive bystander, but an integral participant in ALS disease progression. Unlike NEFL, which primarily reflects neuroaxonal injury, CA3 may capture early neuromuscular dysfunction preceding motor neuron degeneration. CA3's emergence as an ALS biomarker supports a more integrated neuromuscular model of ALS and provides a compelling rationale for incorporating CA3 into multimodal diagnostic, prognostic, and pharmacodynamic biomarker panels to accelerate ALS drug discovery, therapeutic evaluation, and precision clinical trial development, highlighting their complementary roles in early diagnosis, patient stratification, and therapeutic clinical trial design.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis (ALS)",
+        "biomarkers",
+        "carbonic anhydrase 3 (CA3)",
+        "neurofilament light chain (NEFL)",
+        "pharmacodynamic biomarker"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42875680",
+      "event_key": "pubmed:42875680",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Restoring Neural Homeostasis via Class II HDAC Modulation: Mechanistic Insights and Therapeutic Opportunities.",
+      "authors": [
+        "Rohan Gupta",
+        "Reetesh Kumar",
+        "Bhargav Shreevatsa K S",
+        "Deepak Kumar Modi",
+        "Smita Kumari",
+        "Naveen Kumar",
+        "Pallavi Singh",
+        "Karthikeyan Ravi",
+        "Mosleh Mohammad Abomughaid"
+      ],
+      "journal": "Molecular neurobiology",
+      "publication_date": "2026-10-15",
+      "pmid": "42875680",
+      "doi": "10.1007/s12035-026-06265-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875680/",
+      "abstract": "Class II histone deacetylases (HDACs) comprise class IIa enzymes HDAC4, HDAC5, HDAC7, and HDAC9 and class IIb enzymes HDAC6 and HDAC10, which differ substantially in structure, catalytic activity, subcellular localization, and neural function. Class IIa HDACs exhibit weak intrinsic deacetylase activity and function predominantly as signal-responsive scaffolds that couple calcium and kinase signaling to transcription through nucleocytoplasmic shuttling, recruitment of HDAC3-containing NCoR/SMRT corepressor complexes, and interactions with MEF2, CREB, and FOXO. Conversely, HDAC6 is a predominantly cytoplasmic deacetylase that regulates α-tubulin acetylation, cytoskeletal dynamics, axonal transport, autophagy, and proteostasis. Dysregulated class II HDAC signaling contributes to neurodegenerative diseases through convergent mechanisms involving synaptic dysfunction, maladaptive transcriptional repression, mitochondrial impairment, oxidative stress, neuroinflammation, blood-brain barrier disruption, and defective clearance of pathological proteins. Disease-associated substrates include amyloid-β and tau in Alzheimer's disease, α-synuclein in Parkinson's disease, mutant huntingtin in Huntington's disease, and TDP-43/SOD1 in amyotrophic lateral sclerosis. Emerging evidence additionally links aberrant HDAC4/5 signaling to neurodevelopmental disorders through altered synaptic maturation, excitation-inhibition balance, and circuit development. This review integrates the structural and mechanistic biology of class II HDACs with their disease-specific roles and evaluates therapeutic approaches to restore neural homeostasis. Particular emphasis is placed on selective HDAC6 inhibitors, modulation of class IIa protein-protein interactions and subcellular trafficking, natural compounds, and RNA-based strategies. Finally, we discuss major translational challenges, including isoform specificity, brain penetration, context-dependent functions, and the need to distinguish catalytic from non-enzymic mechanisms when developing disease-modifying interventions for neurological disorders while preserving normal essential HDAC functions and minimizing off-target toxicity.",
+      "mesh_terms": [
+        "Humans",
+        "Histone Deacetylases",
+        "Animals",
+        "Homeostasis",
+        "Neurodegenerative Diseases",
+        "Histone Deacetylase Inhibitors",
+        "Neurons",
+        "Signal Transduction"
+      ],
+      "keywords": [
+        "Histone deacetylases (HDACs)",
+        "Natural compounds",
+        "Neurodegenerative diseases (NDDs)",
+        "Neuroinflammation",
+        "Protein aggregation",
+        "Selective inhibitors"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42875203",
@@ -109,7 +329,41 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42877817",
+      "event_key": "pubmed:42877817",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Progressive Supranuclear Palsy-Primary Lateral Sclerosis Overlap Syndrome in a Patient with a CYLD Variant.",
+      "authors": [
+        "N K Çiftçi",
+        "G Gürsoy",
+        "M Eser",
+        "H C Manazoğlu",
+        "N G Şirin",
+        "M H Yarar",
+        "N Pazarcı",
+        "H A Hanağası"
+      ],
+      "journal": "Balkan journal of medical genetics : BJMG",
+      "publication_date": "2026-10-14",
+      "pmid": "42877817",
+      "doi": "10.2478/bjmg-2026-0005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877817/",
+      "abstract": "OBJECTIVE: Progressive supranuclear palsy (PSP) is an atypical parkinsonian syndrome characterized by progressive axial rigidity, vertical gaze palsy, dysarthria, and dysphagia. This report describes a case of PSP-primary lateral sclerosis overlap syndrome associated with a CYLD gene variant.\n\nCASE: We describe the case of a 59-year-old male patient who presented with slowing of movements and hypophonic speech. Neurological examination revealed hypomimia, dysarthric and hypophonic speech, restricted upward gaze, slow saccadic eye movements, rigidity and bradykinesia in all extremities, axial rigidity, brisk deep tendon reflexes, bilateral positive Hoffman's sign, and bilateral extensor plantar responses. Brain MRI showed the \"hummingbird sign\" accompanied by bilateral cortico-spinal tract hyperintensity. MEP studies showed impaired excitability and conduction in the corticomotor system. Molecular genetic analysis identified a heterozygous G107A (c.320G>A; p.Gly107Asp) missense variant in the CYLD gene.\n\nCONCLUSION: Based on these findings, a diagnosis of PSP-Primary Lateral Sclerosis overlap syndrome was made. The contribution of the identified CYLD variant to this complex phenotype and its role in the neurodegenerative disease spectrum warrant further investigation.",
+      "mesh_terms": [],
+      "keywords": [
+        "CYLD gene",
+        "motor neuron disease",
+        "primary lateral sclerosis",
+        "progressive supranuclear palsy"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42874698",
@@ -148,7 +402,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42873357",
@@ -186,7 +440,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42869990",
@@ -226,7 +480,42 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42880056",
+      "event_key": "pubmed:42880056",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Harnessing cGAS-STING in neurodegeneration: From mitochondrial DNA leakage and microglial reactivity to species-specific translational barriers.",
+      "authors": [
+        "Mingfang Wang",
+        "Jierong Li",
+        "Xuanfang Wang",
+        "Xueting Chai",
+        "Jinghao Luo",
+        "Yingqi Zhang",
+        "Xuhong Chang",
+        "Yingbiao Sun",
+        "Hui Wang"
+      ],
+      "journal": "Cytokine & growth factor reviews",
+      "publication_date": "2026-10-13",
+      "pmid": "42880056",
+      "doi": "10.1016/j.cytogfr.2026.101537",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880056/",
+      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, a cornerstone of innate immunity, has emerged as a critical driver of sterile neuroinflammation in the aging brain. Age-related decline in mitochondrial quality control, coupled with nuclear and lysosomal erosion, fosters the aberrant accumulation of cytosolic self-DNA, establishing a permissive environment for chronic cGAS-STING activation. This review synthesizes recent breakthroughs elucidating how major neurodegenerative diseases-Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease-converge on this pathway through distinct, disease-specific triggers, ranging from PINK1/Parkin deficiency-driven mitochondrial DNA leakage to TDP-43 proteinopathy-associated retrotransposon de-repression. Critically, we evaluate the translational landscape, highlighting the profound challenge posed by species-specific pharmacology, as exemplified by the failure of the covalent inhibitor H-151 to engage human STING. We argue that the future of therapeutic intervention lies not in wholesale pathway ablation, but in nuanced, context-dependent fine-tuning that disentangles its detrimental chronic effects from its indispensable homeostatic functions. This review positions the cGAS-STING axis as a promising yet delicate frontier for combating age-related neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "Aging",
+        "CGAS–STING",
+        "Innate immunity",
+        "Neuroinflammation"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42873683",
@@ -258,7 +547,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42872742",
@@ -291,7 +580,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42869255",
@@ -323,7 +612,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42865281",
@@ -360,7 +649,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42864501",
@@ -390,7 +679,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42862794",
@@ -685,7 +974,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42863218",
@@ -714,7 +1003,7 @@
       "keywords": [],
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42858780",
@@ -1597,7 +1886,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42844425",
@@ -1804,7 +2093,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42858511",
@@ -2747,6 +3036,85 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42879998",
+      "event_key": "pubmed:42879998",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Serum neurofilament and measures of lower motor neuron dysfunction in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Aicee Dawn Calma",
+        "Nathan Pavey",
+        "Yukiko Tsuji",
+        "Amirul Ab Ghapar",
+        "Bronwen Orden",
+        "Grace Lee",
+        "Linda Mekhael",
+        "Julie Ryder",
+        "Cláudia Santos Silva",
+        "Parvathi Menon",
+        "Steve Vucic"
+      ],
+      "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+      "publication_date": "2026-10-01",
+      "pmid": "42879998",
+      "doi": "10.1016/j.clinph.2026.2112428",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879998/",
+      "abstract": "OBJECTIVE: Serum neurofilament light chain (NfL) is an emerging diagnostic and prognostic biomarker in amyotrophic lateral sclerosis (ALS). Ulnar far-field potentials (FFP) have also been proposed as a reliable neurophysiological biomarker in ALS. This study examined the relationship between serum NfL levels and neurophysiological biomarkers of lower motor neuron dysfunction in ALS.\n\nMETHODS: This study included 96 ALS participants and 53 participants with ALS-mimicking disorders. All participants underwent serum NfL measurement using a single-molecule array (Simoa) assay, together with peripheral neurophysiological assessment, including ulnar nerve FFP, compound muscle action potential (CMAP), near-field potential (NFP), split-hand index (SI), and neurophysiological index (NI).\n\nRESULTS: FFP amplitude was reduced in ALS (5.0 ± 3.0 mV) compared with non-ALS participants (7.9 ± 3.2 mV; p < 0.001). Similar reductions were observed for NFP and CMAP amplitudes (p < 0.001). Serum NfL was higher in ALS participants (72.5 pg/mL, IQR 46.5-113.5) compared to ALS-mimicking controls (14 pg/mL, IQR 9-19; p < 0.001). Serum NfL showed weak negative correlations with CMAP (ρ = - 0.23, p = 0.03) and NFP amplitudes (ρ = -0.28, p = 0.01), but no significant correlation with FFP amplitude, SI or NI. After adjusting for disease duration and functional impairment on multiple linear regression, neither CMAP nor NFP amplitudes independently predicted serum NfL levels.\n\nCONCLUSION: Serum NfL is elevated in ALS and weakly associated with CMAP and NFP amplitudes. The absence of a statistically significant correlation with FFP suggests that these biomarkers may capture distinct aspects of disease biology.\n\nSIGNIFICANCE: Serum NfL and FFP amplitude may provide complementary diagnostic information in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "CMAP",
+        "Far-field potential",
+        "Near-field potential",
+        "Neurofilament light chain"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42875948",
+      "event_key": "pubmed:42875948",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Ethical Dilemmas in Predictive Testing for Monozygotic Twins With Hereditary ALS: A Clinical Case Report.",
+      "authors": [
+        "Miranda Li",
+        "Ashley White",
+        "Karen Canales",
+        "Nellie Fotopoulos"
+      ],
+      "journal": "Journal of genetic counseling",
+      "publication_date": "2026-10-01",
+      "pmid": "42875948",
+      "doi": "10.1002/jgc4.70307",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875948/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder typically presenting in midlife and leading to death within 2-5 years of onset. Pathogenic SOD1 variants, inherited in an autosomal dominant manner, account for approximately 20% of hereditary ALS cases. Predictive genetic testing in SOD1-related ALS presents unique ethical challenges, particularly in monozygotic twins who share identical genetic information but hold differing views about testing. We describe an 18-year-old monozygotic twin who requested predictive testing for the familial SOD1 pathogenic variant identified in her father, who died from ALS at age 40. This conferred a 50% a priori risk to both twins. One twin had long expressed the desire to know her genetic status, while the other preferred not to pursue testing. Because a positive result in one twin would automatically reveal the status of the other, the case raised ethical tensions surrounding autonomy, beneficence, non-maleficence, and justice. Institutional ethics consultation and peer supervision were used to navigate these competing ethical imperatives and provided initial recommendations and direction. Additional valuable insights were gained through a peer-supervision framework that brought together genetic counselors across varying levels of experience and specialties. These discussions informed our ethical assessment and supported the decision to proceed with predictive testing, as the benefits were ultimately deemed to outweigh the potential risks. Testing identified the familial SOD1 pathogenic variant, which was disclosed to the patient and her family. Her twin subsequently elected to undergo confirmatory testing and received comprehensive genetic counseling and psychosocial support. Ethical complexities surrounding predictive genetic testing in monozygotic twins with hereditary neurodegenerative diseases, such as ALS, require careful balancing of autonomy, beneficence, non-maleficence, and justice. Structured peer supervision is essential for working through ethical uncertainty, guiding sound clinical decisions, and supporting patient-centered care.",
+      "mesh_terms": [
+        "Humans",
+        "Twins, Monozygotic",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Ethical Dilemmas",
+        "Genetic Testing",
+        "Adolescent",
+        "Superoxide Dismutase-1",
+        "Genetic Counseling",
+        "Male"
+      ],
+      "keywords": [
+        "ALS",
+        "ethical dilemma",
+        "genetic testing in twins",
+        "predictive genetic testing"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
       "id": "42871488",
       "event_key": "pubmed:42871488",
       "source_id": "pubmed",
@@ -2773,7 +3141,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42864787",
@@ -2803,7 +3171,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42864786",
@@ -2832,7 +3200,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42862029",
@@ -3439,6 +3807,37 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42876567",
+      "event_key": "pubmed:42876567",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Handling missed dose of riluzole by population pharmacokinetic model informed remedial regimen.",
+      "authors": [
+        "Changlong Liu",
+        "Qing Tang",
+        "Lingyan Yu",
+        "Zhenwei Yu"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2026-09-30",
+      "pmid": "42876567",
+      "doi": "10.3389/fphar.2026.1890355",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876567/",
+      "abstract": "BACKGROUND: Patients with amyotrophic lateral sclerosis (ALS) frequently exhibit nonadherence characterized by delayed or missed doses while taking riluzole. This study aimed to provide a population pharmacokinetic (PPK) model informed individualized remedial regimens for patients who experience delayed or missed doses of riluzole.\n\nMETHODS: A PPK model for riluzole was developed via a nonlinear mixed-effect modeling approach based on 3,024 concentration-time points from 72 subjects. The final model was validated by multiple methods. Six remedial regimens for missed doses were simulated for concentration-time profiles under different scenarios, and the optimal remedial regimen was selected based on the least time of concentration beyond the normal range.\n\nRESULTS: The PPK model of riluzole was best described with a two-compartment model with body weight as a covariate of peripheral distribution volume. The typical values of CL/F, Vc/F, Vp/F and Q were 67 L/h, 242 L, 376 L and 33.1 L/h, respectively. The model was showed acceptable performance by goodness-of-fit, visual predictive check, bootstrap analysis and normalized distribution prediction errors. Model-based remedial regimens for different missed scenarios were proposed.\n\nCONCLUSION: A riluzole PPK model was developed and internally evaluated using multiple diagnostic approaches. Model-based remedial dosing strategies for different missed-dose scenarios were identified based on predefined PK criteria and Monte Carlo simulations. These exploratory strategies provide quantitative insights into riluzole exposure during nonadherent dosing conditions.",
+      "mesh_terms": [],
+      "keywords": [
+        "adherence",
+        "population pharmacokinetic",
+        "remedial dosing",
+        "riluzole",
+        "simulation"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
       "id": "42860740",
       "event_key": "pubmed:42860740",
       "source_id": "pubmed",
@@ -3708,7 +4107,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42857254",
@@ -3925,7 +4324,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42856205",
@@ -8071,7 +8470,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42818787",
@@ -8523,7 +8922,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42791674",
@@ -9343,7 +9742,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42831057",
@@ -11288,7 +11687,7 @@
       ],
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42864293",
@@ -11341,7 +11740,7 @@
       ],
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
-      "last_seen_at": "2026-10-15T05:01:49Z"
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42782554",
@@ -11428,6 +11827,39 @@
       "last_seen_at": "2026-09-21T05:18:38Z"
     },
     {
+      "id": "42877417",
+      "event_key": "pubmed:42877417",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Exploring potential genetic correlation and causality between cathepsins and neurodegenerative diseases: Insight from Mendelian randomization analyses.",
+      "authors": [
+        "Hui Shu",
+        "Rongmao He",
+        "Ziting Zhu",
+        "Wenlong Zhang",
+        "Pingyi Xu"
+      ],
+      "journal": "Journal of Alzheimer's disease reports",
+      "publication_date": "2026-04-02",
+      "pmid": "42877417",
+      "doi": "10.1177/25424823261437791",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877417/",
+      "abstract": "BACKGROUND: Previous research has exhibited a potential association between cathepsins and neurodegenerative diseases (NDDs). Nevertheless, the causal relationships between cathepsins and different types of NDDs remain inadequately clear.\n\nOBJECTIVE: We aim to explore the genetically correlation and causality between 4 NDDs and 9 cathepsins based on genome-wide association study platform.\n\nMETHODS: Cathepsin B, E, F, G, H, L2, O, S, and Z and four NDDs types, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and dementia with Lewy bodies, were obtained from large-scale genome-wide summary data. To explore potential interactive roles of these cathepsins in the pathogenesis of NDDs, we applied two-sample bidirectional univariable Mendelian randomization (MR) and multivariable MR, with inverse variance weighting as the primary statistical approach.\n\nRESULTS: The univariable MR analysis revealed one positive and two negative causal effects between genetic liability in nine cathepsins and four NDDs. Reverse univariable MR analysis identified one negative causal link. Furthermore, the multivariable MR analysis not only confirmed two significant associations observed in the univariable analysis but also revealed a new positive effect.\n\nCONCLUSIONS: Our findings demonstrate that several cathepsins are causally associated with different NDDs, offering new insights into the underlying mechanisms of neurodegeneration. These results may contribute to the development of novel diagnostic and therapeutic strategies for managing neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "Parkinson's disease",
+        "amyotrophic lateral sclerosis",
+        "cathepsin",
+        "dementia with Lewy bodies",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
       "id": "42799464",
       "event_key": "pubmed:42799464",
       "source_id": "pubmed",
@@ -11471,6 +11903,41 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "42880848",
+      "event_key": "pubmed:42880848",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "DNA methylation in motor neuron biology and epigeneticopathy in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Lee J Martin"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "42880848",
+      "doi": "10.1016/B978-0-443-19043-8.00014-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880848/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS), the 3rd most frequent neurodegenerative disease, is fatal. Skeletal muscles, neuromuscular junctions, and motor neurons in the cerebral cortex, brainstem, and spinal cord that control swallowing, breathing, and movement degenerate, causing paralysis, respiratory arrest, and death. Clinically meaningful disease mechanisms are unknown, and no effective therapies are available. ALS is a polygenic heterogeneous disease seen in 5%-10% of patients as inherited, but most patients have no inheritance pattern. ALS appears to manifest as a complex interplay between many genes in multiple tissues, individual lifestyle, the environment, and metabolism. Monozygotic twin and triplet studies of ALS suggest that epigenetic mechanisms could be involved in the pathogenesis because discordance is seen. Epigenetic anomalies involving DNA and RNA methylation occur in human ALS. Cell and animal models show that motor neuron development and degeneration can be regulated by DNA methylation. This chapter summarizes the DNA and RNA epigenetic anomalies that are prominent in human ALS and models of ALS, concluding with the suggestion that they are promising therapeutic targets with small molecules.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Motor Neurons",
+        "DNA Methylation",
+        "Animals",
+        "Epigenesis, Genetic"
+      ],
+      "keywords": [
+        "6-Methyladenosine",
+        "Cytosine methylation",
+        "DNMT3A",
+        "Motor neuron",
+        "RNA demethylase"
+      ],
+      "collected_at": "2026-10-16T04:51:28Z",
+      "first_seen_at": "2026-10-16T04:51:28Z",
+      "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
       "id": "42814303",
