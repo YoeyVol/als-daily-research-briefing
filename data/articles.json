@@ -1,19 +1,14 @@
 {
-  "updated_at": "2026-10-16T04:51:29Z",
+  "updated_at": "2026-10-17T04:52:23Z",
   "new_keys": [
-    "pubmed:42879493",
-    "pubmed:42880988",
-    "pubmed:42880226",
-    "pubmed:42879383",
-    "pubmed:42878739",
-    "pubmed:42875680",
-    "pubmed:42877817",
-    "pubmed:42880056",
-    "pubmed:42879998",
-    "pubmed:42875948",
-    "pubmed:42876567",
-    "pubmed:42877417",
-    "pubmed:42880848"
+    "pubmed:42885660",
+    "pubmed:42886553",
+    "pubmed:42883328",
+    "pubmed:42883433",
+    "pubmed:42883264",
+    "pubmed:42882496",
+    "pubmed:42882466",
+    "pubmed:42883851"
   ],
   "items": [
     {
@@ -60,6 +55,82 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42885660",
+      "event_key": "pubmed:42885660",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Salivary Dim-Light Melatonin Onset is Associated with Functional Decline, Respiratory Symptom Emergence, and Survival in Early Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Alessandro Bombaci",
+        "Antonella Iadarola",
+        "Alessia Giraudo",
+        "Elisa Fattori",
+        "Serena Sinagra",
+        "Alice Magnino",
+        "Maria Falbo",
+        "Giovanni De Marco",
+        "Andrea Calvo",
+        "Adriano Chiò",
+        "Alessandro Cicolin"
+      ],
+      "journal": "Annals of neurology",
+      "publication_date": "2026-10-16",
+      "pmid": "42885660",
+      "doi": "10.1002/ana.78398",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885660/",
+      "abstract": "OBJECTIVE: Sleep-wake and circadian disturbances are increasingly recognized in people living with amyotrophic lateral sclerosis (plwALS), but endogenous circadian phase timing and its prognostic significance in early disease remain unclear. We assessed whether salivary dim-light melatonin onset (DLMO), an objective marker of central circadian phase, is altered in early plwALS and whether it provides prognostic information.\n\nMETHODS: In this prospective longitudinal observational study, plwALS within 18 months of symptom onset underwent home-based salivary melatonin sampling under dim-light conditions at 6 predefined time points around habitual sleep onset. Melatonin profiles were modeled using cubic smoothing splines, and DLMO was defined when the fitted curve first reached 3 pg/ml. Clinical, respiratory, and sleep assessments were collected at baseline (T0) and after 6 months (T6); a subgroup repeated saliva sampling at T6. Age- and sex-matched controls underwent melatonin profiling. Associations with disease progression, incident respiratory symptoms, and survival/tracheostomy were examined using regressions and survival analyses.\n\nRESULTS: A total of 50 plwALS were enrolled. Compared with controls, plwALS showed an earlier DLMO (20:24 ± 1:18 vs 20:58 ± 0:50; p = 0.028) despite similar habitual sleep onset and chronotype. Within ALS cohort, a later baseline DLMO correlated with worse functional/motor status, faster progression of disease, incident dyspnea/orthopnea by T6 (adjusted OR 3.11; p = 0.019), and poorer survival/tracheostomy-free outcome. In the resampled subgroup (n = 28), DLMO and melatonin-derived metrics did not change over ~6 months.\n\nINTERPRETATION: Circadian phase alterations are detectable in early ALS. Baseline DLMO showed exploratory associations with functional, respiratory, and survival outcomes. Larger independent cohorts are required before DLMO can be considered a validated prognostic biomarker. ANN NEUROL 2026.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
+      "id": "42886553",
+      "event_key": "pubmed:42886553",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ataxin-2 downregulation rewires neuronal and astrocytic metabolism to protect against TDP-43 toxicity.",
+      "authors": [
+        "Denise Gastaldo",
+        "Stephen Vito",
+        "Holly H Black",
+        "Oded Foreman",
+        "Zhichang Yang",
+        "Victoria Pham",
+        "Ying Zhu",
+        "Meena Choi",
+        "Ana Jovičić"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2026-10-15",
+      "pmid": "42886553",
+      "doi": "10.1016/j.celrep.2026.118053",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886553/",
+      "abstract": "Ataxin-2 (ATXN2) is a genetic modifier of TDP-43 toxicity and a promising therapeutic target in amyotrophic lateral sclerosis (ALS). However, the mechanisms underlying its neuroprotective effects remain poorly understood. Using global proteomic profiling in yeast and mouse TDP-43 models, we establish that pbp1/ataxin-2 (pbp1 is the yeast ataxin-2 ortholog) reduction confers neuroprotection by activating orthogonal stress-adaptive pathways in neurons and glia, rather than simply reversing TDP-43-induced damage. In neurons, ataxin-2 downregulation activates glycolysis and reductive glutamine carboxylation driven by IDH1, restoring ATP production independently of impaired mitochondria. In astrocytes, it upregulates cholesterol biosynthesis via HMGCS1, enhancing trophic support to neurons. Full neuroprotection requires both mechanisms: neuronal survival is only completely rescued when ataxin-2 is reduced in neuron-astrocyte co-cultures. Importantly, ataxin-2 downregulation protects against both TDP-43 gain- and loss-of-function toxicity, broadening its therapeutic relevance. Collectively, these findings establish ataxin-2 as a regulator of stress-adaptive metabolic resilience.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "ALS therapy",
+        "CP: metabolism",
+        "CP: neuroscience",
+        "TDP-43",
+        "ataxin-2",
+        "cholesterol",
+        "glutamine reductive carboxylation",
+        "glycolysis",
+        "mechanisms of neuroprotection",
+        "neurodegeneration",
+        "neuronal metabolism",
+        "neuroprotection"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
       "id": "42880988",
       "event_key": "pubmed:42880988",
       "source_id": "pubmed",
@@ -85,7 +156,7 @@
       "keywords": [],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42880226",
@@ -128,7 +199,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42879493",
@@ -180,7 +251,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42879383",
@@ -210,7 +281,7 @@
       "keywords": [],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42878739",
@@ -239,7 +310,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42875680",
@@ -285,7 +356,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42875203",
@@ -329,7 +400,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42877817",
@@ -363,7 +434,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42874698",
@@ -402,7 +473,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42873357",
@@ -440,7 +511,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42869990",
@@ -480,7 +551,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42880056",
@@ -515,7 +586,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42873683",
@@ -547,7 +618,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42872742",
@@ -580,7 +651,7 @@
       "keywords": [],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42869255",
@@ -1854,6 +1925,56 @@
       "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
+      "id": "42883328",
+      "event_key": "pubmed:42883328",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Bee-Derived Products in Neurodegenerative Diseases: Bioactive Constituents, Redox-Modulating Mechanisms, Evidence, and Translational Perspectives.",
+      "authors": [
+        "Jakub Garbarek",
+        "Oskar Hys",
+        "Alina Woźniak",
+        "Karolina Szewczyk-Golec",
+        "Jarosław Nuszkiewicz"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2026-10-07",
+      "pmid": "42883328",
+      "doi": "10.3390/molecules31193564",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883328/",
+      "abstract": "Oxidative stress, mitochondrial dysfunction, and chronic neuroinflammation are closely interconnected processes involved in the pathogenesis and progression of neurodegenerative diseases. Bee-derived products, including honey, propolis, royal jelly, bee pollen, bee bread, and bee venom, contain diverse bioactive constituents with antioxidant, anti-inflammatory, immunomodulatory, and redox-modulating properties. This narrative review summarizes the major bioactive compounds present in bee-derived products and evaluates their potential relevance to neuroprotection. Particular attention is given to mechanisms involving activation of the Nrf2/ARE antioxidant response, inhibition of NF-κB-dependent inflammatory signaling, modulation of the NLRP3 inflammasome, mitochondrial protection, regulation of apoptosis, and maintenance of proteostasis. Available evidence from cellular and animal models, together with the limited clinical data, is discussed primarily in the context of Alzheimer's and Parkinson's diseases, with additional consideration of amyotrophic lateral sclerosis and other neurodegenerative or neuroinflammatory conditions. Although several bee-derived products and isolated constituents show promising biological effects, their therapeutic translation remains limited by variable chemical composition, insufficient standardization, low or uncertain bioavailability, limited evidence of central nervous system exposure, and safety concerns. Further mechanistic, pharmacokinetic, and well-controlled clinical studies are therefore required before their potential neuroprotective applications can be reliably established.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Oxidation-Reduction",
+        "Antioxidants",
+        "Neuroprotective Agents",
+        "Bees",
+        "Propolis",
+        "Oxidative Stress",
+        "Royal Jelly",
+        "Bee Venoms",
+        "Anti-Inflammatory Agents",
+        "Signal Transduction",
+        "Honey"
+      ],
+      "keywords": [
+        "NF-κB",
+        "Nrf2",
+        "bee-derived products",
+        "neurodegeneration",
+        "neuroinflammation",
+        "neuroprotection",
+        "oxidative stress",
+        "redox signaling"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
       "id": "42865191",
       "event_key": "pubmed:42865191",
       "source_id": "pubmed",
@@ -2093,7 +2214,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42858511",
@@ -2748,6 +2869,41 @@
       "last_seen_at": "2026-10-08T06:31:38Z"
     },
     {
+      "id": "42883433",
+      "event_key": "pubmed:42883433",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Targeting Ferroptosis in Neurodegenerative Diseases: Therapeutic Potential and Mechanistic Insights of Traditional Chinese Medicine.",
+      "authors": [
+        "Pan Li",
+        "Zi-Meng Qi",
+        "Jing-Zhen Wu",
+        "Jia Liu",
+        "Peng Yu"
+      ],
+      "journal": "Biology",
+      "publication_date": "2026-10-02",
+      "pmid": "42883433",
+      "doi": "10.3390/biology15191760",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883433/",
+      "abstract": "Neurodegenerative diseases (NDs), including Alzheimer's disease, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, and multiple sclerosis, are characterized by progressive and irreversible neuronal loss, whereas current treatments remain largely symptomatic. Ferroptosis is an iron-dependent form of regulated cell death whose execution is defined by iron-enabled phospholipid peroxidation and failure of cellular ferroptosis-defense systems. Mitochondrial metabolism can modify ferroptosis susceptibility, but its contribution varies with cell type and initiating stimulus. Converging evidence implicates ferroptosis in multiple NDs, in which affected regions commonly show iron accumulation, glutathione depletion, and increased lipid peroxidation. With their multi-component and multi-target properties, traditional Chinese medicine (TCM) interventions may modulate several nodes in this network. This review summarizes the core execution and defense mechanisms of ferroptosis, evaluates their roles in major NDs, and critically appraises bioactive herbal compounds, compound formulas, acupuncture, electroacupuncture, and moxibustion. The reported interventions mainly engage the Nrf2/GPX4 antioxidant axis, TFR1/FPN1/FTH1/NCOA4-mediated iron handling, ACSL4-dependent lipid peroxidation, and GPX4-independent defense systems. Because most studies are preclinical and many infer ferroptosis from non-specific markers, the evidence is graded here as direct, supportive, indirect, mixed, or complementary. Translation will require standardized formulations, causal ferroptosis validation, pharmacokinetic and brain-exposure data, validated human biomarkers, and rigorously designed clinical trials.",
+      "mesh_terms": [],
+      "keywords": [
+        "Nrf2",
+        "acupuncture",
+        "ferroptosis",
+        "glutathione peroxidase 4",
+        "iron metabolism",
+        "lipid peroxidation",
+        "neurodegenerative diseases",
+        "traditional Chinese medicine"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
       "id": "42861801",
       "event_key": "pubmed:42861801",
       "source_id": "pubmed",
@@ -3036,6 +3192,98 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42883264",
+      "event_key": "pubmed:42883264",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Anti-Neuroinflammatory Effects of Cardenolides in IL-1β-Activated SK-N-SH Cells.",
+      "authors": [
+        "Lu Sun",
+        "Matthias Apweiler",
+        "Rami Schulzki",
+        "Christoph W Grathwol",
+        "Claus Normann",
+        "Stefan Bräse",
+        "Bernd L Fiebich"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2026-10-01",
+      "pmid": "42883264",
+      "doi": "10.3390/molecules31193501",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883264/",
+      "abstract": "Neuroinflammation is a key feature of neurological disorders such as Alzheimer's or Parkinson's disease, depression or amyotrophic lateral sclerosis. This study investigates the anti-neuroinflammatory effects of three cardenolide derivatives, digitoxigenin, digitoxigenone, and coroglaucigenin (all at concentrations of 1, 5, 10, and 25 µM), in IL-1β-stimulated human neuroblastoma SK-N-SH cells. All compounds significantly reduced PGE2 production without affecting cell viability by downregulation of cyclooxygenase (COX)-2 and microsomal prostaglandin E synthases (mPGES)-1 expression and synthesis. Among them, digitoxigenin notably inhibited phosphorylation of p38 mitogen-activated protein kinase (MAPK) and nuclear factor-kappa B (NF-κB) and suppressed interleukin (IL)-6 and IL-8 expression and release. These findings demonstrate that cardenolide derivatives exert potent anti-neuroinflammatory effects by at least partially targeting key enzymes of the arachidonic acid pathway and modulating MAPK/NF-κB signaling, highlighting their potential as novel therapeutic candidates for neuroinflammatory diseases. Future research should focus on effects of the cardenolides in mixed-cell cultures, organoids and in vivo experiments, to evaluate possible side effects and the potential in disease models.",
+      "mesh_terms": [
+        "Humans",
+        "Interleukin-1beta",
+        "Anti-Inflammatory Agents",
+        "NF-kappa B",
+        "Cardenolides",
+        "Cyclooxygenase 2",
+        "Cell Line, Tumor",
+        "Dinoprostone",
+        "p38 Mitogen-Activated Protein Kinases",
+        "Signal Transduction",
+        "Cell Survival",
+        "Neuroinflammatory Diseases",
+        "Interleukin-6",
+        "Prostaglandin-E Synthases"
+      ],
+      "keywords": [
+        "IL-1β",
+        "SK-N-SH",
+        "cardenolides",
+        "coroglaucigenin",
+        "digitoxigenin",
+        "digitoxigenone",
+        "neuroinflammation"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
+      "id": "42882496",
+      "event_key": "pubmed:42882496",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Motor Neuron Disease in a Dish: The Power of Human Induced Pluripotent Stem Cell-Derived Spinal Motor Neurons and Glial Cells.",
+      "authors": [
+        "Martina Morrone",
+        "Chiara F Valori",
+        "Liliana Brambilla",
+        "Daniela Rossi"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-10-01",
+      "pmid": "42882496",
+      "doi": "10.3390/cells15191798",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882496/",
+      "abstract": "Induced pluripotent stem cells (iPSCs) have revolutionized disease modelling by providing unprecedented opportunities to investigate complex human disorders. Among others, Amyotrophic Lateral Sclerosis (ALS), the most common adult-onset motor neuron disease, clearly embodies this complexity. This disorder remains particularly challenging not only because of its marked clinical and molecular heterogeneity but also as a consequence of the composite interactions between motor neurons and the neighboring non-neuronal cells, especially astrocytes, which contribute to disease progression. The ability to generate patient-specific spinal motor neurons and astrocytes from human iPSCs has enabled the development of in vitro models that recapitulate key pathological features of ALS, offering valuable platforms to investigate disease mechanisms, to identify therapeutic targets, and to support personalized medicine approaches. In this review, we summarize current iPSC-based strategies for modelling ALS, highlighting their applications in studying disease physiopathology and drug development. In addition, advanced human iPSC-derived technologies, including organoids and organ-on-a-chip systems, are discussed highlighting their potential, current limitations, and future perspectives.",
+      "mesh_terms": [
+        "Humans",
+        "Induced Pluripotent Stem Cells",
+        "Motor Neurons",
+        "Neuroglia",
+        "Motor Neuron Disease",
+        "Amyotrophic Lateral Sclerosis",
+        "Animals",
+        "Cell Differentiation",
+        "Astrocytes"
+      ],
+      "keywords": [
+        "Amyotrophic Lateral Sclerosis",
+        "astrocytes",
+        "in vitro models",
+        "induced pluripotent stem cells",
+        "motor neurons"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
       "id": "42879998",
       "event_key": "pubmed:42879998",
       "source_id": "pubmed",
@@ -3071,7 +3319,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42875948",
@@ -3112,7 +3360,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42871488",
@@ -3141,7 +3389,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42864787",
@@ -3835,7 +4083,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42860740",
@@ -4065,6 +4313,52 @@
       "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
+      "id": "42882466",
+      "event_key": "pubmed:42882466",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Human iPSC-Derived Brain Cells, Organoids, and Organoids-on-Chips: Advancing Neurological Disease Modeling to Improve Clinical Outcome.",
+      "authors": [
+        "Gabriel Burdman",
+        "Marco Hanna",
+        "Adriana Yndart Arias",
+        "Arti Vashist",
+        "Madepalli K Lakshmana"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-09-29",
+      "pmid": "42882466",
+      "doi": "10.3390/cells15191768",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882466/",
+      "abstract": "Neurological disorders are the leading cause of overall disease and disability worldwide, affecting more than 3.4 billion people globally and over 180 million Americans. Yet there are no curative treatments available for any of the cardinal neurological diseases, such as Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis-frontotemporal dementia (ALS-FTD) and Huntington's disease (HD). Many compounds that demonstrate excellent activity in preclinical models fail in clinical trials. The most compelling reason for this failure is attributed to inherent limitations of rodent models that fail to replicate complex human biology. The transformation of patient-derived somatic cells into induced pluripotent stem cells (iPSCs) that can become functional human neurons is an emerging technology that is expected to revolutionize medical treatments and personal medicine. Here, we review the available evidence for the efficacy of iPSC-derived neurons, organoids, assembloids and organ-on-chip in models of AD, PD, ALS-FTD and HD. We focus on how these human-relevant iPSC-derived brain cells are crucial for understanding neurological disease pathogenesis and accelerating drug discovery. We also discuss the current limitations of this technology and how alternative models such as induced neurons (iNs) are generated by directly reprogramming fibroblasts that preserve age-associated epigenetic signatures and may serve as better models for neurological disorders.",
+      "mesh_terms": [
+        "Humans",
+        "Induced Pluripotent Stem Cells",
+        "Brain",
+        "Organoids",
+        "Nervous System Diseases",
+        "Animals",
+        "Microphysiological Systems",
+        "Neurons",
+        "Models, Biological"
+      ],
+      "keywords": [
+        "Alzheimer’s disease",
+        "CRISPR",
+        "Huntington’s disease",
+        "Parkinson’s disease",
+        "amyotrophic lateral sclerosis",
+        "assembloids",
+        "human induced pluripotent stem cells",
+        "organoids",
+        "translational validation"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
       "id": "42872064",
       "event_key": "pubmed:42872064",
       "source_id": "pubmed",
@@ -4107,7 +4401,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42857254",
@@ -4725,6 +5019,63 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-29T06:01:55Z"
+    },
+    {
+      "id": "42883851",
+      "event_key": "pubmed:42883851",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Phenotypic Profiling of SOD1-G93A Mice: Integrating Sciatic Nerve Histopathology with Systemic Chemokine Dynamics During ALS Progression.",
+      "authors": [
+        "Ekaterina Martynova",
+        "Marat Mukhamedyarov",
+        "Emmanuel Kabwe",
+        "Svatlana Khaiboullina",
+        "Owen Simwalangana",
+        "Maria Markelova",
+        "Albert Rizvanov",
+        "Svetlana Arkhipova",
+        "Ilnur Salafutdinov"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-09-25",
+      "pmid": "42883851",
+      "doi": "10.3390/ijms27198604",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883851/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disorder characterized by the progressive loss of motor neurons, leading to muscle atrophy and fatal respiratory failure. While neuroinflammation is a hallmark of ALS, the temporal and spatial relationship between systemic inflammation and peripheral nerve degeneration remains poorly understood. In the present study, the transgenic SOD1-G93A mouse model was employed to conduct a longitudinal analysis of amyotrophic lateral sclerosis (ALS) progression. We integrated morphometric and ultrastructural examinations of the sciatic nerve with immunofluorescent profiling of the spinal cord (GFAP, IBA1, NG2). In addition, cytokine and chemokine dynamics were analyzed using 33-plex multiplex assay in the serum at various stages of the disease. Histological analysis revealed a progressive decline in myelin fiber density within the sciatic nerve and axonal death. As the disease progressed, Schwann cells exhibited morphological features consistent with a pro-fibrotic shift, as suggested by collagen accumulation observed on TEM. However, direct confirmation of a fibrotic phenotype requires additional markers (e.g., Col I/III, α-SMA, TGF-β) and was not assessed in this study. Significant motor neuron loss and robust glial activation were demonstrated in the spinal cord. Blood plasma analysis identified a coordinated systemic up-regulation of MCP-3, Eotaxin, CTACK, and TECK. There was lack of inflammatory cell infiltration in the peripheral nerve tissues. Our results indicate that ALS-associated peripheral nerve degeneration in the SOD1-G93A mice model is primarily a degenerative process characterized by early demyelination and without leukocyte infiltration. However, increased levels of MCP-3, Eotaxin, CTACK, and TECK are associated with disease progression and may reflect ongoing central neuroinflammation. While these changes are temporally consistent with blood-spinal cord barrier dysfunction reported in SOD1 mice, direct assessment of barrier integrity was not performed in this study. These data highlight the potential of blood chemokines as step biomarkers and highlight the compartmental nature of inflammation in ALS, where systemic immune changes do not necessarily equate to local inflammation in the peripheral nerve.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Sciatic Nerve",
+        "Mice",
+        "Mice, Transgenic",
+        "Chemokines",
+        "Disease Models, Animal",
+        "Disease Progression",
+        "Superoxide Dismutase-1",
+        "Spinal Cord",
+        "Motor Neurons",
+        "Phenotype",
+        "Cytokines",
+        "Superoxide Dismutase"
+      ],
+      "keywords": [
+        "SOD1-G93A mice",
+        "amyotrophic lateral sclerosis",
+        "astrocytes",
+        "cytokine multiplex analysis",
+        "demyelination",
+        "microglial cells",
+        "myelin fibers",
+        "neurodegeneration",
+        "peripheral nerve",
+        "spinal cord",
+        "ultrastructural analysis"
+      ],
+      "collected_at": "2026-10-17T04:52:22Z",
+      "first_seen_at": "2026-10-17T04:52:22Z",
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42852066",
@@ -9742,7 +10093,7 @@
       ],
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42831057",
@@ -11857,7 +12208,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42799464",
@@ -11937,7 +12288,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-16T04:51:28Z"
+      "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
       "id": "42814303",

@@ -1,9 +1,108 @@
 {
-  "updated_at": "2026-10-16T04:51:29Z",
+  "updated_at": "2026-10-17T04:52:23Z",
   "new_keys": [
-    "clinicaltrials:NCT07875972:2026-10-15"
+    "clinicaltrials:NCT05003921:2026-10-16",
+    "clinicaltrials:NCT07287397:2026-10-16",
+    "clinicaltrials:NCT03225144:2026-10-16",
+    "clinicaltrials:NCT07871071:2026-10-16"
   ],
   "items": [
+    {
+      "id": "NCT07871071",
+      "event_key": "clinicaltrials:NCT07871071:2026-10-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07871071",
+      "title": "Brain-Computer Interface Communication Device for People With ALS",
+      "sponsor": "Cognixion",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Cognixion ONE AR-BCI configuration",
+        "Device: Cognixion ONE screen-based BCI configuration",
+        "Device: Existing eye-gaze speech generating device"
+      ],
+      "start_date": "2026-11-15",
+      "last_update_date": "2026-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT07871071",
+      "collected_at": "2026-10-17T04:52:23Z",
+      "first_seen_at": "2026-10-14T05:15:02Z",
+      "last_seen_at": "2026-10-17T04:52:23Z"
+    },
+    {
+      "id": "NCT07287397",
+      "event_key": "clinicaltrials:NCT07287397:2026-10-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07287397",
+      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
+      "sponsor": "Vector Y Therapeutics",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Genetic: VTx-002",
+        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
+      ],
+      "start_date": "2025-12-19",
+      "last_update_date": "2026-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT07287397",
+      "collected_at": "2026-10-17T04:52:23Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-10-17T04:52:23Z"
+    },
+    {
+      "id": "NCT05003921",
+      "event_key": "clinicaltrials:NCT05003921:2026-10-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05003921",
+      "title": "Safety of Cultured Allogeneic Adult Umbilical Cord or Placental Derived Mesenchymal Stem Cell Intrathecal Injection for ALS",
+      "sponsor": "The Foundation for Orthopaedics and Regenerative Medicine",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "WITHDRAWN",
+      "intervention": [
+        "Biological: cultured allogeneic adult umbilical cord or placental derived mesenchymal stem cells"
+      ],
+      "start_date": "2025-12",
+      "last_update_date": "2026-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT05003921",
+      "collected_at": "2026-10-17T04:52:23Z",
+      "first_seen_at": "2026-10-17T04:52:23Z",
+      "last_seen_at": "2026-10-17T04:52:23Z"
+    },
+    {
+      "id": "NCT03225144",
+      "event_key": "clinicaltrials:NCT03225144:2026-10-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03225144",
+      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2017-10-11",
+      "last_update_date": "2026-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT03225144",
+      "collected_at": "2026-10-17T04:52:23Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-10-17T04:52:23Z"
+    },
     {
       "id": "NCT07875972",
       "event_key": "clinicaltrials:NCT07875972:2026-10-15",
@@ -25,7 +124,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07875972",
       "collected_at": "2026-10-16T04:51:29Z",
       "first_seen_at": "2026-10-16T04:51:29Z",
-      "last_seen_at": "2026-10-16T04:51:29Z"
+      "last_seen_at": "2026-10-17T04:52:23Z"
     },
     {
       "id": "NCT07674667",
@@ -50,32 +149,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07674667",
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-16T04:51:29Z"
-    },
-    {
-      "id": "NCT07871071",
-      "event_key": "clinicaltrials:NCT07871071:2026-10-13",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07871071",
-      "title": "Brain-Computer Interface Communication Device for People With ALS",
-      "sponsor": "Cognixion",
-      "phase": [
-        "NA"
-      ],
-      "recruitment_status": "NOT_YET_RECRUITING",
-      "intervention": [
-        "Device: Cognixion ONE AR-BCI configuration",
-        "Device: Cognixion ONE screen-based BCI configuration",
-        "Device: Existing eye-gaze speech generating device"
-      ],
-      "start_date": "2026-11-15",
-      "last_update_date": "2026-10-13",
-      "url": "https://clinicaltrials.gov/study/NCT07871071",
-      "collected_at": "2026-10-14T05:15:02Z",
-      "first_seen_at": "2026-10-14T05:15:02Z",
-      "last_seen_at": "2026-10-16T04:51:29Z"
+      "last_seen_at": "2026-10-17T04:52:23Z"
     },
     {
       "id": "NCT07161999",
@@ -1080,29 +1154,6 @@
       "last_seen_at": "2026-09-20T05:15:34Z"
     },
     {
-      "id": "NCT03225144",
-      "event_key": "clinicaltrials:NCT03225144:2026-09-17",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT03225144",
-      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2017-10-11",
-      "last_update_date": "2026-09-17",
-      "url": "https://clinicaltrials.gov/study/NCT03225144",
-      "collected_at": "2026-09-18T05:02:59Z",
-      "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-09-20T05:15:34Z"
-    },
-    {
       "id": "NCT07823101",
       "event_key": "clinicaltrials:NCT07823101:2026-09-16",
       "source_id": "clinicaltrials_gov",
@@ -1359,31 +1410,6 @@
       "start_date": "2026-10-01",
       "last_update_date": "2026-09-10",
       "url": "https://clinicaltrials.gov/study/NCT07325591",
-      "collected_at": "2026-09-15T23:48:32Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-09-15T23:48:32Z"
-    },
-    {
-      "id": "NCT07287397",
-      "event_key": "clinicaltrials:NCT07287397:2026-09-10",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07287397",
-      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
-      "sponsor": "Vector Y Therapeutics",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Genetic: VTx-002",
-        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
-      ],
-      "start_date": "2025-12-19",
-      "last_update_date": "2026-09-10",
-      "url": "https://clinicaltrials.gov/study/NCT07287397",
       "collected_at": "2026-09-15T23:48:32Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-09-15T23:48:32Z"
