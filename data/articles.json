@@ -1,14 +1,8 @@
 {
-  "updated_at": "2026-10-17T04:52:23Z",
+  "updated_at": "2026-10-18T04:59:29Z",
   "new_keys": [
-    "pubmed:42885660",
-    "pubmed:42886553",
-    "pubmed:42883328",
-    "pubmed:42883433",
-    "pubmed:42883264",
-    "pubmed:42882496",
-    "pubmed:42882466",
-    "pubmed:42883851"
+    "pubmed:42889786",
+    "pubmed:42891488"
   ],
   "items": [
     {
@@ -55,6 +49,38 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42891488",
+      "event_key": "pubmed:42891488",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Registry Forge: an open-source end-to-end pipeline for patient-directed SMART on FHIR registries.",
+      "authors": [
+        "Danielle Boyce",
+        "Alan Premasiri",
+        "Shawn Sullivan",
+        "Beth Levine",
+        "Fernando G Vieira"
+      ],
+      "journal": "JAMIA open",
+      "publication_date": "2026-10-16",
+      "pmid": "42891488",
+      "doi": "10.1093/jamiaopen/ooag200",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891488/",
+      "abstract": "OBJECTIVES: Patient-directed SMART on FHIR lets registries acquire longitudinal electronic health record data, but the payload requires substantial engineering before use. We present Registry Forge, an open-source pipeline that converts it into curation-ready outputs.\n\nMATERIALS AND METHODS: Registry Forge parses C-CDA, HTML, RTF, PDF, and FHIR inputs, joins records to a canonical identifier, and emits a browser dashboard, an OMOP CDM v5.4 data set, GA4GH Phenopackets v2, a code inventory, and disease-specific narrative extractions.\n\nRESULTS: Applied to the ALS Research Collaborative Study (94 participants, 56 US health systems), it processed 22 686 files and 1791 FHIR Bundles (109 599 resources); only 15.0% of files were full C-CDA XML; HTML (48.4%) and RTF (34.3%) predominated.\n\nDISCUSSION: Payloads are far more heterogeneous than often assumed; the architecture is designed for extension, though generalizability remains to be demonstrated.\n\nCONCLUSION: Registry Forge closes the gap between acquisition and curation-ready data with no server infrastructure and is openly available.",
+      "mesh_terms": [],
+      "keywords": [
+        "Hl7",
+        "SMART on FHIR",
+        "amyotrophic lateral sclerosis",
+        "electronic health records",
+        "patient registries"
+      ],
+      "collected_at": "2026-10-18T04:59:29Z",
+      "first_seen_at": "2026-10-18T04:59:29Z",
+      "last_seen_at": "2026-10-18T04:59:29Z"
+    },
+    {
       "id": "42885660",
       "event_key": "pubmed:42885660",
       "source_id": "pubmed",
@@ -84,7 +110,7 @@
       "keywords": [],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42886553",
@@ -128,7 +154,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42880988",
@@ -156,7 +182,7 @@
       "keywords": [],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42880226",
@@ -199,7 +225,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42879493",
@@ -251,7 +277,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42879383",
@@ -281,7 +307,7 @@
       "keywords": [],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42878739",
@@ -310,7 +336,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42875680",
@@ -356,7 +382,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42875203",
@@ -434,7 +460,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42874698",
@@ -586,7 +612,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42873683",
@@ -1972,7 +1998,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42865191",
@@ -2509,6 +2535,45 @@
       "last_seen_at": "2026-10-09T06:32:42Z"
     },
     {
+      "id": "42889786",
+      "event_key": "pubmed:42889786",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Global epidemiological and genetic burden of rare neurological diseases in children.",
+      "authors": [
+        "Zhihao Xie",
+        "Chengyue Sun",
+        "Wei Liang",
+        "Xiuli Zhao",
+        "Long Miao",
+        "Xingbo Liu",
+        "Yanyu Lu",
+        "Chang Liu",
+        "Zihan Yin",
+        "Jinliang Li",
+        "Zhiying Xie"
+      ],
+      "journal": "iScience",
+      "publication_date": "2026-10-05",
+      "pmid": "42889786",
+      "doi": "10.1016/j.isci.2026.117791",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889786/",
+      "abstract": "We assessed the global burden of rare childhood neurological diseases from 1990 to 2021 and projected trends to 2050 using Global Burden of Disease data, alongside an analysis of the genetic burden from ClinVar. Four neurological conditions were classified as rare childhood neurological diseases: motor neuron disease, multiple sclerosis, neuroblastoma and other peripheral nervous cell tumors, and other neurological disorders. From 1990 to 2021, the global age-standardized prevalence and disability-adjusted life-year rates of rare childhood neurological diseases increased, with higher burdens among boys and in low-middle sociodemographic index countries. Our customized forecasting model projected that 110.2 thousand children would be affected by 2050, representing an 11.83% increase from 2021. Annual and cumulative increases in newly reported disease-causing genes and pathogenic/likely pathogenic variants associated with monogenic neurological diseases were observed from 1990 to 2024. The increasing and disparate burden of rare childhood neurological diseases highlights the need for targeted prevention.",
+      "mesh_terms": [],
+      "keywords": [
+        "ClinVar",
+        "GBD",
+        "childhood",
+        "genetic evidence",
+        "global burden",
+        "rare neurological diseases"
+      ],
+      "collected_at": "2026-10-18T04:59:29Z",
+      "first_seen_at": "2026-10-18T04:59:29Z",
+      "last_seen_at": "2026-10-18T04:59:29Z"
+    },
+    {
       "id": "42834122",
       "event_key": "pubmed:42834122",
       "source_id": "pubmed",
@@ -2901,7 +2966,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42861801",
@@ -3240,7 +3305,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42882496",
@@ -3281,7 +3346,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42879998",
@@ -3319,7 +3384,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42875948",
@@ -3360,7 +3425,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42871488",
@@ -4083,7 +4148,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42860740",
@@ -4356,7 +4421,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42872064",
@@ -5075,7 +5140,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42852066",
@@ -12208,7 +12273,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42799464",
@@ -12288,7 +12353,7 @@
       ],
       "collected_at": "2026-10-16T04:51:28Z",
       "first_seen_at": "2026-10-16T04:51:28Z",
-      "last_seen_at": "2026-10-17T04:52:22Z"
+      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "42814303",
