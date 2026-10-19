@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T04:59:29Z",
+  "updated_at": "2026-10-19T05:07:08Z",
   "new_keys": [
-    "pubmed:42889786",
-    "pubmed:42891488"
+    "pubmed:42892517",
+    "pubmed:42891860"
   ],
   "items": [
     {
@@ -49,6 +49,85 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42892517",
+      "event_key": "pubmed:42892517",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Cryo-EM advances in TDP-43 amyloid fibrils structure determination.",
+      "authors": [
+        "Zhengdong Xu",
+        "Xi Chen",
+        "Wenjuan Yi"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-10-17",
+      "pmid": "42892517",
+      "doi": "10.1016/j.nbd.2026.107659",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892517/",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) is a DNA/RNA-binding protein whose pathological aggregation characterizes a spectrum of neurodegenerative disorders known as TDP-43 proteinopathies, including amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), and chronic traumatic encephalopathy (CTE). Recent breakthroughs in cryo-electron microscopy (cryo-EM) have revolutionized our understanding of these diseases by resolving the atomic structures of TDP-43 amyloid fibrils. These structural insights have been pivotal in elucidating the transition from functional liquid-liquid phase separation (LLPS) to irreversible solid-state aggregation. This review synthesizes key cryo-EM findings from 2019 to 2026, encompassing fibrils formed by the full-length low-complexity domain, disease-relevant core fragments, and filaments extracted directly from patient tissues, as well as the pathological implications of distinct structural polymorphs. These findings not only deepen our understanding of the brain science aspects of the pathogenesis of TDP-43 proteinopathies, but also provide an important structural basis for the development of specific conformational diagnostic methods and targeted therapeutic drugs.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyloid",
+        "Brain science",
+        "Cryo-EM",
+        "TDP-43",
+        "TDP-43 proteinopathies"
+      ],
+      "collected_at": "2026-10-19T05:07:07Z",
+      "first_seen_at": "2026-10-19T05:07:07Z",
+      "last_seen_at": "2026-10-19T05:07:07Z"
+    },
+    {
+      "id": "42891860",
+      "event_key": "pubmed:42891860",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Peripheral and cerebrospinal fluid inflammatory markers in sporadic amyotrophic lateral sclerosis an exploratory cross-sectional association study.",
+      "authors": [
+        "Agnieszka Wełnicka-Wesołowska",
+        "Karolina Łuczkowska",
+        "Przemysław Nowacki",
+        "Edyta Paczkowska",
+        "Agnieszka Meller",
+        "Karolina Machowska-Sempruch",
+        "Bogusław Machaliński",
+        "Monika Gołąb-Janowska"
+      ],
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "publication_date": "2026-10-17",
+      "pmid": "42891860",
+      "doi": "10.1007/s10072-026-09480-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891860/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder with an ambiguous etiology, whose onset may be linked to innate immune system activation outside the central nervous system (CNS). We investigated the association between peripheral blood and CNS inflammatory parameters in 45 sporadic ALS patients compared to 30 controls, analyzing peripheral blood tests (C-reactive protein [CRP], blood count, fibrinogen) and cerebrospinal fluid (CSF) immunological measures (Tumor Necrosis Factor alpha [TNF-α], TNF receptor type 1 [TNFR-1], CRP) alongside clinical characteristics. Results revealed significantly higher concentrations of TNFR-1 in the CSF of ALS patients compared to the control group (1,029.5 ± 176.0 vs. 846.1 ± 167.5 pg/ml; p < 0.0001). This difference remained significant in multivariable logistic regression adjusting for age and sex (OR 1.82 per 100 pg/ml increment, 95% CI 1.26-2.63; p = 0.0015). In an exploratory ROC analysis, CSF TNFR-1 discriminated patients from controls with an AUC of 0.78 (95% CI 0.67-0.88). TNFR-1 correlated with age (R = 0.32, p = 0.038), associations with disease severity and a lower concentration in bulbar-onset disease were exploratory and not robustly significant. Plasma and CSF CRP concentrations did not differ significantly between groups, but strongly correlated with each other in both ALS (R = 0.83) and control (R = 0.82) cohorts, indicating a disease-non-specific relationship. CSF TNFR-1 is independently associated with sporadic ALS and warrants further investigation as a candidate disease-associated inflammatory biomarker. Given the limitations, our findings do not prove diagnostic accuracy or causality. Longitudinal studies with disease controls and blood-CSF barrier integrity measures are needed.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Amyotrophic Lateral Sclerosis",
+        "Male",
+        "Cross-Sectional Studies",
+        "Receptors, Tumor Necrosis Factor, Type I",
+        "Biomarkers",
+        "Middle Aged",
+        "Tumor Necrosis Factor-alpha",
+        "Aged",
+        "C-Reactive Protein",
+        "Fibrinogen",
+        "Inflammation"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis - pathogenesis",
+        "Biomarker",
+        "Inflammation of the central nervous system",
+        "Neuroinflammation",
+        "TNF receptor 1"
+      ],
+      "collected_at": "2026-10-19T05:07:07Z",
+      "first_seen_at": "2026-10-19T05:07:07Z",
+      "last_seen_at": "2026-10-19T05:07:07Z"
+    },
+    {
       "id": "42891488",
       "event_key": "pubmed:42891488",
       "source_id": "pubmed",
@@ -78,7 +157,7 @@
       ],
       "collected_at": "2026-10-18T04:59:29Z",
       "first_seen_at": "2026-10-18T04:59:29Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42885660",
@@ -110,7 +189,7 @@
       "keywords": [],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42886553",
@@ -154,7 +233,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42880988",
@@ -1998,7 +2077,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42865191",
@@ -2571,7 +2650,7 @@
       ],
       "collected_at": "2026-10-18T04:59:29Z",
       "first_seen_at": "2026-10-18T04:59:29Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42834122",
@@ -2966,7 +3045,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42861801",
@@ -3305,7 +3384,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42882496",
@@ -3346,7 +3425,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42879998",
@@ -4421,7 +4500,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42872064",
@@ -5140,7 +5219,7 @@
       ],
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
+      "last_seen_at": "2026-10-19T05:07:07Z"
     },
     {
       "id": "42852066",
