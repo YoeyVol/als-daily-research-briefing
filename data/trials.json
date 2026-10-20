@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-10-19T05:07:08Z",
-  "new_keys": [],
+  "updated_at": "2026-10-20T05:09:03Z",
+  "new_keys": [
+    "clinicaltrials:NCT04654689:2026-10-19",
+    "clinicaltrials:NCT05852418:2026-10-19",
+    "clinicaltrials:NCT07855211:2026-10-19"
+  ],
   "items": [
+    {
+      "id": "NCT07855211",
+      "event_key": "clinicaltrials:NCT07855211:2026-10-19",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07855211",
+      "title": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Biogen",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: BIIB147",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-10-07",
+      "last_update_date": "2026-10-19",
+      "url": "https://clinicaltrials.gov/study/NCT07855211",
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-03T05:37:06Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "NCT05852418",
+      "event_key": "clinicaltrials:NCT05852418:2026-10-19",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05852418",
+      "title": "Registry Study of Assistive Devices, Medicines and Healthcare Measures in ALS, SMA and Other Neurological Diseases.",
+      "sponsor": "Ambulanzpartner Soziotechnologie APST GmbH",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2015-10-30",
+      "last_update_date": "2026-10-19",
+      "url": "https://clinicaltrials.gov/study/NCT05852418",
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "NCT04654689",
+      "event_key": "clinicaltrials:NCT04654689:2026-10-19",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04654689",
+      "title": "Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients",
+      "sponsor": "Fundación Universidad Católica de Valencia San Vicente Mártir",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Dietary_Supplement: Liposomed polyphenols resveratrol and curcumin",
+        "Other: Placebo for liposomed resveratrol and curcumin",
+        "Dietary_Supplement: Isocaloric Diet",
+        "Drug: G04CB02",
+        "Other: Placebo microcrystalline methylcellulose"
+      ],
+      "start_date": "2021-07-08",
+      "last_update_date": "2026-10-19",
+      "url": "https://clinicaltrials.gov/study/NCT04654689",
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
     {
       "id": "NCT07871071",
       "event_key": "clinicaltrials:NCT07871071:2026-10-16",
@@ -456,31 +535,6 @@
       "collected_at": "2026-10-06T06:44:30Z",
       "first_seen_at": "2026-10-06T06:44:30Z",
       "last_seen_at": "2026-10-08T06:31:38Z"
-    },
-    {
-      "id": "NCT07855211",
-      "event_key": "clinicaltrials:NCT07855211:2026-10-02",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07855211",
-      "title": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic Lateral Sclerosis (ALS)",
-      "sponsor": "Biogen",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "NOT_YET_RECRUITING",
-      "intervention": [
-        "Drug: BIIB147",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-10-22",
-      "last_update_date": "2026-10-02",
-      "url": "https://clinicaltrials.gov/study/NCT07855211",
-      "collected_at": "2026-10-03T05:37:06Z",
-      "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
       "id": "NCT06726577",

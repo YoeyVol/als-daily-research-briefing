@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-19T05:07:08Z",
+  "updated_at": "2026-10-20T05:09:03Z",
   "new_keys": [
-    "pubmed:42892517",
-    "pubmed:42891860"
+    "pubmed:42894325",
+    "pubmed:42894639",
+    "pubmed:42896567",
+    "pubmed:42895434",
+    "pubmed:42894599",
+    "pubmed:42896458",
+    "pubmed:42895147"
   ],
   "items": [
     {
@@ -49,6 +54,175 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42896567",
+      "event_key": "pubmed:42896567",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
+      "authors": [
+        "Alon Gorenshtein",
+        "Yosef Adiniaev",
+        "Tom Liba",
+        "Yiftach Barash",
+        "Eyal Klang",
+        "Oved Daniel"
+      ],
+      "journal": "Journal of neural engineering",
+      "publication_date": "2026-10-19",
+      "pmid": "42896567",
+      "doi": "10.1088/1741-2552/aeb62c",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/",
+      "abstract": "Objective&#xD;A calibration-derived score has been related to online P300-speller accuracy in the same session, always within the cohort measured. We evaluated whether a mapping from that score to expected accuracy transports to withheld cohorts.&#xD;Approach&#xD;Retrospective secondary analysis of BigP3BCI 1.0.0, the largest evaluation of this relationship to date: 18 of 20 studies contributed 271 participants, 739 session-condition records, and 19,611 character selections. The predictor was a decoder's cross-validated discriminability on calibration epochs, one study withheld from development. Between-cohort variation was summarised by the random-effects standard deviation tau.&#xD;Main Results&#xD;The association was positive in all 18 cohorts but varied widely (r 0.190 to 0.928; participant-level r = 0.714, p < 0.001), with 12 CIs excluding zero. Pooled estimation error was 0.098 (95% CI 0.091 to 0.107) against a benchmark of 0.146. Calibration did not transport: intercept tau 0.87 (unrepresented-cohort interval -1.97 to 1.85, log-odds); cohort-specific slopes varied more than tenfold (tau 0.43, interval 0.111 to 2.005). Neither alignment (signal- or score-space) nor either nonlinear boundary meaningfully reduced this heterogeneity. Local recalibration with up to 16 participants did not reliably improve on transporting; refitting both intercept and slope was significantly worse than transporting at the smallest sizes. Median time per selection, a stopping-rule proxy, accounted for 66% of between-cohort slope variance in meta-regression. The four ALS cohorts gave an uncorrected slope spread of 0.223, against 0.560 overall.&#xD;Significance&#xD;The evaluated score is a classifier's cross-validated discriminability on each session's calibration data rather than the source studies' undocumented online decoder. That score reproducibly signals within-session accuracy, but its mapping to accuracy is cohort-specific and supports ranking sessions after local validation rather than reporting accuracy elsewhere. The four-cohort ALS subgroup appeared more homogeneous than the full archive, illustrating how conclusions about transportability from a small cohort set can be fragile.&#xD.",
+      "mesh_terms": [],
+      "keywords": [
+        "P300 speller",
+        "amyotrophic lateral sclerosis",
+        "brain-computer interface",
+        "calibration",
+        "external validation"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "42895434",
+      "event_key": "pubmed:42895434",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Factors associated with post-tracheostomy survival in Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Alessandra Maccabeo",
+        "Sara Cabras",
+        "Stefano Callegaro",
+        "Maria Ida Pateri",
+        "Francesca Pili",
+        "Antonio Canosa",
+        "Umberto Manera",
+        "Francesca Palumbo",
+        "Enrico Matteoni",
+        "Giorgio Pellegrino",
+        "Emilio Minerva",
+        "Alessandro Ciravegna",
+        "Giulia Gianferrari",
+        "Monica Puligheddu",
+        "Cristina Moglia",
+        "Fabiola De Marchi",
+        "Letizia Mazzini",
+        "Jessica Mandrioli",
+        "Giuseppe Borghero",
+        "Adriano Chiò",
+        "Andrea Calvo",
+        "Rosario Vasta"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-19",
+      "pmid": "42895434",
+      "doi": "10.1080/21678421.2026.2742815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895434/",
+      "abstract": "OBJECTIVE: To identify demographic and clinical factors associated with post-tracheostomy survival using three well-characterized cohorts of patients with Amyotrophic Lateral Sclerosis (ALS).\n\nMETHODS: ALS patients from the Piemonte and Valle d'Aosta ALS Register (PARALS) diagnosed between 1995-2019 interval who underwent tracheostomy were included. A multivariable Cox proportional hazards model was used to identify factors associated with post-tracheostomy survival. Significant findings were tested in two independent cohorts, the Emilia-Romagna Region ALS Register (ERRALS) and an incident ALS cohort from South Sardinia.\n\nRESULTS: A total of 449 patients from PARALS underwent tracheostomy during the study period, with a median post-tracheostomy survival of 16.3 months (IQR 4.0-45.0). Younger age at tracheostomy was associated with longer survival (HR 1.03 per one-year increase, 95%CI1.01-1.05, p = 0.001), as being married/cohabiting (HR 0.78, 95%CI0.61-0.98, p = 0.033), a longer diagnosis-to-tracheostomy interval (HR 0.84 per one-year increase, 95%CI0.79-0.90, p < 0.001) and a lower ALS Functional Rating Scale slope from onset to tracheostomy (HR 1.13 per one-unit increase, 95%CI1.03-1.25, p = 0.012). These associations were replicated in the independent cohorts, when data were available. Additionally, discharge to nursing homes was associated with poorer survival in the Sardinian cohort (HR 4.23, 95%CI2.49-7.19; p < 0.001), whereas a more recent year of tracheostomy was associated with longer survival in the ERRALS cohort (HR 0.95, 95%CI0.90-0.99; p = 0.019).\n\nDISCUSSION: We identified multiple factors associated with post-tracheostomy survival in ALS patients, encompassing clinical and demographic characteristics at tracheostomy as well as local factors influencing peri- and post-operative care. These findings may support decision-making and clinician-patient communication in the advanced stages of ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic Lateral Sclerosis",
+        "Motor neuron disease",
+        "prognosis",
+        "tracheostomy"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "42894325",
+      "event_key": "pubmed:42894325",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Protein disulphide isomerase protects against ALS/FTD phenotypes associated with cyclin F in zebrafish and cellular models.",
+      "authors": [
+        "Sina Shadfar",
+        "Sonam Parakh",
+        "Emma Perri",
+        "Cyril Jones Jagaraj",
+        "Sara Assar Kashani",
+        "Keelin Beyers",
+        "Audrey M G Ragagnin",
+        "Angela S Laird",
+        "Julie D Atkin"
+      ],
+      "journal": "Redox report : communications in free radical research",
+      "publication_date": "2026-10-18",
+      "pmid": "42894325",
+      "doi": "10.1080/13510002.2026.2732775",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894325/",
+      "abstract": "BACKGROUND: Mutations in CCNF, encoding cyclin F, cause a small proportion of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) cases. Mutant cyclin F mislocalises from the nucleus to the cytoplasm, impairs the ubiquitin proteasome system, disrupts endoplasmic reticulum (ER) to Golgi transport, and triggers ER stress and apoptosis. Protein disulphide isomerase (PDI), a redox-active ER chaperone of the thioredoxin superfamily, protects against ALS phenotypes induced by mutant SOD1, TDP-43, and FUS, but its activity against mutant cyclin F has not been examined.\n\nOBJECTIVES: To test whether PDI overexpression prevents the cellular and behavioural phenotypes induced by the ALS/FTD-associated cyclin FS621G mutation.\n\nMETHODS: Neuro-2a cells were co-transfected with mCherry-tagged wild-type or mutant cyclin FS621G and V5-tagged PDI or empty vector. Subcellular localisation, XBP-1 and CHOP activation, proteasome reporter (GFPu) accumulation, nuclear morphology, and cleaved caspase-3 immunoreactivity were assessed by confocal microscopy. Transient transgenic zebrafish larvae generated by mRNA co-injection of cyclin F and PDI were assessed by photomotor response at 48 h post-fertilisation.\n\nRESULTS: Mutant cyclin FS621G induced cytoplasmic mislocalisation, ER stress (assessed by XBP-1 and CHOP activation), proteasome dysfunction (indicated by GFPu accumulation), and apoptosis (assessed by nuclear condensation and caspase-3 activation), all of which were significantly attenuated by PDI co-expression. Zebrafish larvae expressing cyclin FS621G swam significantly shorter distances than uninjected or wildtype controls, and co-expression of PDI restored motor function to near-wildtype levels.\n\nCONCLUSION: PDI protects against ALS/FTD-associated mutant cyclin F in both cellular and in vivo zebrafish models, identifying PDI as a redox-based therapeutic target for CCNF-linked ALS/FTD.",
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Protein Disulfide-Isomerases",
+        "Amyotrophic Lateral Sclerosis",
+        "Cyclins",
+        "Humans",
+        "Frontotemporal Dementia",
+        "Phenotype",
+        "Mutation",
+        "Animals, Genetically Modified",
+        "Apoptosis",
+        "Endoplasmic Reticulum Stress"
+      ],
+      "keywords": [
+        "CCNF",
+        "ER stress",
+        "FTD",
+        "MND",
+        "ageing",
+        "cyclin F",
+        "neurodegeneration",
+        "proteostasis",
+        "zebrafish"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "42894599",
+      "event_key": "pubmed:42894599",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Molecular recognition of axonal injury-associated candidate hub genes and predicted inhibitors across Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis.",
+      "authors": [
+        "Ayesha Naseer",
+        "Naveed Iqbal",
+        "Ishrat Bibi",
+        "Syed Ali Raza Shah",
+        "Misbah Khalid",
+        "Ayesha Khalid"
+      ],
+      "journal": "In silico pharmacology",
+      "publication_date": "2026-10-17",
+      "pmid": "42894599",
+      "doi": "10.1007/s40203-026-00774-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894599/",
+      "abstract": "UNLABELLED: Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS) have converging molecular pathologies such as neuroinflammation, mitochondrial dysfunction, and axonal degeneration, but do not have broadly effective disease-modifying therapies. A novel computational strategy was used in this study with an integrated in-silico pipeline to determine common candidate hub genes across AD, PD, and ALS and to computationally screen candidate inhibitors. The gene expression datasets were retrieved from the Gene Expression Omnibus database and analyzed with limma R package for blood-derived gene expression datasets for AD (GSE63060), PD (GSE99039) and ALS (GSE112680). A multi-dataset intersection analysis revealed 138 genes commonly upregulated and 0 commonly downregulated genes, which were functionally enriched in immune regulation, apoptotic signaling and mitochondrial instability pathways. Protein-protein interaction network analysis identified three key genes (MMP9, PTPN6 and TNFRSF1A) as high-confidence candidate hub genes for AD, PD, and ALS. The ZINC library of 34,853 compounds was screened for drug-like properties using QikProp to yield 16,466 drug-like compounds. Based on the comparative screening results, the structure of MMP9 (PDB ID: 8K5Y) was chosen for further analysis and two of the selected compounds ZINC04582833, ZINC00047690 were identified as the two highest ranked compounds with docking scores of - 10.4 and - 9.7 kcal/mol respectively. Both complexes were further evaluated by 100 ns MD simulations, showing RMSD profile stability, maintained secondary structure for both complexes. The results in this study make ZINC04582833 and ZINC00047690 computationally prioritized candidates for shared neurodegenerative targets for experimental validation.\n\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00774-6.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "Amyotrophic lateral sclerosis",
+        "Differential gene expression analysis",
+        "Molecular docking",
+        "Molecular dynamics simulation",
+        "Neurological diseases",
+        "Parkinson's disease"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
       "id": "42892517",
       "event_key": "pubmed:42892517",
       "source_id": "pubmed",
@@ -76,7 +250,7 @@
       ],
       "collected_at": "2026-10-19T05:07:07Z",
       "first_seen_at": "2026-10-19T05:07:07Z",
-      "last_seen_at": "2026-10-19T05:07:07Z"
+      "last_seen_at": "2026-10-20T05:09:03Z"
     },
     {
       "id": "42891860",
@@ -125,7 +299,39 @@
       ],
       "collected_at": "2026-10-19T05:07:07Z",
       "first_seen_at": "2026-10-19T05:07:07Z",
-      "last_seen_at": "2026-10-19T05:07:07Z"
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
+      "id": "42896458",
+      "event_key": "pubmed:42896458",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Data-driven progression trajectories across clinical subtypes of amyotrophic lateral sclerosis.",
+      "authors": [
+        "Masakazu Ozawa",
+        "Daisuke Yoshimaru",
+        "Kenji Ishii",
+        "Hirotaka James Okano",
+        "Pooled Resource Open-Access ALS Clinical Trials Consortium"
+      ],
+      "journal": "Journal of the neurological sciences",
+      "publication_date": "2026-10-16",
+      "pmid": "42896458",
+      "doi": "10.1016/j.jns.2026.126224",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896458/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) exhibits substantial clinical heterogeneity; however, conventional classifications based on the predominant site of involvement may not fully capture patterns of disease progression. This study aimed to identify data-driven subtypes of ALS and reconstruct their temporal progression using item-level scores from the ALS Functional Rating Scale-Revised (ALSFRS-R).\n\nMETHODS: Baseline data from 3067 participants in the Pooled Resource Open-Access ALS Clinical Trials database were analyzed. Subtype and Stage Inference (SuStaIn) was applied to ALSFRS-R item scores to identify subtypes and infer their progression trajectories. Internal consistency was evaluated using complexity and sensitivity analyses. Longitudinal stability was assessed at 180 and 365 days. Associations with functional decline and survival were examined using adjusted statistical models.\n\nRESULTS: Three clinically interpretable subtypes were identified, characterized by predominant upper-limb, lower-limb, or bulbar involvement. These subtypes exhibited distinct, consistent progression patterns across the analyses. Subtype stability was moderate short-term but limited longer-term; stage progression was largely monotonic. The bulbar subtype showed more rapid functional decline at both 180 and 365 days. Higher SuStaIn stage was associated with increased mortality. In an exploratory stage-stratified analysis, poorer survival was observed in the bulbar subtype than in the upper-limb subtype within the lower-stage group.\n\nCONCLUSIONS: This study reconstructed ALS subtype-specific functional progression trajectories and inferred disease stage using a widely accessible clinical scale. SuStaIn-derived subtypes characterized patterns of functional heterogeneity, and higher stage was associated with increased mortality. Further prospective comparative validation is needed to establish the prognostic and clinical utility of this framework.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALSFRS-R",
+        "Amyotrophic lateral sclerosis",
+        "Bulbar predominant",
+        "Clinical subtypes",
+        "SuStaIn"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
     },
     {
       "id": "42891488",
@@ -157,7 +363,7 @@
       ],
       "collected_at": "2026-10-18T04:59:29Z",
       "first_seen_at": "2026-10-18T04:59:29Z",
-      "last_seen_at": "2026-10-19T05:07:07Z"
+      "last_seen_at": "2026-10-20T05:09:03Z"
     },
     {
       "id": "42885660",
@@ -506,6 +712,40 @@
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
       "last_seen_at": "2026-10-17T04:52:22Z"
+    },
+    {
+      "id": "42895147",
+      "event_key": "pubmed:42895147",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Mechanistic Evaluation of Psilocybin in Neurodegenerative Disorders: Relevance of 5-HT2A Receptors and Downstream Pathways.",
+      "authors": [
+        "Sheekha Chaudhary",
+        "Sanchit Dhankhar",
+        "Monika Saini",
+        "Thakur Gurjeet Singh",
+        "Samrat Chauhan",
+        "Viney Kumar"
+      ],
+      "journal": "CNS & neurological disorders drug targets",
+      "publication_date": "2026-10-14",
+      "pmid": "42895147",
+      "doi": "10.2174/0118715273491538261009064612",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895147/",
+      "abstract": "More than fifty million individuals worldwide are experiencing neurodegenerative disorders, which include Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, Huntington's disease, multiple sclerosis, and frontotemporal dementia. These disorders have a significant role in the gradual degradation of cognition and motor skills. Most current treatment approaches have little effect on changing the course of the disease and are largely symptomatic. Psilocybin, a naturally occurring tryptamine alkaloid from psilocybin mushrooms, has become a promising medicinal agent because of its hallucinogenic, neuroprotective, and neuroplastic properties. After being metabolically transformed into its active form, psilocin, it primarily activates serotonin 5-HT2A receptors. This modulates glutamatergic neurotransmission and neurotrophic signaling pathways such as BDNF/TrkB and mTOR, which regulate synaptic remodeling, dendritic complexity, neurogenesis, neuroinflammatory response, and default mode network connectivity, all of which are linked to depression and dementia. Preclinical research studies demonstrate that psilocybin increases hippocampal plasticity, restores dendritic complexity, lowers proinflammatory cytokine levels, and promotes fear extinction in experimental models of stress, ischemic stroke, and neurodegeneration. Emerging clinical studies also indicate that individuals with moderate cognitive impairment, early-onset Alzheimer's disease, and Parkinson's disease may see long-term decreases in anxiety and depression as well as improvements in cognitive function, frequently after a single dose administration. Additionally, psilocybin has demonstrated promise in treating mental comorbidities that often accompany neurodegenerative illness, such as treatment-resistant depression, drug use disorders, and obsessive-compulsive disorder. However, there are still significant obstacles to overcome, such as optimizing dosing schedules, assessing safety issues such as temporary perceptual abnormalities and cardiovascular consequences, and translating preclinical results into extensive phase -III clinical studies. This review incorporates the most recent data on psilocybin's chemistry, pharmacology, metabolism, and mechanistic actions; it highlights the drug's therapeutic potential across a variety of neurodegenerative diseases and emphasizes the necessity of carefully planned randomized controlled trials to determine clinical efficacy, long-term safety, and its place in multimodal treatment approaches.",
+      "mesh_terms": [],
+      "keywords": [
+        "5-HT2A receptor",
+        "Psilocybin",
+        "alzheimer’s disease",
+        "neurodegenerative disorders",
+        "neuroplasticity",
+        "parkinson’s disease"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
     },
     {
       "id": "42877817",
@@ -1637,6 +1877,40 @@
       "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
+      "id": "42894639",
+      "event_key": "pubmed:42894639",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Yiran Wang",
+        "Lisa Fournier",
+        "Benjamin Wymann",
+        "Kevin Talbot",
+        "Raphaëlle Luisier",
+        "Rickie Patani"
+      ],
+      "journal": "iScience",
+      "publication_date": "2026-10-08",
+      "pmid": "42894639",
+      "doi": "10.1016/j.isci.2026.117807",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894639/",
+      "abstract": "O-linked N-acetylglucosamine transferase (OGT) catalyzes the O-linked β-N-acetylglucosamine (O-GlcNAc) modification to proteins and has been implicated in a range of diseases, including amyotrophic lateral sclerosis (ALS), a rapidly progressive and currently incurable neurodegenerative disorder. However, the precise mechanisms by which OGT influences ALS pathogenesis remain largely unresolved. In this study, we used human-induced pluripotent stem cell (hiPSC)-derived spinal motor neurons (hiPSC-MNs), the principal cell type that undergoes degeneration in ALS, to systematically reveal that OGT-related mechanisms regulate RNA-binding protein (RBP) nucleocytoplasmic compartmentalization. Using a combination of antisense oligonucleotide (ASO) technology and small molecular pharmacology, we reveal two distinct regulatory mechanisms of RBP compartmentalization, including by intron-retaining transcript-mediated sequestration and O-linked N-acetylglucosaminylation (O-GlcNAcylation)-mediated nuclear transport. We finally examine the tractability of manipulating OGT activity in the ALS context but demonstrate that the OGT-related mechanisms governing RBP localization in healthy hiPSC-MNs are impaired in the context of ALS-causing VCP and TARDBP mutations.",
+      "mesh_terms": [],
+      "keywords": [
+        "O-GlcNAcylation",
+        "OGA",
+        "OGT",
+        "RNA-binding protein",
+        "amyotrophic lateral sclerosis",
+        "nucleocytoplasmic localization"
+      ],
+      "collected_at": "2026-10-20T05:09:03Z",
+      "first_seen_at": "2026-10-20T05:09:03Z",
+      "last_seen_at": "2026-10-20T05:09:03Z"
+    },
+    {
       "id": "42850785",
       "event_key": "pubmed:42850785",
       "source_id": "pubmed",
@@ -2650,7 +2924,7 @@
       ],
       "collected_at": "2026-10-18T04:59:29Z",
       "first_seen_at": "2026-10-18T04:59:29Z",
-      "last_seen_at": "2026-10-19T05:07:07Z"
+      "last_seen_at": "2026-10-20T05:09:03Z"
     },
     {
       "id": "42834122",
