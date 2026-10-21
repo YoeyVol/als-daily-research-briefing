@@ -1,11 +1,59 @@
 {
-  "updated_at": "2026-10-20T05:09:03Z",
+  "updated_at": "2026-10-21T05:10:26Z",
   "new_keys": [
-    "clinicaltrials:NCT04654689:2026-10-19",
-    "clinicaltrials:NCT05852418:2026-10-19",
-    "clinicaltrials:NCT07855211:2026-10-19"
+    "clinicaltrials:NCT04856982:2026-10-20",
+    "clinicaltrials:NCT07883590:2026-10-20"
   ],
   "items": [
+    {
+      "id": "NCT07883590",
+      "event_key": "clinicaltrials:NCT07883590:2026-10-20",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07883590",
+      "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: LY3873862",
+        "Drug: CYP450 Drug Cocktail",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-11",
+      "last_update_date": "2026-10-20",
+      "url": "https://clinicaltrials.gov/study/NCT07883590",
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
+    },
+    {
+      "id": "NCT04856982",
+      "event_key": "clinicaltrials:NCT04856982:2026-10-20",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04856982",
+      "title": "Study to Learn If Tofersen (BIIB067) Can Delay ALS Symptoms and About Its Safety in Adults With a SOD1 Gene Mutation Who Have Not Yet Developed ALS Symptoms",
+      "sponsor": "Biogen",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: Tofersen",
+        "Drug: Placebo"
+      ],
+      "start_date": "2021-05-17",
+      "last_update_date": "2026-10-20",
+      "url": "https://clinicaltrials.gov/study/NCT04856982",
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
+    },
     {
       "id": "NCT07855211",
       "event_key": "clinicaltrials:NCT07855211:2026-10-19",
@@ -29,7 +77,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07855211",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "NCT05852418",
@@ -52,7 +100,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05852418",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "NCT04654689",
@@ -79,7 +127,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04654689",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "NCT07871071",

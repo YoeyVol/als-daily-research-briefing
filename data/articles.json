@@ -1,13 +1,10 @@
 {
-  "updated_at": "2026-10-20T05:09:03Z",
+  "updated_at": "2026-10-21T05:10:26Z",
   "new_keys": [
-    "pubmed:42894325",
-    "pubmed:42894639",
-    "pubmed:42896567",
-    "pubmed:42895434",
-    "pubmed:42894599",
-    "pubmed:42896458",
-    "pubmed:42895147"
+    "pubmed:42898978",
+    "pubmed:42901819",
+    "pubmed:42899523",
+    "pubmed:42901869"
   ],
   "items": [
     {
@@ -54,6 +51,124 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42901819",
+      "event_key": "pubmed:42901819",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study.",
+      "authors": [
+        "Kazuki Obara",
+        "Shorena Janelidze",
+        "Daisuke Ito",
+        "Linda Karlsson",
+        "Munetaka Yamamoto",
+        "Andrea Mastrangelo",
+        "Sinh Tran",
+        "Koyo Tsujikawa",
+        "Yosuke Nishio",
+        "Tomoo Ogi",
+        "Veria Vacchiano",
+        "Rocco Liguori",
+        "Ryoichi Nakamura",
+        "Naoki Atsuta",
+        "Gen Sobue",
+        "Christer Nilsson",
+        "Piero Parchi",
+        "Masahisa Katsuno",
+        "Niklas Mattsson-Carlgren"
+      ],
+      "journal": "EBioMedicine",
+      "publication_date": "2026-10-20",
+      "pmid": "42901819",
+      "doi": "10.1016/j.ebiom.2026.106511",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901819/",
+      "abstract": "BACKGROUND: Neurofilament light chain (NfL) is an established biomarker for amyotrophic lateral sclerosis (ALS). However, it remains unclear whether biomarkers reflecting amyloid-β metabolism (Aβ), tau (phosphorylated tau, pTau), and astrogliosis (glial fibrillary acidic protein, GFAP) can complement NfL in clinical applications. It is also unclear how Alzheimer's disease (AD) co-pathology affects disease progression in ALS.\n\nMETHODS: We studied 264 patients with ALS and 164 disease-control participants, analysing baseline cerebrospinal fluid (CSF) NfL, Aβ peptides, pTau181, pTau217, and GFAP. A two-step diagnostic strategy was examined in individuals with intermediate NfL values, using machine-learning models. Prognostic associations were evaluated using linear mixed-effects and Cox models adjusted for established predictors; survival was additionally examined in pooled analyses including an external ALS cohort (n = 153).\n\nFINDINGS: Patients with ALS exhibited higher CSF NfL, Aβ38, Aβ40, Aβ42, pTau181, and pTau217 than controls, even within Aβ-negative subgroups. NfL discriminated ALS from controls with an AUC of 0.85 (0.82-0.88), which increased to 0.90 (0.88-0.92) in machine-learning models incorporating additional biomarkers. The machine-learning models maintained a high positive predictive value (0.90) for classifying cases with intermediate NfL values. Significant Aβ × NfL interactions were observed for longitudinal functional decline, and pooled survival analyses showed stronger associations between NfL and survival in the Aβ-positive ALS subgroup (14%) than in the Aβ-negative ALS subgroup (HR 4.02 [2.17-7.45] vs 1.62 [1.36-1.92]).\n\nINTERPRETATION: Multiple biomarker assessments can reduce misclassification of individuals with intermediate NfL values. CSF Aβ positivity modified the association between baseline NfL and disease progression. Personalised diagnosis and prognosis based on fine-grained co-pathology evaluation may enhance clinical management of ALS.\n\nFUNDING: This study was primarily supported by JST SPRING (JPMJSP2125). A complete list of funding organisations is provided in Acknowledgements.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyloid beta-Peptides",
+        "Amyotrophic lateral sclerosis",
+        "Clinical trials as topic",
+        "Machine learning",
+        "Neurofilament light",
+        "Survival"
+      ],
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
+    },
+    {
+      "id": "42899523",
+      "event_key": "pubmed:42899523",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Task-Dependent Synergy between FTIR and Raman Spectroscopy for Sperm Quality Prediction.",
+      "authors": [
+        "Beatrice Campanella",
+        "Lorenzo Birindelli",
+        "Stefano Legnaioli",
+        "Giulia Lorenzetti",
+        "Cristina Consani",
+        "Valeria Ales",
+        "Edoardo Benedetti",
+        "Maria Antonella Bertozzi",
+        "Emilia Bramanti"
+      ],
+      "journal": "Analytical chemistry",
+      "publication_date": "2026-10-20",
+      "pmid": "42899523",
+      "doi": "10.1021/acs.analchem.6c04960",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42899523/",
+      "abstract": "Male infertility affects approximately 15% of couples worldwide, contributing to 40-50% of infertility cases in Western countries. Standard semen analysis remains the cornerstone of fertility assessment, yet conventional parameters (concentration, motility, morphology) have limited predictive value for fertilization success. Vibrational spectroscopy, particularly Fourier transform infrared (FTIR) and Raman spectroscopy, offers rapid, nondestructive chemical fingerprinting of biological samples. However, optimal strategies for integrating multimodal spectroscopic data remain unclear, and the value of fusion may depend on the biological end point. This study systematically compares FTIR and Raman spectroscopy, both independently and through multiple fusion strategies, for predicting rectilinear progressive sperm motility (binary classification) and normal morphology (continuous regression) in human seminal plasma. We determine whether complementary information exists, when fusion provides value, and which strategy optimally leverages multimodal data. Building on Raman-derived Multivariate Curve Resolution-Alternating Least Squares (MCR-ALS) concentration profiles, we further develop a clinical classifier based on four seminal plasma biomarkers (human serum albumin, glutathione S-transferase, transferrin, lysophosphatidylcholine), validated by leave-one-patient-out cross-validation and Firth's penalized logistic regression to address near-complete separation in this small-sample setting (n = 30). Our findings reveal technique-specific advantages: Raman spectroscopy substantially outperforms FTIR for binary motility classification, with feature-level fusion matching but not exceeding Raman's performance, indicating limited complementarity. Conversely, FTIR alone achieves superior predictive accuracy for continuous morphological outcomes. The clinical classifier based on MCR-ALS-derived biomarkers achieved AUC (Area Under the ROC Curve) = 0.855, accuracy = 86.7%, and BER (Balanced Error Rate) = 0.136, with model significance confirmed by permutation testing. Elevated human serum albumin and lysophosphatidylcholine emerged as the strongest negative predictors of high motility, consistent with seminal tract inflammation and sperm-cytotoxic phospholipid accumulation, while transferrin showed a positive association in line with its role in iron availability for sperm function. These results demonstrate that optimal spectroscopic approaches depend on the biological end point, with Raman's structural sensitivity favoring motility assessment and FTIR's compositional profiling better capturing morphological variation. The biomarker-based classifier is easier to interpret and complements whole-spectrum models by bridging chemometric analysis and biological interpretation.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Spectrum Analysis, Raman",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Spermatozoa",
+        "Sperm Motility",
+        "Semen",
+        "Biomarkers",
+        "Semen Analysis"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
+    },
+    {
+      "id": "42898978",
+      "event_key": "pubmed:42898978",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Role of Astrocytes in the Inflammatory Response in Neurodiseases.",
+      "authors": [
+        "Shijun Peng",
+        "Lepeng Wang",
+        "Jia Ouyang",
+        "Ruen Liu"
+      ],
+      "journal": "MedComm",
+      "publication_date": "2026-10-19",
+      "pmid": "42898978",
+      "doi": "10.1002/mco2.71069",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898978/",
+      "abstract": "Astrocytes have emerged as central regulators of neuroinflammation, extending far beyond their traditional roles as structural and metabolic support cells. In neurological disorders, astrocytes undergo reactive remodeling that encompasses morphological, transcriptional, metabolic, and functional changes. Rather than fitting into a fixed A1/A2 dichotomy, reactive astrocytes exist along a disease-, region-, and stage-dependent continuum shaped by local pathology and intercellular crosstalk. This review summarizes how astrocytes contribute to neuroinflammatory processes in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, central nervous system injury, infection, multiple sclerosis, epilepsy, and autism spectrum disorder. We highlight convergent mechanisms, including cytokine and chemokine release, complement activation, glutamate and ion homeostasis disruption, oxidative stress, metabolic reprogramming, and blood-brain barrier regulation, while emphasizing disease-specific astrocytic programs. We further discuss astrocyte interactions with microglia, neurons, oligodendrocytes, endothelial cells, and peripheral immune cells, as well as key regulatory pathways, epigenetic remodeling, and lipid-dependent metabolic signaling. Finally, we evaluate current and emerging astrocyte-targeted therapeutic strategies, including metabolic modulation, receptor targeting, gene editing, nanodelivery, and gut-brain axis interventions. Defining functionally validated astrocyte states and developing biomarker-guided, stage-adaptive therapies may enable more precise intervention in neuroinflammatory and neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "astrocytes",
+        "glial cell crosstalk",
+        "neuroinflammation",
+        "neurological diseases",
+        "therapeutic targeting"
+      ],
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
+    },
+    {
       "id": "42896567",
       "event_key": "pubmed:42896567",
       "source_id": "pubmed",
@@ -84,7 +199,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42895434",
@@ -132,7 +247,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42894325",
@@ -185,7 +300,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42894599",
@@ -220,7 +335,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42892517",
@@ -250,7 +365,7 @@
       ],
       "collected_at": "2026-10-19T05:07:07Z",
       "first_seen_at": "2026-10-19T05:07:07Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42891860",
@@ -299,7 +414,7 @@
       ],
       "collected_at": "2026-10-19T05:07:07Z",
       "first_seen_at": "2026-10-19T05:07:07Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42896458",
@@ -331,7 +446,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42891488",
@@ -745,7 +860,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42877817",
@@ -1908,7 +2023,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-20T05:09:03Z"
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42850785",
@@ -3608,6 +3723,56 @@
       "collected_at": "2026-10-03T05:37:05Z",
       "first_seen_at": "2026-10-03T05:37:05Z",
       "last_seen_at": "2026-10-05T06:04:52Z"
+    },
+    {
+      "id": "42901869",
+      "event_key": "pubmed:42901869",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Plasma Proteomic Signatures Predict Incident Amyotrophic Lateral Sclerosis: A Prospective Study Stratified by C9orf72 Expansion.",
+      "authors": [
+        "Wei-Ming Su",
+        "Qing-Qing Duan",
+        "Nan Zhang",
+        "Sheng-Yi He",
+        "Ru-Yin Liu",
+        "Xiang-Jin Wen",
+        "Xiao-Jing Gu",
+        "Yi Wang",
+        "Bei Cao",
+        "Yong-Ping Chen"
+      ],
+      "journal": "Journal of cachexia, sarcopenia and muscle",
+      "publication_date": "2026-10-01",
+      "pmid": "42901869",
+      "doi": "10.1002/jcsm.70405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901869/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurological disorder for which reliable preclinical biomarkers to predict disease onset are currently lacking. Plasma proteomics offers a promising avenue for early detection. The identification of plasma proteins and pathways associated with incident ALS holds potential to improve early diagnosis, enable risk stratification and provide insights into disease mechanisms.\n\nMETHODS: Employing the Olink Explore platform, we quantified 2920 plasma proteins within a prospective cohort of UK Biobank participants. Multivariate Cox proportional hazards regression was utilized to identify proteins associated with incident generalized ALS, C9-ALS (C9orf72-associated ALS) and non-C9-ALS. Enrichment analysis was conducted to delineate the biological pathways implicated by the identified proteins. Associations between plasma protein levels and the age at onset (AAO) of ALS were assessed via linear regression, while a multivariate Cox model was employed to evaluate the relationships between protein levels and ALS survival. We subsequently assessed potential causal relationships using Mendelian randomization (MR) and colocalization and analysed protein cross-sectional temporal patterns in ALS.\n\nRESULTS: In this prospective cohort study, we followed 52 584 participants from the UK Biobank for a mean of 11.8 years. During this period, 291 (0.55%) incident cases of ALS were identified, among whom 34 individuals carried the C9orf72 hexanucleotide repeat expansion mutation. Nine proteins demonstrated associations with all-type ALS risk (FDR < 0.05): NEFL (HR: 2.897), CSRP3 (HR: 1.233), MYBPC1 (HR: 1.352), MEGF10 (HR: 1.744), MYOM3 (HR: 1.289) and THBS4 (HR: 1.570) were identified as risk factors, whereas EGFLAM (HR: 0.402), ITGAV (HR: 0.284) and CD248 (HR: 0.573) exhibited protective effects. NEFL (HR: 2.742) and three additional proteins were primarily associated with non-C9-ALS, while only NEFL (HR: 4.403) and COL5A1 (HR: 3.072) showed significant associations with C9-ALS. When combined with age and sex, these proteins yielded area under the curve (AUC) values exceeding 0.750 for predicting ALS at 3, 5 and 10 years. Furthermore, elevated NEFL levels were correlated with an earlier onset of non-C9-ALS and began to increase approximately 9.27 years prior to diagnosis, reaching a peak 1-2 years before clinical presentation in non-C9ALS cases via cross-sectional temporal analysis. Pathway analysis implicated muscle-related, extracellular matrix, energy metabolism and inflammatory pathways.\n\nCONCLUSIONS: This investigation uncovers extensive alterations in plasma proteins associated with ALS risk, revealing potential novel biomarkers for both sporadic and C9orf72-linked forms of the disease. These results enhance our comprehension of early ALS pathogenesis and provide a foundation for subsequent biomarker identification and the development of targeted therapeutic strategies.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "C9orf72 Protein",
+        "Prospective Studies",
+        "Proteomics",
+        "Male",
+        "Female",
+        "Biomarkers",
+        "Middle Aged",
+        "Aged",
+        "Incidence",
+        "DNA Repeat Expansion"
+      ],
+      "keywords": [
+        "C9orf72",
+        "NEFL",
+        "amyotrophic lateral sclerosis",
+        "plasma proteomics",
+        "risk prediction"
+      ],
+      "collected_at": "2026-10-21T05:10:26Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
       "id": "42883264",
