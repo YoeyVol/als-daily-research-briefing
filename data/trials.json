@@ -1,10 +1,107 @@
 {
-  "updated_at": "2026-10-21T05:10:26Z",
+  "updated_at": "2026-10-22T05:14:31Z",
   "new_keys": [
-    "clinicaltrials:NCT04856982:2026-10-20",
-    "clinicaltrials:NCT07883590:2026-10-20"
+    "clinicaltrials:NCT07543367:2026-10-21",
+    "clinicaltrials:NCT07688239:2026-10-21",
+    "clinicaltrials:NCT05695521:2026-10-21",
+    "clinicaltrials:NCT05151471:2026-10-21"
   ],
   "items": [
+    {
+      "id": "NCT07688239",
+      "event_key": "clinicaltrials:NCT07688239:2026-10-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07688239",
+      "title": "The BANYAN Trial, an ALS MyMatch Trial Evaluating Safety, Biomarker Activity, and Microglial Activation of Nasal Foralumab",
+      "sponsor": "Tiziana Life Sciences LTD",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Foralumab Nasal",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-09-25",
+      "last_update_date": "2026-10-21",
+      "url": "https://clinicaltrials.gov/study/NCT07688239",
+      "collected_at": "2026-10-22T05:14:31Z",
+      "first_seen_at": "2026-10-22T05:14:31Z",
+      "last_seen_at": "2026-10-22T05:14:31Z"
+    },
+    {
+      "id": "NCT07543367",
+      "event_key": "clinicaltrials:NCT07543367:2026-10-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07543367",
+      "title": "INdependence Through Endovascular Neuroprosthetic Technology (INTENT): an Early Feasibility Study",
+      "sponsor": "Synchron, Inc.",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Stentrode"
+      ],
+      "start_date": "2026-05-07",
+      "last_update_date": "2026-10-21",
+      "url": "https://clinicaltrials.gov/study/NCT07543367",
+      "collected_at": "2026-10-22T05:14:31Z",
+      "first_seen_at": "2026-10-22T05:14:31Z",
+      "last_seen_at": "2026-10-22T05:14:31Z"
+    },
+    {
+      "id": "NCT05695521",
+      "event_key": "clinicaltrials:NCT05695521:2026-10-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05695521",
+      "title": "Regulatory T Cells for Amyotrophic Lateral Sclerosis",
+      "sponsor": "Cellenkos, Inc.",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Biological: CK0803",
+        "Other: Excipient"
+      ],
+      "start_date": "2023-04-03",
+      "last_update_date": "2026-10-21",
+      "url": "https://clinicaltrials.gov/study/NCT05695521",
+      "collected_at": "2026-10-22T05:14:31Z",
+      "first_seen_at": "2026-10-22T05:14:31Z",
+      "last_seen_at": "2026-10-22T05:14:31Z"
+    },
+    {
+      "id": "NCT05151471",
+      "event_key": "clinicaltrials:NCT05151471:2026-10-21",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05151471",
+      "title": "Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS",
+      "sponsor": "Shionogi",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "TERMINATED",
+      "intervention": [
+        "Drug: MT-1186",
+        "Drug: Placebo"
+      ],
+      "start_date": "2022-01-11",
+      "last_update_date": "2026-10-21",
+      "url": "https://clinicaltrials.gov/study/NCT05151471",
+      "collected_at": "2026-10-22T05:14:31Z",
+      "first_seen_at": "2026-10-22T05:14:31Z",
+      "last_seen_at": "2026-10-22T05:14:31Z"
+    },
     {
       "id": "NCT07883590",
       "event_key": "clinicaltrials:NCT07883590:2026-10-20",
@@ -28,7 +125,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07883590",
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "NCT04856982",
@@ -52,7 +149,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04856982",
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "NCT07855211",
@@ -77,7 +174,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07855211",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "NCT05852418",
@@ -100,7 +197,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05852418",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "NCT04654689",
@@ -127,7 +224,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04654689",
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "NCT07871071",

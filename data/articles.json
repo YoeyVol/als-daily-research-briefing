@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-21T05:10:26Z",
+  "updated_at": "2026-10-22T05:14:31Z",
   "new_keys": [
-    "pubmed:42898978",
-    "pubmed:42901819",
-    "pubmed:42899523",
-    "pubmed:42901869"
+    "pubmed:42902402"
   ],
   "items": [
     {
@@ -51,6 +48,62 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42902402",
+      "event_key": "pubmed:42902402",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "ABCD-Trial: study protocol for a randomized, double-blind, placebo-controlled study in patients with Amyotrophic lateral sclerosis for the evaluation of efficacy and safety of B-Cell Depletion with rituximab (ABCD).",
+      "authors": [
+        "Friederike Ufer",
+        "Rosa Rössling",
+        "Annika Spottke",
+        "Robert Németh",
+        "Tamara Schaprian",
+        "Nadja Kemmerling-de Coninck",
+        "Anna Gamez",
+        "Rebecca Sterl",
+        "Pia Naumann",
+        "Nikolaus Behr",
+        "André Maier",
+        "Thomas Meyer",
+        "Patrick Weydt",
+        "Harald Prüss"
+      ],
+      "journal": "Trials",
+      "publication_date": "2026-10-20",
+      "pmid": "42902402",
+      "doi": "10.1186/s13063-026-10022-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902402/",
+      "abstract": "BACKGROUND: The exact disease-causing mechanisms in ALS remain incompletely understood. A possible cause is inflammation of neurons. Compared to other neurodegenerative diseases, neuroinflammation is pronounced in ALS, presumably leading to disease progression and neuronal death. Patients with ALS can have neuronal autoantibodies and most notably antibody-producing cells in the cerebrospinal fluid. The CD20-binding therapeutic antibody rituximab targets these antibody-producing B-cells. Rituximab is a medication commonly used in neurology. Single patients with ALS have already been treated with rituximab, which was well tolerated. We therefore want to evaluate safety and efficacy of a treatment with rituximab in ALS patients in a double-blind placebo-controlled trial. With this trial we aim for slower disease progression and unveiling disease-causing mechanisms in ALS.\n\nMETHODS: A total of 52 male and female patients older than 18 years with active sporadic ALS and disease duration of less than 24 months who are on a stable dose of riluzole (50 mg BID) should be included. Patients requiring assisted ventilation of any kind or have a known intolerance to the study medication rituximab are excluded. The study medication rituximab or placebo should be administered over a period of 52 weeks at 4 distinct time points, followed by a follow-up period of 79 weeks with 4 visits. Treatment efficacy should be evaluated using the ALS functioning scale ALSFRS-R-SE at every study visit (except safety visits). Safety will be assessed through regular laboratory analyses, adverse event (AE) and serious adverse event (SAE) monitoring, and CD20+ B-cell kinetics. The primary endpoint is the change in the ALS Functional Rating Scale-Revised (ALSFRS-R-SE) from baseline to week 79. Trial sites will be at Charité/DZNE Berlin and DZNE Bonn.\n\nDISCUSSION: ALS is a rapidly progressive neurodegenerative disease with limited treatment options. Recent preclinical in vivo studies suggest that B-cell-mediated autoimmunity contributes to disease progression. This trial will evaluate whether rituximab, which specifically depletes CD20+ B-cells, can slow ALS progression and provide insights into disease mechanisms.\n\nTRIAL REGISTRATION: The trial was registered in the German WHO-recognized primary register Deutsches Register Klinische Studien DRKS (German Clinical Trials Register) on 3/07/2023 under registration number DRKS00030948.",
+      "mesh_terms": [
+        "Humans",
+        "Rituximab",
+        "Amyotrophic Lateral Sclerosis",
+        "Double-Blind Method",
+        "B-Lymphocytes",
+        "Male",
+        "Treatment Outcome",
+        "Female",
+        "Randomized Controlled Trials as Topic",
+        "Disease Progression",
+        "Lymphocyte Depletion",
+        "Immunologic Factors",
+        "Time Factors",
+        "Middle Aged"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Autoantibody",
+        "Autoimmune CNS disorder",
+        "Neurodegeneration",
+        "Rituximab"
+      ],
+      "collected_at": "2026-10-22T05:14:31Z",
+      "first_seen_at": "2026-10-22T05:14:31Z",
+      "last_seen_at": "2026-10-22T05:14:31Z"
+    },
+    {
       "id": "42901819",
       "event_key": "pubmed:42901819",
       "source_id": "pubmed",
@@ -95,7 +148,7 @@
       ],
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42899523",
@@ -135,7 +188,7 @@
       "keywords": [],
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42898978",
@@ -166,7 +219,7 @@
       ],
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42896567",
@@ -199,7 +252,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42895434",
@@ -247,7 +300,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42894325",
@@ -300,7 +353,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42894599",
@@ -335,7 +388,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42892517",
@@ -446,7 +499,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42891488",
@@ -860,7 +913,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42877817",
@@ -2023,7 +2076,7 @@
       ],
       "collected_at": "2026-10-20T05:09:03Z",
       "first_seen_at": "2026-10-20T05:09:03Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42850785",
@@ -3772,7 +3825,7 @@
       ],
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-21T05:10:26Z"
+      "last_seen_at": "2026-10-22T05:14:31Z"
     },
     {
       "id": "42883264",
