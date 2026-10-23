@@ -1,12 +1,32 @@
 {
-  "updated_at": "2026-10-22T05:14:31Z",
+  "updated_at": "2026-10-23T05:13:06Z",
   "new_keys": [
-    "clinicaltrials:NCT07543367:2026-10-21",
-    "clinicaltrials:NCT07688239:2026-10-21",
-    "clinicaltrials:NCT05695521:2026-10-21",
-    "clinicaltrials:NCT05151471:2026-10-21"
+    "clinicaltrials:NCT06083584:2026-10-22"
   ],
   "items": [
+    {
+      "id": "NCT06083584",
+      "event_key": "clinicaltrials:NCT06083584:2026-10-22",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06083584",
+      "title": "Development of Targeted RNA-Seq for Amyotrophic Lateral Sclerosis Diagnosis",
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Other: RNA sequencing"
+      ],
+      "start_date": "2023-11-22",
+      "last_update_date": "2026-10-22",
+      "url": "https://clinicaltrials.gov/study/NCT06083584",
+      "collected_at": "2026-10-23T05:13:06Z",
+      "first_seen_at": "2026-10-23T05:13:06Z",
+      "last_seen_at": "2026-10-23T05:13:06Z"
+    },
     {
       "id": "NCT07688239",
       "event_key": "clinicaltrials:NCT07688239:2026-10-21",
@@ -29,7 +49,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07688239",
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT07543367",
@@ -52,7 +72,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07543367",
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT05695521",
@@ -76,7 +96,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05695521",
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT05151471",
@@ -100,7 +120,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05151471",
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT07883590",
@@ -125,7 +145,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07883590",
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT04856982",
@@ -149,7 +169,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04856982",
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-22T05:14:31Z"
+      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT07855211",
