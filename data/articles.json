@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-10-23T05:13:06Z",
+  "updated_at": "2026-10-24T04:55:34Z",
   "new_keys": [
-    "pubmed:42907506",
-    "pubmed:42905535",
-    "pubmed:42905272",
-    "pubmed:42905245",
-    "pubmed:42905162",
-    "pubmed:42904407",
-    "pubmed:42904327",
-    "pubmed:42906263",
-    "pubmed:42903708",
-    "pubmed:42904859",
-    "pubmed:42904191"
+    "pubmed:42918614",
+    "pubmed:42918426",
+    "pubmed:42918387",
+    "pubmed:42918320",
+    "pubmed:42918778",
+    "pubmed:42911846",
+    "pubmed:42908777",
+    "pubmed:42913510",
+    "pubmed:42913489",
+    "pubmed:42916114"
   ],
   "items": [
     {
@@ -58,6 +57,288 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42918614",
+      "event_key": "pubmed:42918614",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Drosophila Models of Human Neurodegenerative Diseases.",
+      "authors": [
+        "Jasmine Speranza",
+        "Charlotte Gale-Rogers",
+        "Abigail C Stretch",
+        "Ryan J H West"
+      ],
+      "journal": "Current opinion in insect science",
+      "publication_date": "2026-10-23",
+      "pmid": "42918614",
+      "doi": "10.1016/j.cois.2026.101639",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918614/",
+      "abstract": "In his book Insects and the Life of Man: Collected Essays on Pure Science and Applied Biology, Sir V. B. Wigglesworth examined how a fundamental understanding of insect physiology and biology can be applied to some of society's greatest challenges, including human health. Here we reflect on how, in the 50 years since his book's publication, Drosophila melanogaster have played a critical role in advancing our understanding of human neurodegenerative diseases. Focusing on Parkinson's disease, Huntington's disease, and the frontotemporal dementia / amyotrophic lateral sclerosis spectrum, we examine the role Drosophila have played in elucidating fundamental mechanisms of neurodegeneration, identifying therapeutic targets, and dissecting the complex interplay that exists between genetics and environmental factors. Together these studies highlight how Drosophila models continue to provide critical insight into the molecular mechanisms underpinning neurodegeneration and provide a fundamental pre-clinical model in which we can accelerate research into human neurodegenerative conditions.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42918426",
+      "event_key": "pubmed:42918426",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neurodegeneration in Sub-Saharan Africa: Intersections of Biological Ageing, Genomic Diversity and the Lifetime Exposome.",
+      "authors": [
+        "Maulilio John Kipanyula"
+      ],
+      "journal": "Ageing research reviews",
+      "publication_date": "2026-10-23",
+      "pmid": "42918426",
+      "doi": "10.1016/j.arr.2026.103429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918426/",
+      "abstract": "Neurodegenerative diseases are emerging as an important consequence of population ageing in sub-Saharan Africa (SSA), but their scientific relevance extends beyond a projected rise in case numbers. SSA combines exceptional human genomic diversity with marked heterogeneity in vascular and metabolic risk, infection, nutrition, occupational exposures, air pollution, and access to health care. This combination creates an underused setting in which to study why biological ageing produces neurodegeneration in some individuals but relative resilience in others. This review critically synthesises evidence on Alzheimer's disease and related dementias, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal degeneration, Huntington's disease and related disorders, focusing on the intersection between hallmarks of ageing, disease-specific proteinopathies, ancestry and the lifetime exposome. Age-associated loss of proteostasis, mitochondrial dysfunction, impaired autophagy, chronic inflammation, neurovascular injury and genomic/epigenomic instability provide a mechanistic scaffold on which genetic susceptibility and cumulative exposures may act. Yet African evidence remains dominated by cross-sectional clinical phenotyping; neuropathology, longitudinal biomarkers, multi-omics and measured environmental exposures remain sparse. Recent African-ancestry Parkinson's disease genomics and emerging plasma biomarker studies demonstrate that ancestry-inclusive molecular neuroscience is feasible and can generate findings not predictable from European-ancestry datasets. The next phase should therefore move beyond documenting underdiagnosis toward longitudinal, biologically anchored cohorts that integrate phenotype, genomics, blood biomarkers, neuroimaging, exposomics, digital measures and health-system outcomes. This review proposes a research framework centred on biological ageing, gene-environment interaction and resilience. Such work would improve the validity of prevention, diagnosis and therapeutic translation in African populations while contributing globally to a more complete biology of neurodegenerative ageing.",
+      "mesh_terms": [],
+      "keywords": [
+        "ageing",
+        "exposome",
+        "genomics",
+        "neurodegeneration",
+        "resilience",
+        "sub-Saharan Africa"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42918387",
+      "event_key": "pubmed:42918387",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Cellular senescence in ageing and neurodegenerative disorders: Molecular mechanisms, biomarkers, and therapeutic strategies.",
+      "authors": [
+        "Aanchal Verma",
+        "Ahsas Goyal",
+        "Neetu Agrawal",
+        "Harlokesh Narayan Yadav"
+      ],
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "publication_date": "2026-10-23",
+      "pmid": "42918387",
+      "doi": "10.1016/j.pnpbp.2026.111985",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918387/",
+      "abstract": "Cellular senescence has been increasingly associated with neurodegenerative disorders, potentially linking ageing-related cellular impairment with mitochondrial dysfunction, chronic inflammation, and disrupted intercellular signalling. The present study aims to explore the increasing relevance of cellular senescence among key cell types, including neurons, astrocytes, neural progenitor cells, microglia and oligodendrocyte-lineage cells across neurodegenerative ailments such as Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis and multiple sclerosis. This review discusses the findings of pre-clinical and clinical studies which suggest that senescence-associated features may contribute to neurodegeneration. Further, it provides an overview of the biomarkers used in the identification of senescence in the CNS. Also, the review examines senotherapeutic treatment approaches, highlighting their actions on different CNS cell types and the growing clinical evidence. It also points out the challenges in translating these approaches to clinical application, such as targeting specific cell types and the lack of suitable biomarkers. Collectively, present findings suggest that senescence-associated alterations may contribute to neurodegeneration, although their effects appear to vary across cell types and diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "Ageing",
+        "Neurodegenerative",
+        "Senescence",
+        "Senolytics",
+        "Senomorphics"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42918320",
+      "event_key": "pubmed:42918320",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "State transitions in amyotrophic lateral sclerosis: mechanistic convergence and biomarker-guided stratification.",
+      "authors": [
+        "Mo Nasb",
+        "Dan Yang",
+        "Tayyab Hamid Malik",
+        "Dandan Xu",
+        "Lamis Dayoub",
+        "Jing Zhou",
+        "Yan Zhao"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2026-10-23",
+      "pmid": "42918320",
+      "doi": "10.1016/j.neuroscience.2026.10.036",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918320/",
+      "abstract": "BACKGROUND: Biological heterogeneity is a major obstacle to therapeutic development in amyotrophic lateral sclerosis (ALS). Cross-sectional pathway labels do not show whether a mechanism is active or treatment-relevant in an individual patient.\n\nMETHODS: We conducted a structured critical narrative review informed by the Scale for the Assessment of Narrative Review Articles. MEDLINE, Embase, PubMed, and CENTRAL were searched for English-language literature published from 1 January 2015 to 7 August 2026; seminal earlier studies were identified by citation tracking. Human genetic, pathological, longitudinal biomarker, multi-omic, imaging, neurophysiological, and interventional evidence was prioritized. Evidence was appraised by human proximity, temporality, replication, mechanistic specificity, and treatment relevance.\n\nRESULTS: Evidence supports interacting RNA/proteostasis, nucleocytoplasmic-transport, glial-inflammatory, and energetic-metabolic processes, but current evidence does not yet support the use of any candidate state for individual treatment assignment. The most mature temporal example is loss of TDP-43 splicing repression before neurofilament elevation in genetically at-risk individuals. Nucleocytoplasmic-transport evidence is strongest in C9orf72 disease; inflammatory and metabolic signals are confounded by disease burden and systemic illness; and the gut-brain axis remains a context-dependent amplifier. We propose prespecified transition rules, evidence grades, and biomarker-by-treatment interaction tests.\n\nCONCLUSIONS: A state-transition model becomes clinically useful when longitudinal measurements add value beyond clinical predictors and injury markers and prospectively identify differential treatment benefit.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Biomarkers",
+        "Disease progression",
+        "Narrative review",
+        "Patient stratification",
+        "Precision medicine"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42913489",
+      "event_key": "pubmed:42913489",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities.",
+      "authors": [
+        "Jinxi Huang",
+        "Shengxi Zhang",
+        "Dan Zhang",
+        "Tianhang Yang",
+        "Can Li",
+        "Mengjia He",
+        "Jialin Wang",
+        "Tao Song",
+        "Xianyao Wang",
+        "Yanxin Lu",
+        "Qinghong Kong",
+        "Jun Tan",
+        "Jidong Zhang"
+      ],
+      "journal": "Science progress",
+      "publication_date": "2026-10-23",
+      "pmid": "42913489",
+      "doi": "10.1177/00368504261499190",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913489/",
+      "abstract": "Liquid-liquid phase separation (LLPS) provides a biophysical framework for understanding biomolecular organization, yet its pathological relevance in neurodegeneration remains incompletely resolved. In this narrative review, we critically synthesize current evidence on LLPS in Huntington's disease, Parkinson's disease, Alzheimer's disease, and amyotrophic lateral sclerosis, focusing on mutant huntingtin, α-synuclein, amyloid-β, tau, TDP-43, and FUS. We first outline the molecular principles-including intrinsic disorder, multivalent interactions, and environmental sensitivity-that govern their phase behavior. We then examine how dynamic condensates may, under specific cellular contexts, transition toward less reversible oligomeric, gel-like, or solid assemblies, integrating evidence from in vitro, cellular, and in vivo studies. Importantly, current evidence does not support LLPS as a universal or obligatory precursor of pathological aggregation; rather, its biological consequences appear to depend on condensate composition, material properties, subcellular localization, and proteostasis capacity, while direct demonstration of disease-relevant condensates in vivo remains limited. We further discuss whether aberrant LLPS represents a cause, consequence, or context-dependent component of neurodegeneration and highlight emerging strategies that modulate condensate formation, maturation, or clearance while preserving physiological functions. Overall, this review defines both the mechanistic potential and current limitations of the LLPS framework and identifies key questions that must be addressed before pathological phase-state modulation can become a clinically actionable therapeutic strategy.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Phase Separation",
+        "Animals",
+        "Protein Aggregation, Pathological",
+        "Amyloid beta-Peptides",
+        "DNA-Binding Proteins",
+        "Huntingtin Protein",
+        "tau Proteins",
+        "alpha-Synuclein",
+        "RNA-Binding Protein FUS",
+        "Biomolecular Condensates"
+      ],
+      "keywords": [
+        "Biomolecular condensates",
+        "Intrinsically disordered proteins",
+        "Liquid-liquid phase separation",
+        "Neurodegenerative diseases",
+        "Protein aggregation"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42918778",
+      "event_key": "pubmed:42918778",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+      "authors": [
+        "Samir Abu-Rumeileh",
+        "Henning Großkopf",
+        "Arthur Guthknecht",
+        "Alexander Mensch",
+        "Dirk Osterloh",
+        "Antonia Ratti",
+        "Julian Conrad",
+        "Caroline Stapf",
+        "Julia Krippner",
+        "Patrick Oeckl",
+        "Gisela Stoltenburg-Didinger",
+        "Alessio Maranzano",
+        "Petra Steinacker",
+        "Christopher M Weise",
+        "Lorenzo Barba",
+        "Lucio D'Anna",
+        "Hans-Wolfgang Klafki",
+        "Jens Wiltfang",
+        "Vincenzo Silani",
+        "Lutz Froelich",
+        "Nicola Ticozzi",
+        "Lucrezia Hausner",
+        "Dietmar Rudolf Thal",
+        "Jochen Hans Weishaupt",
+        "Ingolf Lachmann",
+        "Federico Verde",
+        "Markus Otto"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026-10-22",
+      "pmid": "42918778",
+      "doi": "10.1038/s41467-026-78390-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918778/",
+      "abstract": "Blood phosphorylated tau 217 (p-tau217) accurately detects Alzheimer's disease (AD) pathology but is also elevated in amyotrophic lateral sclerosis (ALS), likely reflecting peripheral (big) tau released from muscle. Assays selectively measuring brain-derived (BD-) tau and BD-p-tau217 are therefore needed. We analysed serum BD-tau and p-tau217 in ALS (n = 139), AD (n = 101) and controls (n = 75) using direct immunoassays and after BD-Tau immunoprecipitation (BD-Tau-IP), and tau species in brain (n = 16), spinal cord (n = 11) and muscle (n = 10) by targeted mass spectrometry. With the direct immunoassays, BD-tau and p-tau217 were increased in AD and ALS versus controls. After BD-Tau-IP, BD-tau and BD-p-tau217 were elevated in AD only, improving diagnostic accuracy. Mass spectrometry revealed a central-to-peripheral shift from BD-tau to big tau predominance, with exclusively big p-tau217 detected in muscle. Selective detection of BD-tau species improves the specificity of blood AD biomarkers by reducing peripheral tau confounding.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "tau Proteins",
+        "Alzheimer Disease",
+        "Female",
+        "Protein Isoforms",
+        "Male",
+        "Biomarkers",
+        "Brain",
+        "Aged",
+        "Phosphorylation",
+        "Spinal Cord",
+        "Mass Spectrometry",
+        "Middle Aged",
+        "Diagnosis, Differential",
+        "Aged, 80 and over",
+        "Immunoprecipitation",
+        "Case-Control Studies"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
+      "id": "42911846",
+      "event_key": "pubmed:42911846",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Clinically unresponsive patients with acute brain injury activate a brain-computer interface.",
+      "authors": [
+        "Qi Shen",
+        "Andrey Eliseyev",
+        "Vedant Kansara",
+        "Joel Neves Briard",
+        "You Lim Song",
+        "Jerina Carmona",
+        "Ian Jerome Gonzales",
+        "Angela Velazquez",
+        "Alex J Klein",
+        "Sachin Agarwal",
+        "Soojin Park",
+        "Shivani Ghoshal",
+        "David Roh",
+        "E Sander Connolly",
+        "Jan Claassen"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-10-22",
+      "pmid": "42911846",
+      "doi": "10.1093/brain/awag210",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911846/",
+      "abstract": "Brain activation to verbal commands can be detected by EEG in clinically unresponsive patients. These patients with cognitive motor dissociation (CMD) are unable to communicate with the environment despite preserved consciousness. Advanced brain-computer interfaces (BCI) are promising to support motor function in patients with motor neuron disease or spinal cord injury. Our primary objective was to determine if clinically unresponsive patients can control a self-paced, one-way BCI early after acute brain injury. Secondarily, we assessed the association of BCI control with short- and long-term outcomes. We conducted a prospective single-centre cohort study in 41 clinically unresponsive, critically ill and acutely brain injured patients, as well as in a convenience sample of 8 healthy volunteers and 22 conscious critically ill patients. The self-paced BCI analysed EEG in real time and modulated frequency and pitch of a tone that patients controlled by attempting a motor task: patients were provided with instructions 'to make the beep sound faster, keep opening and closing your right hand' alternating with 'to make the beep sound slower, stop opening and closing your right hand'. CMD was detected by applying machine learning to EEG recorded while patients listened to motor commands. Clinical outcomes were recovery of consciousness by hospital discharge, assessed with the Coma Recovery Scale-Revised, and recovery of functional independence at 12 months, defined as a Glasgow Outcome Scale-Extended score of 4 or higher (denoting the ability to function independently for 8 h or more). Additionally, we invited conscious patients as well as family members of conscious and clinically unresponsive patients to complete a survey on perceived utility and challenges associated with the BCI. In this study, 13 clinically unresponsive patients (32%) achieved BCI control and 8 of 41 (20%) were CMD-positive. All healthy volunteers and nine conscious patients (41%) were able to control the BCI. Median signal delay for BCI control was 49.8 [interquartile range (IQR) 39.9-75.6] seconds for clinically unresponsive patients, 17.1 (IQR 7.8-19.9) for conscious patients and 15.5 (IQR 12.9-21.2) for healthy volunteers. In the group of 41 clinically unresponsive patients, 4 of 13 patients with (31%) and 1 of 28 without BCI control (4%) recovered clinical consciousness at hospital discharge [odds ratio (OR) 21.2; 95% confidence interval (CI) 2.3-930.7]. At 12 months, 6 of 13 patients with (46%) and 2 of 28 without BCI control (7%) recovered functional independence (OR 9.9; 95% CI 1.8-81.6). None of the patients that were unable to control the BCI and were CMD-negative recovered. Patients with BCI control had shorter times to recovery of functional independence by 12 months than those who did not (hazards ratio 6.0; 95% CI 1.2-30.6). All respondents of the BCI survey (n = 37) expressed strong support for the potential future use of BCI devices. These results suggest that BCI control is a strong predictor of outcomes following acute brain injury and provide initial evidence that a bedside, EEG-based BCI system might permit bidirectional communication in critically ill unresponsive patients.",
+      "mesh_terms": [],
+      "keywords": [
+        "EEG",
+        "brain-computer interface",
+        "cognitive motor dissociation",
+        "coma",
+        "covert consciousness"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
       "id": "42907506",
       "event_key": "pubmed:42907506",
       "source_id": "pubmed",
@@ -93,7 +374,7 @@
       "keywords": [],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42905535",
@@ -123,7 +404,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42905272",
@@ -177,7 +458,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42905245",
@@ -212,7 +493,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42905162",
@@ -272,7 +553,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42904407",
@@ -311,7 +592,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42904327",
@@ -347,7 +628,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42902402",
@@ -403,7 +684,7 @@
       ],
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42901819",
@@ -695,7 +976,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42894599",
@@ -2814,6 +3095,49 @@
       "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
+      "id": "42908777",
+      "event_key": "pubmed:42908777",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Case Report: Herbal nutritional intervention in a critically ill ALS patient with multidrug-resistant infection.",
+      "authors": [
+        "Meng Wang",
+        "Chihim Mak",
+        "Xinjie Li",
+        "Shaoyu Li",
+        "Chunyan Cui",
+        "Defeng Cai",
+        "Zhiwei Liang",
+        "Tao Lu",
+        "Qingshun Jia",
+        "Xiangming Shao",
+        "Yong Ma",
+        "Guanghui Fan",
+        "Kejin Li",
+        "Wenzhi Mai",
+        "Chihang Mak",
+        "Nan Liu"
+      ],
+      "journal": "Frontiers in medicine",
+      "publication_date": "2026-10-07",
+      "pmid": "42908777",
+      "doi": "10.3389/fmed.2026.1912856",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908777/",
+      "abstract": "We report a retrospective single case of a female patient with a 9-year history of amyotrophic lateral sclerosis (ALS) who presented with respiratory failure due to a multidrug-resistant organism (MDRO) infection, predominantly Klebsiella pneumoniae (KP), and who showed significant clinical improvement during a comprehensive treatment regimen that included an adjunctive herbal nutritional intervention. The objective of this retrospective single-case report was to describe the clinical course of this patient following a nutritional intervention with two herbal beverages: Sang Shen Pu Gong Ying (SSPGY) and Wu Zhi Mao Tao Hong Zao (WZMTHZ). The patient was admitted in critical condition and managed in three phases: initial antibiotics with occasional herbal beverages, daily herbal beverages, and a combination of herbal beverages with intermittent antibiotics. Retrospective analysis of clinical data revealed significant improvements post-intervention. Body weight increased from 26 kg to 35.5 kg at discharge and 39 kg at the 6-week follow-up. Vital signs normalized, with no detectable KP in the final hospital phase. Inflammatory markers, including C-reactive protein and white blood cell count, decreased markedly. Neurological status, as indicated by neurofilament light chain (NfL) levels, improved, and the patient showed respiratory autonomy and positional changes. Nutritional markers, total protein and creatinine, also improved. This case documents clinical improvements, including extended ventilator-free breathing periods, in an ALS patient with MDRO infection following a combined therapeutic approach. Although concurrent medical interventions were administered in real-world clinical practice, these findings suggest the potential value of this adjunctive intervention, warranting further systematic investigation. Clinical Trial Registration: identifier ITMCTR2024000322.",
+      "mesh_terms": [],
+      "keywords": [
+        "Klebsiellapneumoniae (KP)",
+        "amyotrophic lateral sclerosis (ALS)",
+        "herbal nutritional intervention",
+        "multidrug-resistant organism (MDRO)",
+        "respiratory failure"
+      ],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
       "id": "42883328",
       "event_key": "pubmed:42883328",
       "source_id": "pubmed",
@@ -3103,7 +3427,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42871744",
@@ -4152,6 +4476,26 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42913510",
+      "event_key": "pubmed:42913510",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Proceedings of the 25th Annual Meeting of the Northeast ALS Consortium.",
+      "authors": [],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-10-01",
+      "pmid": "42913510",
+      "doi": "10.1002/mus.70436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913510/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
       "id": "42904859",
       "event_key": "pubmed:42904859",
       "source_id": "pubmed",
@@ -4203,7 +4547,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42901869",
@@ -6660,6 +7004,47 @@
       "last_seen_at": "2026-09-26T05:19:20Z"
     },
     {
+      "id": "42916114",
+      "event_key": "pubmed:42916114",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Metal Ions and Protein Aggregation: Unraveling Molecular Interactions and Theranostic Prospects in Proteinopathies.",
+      "authors": [
+        "Danilo Milardi",
+        "Jiyeon Han",
+        "Hyuck Jin Lee",
+        "Feng Ding",
+        "Yifat Miller",
+        "Peter Faller",
+        "Ashley I Bush",
+        "Peter J Crouch",
+        "David I Finkelstein",
+        "Kay L Double",
+        "Aleksandar Jeremic",
+        "Mi Hee Lim",
+        "Ayyalusamy Ramamoorthy"
+      ],
+      "journal": "Chemical reviews",
+      "publication_date": "2026-09-23",
+      "pmid": "42916114",
+      "doi": "10.1021/acs.chemrev.5c00420",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42916114/",
+      "abstract": "Protein aggregation is a pathological process associated with several human diseases termed proteinopathies, including neurodegenerative and metabolic disorders such as Alzheimer's disease, Parkinson's disease, type II diabetes, amyotrophic lateral sclerosis, and Huntington's disease. In these conditions, specific proteins misfold and accumulate into insoluble aggregates, disrupting normal cellular function and contributing to disease progression. Many studies have investigated the molecular mechanisms that underlie the aggregation pathways, the structure of aggregates, such as oligomeric intermediates and fibrils, and their cellular toxicity. Studies have also investigated the effects of cofactors like metals, lipids, other amyloid proteins, and small molecules. Recent research has increasingly emphasized the critical roles of metal ions such as copper (Cu), zinc (Zn), iron (Fe), and manganese (Mn) in amyloid aggregation and toxicity. Alterations in metal ion transport, binding, or redox activity have been linked to the onset and progression of several amyloid-associated diseases. These metal ions can interact directly with amyloidogenic proteins, influencing their structural conformation, aggregation kinetics, and propensity to form toxic oligomers. This review aims to advance our understanding of how the regulation of metal ions within cells and their dysfunction contribute to the accumulation of harmful proteins, which is a key factor in proteinopathies. By examining the interactions between metal ions and key amyloidogenic proteins─including amyloid-β (Aβ), α-synuclein, tau, superoxide dismutase 1 (SOD1), human islet amyloid polypeptide (hIAPP), and insulin─we highlight both common and unique pathways through which metal ions influence protein aggregation. Additionally, this review explores the impact of metal ions on protein clearance mechanisms, such as autophagy and the ubiquitin-proteasome system, as well as emerging theranostic strategies. These include metal chelation therapies, metal-based imaging agents, and multifunctional compounds designed to restore metal balance while preventing aggregation and toxicity. By integrating biochemical, cellular, and therapeutic insights, this review contributes to a deeper understanding of the metallobiology of proteinopathies and supports the development of novel diagnostic and treatment approaches targeting metal-protein interactions.",
+      "mesh_terms": [
+        "Humans",
+        "Protein Aggregation, Pathological",
+        "Neurodegenerative Diseases",
+        "Metals",
+        "Animals",
+        "Protein Aggregates"
+      ],
+      "keywords": [],
+      "collected_at": "2026-10-24T04:55:33Z",
+      "first_seen_at": "2026-10-24T04:55:33Z",
+      "last_seen_at": "2026-10-24T04:55:33Z"
+    },
+    {
       "id": "42852085",
       "event_key": "pubmed:42852085",
       "source_id": "pubmed",
@@ -7483,7 +7868,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
+      "last_seen_at": "2026-10-24T04:55:33Z"
     },
     {
       "id": "42791964",
