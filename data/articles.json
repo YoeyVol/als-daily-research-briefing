@@ -1,16 +1,8 @@
 {
-  "updated_at": "2026-10-24T04:55:34Z",
+  "updated_at": "2026-10-25T05:08:11Z",
   "new_keys": [
-    "pubmed:42918614",
-    "pubmed:42918426",
-    "pubmed:42918387",
-    "pubmed:42918320",
-    "pubmed:42918778",
-    "pubmed:42911846",
-    "pubmed:42908777",
-    "pubmed:42913510",
-    "pubmed:42913489",
-    "pubmed:42916114"
+    "pubmed:42919989",
+    "pubmed:42920457"
   ],
   "items": [
     {
@@ -57,6 +49,32 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42919989",
+      "event_key": "pubmed:42919989",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Mitochondrial dysfunction in neurology: biomarkers and clinical implications.",
+      "authors": [
+        "Elena Rossini",
+        "Matteo Garibaldi",
+        "Michael G Hanna",
+        "Robert D S Pitceathly",
+        "Chiara Pizzamiglio"
+      ],
+      "journal": "Nature reviews. Neurology",
+      "publication_date": "2026-10-23",
+      "pmid": "42919989",
+      "doi": "10.1038/s41582-026-01274-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919989/",
+      "abstract": "Mitochondrial dysfunction is increasingly recognized as a shared downstream pathogenic mechanism across a wide spectrum of neurological disorders, ranging from primary mitochondrial diseases to conditions including amyotrophic lateral sclerosis, Alzheimer disease, Parkinson disease, multiple sclerosis, hereditary ataxias and idiopathic inflammatory myopathies. This Review examines the role of mitochondrial biomarkers in improving diagnostic accuracy, patient stratification and monitoring of disease progression and therapeutic response. Primary mitochondrial diseases are presented as proof-of-concept models of impaired oxidative phosphorylation, providing a framework for biomarker identification and validation with translational relevance to other neurological diseases. Mitochondrial biomarkers can be broadly categorized into four domains: fluid biomarkers, reflecting metabolic alterations and stress signalling; genetic biomarkers, capturing mitochondrial DNA integrity and dynamics; multi-omics approaches, integrating transcriptomic, proteomic and metabolomic signatures; and imaging biomarkers, enabling in vivo assessment of structural and functional consequences of mitochondrial dysfunction. Across disorders, these biomarkers reveal shared disturbances in bioenergetics, redox homeostasis, mitochondrial genome maintenance and inflammatory signalling. However, clinical implementation remains limited by methodological heterogeneity, biological variability and reduced disease specificity. Integrated, multimodal biomarker strategies, combined with longitudinal validation, will be essential for supporting precision medicine and guiding the development of therapies to target mitochondrial pathways in neurology.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-25T05:08:11Z",
+      "first_seen_at": "2026-10-25T05:08:11Z",
+      "last_seen_at": "2026-10-25T05:08:11Z"
+    },
+    {
       "id": "42918614",
       "event_key": "pubmed:42918614",
       "source_id": "pubmed",
@@ -79,7 +97,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42918426",
@@ -108,7 +126,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42918387",
@@ -139,7 +157,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42918320",
@@ -174,7 +192,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42913489",
@@ -227,7 +245,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42918778",
@@ -294,7 +312,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42911846",
@@ -336,7 +354,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42907506",
@@ -374,7 +392,7 @@
       "keywords": [],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42905535",
@@ -404,7 +422,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42905272",
@@ -458,7 +476,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42905245",
@@ -493,7 +511,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42905162",
@@ -553,7 +571,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42904407",
@@ -592,7 +610,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42904327",
@@ -628,7 +646,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42902402",
@@ -976,7 +994,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42894599",
@@ -3135,7 +3153,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42883328",
@@ -3427,7 +3445,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42871744",
@@ -4493,7 +4511,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42904859",
@@ -4547,7 +4565,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42901869",
@@ -7042,7 +7060,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42852085",
@@ -7288,6 +7306,37 @@
       "collected_at": "2026-09-24T05:13:16Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
       "last_seen_at": "2026-09-26T05:19:20Z"
+    },
+    {
+      "id": "42920457",
+      "event_key": "pubmed:42920457",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Corneal Confocal Microscopy (CCM) in Patients With Central Neurodegenerative Disease.",
+      "authors": [
+        "Ayesha Malik",
+        "Maryam Ferdousi",
+        "Shazli Azmi",
+        "Rayaz A Malik"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-09-22",
+      "pmid": "42920457",
+      "doi": "10.7759/cureus.116756",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42920457/",
+      "abstract": "Corneal confocal microscopy (CCM) is a rapid, non-invasive ophthalmic imaging technique that enables detailed visualization and quantification of small corneal nerve fibres. Although initially developed for the assessment of diabetic neuropathy, its application has broadened substantially, with increasing evidence supporting its value in a range of central neurodegenerative diseases. This narrative review synthesizes current findings on the use of CCM in dementia, multiple sclerosis, stroke, burning mouth syndrome, amyotrophic lateral sclerosis, trigeminal neuralgia, migraine and Parkinson's disease. Across these conditions, CCM consistently identifies measurable alterations in corneal nerve fibre density, length, branching and morphology, as well as changes in corneal immune cell populations. These structural abnormalities frequently correlate with disease severity, functional decline and clinical progression. In some disorders, CCM demonstrates diagnostic performance comparable to or exceeding existing biomarkers, and offers distinct advantages as a non-invasive, repeatable and objective measure that can detect early or subclinical neurodegeneration. Corneal confocal microscopy also shows potential as a prognostic and monitoring tool, particularly in conditions with limited reliable biomarkers. It may help stratify risk, track therapeutic response, and provide surrogate endpoints for clinical trials. Despite these strengths, several limitations remain, including modest sample sizes in some studies, variability in image interpretation, and difficulties differentiating between neurodegenerative conditions with overlapping patterns of nerve loss. Emerging automated analysis methods and artificial intelligence-based algorithms may help address these challenges by improving accuracy, reproducibility, and scalability. Overall, CCM represents a promising technique that bridges ophthalmology and neurology. A growing body of literature supports its utility across multiple neurodegenerative diseases, and further large-scale, longitudinal studies may help establish its role within routine clinical assessment and research.",
+      "mesh_terms": [],
+      "keywords": [
+        "corneal confocal microscopy imaging",
+        "dementia",
+        "medical device technology development and assessment",
+        "neurodegeneration",
+        "parkinsons disease"
+      ],
+      "collected_at": "2026-10-25T05:08:11Z",
+      "first_seen_at": "2026-10-25T05:08:11Z",
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42817963",
@@ -7868,7 +7917,7 @@
       ],
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
-      "last_seen_at": "2026-10-24T04:55:33Z"
+      "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
       "id": "42791964",
