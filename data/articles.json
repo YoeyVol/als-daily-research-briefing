@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-10-25T05:08:11Z",
+  "updated_at": "2026-10-26T05:10:20Z",
   "new_keys": [
-    "pubmed:42919989",
-    "pubmed:42920457"
+    "pubmed:42926777",
+    "pubmed:42921272",
+    "pubmed:42922081",
+    "pubmed:42927514",
+    "pubmed:42925563",
+    "pubmed:42925513",
+    "pubmed:42925434",
+    "pubmed:42924853",
+    "pubmed:42925619",
+    "pubmed:42926935",
+    "pubmed:42924413",
+    "pubmed:42926444",
+    "pubmed:42926625",
+    "pubmed:42923269",
+    "pubmed:42926632",
+    "pubmed:42927931",
+    "pubmed:42927744",
+    "pubmed:42922691",
+    "pubmed:42922848"
   ],
   "items": [
     {
@@ -49,6 +66,290 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42922081",
+      "event_key": "pubmed:42922081",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Riluzole-Derived Benzo[d]thiazoles as CK1δ Inhibitors for Amyotrophic Lateral Sclerosis-Related Neurodegeneration.",
+      "authors": [
+        "Simone Adorinni",
+        "Ilenia Grieco",
+        "Stefano Morasso",
+        "Michelle Fornasier",
+        "Gianluca Novello",
+        "Veronica Salmaso",
+        "Loreto Martínez-González",
+        "Eleonora Cescon",
+        "Davide Bassani",
+        "Giovanni Adriano Bassan",
+        "Teresa Gianferrara",
+        "Filippo Prencipe",
+        "Veronika Kost",
+        "Tatiana Da Ros",
+        "Paola Storici",
+        "Ana Martinez",
+        "Giampiero Spalluto",
+        "Stefano Moro",
+        "Stephanie Federico"
+      ],
+      "journal": "ChemMedChem",
+      "publication_date": "2026-10-28",
+      "pmid": "42922081",
+      "doi": "10.1002/cmdc.70539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922081/",
+      "abstract": "Riluzole-derived benzo[d]thiazoles were investigated as metabolite-inspired CK1δ inhibitors, a kinase involved in TDP-43 phosphorylation and therefore relevant to amyotrophic lateral sclerosis (ALS). Starting from the known CK1δ activity of riluzole, we examined whether its major hydroxylamine metabolite could preserve target recognition and provide a rational entry point for scaffold optimisation. The metabolite retained CK1δ inhibition, but its limited chemical stability and toxicity in neuronal cells identified the hydroxylamine group as a critical liability. Replacement of this functionality with a hydrazine converted the fragile metabolite-derived structure into a more potent and tractable CK1δ inhibitor series. Structure-activity relationship studies revealed that the hydrazine moiety accommodates broader substitution than the hydroxylamine counterparts, with branched alkyl and benzyl groups giving the most balanced profiles. Docking and molecular dynamics suggested that the improvement could be attributed to an additional hydrogen-bond with Gly86 in the hinge region. The best derivative combined submicromolar CK1δ inhibition with passive blood-brain barrier permeability, short-term cellular tolerance, ATP competitive inhibition, direct target engagement, and preliminary selectivity over GSK3β. Although this compound did not result neuroprotective in an oxidative stress model, it paves the way for a focused benzo[d]thiazole platform for probing CK1δ biology in ALS.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Riluzole",
+        "Structure-Activity Relationship",
+        "Casein Kinase Idelta",
+        "Protein Kinase Inhibitors",
+        "Animals",
+        "Benzothiazoles",
+        "Molecular Docking Simulation",
+        "Neuroprotective Agents",
+        "Molecular Structure"
+      ],
+      "keywords": [
+        "Casein kinase 1δ",
+        "benzo[d]thiazoles",
+        "lateral sclerosis",
+        "metabolism‐based drug design",
+        "riluzole"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42927514",
+      "event_key": "pubmed:42927514",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Mild cognitive impairment in presymptomatic amyotrophic lateral sclerosis.",
+      "authors": [
+        "Caroline McHutchison",
+        "Joanne Wuu",
+        "Stephanie Cosentino",
+        "Regla Saldana",
+        "Enjolie Vadella",
+        "Ana Benacerraf",
+        "Katja McBane",
+        "Alexa S Gonzalez",
+        "Jessica H Stark",
+        "Yindi Li",
+        "Sharon Abrahams",
+        "Michael Benatar"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-10-25",
+      "pmid": "42927514",
+      "doi": "10.1007/s00415-026-14206-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927514/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) are clinically and biologically related, and each may be preceded by a prodromal stage of disease. Mild cognitive and behavioural impairment (MCI/MBI) have also been observed in those with clinically manifest ALS. The primary aim of this study was to characterise MCI in presymptomatic ALS.\n\nMETHODS: Criteria for frontotemporal-related MCI (MCI-ft), which require evidence of subthreshold cognitive performance or decline, were adapted from existing frameworks for MCI in prodromal FTD, presymptomatic ALS and clinically manifest ALS. MCI-ft was characterised in 216 Pre-fALS participants (74 C9ORF72, 94 SOD1, 20 other pathogenic variant carriers and 28 non-carriers) with neuropsychological data at 807 study visits. All designations were reviewed by a research neuropsychologist, with consensus discussions as needed.\n\nRESULTS: MCI-ft was observed in 15 (20%) C9ORF72, 12 (13%) SOD1 and 3 (%) of other carriers at one or more study visits, compared to 1 (4%) non-carrier. Most visits with MCI-ft showed impairment affecting both language and executive functioning. Fluctuations in MCI-ft status between assessments were common.\n\nCONCLUSION: The observed frequency and temporal course of MCI-ft in presymptomatic ALS, using criteria based on subthreshold cognitive performance and decline, expands understanding of this phase of disease. These findings help to inform future research examining the risk of phenoconversion to clinically manifest disease and aid the design of disease prevention trials.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Cognitive Dysfunction",
+        "Prodromal Symptoms",
+        "Middle Aged",
+        "C9orf72 Protein",
+        "Aged",
+        "Superoxide Dismutase-1",
+        "Neuropsychological Tests"
+      ],
+      "keywords": [
+        "Frontotemporal dementia",
+        "Motor neuron disease",
+        "Presymptomatic disease",
+        "Prodromal symptoms"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42925563",
+      "event_key": "pubmed:42925563",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Constructing functional neural circuits to model amyotrophic lateral sclerosis with induced pluripotent stem cell-derived brain organoids.",
+      "authors": [
+        "Yuhu Niu",
+        "Dong Zhang",
+        "Tao Gong",
+        "Guoying Guo",
+        "Hao Zhang",
+        "Chong Gao",
+        "Jiangli Yang"
+      ],
+      "journal": "Neural regeneration research",
+      "publication_date": "2026-10-24",
+      "pmid": "42925563",
+      "doi": "10.4103/NRR.NRRONLINE-D-26-00781",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925563/",
+      "abstract": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disease characterized by the degeneration of both upper and lower motor neurons. Recent advances in human-induced pluripotent stem cell-derived brain organoids offer an innovative platform to model amyotrophic lateral sclerosis in a human-specific context. These three-dimensional organoid systems allow for the study of neuronal circuit-level dysfunction, which is central to amyotrophic lateral sclerosis pathogenesis, by incorporating multiple neuronal subtypes and supporting glial populations. In particular, the integration of region-specific brain organoids into assembloid models has enabled the reconstruction of functional long-range projections and cortico-motor circuits, closely resembling human neural connectivity. This review summarizes the generation and application of human induced pluripotent stem cell-derived brain organoids for amyotrophic lateral sclerosis research, with a focus on the reconstruction of neural circuits, multi-omics profiling, and functional assays. We also discuss how organoid systems can be leveraged for drug discovery and personalized medicine in amyotrophic lateral sclerosis, highlighting their potential to unveil human-specific disease mechanisms. Lastly, we address the current challenges and future directions for improving the physiological relevance of organoid models in amyotrophic lateral sclerosis research.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "assembloids",
+        "brain organoid",
+        "motor neuron disease",
+        "neural circuits"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42925513",
+      "event_key": "pubmed:42925513",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Postsynaptic remodeling and F-actin dysregulation in the Dctn1Δ2-4 mouse model of motor neuron disease.",
+      "authors": [
+        "Jiayin Zheng",
+        "Xuan Yang",
+        "Xinyu Wang",
+        "Huaibin Cai",
+        "Jia Yu"
+      ],
+      "journal": "Neural regeneration research",
+      "publication_date": "2026-10-24",
+      "pmid": "42925513",
+      "doi": "10.4103/NRR.NRRONLINE-D-26-00886",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925513/",
+      "abstract": "The microtubule motor dynein and its co-adaptor dynactin govern organelle positioning within highly polarized neurons. The dynactin subunit p150Glued, encoded by DCTN1, is associated with motor neuron disease. The p150Glued G59S mutation disrupts the microtubule-binding domain and drives selective motor neuron degeneration in patients and animal models. The p150Glued microtubule-binding domain mediates the initiation of retrograde transport at axonal terminals and stabilizes presynaptic sites at neuromuscular junctions. Nevertheless, the key functions of p150Glued and its microtubule-binding domain within postsynaptic compartments remain poorly defined. Using Dctn1Δ2-4 mice, in which exons 2-4 of Dctn1 encoding the microtubule-binding domain are deleted, we performed morphological, biochemical, and cellular physiological analyses, together with genetic manipulation and pharmacological intervention, to investigate how loss of p150Glued microtubule-binding function affects excitatory postsynaptic organization and neuronal vulnerability. We found that excitatory postsynaptic remodeling occurred before overt dendritic degeneration and motor neuron loss in Dctn1Δ2-4 mice. We further demonstrated that p150Glued microtubule-binding domain dysfunction induced early remodeling of excitatory postsynaptic densities, leading to increased postsynaptic accumulation of N-methyl- D-aspartate receptors, dysregulated Ca2+ homeostasis, and heightened susceptibility to glutamate-induced excitotoxicity. Mechanistically, p150Glued microtubule-binding domain dysfunction promoted the postsynaptic accumulation of endosomes and the Wiskott-Aldrich syndrome protein and SCAR homolog complex, resulting in excessive F-actin assembly and pathological enhancement of postsynaptic density architecture. Furthermore, these postsynaptic abnormalities were rescued by re-expression of wild-type p150Glued, but not the disease-associated G59S mutant. Pharmacological inhibition of N-methyl-D-aspartate receptors, in turn, attenuated excitotoxic injury and neurodegeneration. Our findings identify a previously unrecognized postsynaptic pathogenic mechanism in DCTN1-associated motor neuron disease. We propose that loss of p150Glued microtubule-binding function disrupts postsynaptic endosome positioning, leading to aberrant Wiskott-Aldrich syndrome protein and SCAR homolog-mediated F-actin remodeling, pathological enhancement of excitatory postsynaptic densities, excessive N-methyl-D-aspartate receptor targeting, and increased vulnerability to excitotoxicity.",
+      "mesh_terms": [],
+      "keywords": [
+        "N-methyl-D-aspartic acid receptor",
+        "Wiskott-Aldrich syndrome protein and SCAR homolog complex",
+        "actin-capping protein of muscle Z-line",
+        "calcium ion",
+        "endosome",
+        "excitotoxicity",
+        "microtubule-binding domain",
+        "neurodegeneration",
+        "postsynaptic density"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42925434",
+      "event_key": "pubmed:42925434",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
+      "authors": [
+        "Atharva Shah",
+        "Angel Godad",
+        "Siddhi Bagwe Parab"
+      ],
+      "journal": "Metabolic brain disease",
+      "publication_date": "2026-10-24",
+      "pmid": "42925434",
+      "doi": "10.1007/s11011-026-02006-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925434/",
+      "abstract": "The Wnt Signaling pathway is a regulatory network that is highly conserved in the central nervous system and is essential for the survival of neurons, synaptic plasticity, and the blood-brain barrier's integrity. The pathophysiology of major neurodegenerative and neurological disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and traumatic brain injury (TBI), is highly influenced by canonical and non-canonical Wnt Signaling dysregulation, according to increasingly compelling evidence. In addition to emphasising common molecular events such as GSK-3β overactivation, β-catenin destabilisation, neuroinflammation, synaptic dysfunction, and BBB disruption, this study offers a comparative and mechanistic overview of Wnt pathway changes across various illnesses. This article identifies overlapping treatment targets, such as GSK-3β, DKK1, LRP5/6, and Wnt ligands, by integrating common and disease-specific Wnt-associated pathways, in contrast to traditional disease-specific reviews. Furthermore, new translational approaches involving natural substances, Wnt modulators, and pathway-targeted treatments are critically examined. All things considered, this study presents Wnt Signaling as a potential neuroprotective and regenerative target for upcoming precision-based treatments in neurodegenerative disorders.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Wnt Signaling Pathway",
+        "Animals",
+        "Blood-Brain Barrier"
+      ],
+      "keywords": [
+        "Blood–brain barrier",
+        "GSK-3β",
+        "Neurodegenerative disorders",
+        "Neuroinflammation",
+        "Neuroprotection",
+        "Wnt signaling",
+        "β-catenin"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42924853",
+      "event_key": "pubmed:42924853",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Feasibility and apparent safety of functional electrical stimulation-assisted cycling in amyotrophic lateral sclerosis and primary lateral sclerosis: a single-arm longitudinal pilot feasibility study.",
+      "authors": [
+        "Martina Regazzetti",
+        "Pawel Kiper",
+        "Antonio Merico",
+        "Simonetta Rossi",
+        "Diego Bulcão Visco",
+        "Carlos Luque Moreno",
+        "Alfonc Baba"
+      ],
+      "journal": "European journal of translational myology",
+      "publication_date": "2026-10-23",
+      "pmid": "42924853",
+      "doi": "10.4081/ejtm.2026.16025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924853/",
+      "abstract": "Functional electrical stimulation-assisted cycling may be relevant in motor neuron disease, but its feasibility and safety in amyotrophic lateral sclerosis and primary lateral sclerosis remain unclear. The authors aimed to assess feasibility, apparent safety, and exploratory pre-post clinical changes of a three-week functional electrical stimulation-assisted cycling protocol in ambulatory inpatients with amyotrophic lateral sclerosis or primary lateral sclerosis. Fifteen patients were assessed; 11 were enrolled (5 ALS, 6 PLS) and received 15 supervised 30-minute FES-cycling sessions over three weeks in addition to conventional neuromotor rehabilitation. Bilateral eight-channel stimulation targeted quadriceps, tibialis anterior, hamstrings, and gastrocnemius during active or active-assisted cycling. Feasibility outcomes were enrollment, completion, tolerance, adverse events, and pre-post data availability. Clinical outcomes were analyzed descriptively. Eleven of 15 assessed patients were enrolled (73.3%; 5 ALS, 6 PLS). All enrolled participants completed the protocol, no adverse events were documented, and complete pre-post data were available. Exploratory outcomes showed favorable short-term changes in mobility, walking, strength, and spasticity. This protocol appears feasible and apparently safe in selected ambulatory inpatients. Findings are hypothesis-generating and support a prospective controlled feasibility trial before efficacy is tested.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "apparent safety",
+        "feasibility",
+        "functional electrical stimulation",
+        "neurorehabilitation",
+        "primary lateral sclerosis"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42921272",
+      "event_key": "pubmed:42921272",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies.",
+      "authors": [
+        "Zimeng He",
+        "Jingjing Zeng",
+        "Guoqing Wang",
+        "Yuxin Li",
+        "Feng Zhang"
+      ],
+      "journal": "MedComm",
+      "publication_date": "2026-10-23",
+      "pmid": "42921272",
+      "doi": "10.1002/mco2.71090",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921272/",
+      "abstract": "Neurodegenerative diseases are a growing cause of disability worldwide, particularly as populations age. Although these disorders differ in etiology and clinical presentation, advances in genetics, neuropathology, and biomarker research have identified shared disturbances in protein homeostasis, mitochondrial function, and immune regulation. These processes may contribute to selective neuronal vulnerability and neural circuit dysfunction. These findings are refining disease classification and diagnosis, yet effective disease-modifying therapies remain limited. Disease-specific abnormalities remain essential to clinical interpretation and treatment selection. Existing reviews often focus on individual disorders or isolated mechanisms, leaving the links between shared biology and disease-specific phenotypes insufficiently clear. We synthesize evidence on the epidemiology, risk factors, classification, and pathophysiology of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, frontotemporal dementia, Friedreich's ataxia, and multiple sclerosis. We compare their clinical manifestations and diagnostic approaches, including the evolving role of biomarkers, and critically assess established and emerging therapies. By distinguishing shared mechanisms from disease-specific abnormalities, we identify key translational gaps and explore how common biological disturbances may lead to distinct clinical trajectories. This cross-disease perspective may inform diagnostic reasoning, treatment development, and future comparative research.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "Parkinson's disease",
+        "amyotrophic lateral sclerosis",
+        "diagnosis",
+        "neurodegenerative diseases",
+        "therapeutics"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42919989",
       "event_key": "pubmed:42919989",
       "source_id": "pubmed",
@@ -72,7 +373,7 @@
       "keywords": [],
       "collected_at": "2026-10-25T05:08:11Z",
       "first_seen_at": "2026-10-25T05:08:11Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42918614",
@@ -97,7 +398,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42918426",
@@ -105,7 +406,7 @@
       "source_id": "pubmed",
       "source_name": "PubMed",
       "category": "Drug Development",
-      "title": "Neurodegeneration in Sub-Saharan Africa: Intersections of Biological Ageing, Genomic Diversity and the Lifetime Exposome.",
+      "title": "Neurodegeneration in sub-Saharan Africa: Intersections of biological ageing, genomic diversity and the lifetime exposome.",
       "authors": [
         "Maulilio John Kipanyula"
       ],
@@ -117,16 +418,16 @@
       "abstract": "Neurodegenerative diseases are emerging as an important consequence of population ageing in sub-Saharan Africa (SSA), but their scientific relevance extends beyond a projected rise in case numbers. SSA combines exceptional human genomic diversity with marked heterogeneity in vascular and metabolic risk, infection, nutrition, occupational exposures, air pollution, and access to health care. This combination creates an underused setting in which to study why biological ageing produces neurodegeneration in some individuals but relative resilience in others. This review critically synthesises evidence on Alzheimer's disease and related dementias, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal degeneration, Huntington's disease and related disorders, focusing on the intersection between hallmarks of ageing, disease-specific proteinopathies, ancestry and the lifetime exposome. Age-associated loss of proteostasis, mitochondrial dysfunction, impaired autophagy, chronic inflammation, neurovascular injury and genomic/epigenomic instability provide a mechanistic scaffold on which genetic susceptibility and cumulative exposures may act. Yet African evidence remains dominated by cross-sectional clinical phenotyping; neuropathology, longitudinal biomarkers, multi-omics and measured environmental exposures remain sparse. Recent African-ancestry Parkinson's disease genomics and emerging plasma biomarker studies demonstrate that ancestry-inclusive molecular neuroscience is feasible and can generate findings not predictable from European-ancestry datasets. The next phase should therefore move beyond documenting underdiagnosis toward longitudinal, biologically anchored cohorts that integrate phenotype, genomics, blood biomarkers, neuroimaging, exposomics, digital measures and health-system outcomes. This review proposes a research framework centred on biological ageing, gene-environment interaction and resilience. Such work would improve the validity of prevention, diagnosis and therapeutic translation in African populations while contributing globally to a more complete biology of neurodegenerative ageing.",
       "mesh_terms": [],
       "keywords": [
-        "ageing",
-        "exposome",
-        "genomics",
-        "neurodegeneration",
-        "resilience",
-        "sub-Saharan Africa"
+        "Ageing",
+        "Exposome",
+        "Genomics",
+        "Neurodegeneration",
+        "Resilience",
+        "Sub-Saharan Africa"
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42918387",
@@ -157,7 +458,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42918320",
@@ -192,7 +493,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42913489",
@@ -245,7 +546,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42918778",
@@ -312,7 +613,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42911846",
@@ -354,7 +655,43 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42925619",
+      "event_key": "pubmed:42925619",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The clinical spectrum of suicide-related outcomes in amyotrophic lateral sclerosis: A systematic review and meta-analysis.",
+      "authors": [
+        "João Victor Aguiar Moreira",
+        "Claudio Vinicius Araujo Pinheiro",
+        "Rebeca Ferreira de Souza",
+        "Gaspar R Chiappa",
+        "Samela Carvalho Ramos",
+        "Marcelo José da Silva de Magalhães",
+        "Débora Regina de Aguiar",
+        "Diogo Fernandes Dos Santos"
+      ],
+      "journal": "General hospital psychiatry",
+      "publication_date": "2026-10-21",
+      "pmid": "42925619",
+      "doi": "10.1016/j.genhosppsych.2026.10.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925619/",
+      "abstract": "OBJECTIVE: To synthesize clinically distinct suicide-related outcomes in amyotrophic lateral sclerosis (ALS) and comparative suicide risk without pooling non-equivalent constructs.\n\nMETHODS: We searched MEDLINE, Embase, Scopus, PsycINFO, the Virtual Health Library, and SciELO through March 17, 2026, and updated all searches for March 18 through October 9, 2026. We included observational reports of predefined suicide-related outcomes. Outcomes with at least 3 independent studies were pooled using random-effects generalized linear mixed models for proportions and a Hartung-Knapp model for comparative estimates. We used Joanna Briggs Institute tools and adapted GRADE.\n\nRESULTS: Twenty-eight reports representing 26 independent cohorts were included; 21 cohorts contributed quantitative data. Active suicidal ideation was 43% (23/53; 95% CI, 30%-58%) in an end-stage cohort and 14% (10/71; 95% CI, 7%-24%) in a general clinic cohort; these estimates were not pooled. Hypothetical consideration of assisted dying was 50% (95% CI, 41%-59%; I2 = 49%; 95% prediction interval, 21%-79%; 4 studies). Crude suicide mortality rates were 0.16 and 0.36 per 100 person-years in 2 cohorts. Three registry or administrative cohorts yielded a relative suicide-risk estimate of 4.6 (95% CI, 2.5-8.5; 95% prediction interval, 0.4-53.6). Certainty was low or very low.\n\nCONCLUSIONS: Suicide-related experiences in ALS are clinically distinct. Clinicians should clarify meaning, assess intent and immediacy, evaluate decision-making capacity and treatable psychiatric symptoms, and address palliative and psychosocial needs. A death wish or assisted-dying preference should not be assumed to indicate active suicidal intent.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Assisted dying",
+        "Suicidal ideation",
+        "Suicide",
+        "Systematic review",
+        "meta-analysis"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42907506",
@@ -1907,6 +2244,84 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "42926935",
+      "event_key": "pubmed:42926935",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Outcomes of patients with amyotrophic lateral sclerosis admitted to the ICU for acute respiratory failure.",
+      "authors": [
+        "Adam Celier",
+        "Aymeric Lanore",
+        "Adele Hesters",
+        "Sarah Hussein",
+        "Raouf Benchikh",
+        "Gaelle Bruneteau",
+        "Capucine Morélot-Panzini",
+        "Mélodie Parfait",
+        "Mathilde Piljan",
+        "Loic Le Guennec",
+        "Nicolas Weiss",
+        "Sophie Demeret",
+        "Julien Mayaux",
+        "Clemence Marois"
+      ],
+      "journal": "Annals of intensive care",
+      "publication_date": "2026-10-12",
+      "pmid": "42926935",
+      "doi": "10.1016/j.aicoj.2026.100183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926935/",
+      "abstract": "BACKGROUND: Data on patients with amyotrophic lateral sclerosis (ALS) admitted to the intensive care unit (ICU) for acute respiratory failure are scarce, and early prognostic markers are lacking.\n\nMETHODS: We conducted a retrospective cohort study of consecutive patients with ALS admitted for acute respiratory failure to two ICUs of a tertiary referral center between 2016 and 2022. The primary outcome was 3-month mortality. Factors associated with 3-month mortality were assessed using multivariable Cox proportional hazards regression. Survival and functional outcomes were evaluated up to 12 months.\n\nRESULTS: Among 139 patients [median age 66 (IQR 57-73) years, 61.2% being men], 109 (78.4%) patients presented with hypercapnia and 82 (59.0%) with hypoxemia (defined as PaO₂/FiO₂ ratio < 300) at ICU admission, with frequent overlap between both conditions. Non-invasive ventilation was used in 79.9% of patients, while 13.7% were intubated, and 2.2% underwent tracheostomy. Three-month mortality was 48.2%, increasing to 61.2% and 74.1% at 6 and 12 months respectively. In multivariable analysis, hypoxemia at ICU admission was independently associated with increased 3-month mortality (HR = 2.27, 95% CI: 1.28-4.01; P = 0.005), along with older age (HR=1.03 per year, 95% CI: 1.00-1.06; P = 0.035). Among patients alive at 3 months, a majority (79.2%) were living at home.\n\nCONCLUSION: ICU admission for acute respiratory failure in ALS is associated with substantial short-term mortality, consistent with the poor prognosis inherent to the natural history of the disease. Hypoxemia at admission identifies a subgroup at particularly high risk of death and may help inform early prognostic assessment and shared decision-making. However, patients who survive the acute ICU phase frequently achieve favorable short-term outcomes, with most living at home at 3 months.",
+      "mesh_terms": [],
+      "keywords": [
+        "Acute respiratory failure",
+        "Amyotrophic lateral sclerosis",
+        "Intensive care unit"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42924413",
+      "event_key": "pubmed:42924413",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cerebellar involvement in sporadic amyotrophic lateral sclerosis: a magnetic resonance spectroscopy study.",
+      "authors": [
+        "Gianfranco Vornetti",
+        "Francesca Punzetti",
+        "Veria Vacchiano",
+        "Magali Jane Rochat",
+        "Elena Cantoni",
+        "Giovanni Rizzo",
+        "Diego D'Angeli",
+        "Luca Morandi",
+        "David Neil Manners",
+        "Rocco Liguori",
+        "Raffaele Lodi",
+        "Caterina Tonon"
+      ],
+      "journal": "Brain communications",
+      "publication_date": "2026-10-12",
+      "pmid": "42924413",
+      "doi": "10.1093/braincomms/fcag382",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924413/",
+      "abstract": "Amyotrophic lateral sclerosis is increasingly recognized as a multisystem neurodegenerative disorder, and recent evidence suggests that the cerebellum may contribute to disease pathology, although cerebellar metabolic alterations have not previously been demonstrated in vivo. This study investigated cerebellar metabolic and structural changes using proton magnetic resonance spectroscopy (1H-MRS) and volumetric imaging. Thirty patients with amyotrophic lateral sclerosis (21 M, mean age 59.7 ± 7.6 years), 22 healthy controls (HC, 10 M, mean age 59.8 ± 9.6 years) and 16 individuals with hereditary spastic paraplegia type 4 (8 M, mean age 50.8 ± 12.5 years), a potential clinical mimic, underwent 3T MRI and 1H-MRS with a single-voxel positioned in the left cerebellar hemisphere. Patients with amyotrophic lateral sclerosis showed significant reductions in myo-inositol/creatinine (P = 0.01) and glutathione/creatinine (P = 0.005), compared with HC, together with selective volume loss in cerebellar lobules I-IV, V, VI, and Crus I. Among metabolites, glutathione/creatinine had the highest discriminative accuracy for amyotrophic lateral sclerosis versus both HC and spastic paraplegia type 4, with areas under the curve of 0.80 and 0.71, respectively. These findings reveal distinct cerebellar metabolic alterations in amyotrophic lateral sclerosis, providing further evidence for cerebellar involvement in disease pathology and highlighting cerebellar 1H-MRS as a potential adjunct to diagnostic evaluation.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "cerebellum",
+        "glutathione",
+        "magnetic resonance spectroscopy",
+        "spastic paraplegia type 4"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42862794",
       "event_key": "pubmed:42862794",
       "source_id": "pubmed",
@@ -2103,6 +2518,30 @@
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
       "last_seen_at": "2026-10-15T05:01:49Z"
+    },
+    {
+      "id": "42926444",
+      "event_key": "pubmed:42926444",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "IsoGraph resolves coordinated transcript choice and gene abundance in the aging human brain.",
+      "authors": [
+        "Alexis Bennett",
+        "Elisa Kain Johnson",
+        "Kynon J M Benjamin"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-11",
+      "pmid": "42926444",
+      "doi": "10.64898/2026.10.04.756439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926444/",
+      "abstract": "Relative transcript usage can change without a corresponding change in total gene expression, but resolving coordinated transcript choice across genes while separating it from abundance remains challenging. We present IsoGraph, a gene-centered framework that represents isoform usage and abundance as paired network channels, identifies gene modules, and quantifies their channel-specific contributions. In synthetic benchmarks, IsoGraph preferentially recovered network structure when coordinated transcript usage carried the planted signal, whereas abundance-based representations were more informative in abundance-dominated and RNA-degradation settings. Applied to BrainSEQ and GTEx adult brain transcriptomes, IsoGraph identified age-associated transcript-usage signals that persisted after conditioning on gene abundance and, in a region-dependent manner, after adjustment for estimated cellular composition. Modules were stable across donor subsets, and frozen module axes retained age associations across cohorts even when exact gene partitions differed. IsoGraph module context captured predictive information about held-out differential transcript usage beyond gene-wise evidence and conventional co-expression. Convergent evidence from structural annotation, short-read junction usage, independent long-read sequencing, and within-donor allelic analyses supported constituent transcript events. Disease colocalization further prioritized candidate isoform events at neurological and psychiatric disease loci, including an alternative terminal-exon event at PRDM2 associated with amyotrophic lateral sclerosis. Together, these results establish coordinated transcript usage as a reproducible component of transcriptomic organization and provide a framework for resolving its contribution alongside gene abundance and for tracing network-level signals to candidate transcript events.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42860504",
@@ -2686,6 +3125,70 @@
       "last_seen_at": "2026-10-12T06:21:56Z"
     },
     {
+      "id": "42926625",
+      "event_key": "pubmed:42926625",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "CCT2 expression marks a translation-activated state in sporadic ALS motor neurons and is associated with functional decline.",
+      "authors": [
+        "Priyanka Bhandary",
+        "Yizhou Wang",
+        "Mohamed Omar",
+        "Jason H Moore",
+        "Zhiping Paul Wang"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-08",
+      "pmid": "42926625",
+      "doi": "10.64898/2026.10.06.757033",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926625/",
+      "abstract": "Sporadic disease accounts for about 90% of amyotrophic lateral sclerosis (ALS) cases, and its biological heterogeneity is a major contributor to the failure of trials that enroll patients under a single diagnosis. Because sporadic ALS lacks a shared genetic anchor, identifying biological signals is critical for effective patient stratification. We analyzed induced pluripotent stem cell-derived motor neurons from 619 AnswerALS participants using transcriptomics, proteomics, and whole-genome sequencing and identified CCT2 as the first single-gene marker of a molecular state within sporadic ALS, providing a measurable basis for trial enrollment according to biology. We first anchored the analysis in known ALS genotypes. C9orf72 and SOD1 motor neurons did not converge on a common signature but retained genotype-specific differences that bulk postmortem tissue compresses. Scoring 391 sporadic patients along three transcriptomic axes (bioenergetic stress, cell cycle, and inflammation) resolved three states. One state was marked by CCT2, a TRiC chaperonin subunit, which distinguished it from the quiescent state with an area under the curve of 0.892. CCT2 was also elevated at the protein level and associated with the rate of ALSFRS-R decline, although this association weakened after adjustment for culture composition. Upstream regulator analysis placed this state downstream of MYC and mTORC1 activation. No germline test across 360 whole genomes explained these states. Validation using Target ALS data showed that the relationship between CCT2 and the cell cycle program was also present in postmortem cortex enriched for layer 5b projection neurons.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42923269",
+      "event_key": "pubmed:42923269",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Selected traditional Chinese medicines for treating amyotrophic lateral sclerosis: a Bayesian network meta-analysis based on randomised controlled trials.",
+      "authors": [
+        "Chen Shen",
+        "Xiao-Ti Wu",
+        "Heng Yin",
+        "Jing-Ling Zuo",
+        "Chen-Hao Zhang",
+        "Feng Cao",
+        "Ying Zhang",
+        "Zi-Yu Tian",
+        "Nicola Robinson",
+        "Jian-Ping Liu"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2026-10-08",
+      "pmid": "42923269",
+      "doi": "10.3389/fphar.2026.1706211",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42923269/",
+      "abstract": "OBJECTIVE: To assess the effectiveness of specific Traditional Chinese Medicine (TCM) therapies for Amyotrophic Lateral Sclerosis (ALS) using Bayesian network meta-analysis.\n\nMETHODS: PubMed, the Cochrane Library, EMBASE, Web of Science, and four Chinese databases up to 15th December 2024 was searched, including RCTs on adult Amyotrophic Lateral Sclerosis patients treated with TCM therapies (Chinese herbal medicine, preparations, non-pharmacological treatments) alone or combined with conventional treatments. Controls included no intervention, placebo, conventional treatments, or combinations. Primary outcomes were functional status (ALSFRS, ALSFRS-R, AALSS, m-Norris scales). Bayesian network meta-analysis compared treatment effects and calculated SUCRA values.\n\nRESULTS: Thirty-five RCTs involving 27 TCM therapies were included. No significant differences in functional status or quality of life were found among TCM therapies, ICT, Riluzole alone, and Riluzole plus placebo. For functional status, Shenmai injection + ICT (SUCRA 0.735 for ALSFRS, 0.870 for ALSFRS-R), Jiweiling injection + placebo (SUCRA 0.868 for ALSFRS), Jiawei Sijunzi decoction alone (SUCRA 0.739 for ALSFRS-R), Acupuncture + rehabilitation exercises + Riluzole (SUCRA 0.928 for AALSS, 0.863 for m-Norris) and Shenzhe Jiangqi powder + placebo (SUCRA 0.860 for m-Norris) had the highest probabilities of being superior treatment. For quality of life, Thunder fire moxibustion + Riluzole and Jiweiling injection + placebo for ALSAQ-40 were favorable.\n\nCONCLUSION: Despite no significant differences in functional status among TCM therapies, ICT, Riluzole alone, and Riluzole plus placebo, Jiweiling injection, Shenmai injection, Jiawei Sijunzi decoction, and Shenzhe Jiangqi powder may be regarded as candidate preparations for ALS patients. Future research should focus on real-world data to explore long-term effects and practical benefits.\n\nSYSTEMATIC REVIEW REGISTRATION: https://inplasy.com/inplasy-2024-8-0050/, identifier INPLASY202480050.",
+      "mesh_terms": [],
+      "keywords": [
+        "Bayesian network meta-analysis",
+        "Chinese herbal medicine",
+        "amyotrophic lateral sclerosis",
+        "indirect comparison",
+        "rare disease",
+        "traditional Chinese medicine"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42894639",
       "event_key": "pubmed:42894639",
       "source_id": "pubmed",
@@ -3113,6 +3616,89 @@
       "last_seen_at": "2026-10-11T06:14:38Z"
     },
     {
+      "id": "42926777",
+      "event_key": "pubmed:42926777",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A CNS-targeted atovaquone nanotherapy mitigates complement activation and neuromuscular degeneration in ALS.",
+      "authors": [
+        "Ya-Ning Ding",
+        "Madina Bahati",
+        "Mei-Qi Li",
+        "Pei-Pei Guan",
+        "Pu Wang"
+      ],
+      "journal": "Materials today. Bio",
+      "publication_date": "2026-10-07",
+      "pmid": "42926777",
+      "doi": "10.1016/j.mtbio.2026.103738",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926777/",
+      "abstract": "Complement-mediated glial inflammation and synaptic injury are increasingly implicated in amyotrophic lateral sclerosis (ALS), but clinically translatable complement-modulating therapies remain limited. Atovaquone (ATQ) is an approved, poorly water-soluble small molecule with reported immunomodulatory activity. We investigated whether ATQ could modulate C1qb or C5aR1-associated pathology and whether lactoferrin (Lf)-derived nanomicelles could improve delivery to the spinal cord. ALS spinal-cord single-cell transcriptomic and pathway-enrichment analyses were combined with screening of an FDA-approved drug library, molecular docking and surface plasmon resonance (SPR). Lf-ATQ nanomicelles were characterised by dynamic light scattering, transmission electron microscopy and fluorescence distribution studies. Complement/inflammasome responses were examined in microglial and motor-neuron-microglia models. Therapeutic effects were evaluated in mice expressing the human superoxide dismutase 1 G93A variant (SOD1G93A) by motor testing, compound muscle action potential recording, histology, immunostaining, western blotting and proteomics. Complement genes, particularly C1qb and C5aR1, were enriched in microglia, whereas glutamatergic-synapse and axon-guidance programmes were negatively enriched. In cellular models and SOD1G93A spinal cord, Lf-ATQ reduced C1qb, NLRP3 and multiple inflammatory mediators, attenuated glial reactivity and altered autophagy-related proteins. Treatment preserved rotarod performance, grip strength, gait parameters, compound muscle action potential amplitude and gastrocnemius morphology. Proteomic analysis indicated remodelling of complement/coagulation, vesicular-transport and synaptic modules. These findings support Lf-ATQ as a central nervous system (CNS) -oriented, complement-regulating nanotherapy candidate for ALS. Direct functional target-inhibition assays, quantitative ATQ pharmacokinetics, long-term safety assessment and validation in non-SOD1 models remain necessary before translational conclusions can be drawn.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Atovaquone",
+        "C5aR1",
+        "Complement C1qb",
+        "Lactoferrin nanomicelles"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42926632",
+      "event_key": "pubmed:42926632",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Somatic instability of the C9orf72 repeat expansion in blood differs between patients with amyotrophic lateral sclerosis or frontotemporal dementia.",
+      "authors": [
+        "Mathieu Barbier",
+        "Mounir Ichalalen",
+        "Maria-Del-Mar Amador",
+        "Julie F H De Houwer",
+        "EunRan Suh",
+        "François-Xavier Lejeune",
+        "Théophile Bieth",
+        "Cécile Reyes",
+        "Emilie Henry",
+        "Allyson E Hinks",
+        "Philippe Martin-Hardy",
+        "Daisy Rinaldi",
+        "Lara Araktingi",
+        "Harro Seelaar",
+        "Carole Roué-Jagot",
+        "French clinical and genetic research network on FTLD / FTLD-ALS PrevDemALS and STRATALS,",
+        "Julien Lagarde",
+        "Marie Sarazin",
+        "François Salachas",
+        "Gaëlle Bruneteau",
+        "Marc Teichmann",
+        "Richard Levy",
+        "Elsa Bernard",
+        "Laura Donker Kaat",
+        "Viviana Van Deerlin",
+        "Georg Haase",
+        "John van Swieten",
+        "Audrey Rapinat",
+        "David Gentien",
+        "Isabelle Le Ber"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "publication_date": "2026-10-07",
+      "pmid": "42926632",
+      "doi": "10.64898/2026.10.06.26364580",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926632/",
+      "abstract": "Individuals carrying a G4C2 repeat expansion in C9orf72 can develop amyotrophic lateral sclerosis (ALS) and/or frontotemporal dementia (FTD), at various and unpredictable ages. The contribution of the expansion to this extreme clinical variability remained a matter of debate. In this work, we validated the use of optical genome mapping to efficiently size this expansion from blood and applied this method to a cohort of 54 repeat expansion carriers including patients with FTD (n = 23), ALS (n = 22) and presymptomatic individuals (n = 9). Despite the high variability in expansion profiles, distinct groups can be inferred. Although consensus repeat profiles were similar between FTD and ALS patients, relationships between repeat number, indexes of repeat instability, and the age at sampling differed between clinical conditions. An age at sampling-dependent increase of repeat instability in blood was observed in presymptomatic carriers and FTD patients (p = 0.01 and p = 0.04 respectively), in contrast to patients with ALS (p = 0.9). The proportion of shorter repeats ([500-1500 repeats]) increased with the age at sampling in ALS patients but decreased in presymptomatic and FTD cohorts, while the proportion of larger repeats (>2000 G4C2), in particular those exceeding 4000 repeats, increased along with the age at sampling in presymptomatic carriers and FTD cases (p <1.10 -e4 and p = 0.006 respectively) conversely to patients with ALS (p = 0.98). In conclusion, this work strongly supports different dynamics of repeat instability of the C9orf72 pathogenic expansion in blood linked to the clinical evolution. These findings provide new insights into the relationship between expansion profiles and clinical variability.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42908777",
       "event_key": "pubmed:42908777",
       "source_id": "pubmed",
@@ -3153,7 +3739,7 @@
       ],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42883328",
@@ -4494,6 +5080,109 @@
       "last_seen_at": "2026-10-05T06:04:52Z"
     },
     {
+      "id": "42927931",
+      "event_key": "pubmed:42927931",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cortical Motor Hierarchy Disruption Is Associated With Functional Status in Early Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Jixin Luan",
+        "Yan Yun",
+        "Yichang Jiao",
+        "Yao Wang",
+        "Mingjie Ma",
+        "Didi Shan",
+        "Hongxu Wang",
+        "Xinbo Ji",
+        "Yao Tang",
+        "Jianing Li",
+        "Zexin Zhan",
+        "Xiaohan Sun",
+        "Ninglu Gao",
+        "Pengfei Lin",
+        "Chuanzhu Yan",
+        "Xiulian Sun",
+        "Dexin Yu",
+        "Shuangwu Liu",
+        "Fuchen Liu"
+      ],
+      "journal": "Journal of cachexia, sarcopenia and muscle",
+      "publication_date": "2026-10-01",
+      "pmid": "42927931",
+      "doi": "10.1002/jcsm.70411",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927931/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a devastating neuromuscular disease characterised by progressive muscle wasting and functional decline. Although cortical motor network disruption is a hallmark of ALS, the large-scale functional hierarchy alterations and their underlying molecular mechanisms in the early stage of the disease (ALS-ES) remain poorly understood. We aimed to characterise cortical gradient changes in early-stage ALS and to examine their neurochemical and transcriptomic correlates, as well as their cross-sectional associations with clinical functional status.\n\nMETHODS: We recruited 97 patients with early-stage ALS, all at King's stage 1 and 94 healthy controls with comparable age and sex distributions. The ALS-ES group included 65 women and had a median ALSFRS-R score of 40 (IQR, 37-44). Resting-state fMRI was used to construct the principal functional gradient. We integrated neurochemical maps of 19 neurotransmitter receptors/transporters, and transcriptomic data from the Allen Human Brain Atlas. Partial least squares (PLS) regression and cell-type enrichment analysis were employed to identify molecular correlates of gradient alterations.\n\nRESULTS: Compared with HCs, ALS-ES patients exhibited a significant spatial contraction of the principal gradient. Specifically, gradient values significantly increased in the somatomotor network (SMN; t = 3.670, pFDR = 0.001) and decreased in the default mode network (DMN; t = -4.124, pFDR < 0.001). Within the ALS-ES group, higher SMN gradient values were associated with lower ALSFRS-R scores, whereas higher DMN gradient values were associated with higher ALSFRS-R scores. These macroscale alterations showed spatial correspondence with normative 5-HT4 receptor and norepinephrine transporter maps. PLS analysis identified a primary gene set (PLS1+) enriched in oligodendrocytes and mitochondrial functions (pFDR < 0.05), whereas the negative set (PLS1-) was associated with astrocytes, GABAergic neurons and RNA splicing pathways. Chromosome-level analysis revealed significant enrichment of PLS1- genes on chromosomes 5 and 16 (p < 0.05).\n\nCONCLUSIONS: Early-stage ALS is characterised by a collapsed cortical functional hierarchy centred on the motor-somatosensory axis. These alterations were spatially associated with normative neurochemical maps and distinct transcriptomic annotations related to energy metabolism and RNA processing. These findings identify cross-sectional cortical functional-hierarchy alterations associated with functional status in early-stage ALS and provide a multi-scale framework for investigating their neurochemical and transcriptomic correlates.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Magnetic Resonance Imaging",
+        "Motor Cortex",
+        "Aged",
+        "Cross-Sectional Studies"
+      ],
+      "keywords": [
+        "Allen Human Brain Atlas",
+        "amyotrophic lateral sclerosis",
+        "cortical functional gradients",
+        "imaging transcriptomics",
+        "muscle wasting",
+        "neurotransmitter"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42927744",
+      "event_key": "pubmed:42927744",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "When the Brain Signals Danger: Roles of Calreticulin and HMGB1 in Cell Death Mechanisms in Neurooncology and Neurodegeneration.",
+      "authors": [
+        "Tatiana A Mishchenko",
+        "Anna A Grechukhina",
+        "Sergey S Kulikov",
+        "Oluwabukolami Joy Olajide",
+        "Elena V Mitroshina",
+        "Dmitri V Krysko",
+        "Maria V Vedunova"
+      ],
+      "journal": "Biochemistry. Biokhimiia",
+      "publication_date": "2026-10-01",
+      "pmid": "42927744",
+      "doi": "10.1134/S0006297926601565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927744/",
+      "abstract": "Contrary to the classical paradigm of brain immune privilege, damage-associated molecular patterns (DAMPs) act as key mediators in the dialogue between CNS cells and the immune system, determining pathways of immune response development. This review examines the role of key DAMPs - calreticulin (CRT) and high-mobility group box 1 protein (HMGB1) - in the functioning of CNS under normal conditions and during the development of neuropathologies, particularly oncological and neurodegenerative processes. Under normal conditions, CRT and HMGB1 ensure functioning of the brain, acting as necessary effectors of neurogenesis and homeostatic plasticity. In neurooncology, exposure of CRT on the surface of dying cells and release of HMGB1 serve as powerful adjuvant signals for antigen-presenting cells, inducing immunogenic cell death (ICD). Particular attention is given to the mechanisms of passive HMGB1 release during various types of regulated cell death (apoptosis, necroptosis, pyroptosis, ferroptosis, cuproptosis), as well as to the role of redox modifications of the protein, which determine its pro-inflammatory, immunogenic, or tolerogenic properties. In neurodegeneration (Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis), excessive DAMP release exacerbates the development of chronic neuroinflammation, disrupts integrity of the blood-brain barrier (BBB), and forms a vicious cycle of pathological changes. Detection of CRT and HMGB1 in biological fluids or brain tissues has important prognostic potential, and regulation of their signaling pathways opens promising approaches for overcoming tumor resistance or inhibiting progressive neurodegenerative changes in the brain.",
+      "mesh_terms": [
+        "Humans",
+        "HMGB1 Protein",
+        "Calreticulin",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Brain",
+        "Cell Death",
+        "Signal Transduction",
+        "Alarmins"
+      ],
+      "keywords": [
+        "HMGB1",
+        "brain tumors",
+        "calreticulin (CRT)",
+        "damage-associated molecular patterns (DAMPs)",
+        "immunogenic cell death (ICD)",
+        "neurodegenerative diseases",
+        "regulated cell death"
+      ],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42913510",
       "event_key": "pubmed:42913510",
       "source_id": "pubmed",
@@ -4511,7 +5200,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42904859",
@@ -7060,7 +7749,7 @@
       "keywords": [],
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42852085",
@@ -7336,7 +8025,7 @@
       ],
       "collected_at": "2026-10-25T05:08:11Z",
       "first_seen_at": "2026-10-25T05:08:11Z",
-      "last_seen_at": "2026-10-25T05:08:11Z"
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42817963",
@@ -11586,6 +12275,40 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42922691",
+      "event_key": "pubmed:42922691",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Defective synapto-nuclear signaling contributes to motoneuron vulnerability in SOD1-ALS.",
+      "authors": [
+        "Kamil Grycz",
+        "Cédric Jan",
+        "Piotr Zawistowski",
+        "Bartosz Wasicki",
+        "Burak Özkan",
+        "Oumayma Aousji",
+        "Riccardo Sirtori",
+        "Claudia Fallini",
+        "Guillaume Caron",
+        "Simon M Danner",
+        "Francesco Roselli",
+        "Daniel Zytnicki",
+        "Marcin Bączyk"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-09-04",
+      "pmid": "42922691",
+      "doi": "10.64898/2026.09.01.748568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922691/",
+      "abstract": "Glutamatergic excitatory synapses not only shape spiking activity and neuronal communication but also initiate activity-dependent signaling pathways that trigger transcriptional programs. Since glutamatergic excitatory synapses onto spinal motoneurons (MNs) are impaired presymptomatically in Amyotrophic Lateral Sclerosis, we investigated whether synapto-nuclear coupling is disrupted in MNs from mSOD1 mice and whether restoring it mitigates pathology. We developed an in vivo approach to selectively investigate the coupling between synaptic excitation and nuclear CREB phosphorylation in spinal MNs. Specific activation of Ia-MN synapses induces CREB phosphorylation in wild-type MNs but not in mSOD1 MNs at P50, indicating presymptomatic synapto-nuclear uncoupling. Enhancing cAMP/PKA signaling by pharmacological inhibition of cAMP degradation restored synapto-nuclear coupling, reduced misfolded SOD1, and slowed neuromuscular-junction denervation. Thus, activity-dependent synapto-nuclear signaling is impaired yet pharmacologically rescuable in mSOD1 MNs, supporting synapto-nuclear signaling as a determinant of MN resilience.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
       "id": "42875146",
       "event_key": "pubmed:42875146",
       "source_id": "pubmed",
@@ -11772,6 +12495,37 @@
         "nutritional biomarkers",
         "serum"
       ]
+    },
+    {
+      "id": "42922848",
+      "event_key": "pubmed:42922848",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Limits of Trial-Adaptive Neural-Language Fusion Across Large Language Models in P300 Brain-Computer Interfaces.",
+      "authors": [
+        "Alon Gorenshtein",
+        "Mahmud Omar",
+        "Eric Jia",
+        "Yosef Adiniaev",
+        "Oved Daniel",
+        "Jonathan Kruskal",
+        "Muneeb Ahmed",
+        "Olga Brook",
+        "Eyal Klang",
+        "Yiftach Barash"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "publication_date": "2026-09-03",
+      "pmid": "42922848",
+      "doi": "10.64898/2026.08.30.26361777",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922848/",
+      "abstract": "OBJECTIVE: Published P300-speller fusion schemes fix prior trust regardless of trial reliability; we tested whether a reliability estimate improves on it.\n\nMETHODS: We reanalyzed 3,373 archived P300-speller selections from 47 people with ALS (BigP3BCI). A fair, matched-search-space comparison, tuning both a fixed weight and an adaptive policy out-of-fold, was evaluated across 22 evaluable language-model priors up to 46.7B parameters. Two representative priors, GPT-2 and a classical 5-gram, additionally received detailed naive and mechanistic analyses.\n\nRESULTS: No prior's 95% CI favored adaptive fusion under the fair comparison, despite unexploited oracle headroom at every scale. Under GPT-2, the naive comparison was significantly worse for adaptive fusion; both anchors converged to a degenerate or near-degenerate fair-comparison solution. For the representative anchors, three further controllers failed to convert that headroom into benefit; the fixed-fused posterior's output probability outperformed the best controller for flagging errors (2.8- to 3.8-fold enrichment).\n\nCONCLUSION: A tuned fixed weight is a difficult-to-beat default across the tested scale range; reliability estimation gave no deployable adaptive advantage.\n\nSIGNIFICANCE: Adaptive weighting should be validated against a fairly tuned baseline across model families and scales; in this dataset, the fused output's confidence identified high-risk selections better than the tested purpose-built ranker.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-26T05:10:19Z",
+      "first_seen_at": "2026-10-26T05:10:19Z",
+      "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
       "id": "42831851",
