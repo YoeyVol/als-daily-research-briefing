@@ -1,25 +1,15 @@
 {
-  "updated_at": "2026-10-26T05:10:20Z",
+  "updated_at": "2026-10-27T05:25:53Z",
   "new_keys": [
-    "pubmed:42926777",
-    "pubmed:42921272",
-    "pubmed:42922081",
-    "pubmed:42927514",
-    "pubmed:42925563",
-    "pubmed:42925513",
-    "pubmed:42925434",
-    "pubmed:42924853",
-    "pubmed:42925619",
-    "pubmed:42926935",
-    "pubmed:42924413",
-    "pubmed:42926444",
-    "pubmed:42926625",
-    "pubmed:42923269",
-    "pubmed:42926632",
-    "pubmed:42927931",
-    "pubmed:42927744",
-    "pubmed:42922691",
-    "pubmed:42922848"
+    "pubmed:42934032",
+    "pubmed:42933747",
+    "pubmed:42933736",
+    "pubmed:42933234",
+    "pubmed:42933233",
+    "pubmed:42929861",
+    "pubmed:42931148",
+    "pubmed:42929812",
+    "pubmed:42928205"
   ],
   "items": [
     {
@@ -121,7 +111,159 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
+      "id": "42934032",
+      "event_key": "pubmed:42934032",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Motor neuron disease and parkinsonism in a patient with a pathogenic CSF1R variant.",
+      "authors": [
+        "W B V R Pinto",
+        "P Sgobbi",
+        "E C Alvarenga",
+        "V A Mesquita",
+        "A S B Oliveira",
+        "M Orsini"
+      ],
+      "journal": "Revue neurologique",
+      "publication_date": "2026-10-26",
+      "pmid": "42934032",
+      "doi": "10.1016/j.neurol.2026.09.012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934032/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
+      "id": "42933747",
+      "event_key": "pubmed:42933747",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Diaphragm reserve utilisation in motor neurone disease: a novel ultrasound-derived physiological index.",
+      "authors": [
+        "Emma L Gray",
+        "Olivia McGuiness",
+        "Collette Menadue",
+        "Amanda Piper",
+        "Keith Wong",
+        "Matthew C Kiernan",
+        "Brendon J Yee"
+      ],
+      "journal": "Respiratory physiology & neurobiology",
+      "publication_date": "2026-10-26",
+      "pmid": "42933747",
+      "doi": "10.1016/j.resp.2026.104667",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933747/",
+      "abstract": "INTRODUCTION: Respiratory involvement is a major determinant of prognosis in motor neurone disease (MND; or amyotrophic lateral sclerosis), yet conventional static respiratory measures provide limited information about how much available diaphragm thickening capacity is recruited during quiet breathing. We evaluated diaphragm reserve utilisation (RU), an ultrasound-derived ratio of tidal diaphragm thickening relative to maximal diaphragm thickening, as a novel physiological descriptor in MND.\n\nMETHODS: In a prospective observational study, 38 patients with MND and 20 healthy controls underwent right hemidiaphragm ultrasound to measure thickness at end-tidal expiration, peak tidal inspiration and peak maximal inspiration. Thickening fractions and RU were calculated. Between-group differences in diaphragm ultrasound indices were assessed. Secondary analyses examined relationships between RU, respiratory function and survival.\n\nRESULTS: Tidal diaphragm thickening fraction was similar between patients with MND and controls, whereas maximal thickening fraction was lower in MND, resulting in higher RU in MND than controls. This pattern indicates that patients with MND maintained tidal diaphragm thickening while using a greater proportion of their available maximal thickening capacity. Higher RU was also associated with shorter survival, supporting its potential physiological and clinical relevance.\n\nCONCLUSION: Diaphragm reserve utilisation describes the proportion of measured diaphragm thickening capacity recruited during tidal breathing. Patients with MND demonstrated preserved tidal thickening despite reduced maximal thickening capacity, resulting in higher RU than healthy controls. This supports RU as a novel physiological index of relative diaphragm thickening reserve utilisation. The relationship between RU and survival warrants validation in larger prospective cohorts.",
+      "mesh_terms": [],
+      "keywords": [
+        "Motor neurone disease",
+        "diaphragm reserve utilisation",
+        "diaphragm ultrasound",
+        "diaphragmatic dysfunction",
+        "neuromuscular respiratory weakness",
+        "physiological reserve",
+        "respiratory muscle function"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
+      "id": "42933736",
+      "event_key": "pubmed:42933736",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Circadian aging and neurodegeneration: the emerging role of the melatonin-cortisol axis in brain homeostasis, disease progression, and precision chronomedicine.",
+      "authors": [
+        "Wrila Chakraborty",
+        "Achal Anand",
+        "Satendra Kumar",
+        "Kishor Kumar Roy"
+      ],
+      "journal": "Frontiers in neuroendocrinology",
+      "publication_date": "2026-10-26",
+      "pmid": "42933736",
+      "doi": "10.1016/j.yfrne.2026.101292",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933736/",
+      "abstract": "Circadian aging may promote neurodegenerative illnesses by dysregulating the melatonin-cortisol axis. Low nighttime melatonin synthesis, blunted cortisol circadian cycles, abnormal clock-gene oscillation patterns, and sleep-wake architecture undermine central and peripheral circadian equilibrium with age. Neuroendocrine alterations produce oxidative stress, mitochondrial failure, pervasive neuroinflammation (CNS immune function loss), and proteostasis. Increasing Alzheimer's, Parkinson's, ALS, Huntington's, frontotemporal dementia, Lewy body disease, PTSD, and vascular cognitive impairment due to impaired glymphatic axonal clearance/blood-brain barrier dysregulation/synaptic degeneration/pathoproteopathic protein We examine how clock genes, melatonin signaling, hypothalamic-pituitary-adrenal axis administration, microglia reactivity, and immune-mediated metabolic dysregulation affect dementia. New endocrine, transcriptomic, multi-omics, and wearable-derived digital biomarkers, chronopharmacology (including melatonin receptor agonists), bright-light therapy, time-restricted eating with exercise chronotherapy guidance/synchronization, sleep optimization, and gut microbiota modulation This study addressed inter-individual circadian variability, genetic susceptibility to therapy timing, biomarker standardization, and clinical trial design. The melatonin-cortisol axis may identify and treat age-related neurodegenerative diseases with tailored treatment.",
+      "mesh_terms": [],
+      "keywords": [
+        "Chronopharmacology",
+        "Circadian aging",
+        "Circadian dysfunction",
+        "Melatonin signaling",
+        "Neurodegenerative diseases"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
+      "id": "42933234",
+      "event_key": "pubmed:42933234",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cost-effectiveness of multidisciplinary care compared with standard neurology care in Amyotrophic Lateral Sclerosis: A model-based cost-utility analysis.",
+      "authors": [
+        "Julian Cappelli",
+        "Sabrina Hundal"
+      ],
+      "journal": "Journal of the neurological sciences",
+      "publication_date": "2026-10-25",
+      "pmid": "42933234",
+      "doi": "10.1016/j.jns.2026.126235",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933234/",
+      "abstract": "OBJECTIVE: To evaluate the cost-effectiveness of multidisciplinary clinic (MDC) care compared with standard general neurology care for adults with amyotrophic lateral sclerosis (ALS).\n\nMETHODS: A cost-utility analysis was conducted using a state-transition Markov model with monthly cycles over a 10-year horizon from the U.S. payer perspective. Health states comprised King's stages 1, 2, 3, 4 A, 4B, and death. Disease progression, mortality, utility, and cost inputs were derived from published literature (2005-2026). Transition probabilities were based on longitudinal data from the Pooled Resource Open-Access ALS Clinical Trials and permitted non-sequential progression. MDC-associated survival benefit was applied to stage-specific mortality across all King's stages. No additional utility benefit was assigned to MDC, while MDC-specific multipliers were applied to outpatient, inpatient, and emergency department costs. Outcomes included quality-adjusted life-years (QALYs), costs, cost per life-year gained, and incremental cost-effectiveness ratios (ICERs). Uncertainty intervals (UIs) were derived from sensitivity analyses.\n\nRESULTS: MDC increased costs ($523,170 vs $378,171) and QALYs (0.73 vs 0.60), yielding 0.13 incremental QALYs (95% UI, 0.06-0.20) at an incremental cost of US$144,999 (95% UI, $53,784-$257,504). The ICER was US$1,158,673/QALY and cost per life-year gained was US$149,483. MDC was cost-effective in 0.1% of simulations at a willingness-to-pay threshold of $150,000/QALY.\n\nCONCLUSION: MDC improved survival and quality-adjusted survival but at substantially higher cost. Its ICER remained well above commonly used U.S. willingness-to-pay thresholds across sensitivity analyses, including alternative utility valuations. These findings highlight the distinction between clinical benefit and cost-effectiveness and quantify the long-term economic consequences of survival gains associated with multidisciplinary ALS care.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Cost-utility",
+        "Economic evaluation",
+        "Multidisciplinary clinics",
+        "Quality of life",
+        "Value"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
+      "id": "42933233",
+      "event_key": "pubmed:42933233",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALS-associated cytoskeletal and glial gene expression: evidence consistent with developmental pathway re-engagement.",
+      "authors": [
+        "Steven Lehrer"
+      ],
+      "journal": "Journal of the neurological sciences",
+      "publication_date": "2026-10-25",
+      "pmid": "42933233",
+      "doi": "10.1016/j.jns.2026.126231",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933233/",
+      "abstract": "BACKGROUND: We examined whether amyotrophic lateral sclerosis (ALS) is associated with cytoskeletal and glial transcriptional patterns compatible with developmental pathway re-engagement, while recognizing that similar patterns may arise from injury responses and altered cell composition.\n\nMETHODS: Postmortem RNA-sequencing data from the Target ALS Postmortem Tissue Core were analyzed using linear mixed-effects models accounting for repeated tissue samples within subjects. Models were adjusted for tissue source, age at death, sex, and postmortem interval. Composite scores represented Arp2/3 activity, SOX9/MEGF10 developmental-glial expression, and MYH10-associated transport imbalance.\n\nRESULTS: ALS was associated with increased Arp2/3 expression (β = 0.399, P = 8.26 × 10-9), SOX9/MEGF10 expression (β = 0.643, P = 4.28 × 10-6), MYH10 expression (β = 0.308, P = 0.000801), and MYH10-KIF5C transport mismatch (β = 0.121, P = 0.00537); all remained significant after false-discovery-rate correction. The MYH10-Arp2/3 contractility index was not significant (β = -0.0909, P = 0.107).\n\nCONCLUSIONS: ALS was associated with higher expression of selected cytoskeletal and glial genes in bulk postmortem tissue. These cross-sectional associations are compatible with, but do not demonstrate, developmental program reactivation, altered protein activity, or causation. Cell-resolved and functional studies are needed.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Arp2/3 complex",
+        "Cytoskeletal remodeling",
+        "Embryonic development",
+        "MYH10"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42927514",
@@ -171,7 +313,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42925563",
@@ -205,7 +347,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42925513",
@@ -241,7 +383,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42925434",
@@ -279,7 +421,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42924853",
@@ -314,7 +456,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42921272",
@@ -347,7 +489,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42919989",
@@ -373,7 +515,7 @@
       "keywords": [],
       "collected_at": "2026-10-25T05:08:11Z",
       "first_seen_at": "2026-10-25T05:08:11Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42918614",
@@ -691,7 +833,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42907506",
@@ -1448,6 +1590,56 @@
       "last_seen_at": "2026-10-21T05:10:26Z"
     },
     {
+      "id": "42929861",
+      "event_key": "pubmed:42929861",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Single-Dose Intrathecal rAAV2-Retro Delivering Anti-hSOD1 miRNA Confers Robust Neuroprotection in Adult ALS Mice.",
+      "authors": [
+        "Xueqi Gong",
+        "Hao Wei",
+        "Lang Shen",
+        "Qin Wang",
+        "Jiayi Wu",
+        "Wenyuan Wang",
+        "Tonghui Xu"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-10-16",
+      "pmid": "42929861",
+      "doi": "10.3390/cells15201890",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929861/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) kills within a few years of onset, and the drugs licensed for treatment change that course only marginally. Silencing SOD1 has become a credible treatment route, but two gaps hold this approach back: an efficient vector platform for spinal cord transduction with limited peripheral transduction and evidence on whether adding neurotrophic support to gene silencing has any effect. We built an rAAV2-retro platform for intrathecal delivery. One intrathecal dose of an eGFP-expressing vector transduced all spinal cord segments and several brain regions, with a clear preference for spinal motor neurons and low expression in the liver and heart. Side by side in adult mice, we then used this platform to compare miRNA-mediated silencing of human SOD1, overexpression of IGF1, and the two together in SOD1G93A animals. A single injection of rAAV2-retro carrying an anti-hSOD1 miRNA extended median survival by 25 days, improved motor performance, protected neuromuscular junctions, spared α-motor neurons, and damped gliosis and apoptosis. IGF1 on its own also lengthened survival and limited neuronal loss, but it left motor performance unchanged. The benefit of IGF1 over miRNA alone was observed on most endpoints under the conditions tested; a modest, nominally significant improvement in hindlimb clasping was observed, which should be interpreted as exploratory given the number of comparisons performed. Silencing of hSOD1 therefore accounts for most of the benefit, and no statistically detectable additional benefit was observed for IGF1 on top of hSOD1 silencing under the conditions tested. A single intrathecal dose of rAAV2-retro-miRNA is thus an effective gene silencing approach in the SOD1G93A mouse model, with limited peripheral transduction in the liver and heart observed in C57BL/6J mice. However, these data also show the difficulty of achieving additional benefit by adding IGF1 under the conditions tested.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "MicroRNAs",
+        "Superoxide Dismutase-1",
+        "Injections, Spinal",
+        "Dependovirus",
+        "Mice",
+        "Humans",
+        "Insulin-Like Growth Factor I",
+        "Neuroprotection",
+        "Disease Models, Animal",
+        "Motor Neurons",
+        "Gene Silencing",
+        "Genetic Vectors",
+        "Spinal Cord",
+        "Mice, Inbred C57BL"
+      ],
+      "keywords": [
+        "IGF1",
+        "amyotrophic lateral sclerosis (ALS)",
+        "miRNA",
+        "rAAV2-retro"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
+    },
+    {
       "id": "42896458",
       "event_key": "pubmed:42896458",
       "source_id": "pubmed",
@@ -1542,6 +1734,43 @@
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
       "last_seen_at": "2026-10-19T05:07:07Z"
+    },
+    {
+      "id": "42931148",
+      "event_key": "pubmed:42931148",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Amyotrophic Lateral Sclerosis in a Patient Treated for Neurosyphilis: A Case Report.",
+      "authors": [
+        "Maciej Giecko",
+        "Filip Bossowski",
+        "Magdalena Bossowska",
+        "Anna Moniuszko-Malinowska",
+        "Monika Chorąży",
+        "Magdalena Sarnowska",
+        "Sambor Grygorczuk"
+      ],
+      "journal": "Neurology international",
+      "publication_date": "2026-10-15",
+      "pmid": "42931148",
+      "doi": "10.3390/neurolint18100193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931148/",
+      "abstract": "BACKGROUND/OBJECTIVES: Neurosyphilis is a recognized treatable mimic of amyotrophic lateral sclerosis (ALS); syphilis serology is commonly included in the work-up of suspected motor neuron disease. We describe the converse situation: neurosyphilis that delayed recognition of coexisting ALS.\n\nMETHODS: A 46-year-old man with type 2 diabetes mellitus and degenerative spine disease presented with a six-month history of progressive limb weakness and gait disturbance. Serum syphilis serology was reactive (Venereal Disease Research Laboratory [VDRL] titer 1:32; Treponema pallidum hemagglutination assay [TPHA] titer 1:20,480), and cerebrospinal fluid (CSF) showed a mild mononuclear pleocytosis with raised protein and immunoglobulin G. Neurosyphilis was diagnosed and treated with a 14-day course of intravenous penicillin. The subsequent course was followed with neuroimaging and electrodiagnostic studies.\n\nRESULTS: Despite treatment and resolution of the CSF pleocytosis, weakness and wasting progressed and bulbar involvement developed. Examination showed combined upper and lower motor neuron signs, electromyography showed an anterior horn cell pattern with widespread fasciculations, and cervical spine imaging showed degenerative changes without spinal cord compression. ALS was diagnosed at a later neurological admission.\n\nCONCLUSIONS: Identifying a treatable mimic does not close the diagnostic process. Combined upper and lower motor neuron signs that continue to progress despite adequate treatment of neurosyphilis should prompt early electrodiagnostic evaluation for ALS, even though the relative contribution of each condition may remain uncertain.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS mimic",
+        "Treponema pallidum",
+        "amyotrophic lateral sclerosis",
+        "case report",
+        "electromyography",
+        "nerve conduction studies",
+        "neurosyphilis",
+        "syphilitic amyotrophy"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42886553",
@@ -2280,7 +2509,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42924413",
@@ -2319,7 +2548,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42862794",
@@ -2541,7 +2770,7 @@
       "keywords": [],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42860504",
@@ -2596,6 +2825,50 @@
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
       "last_seen_at": "2026-10-15T05:01:49Z"
+    },
+    {
+      "id": "42929812",
+      "event_key": "pubmed:42929812",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "BAX, VDAC, Gasdermin, and Permeability Transition Pores in Inflammatory Mitochondrial DNA Release: Is This the \"Hole\" Story?",
+      "authors": [
+        "Naibo Zhang",
+        "Daniel D Freeman",
+        "Brian M Polster"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-10-10",
+      "pmid": "42929812",
+      "doi": "10.3390/cells15201839",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929812/",
+      "abstract": "Disease-modifying neuroprotective therapies for traumatic brain injury (TBI), stroke, and age-related neurodegenerative disorders have proven elusive. Interest in mitochondrial outer membrane permeabilization mechanisms as a drug target evolved from the 1990s discovery of BAX/BAK-mediated mitochondrial cytochrome c release as an apoptotic cell death trigger. However, enthusiasm waned as subsequent findings revealed that apoptosis is not the dominant cell death mechanism in the mature brain. The more recent discovery of mitochondrial DNA (mtDNA) as an inflammatory trigger produced renewed interest in mitochondrial permeability pathways. In particular, the DNA-sensing molecule cGAS and its downstream effector STING were implicated in the pathogenesis of several neurodegenerative conditions, including Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and TBI. Nevertheless, these findings raised a puzzling question: how does mtDNA, which resides in the mitochondrial matrix surrounded by double membranes, escape to initiate inflammatory responses without triggering cytochrome c-dependent cell death? Here, we review the many proposed mechanisms for mtDNA release, including several that do not require mitochondrial membrane holes, and discuss advances toward pharmacological targeting of these pathways. Identification of the specific mtDNA efflux pathway(s) proximal to maladaptive neuroinflammatory responses may yield new treatment strategies for AD, TBI, and other neurological diseases.",
+      "mesh_terms": [
+        "Humans",
+        "DNA, Mitochondrial",
+        "Animals",
+        "bcl-2-Associated X Protein",
+        "Mitochondrial Permeability Transition Pore",
+        "Voltage-Dependent Anion Channels",
+        "Mitochondria",
+        "Inflammation"
+      ],
+      "keywords": [
+        "MDV",
+        "MLKL",
+        "NLRP3",
+        "STING",
+        "apoptosis",
+        "cGAS",
+        "inflammasome",
+        "mPTP",
+        "mitophagy",
+        "mtDNA"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42864685",
@@ -3148,7 +3421,7 @@
       "keywords": [],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42923269",
@@ -3186,7 +3459,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42894639",
@@ -3645,7 +3918,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42926632",
@@ -3696,7 +3969,7 @@
       "keywords": [],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42908777",
@@ -5134,7 +5407,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42927744",
@@ -5180,7 +5453,7 @@
       ],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42913510",
@@ -8025,7 +8298,7 @@
       ],
       "collected_at": "2026-10-25T05:08:11Z",
       "first_seen_at": "2026-10-25T05:08:11Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42817963",
@@ -12306,7 +12579,7 @@
       "keywords": [],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42875146",
@@ -12525,7 +12798,7 @@
       "keywords": [],
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
-      "last_seen_at": "2026-10-26T05:10:19Z"
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42831851",
@@ -14241,6 +14514,51 @@
       "collected_at": "2026-09-15T23:48:30Z",
       "first_seen_at": "2026-09-15T23:48:30Z",
       "last_seen_at": "2026-09-15T23:48:30Z"
+    },
+    {
+      "id": "42928205",
+      "event_key": "pubmed:42928205",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Instrumented assessment of joint neuromechanics in upper motor neuron syndrome: a systematic review of methods, reliability, validity, and clinical relevance.",
+      "authors": [
+        "Karien Ter Welle",
+        "Alfred C Schouten",
+        "Winfred Mugge",
+        "Jonathan C van Zanten",
+        "Erwin E H van Wegen",
+        "Arno H A Stienen",
+        "Carel G M Meskers",
+        "Mark van de Ruit"
+      ],
+      "journal": "Journal of neuroengineering and rehabilitation",
+      "publication_date": "2026-07-29",
+      "pmid": "42928205",
+      "doi": "10.1186/s12984-026-02108-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928205/",
+      "abstract": "Instrumented neuromechanical assessment (I-NMA) is a promising method for quantifying joint neuromechanics in upper motor neuron syndrome (UMNS), using controlled joint manipulation such as stretch- or continuous perturbations. Compared to traditional clinical assessments, I-NMA can provide improved insight by better separating neural and mechanical contributions and increasing objectivity. However, I-NMA has not yet found its way into clinical practice, possibly due to methodological shortcomings. This systematic review analyzed 74 studies on I-NMA using controlled perturbation in UMNS, examining experimental protocols, input-output analyses to quantify neuromechanical outcome parameters, and their reliability and validity. Most studies employed only single-joint (n=64 studies) assessments, solely under passive conditions (n=63), which overlook clinically relevant aspects such as multi-joint interactions and active control. Among neuromechanical parameters, joint stiffness and reflexive resistance were quantified most, whereas joint dampingand intrinsic neural drive contributions remained underrepresented. Four main input-output analysis methods were recognized: System Quantification (n=55), System Modeling (n=12), and System Identification via impulse (IRF, n=7), or frequency response functions (FRF, n=6). The first quantified passive stiffness during a slow joint stretch and reflexive resistance during a fast stretch. The latter three quantified neuromechanical parameters by fitting models, comprising time-delayed reflex components and intrinsic joint stiffness and damping, either directly using input-output data (System Modeling) or via initial nonparametric IRF or FRF estimation. The reliability of quantified parameters showed substantial room for improvement, especially in the minimal detectable change, ranging from 20% to 947% of the parameter value across analyses. I-NMA outcome measures showed stronger validity when assessed against expected UMNS-healthy differences than when assessed against clinical scales. Future I-NMA development may benefit from improved reliability through protocol consistency and optimized analysis, stronger evidence for the valid separation of neural and mechanical constructs, and enhanced clinical relevance by using active and passive assessments, capturing both paresis and hyperresistance.",
+      "mesh_terms": [
+        "Humans",
+        "Motor Neuron Disease",
+        "Reproducibility of Results",
+        "Biomechanical Phenomena",
+        "Joints"
+      ],
+      "keywords": [
+        "Identification",
+        "Instrumented",
+        "Modeling",
+        "Neuromechanics",
+        "Quantification",
+        "Spasticity",
+        "Stiffness",
+        "Stroke",
+        "Upper motor neuron syndrome"
+      ],
+      "collected_at": "2026-10-27T05:25:53Z",
+      "first_seen_at": "2026-10-27T05:25:53Z",
+      "last_seen_at": "2026-10-27T05:25:53Z"
     },
     {
       "id": "42760536",
