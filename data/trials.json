@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-10-27T05:25:53Z",
+  "updated_at": "2026-10-28T06:06:47Z",
   "new_keys": [
-    "clinicaltrials:NCT03225144:2026-10-26",
-    "clinicaltrials:NCT06581861:2026-10-26",
-    "clinicaltrials:NCT07855211:2026-10-26"
+    "clinicaltrials:NCT06429059:2026-10-27",
+    "clinicaltrials:NCT07322003:2026-10-27"
   ],
   "items": [
+    {
+      "id": "NCT07322003",
+      "event_key": "clinicaltrials:NCT07322003:2026-10-27",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07322003",
+      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+      "sponsor": "Prilenia",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Pridopidine",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-02-01",
+      "last_update_date": "2026-10-27",
+      "url": "https://clinicaltrials.gov/study/NCT07322003",
+      "collected_at": "2026-10-28T06:06:47Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-10-28T06:06:47Z"
+    },
+    {
+      "id": "NCT06429059",
+      "event_key": "clinicaltrials:NCT06429059:2026-10-27",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06429059",
+      "title": "ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Treatments",
+      "sponsor": "Duke University",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Drug: Astaxanthin",
+        "Drug: Protandim",
+        "Drug: Melatonin",
+        "Drug: MitoQ"
+      ],
+      "start_date": "2024-06-12",
+      "last_update_date": "2026-10-27",
+      "url": "https://clinicaltrials.gov/study/NCT06429059",
+      "collected_at": "2026-10-28T06:06:47Z",
+      "first_seen_at": "2026-10-28T06:06:47Z",
+      "last_seen_at": "2026-10-28T06:06:47Z"
+    },
     {
       "id": "NCT07855211",
       "event_key": "clinicaltrials:NCT07855211:2026-10-26",
@@ -29,7 +78,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07855211",
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-27T05:25:53Z"
+      "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
       "id": "NCT06581861",
@@ -52,7 +101,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06581861",
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-27T05:25:53Z"
+      "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
       "id": "NCT03225144",
@@ -75,7 +124,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03225144",
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-10-27T05:25:53Z"
+      "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
       "id": "NCT06083584",
@@ -604,30 +653,6 @@
       "collected_at": "2026-10-08T06:31:38Z",
       "first_seen_at": "2026-10-08T06:31:38Z",
       "last_seen_at": "2026-10-10T06:15:26Z"
-    },
-    {
-      "id": "NCT07322003",
-      "event_key": "clinicaltrials:NCT07322003:2026-10-06",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07322003",
-      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
-      "sponsor": "Prilenia",
-      "phase": [
-        "PHASE3"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: Pridopidine",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-02-01",
-      "last_update_date": "2026-10-06",
-      "url": "https://clinicaltrials.gov/study/NCT07322003",
-      "collected_at": "2026-10-07T06:20:13Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-09T06:32:43Z"
     },
     {
       "id": "NCT06126315",
