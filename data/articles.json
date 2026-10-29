@@ -1,23 +1,19 @@
 {
-  "updated_at": "2026-10-28T06:06:47Z",
+  "updated_at": "2026-10-29T06:17:28Z",
   "new_keys": [
-    "pubmed:42946239",
-    "pubmed:42945473",
-    "pubmed:42945427",
-    "pubmed:42937037",
-    "pubmed:42934257",
-    "pubmed:42934968",
-    "pubmed:42942116",
-    "pubmed:42942089",
-    "pubmed:42939372",
-    "pubmed:42941925",
-    "pubmed:42941452",
-    "pubmed:42940139",
-    "pubmed:42941856",
-    "pubmed:42939744",
-    "pubmed:42939346",
-    "pubmed:42939724",
-    "pubmed:42934377"
+    "pubmed:42947522",
+    "pubmed:42947290",
+    "pubmed:42950073",
+    "pubmed:42949499",
+    "pubmed:42948861",
+    "pubmed:42946883",
+    "pubmed:42946847",
+    "pubmed:42947411",
+    "pubmed:42947273",
+    "pubmed:42946878",
+    "pubmed:42947858",
+    "pubmed:42947405",
+    "pubmed:42951629"
   ],
   "items": [
     {
@@ -62,6 +58,284 @@
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
       "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42947522",
+      "event_key": "pubmed:42947522",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Nitesh Sanghai",
+        "Billy Vuong",
+        "Muhammad Shaharyar K Afridi",
+        "Sasha Leggett",
+        "Hemin Roghzai",
+        "Geoffrey K Tranmer"
+      ],
+      "journal": "ChemMedChem",
+      "publication_date": "2026-11-12",
+      "pmid": "42947522",
+      "doi": "10.1002/cmdc.70554",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947522/",
+      "abstract": "BACKGROUND: Boron (B), a group 13 metalloid, has emerged as a versatile element at the intersection of chemistry, biology, and medicine. Its electron-deficient nature and ability to reversibly interconvert between trigonal planar (sp2) and tetrahedral (sp3) geometries enable dynamic covalent interactions with biological nucleophiles, making boron-containing compounds (BCCs) attractive pharmacophores that selectively interact with reactive oxygen species (ROS) and are ROS-responsive for therapeutic development. BCCs possess antioxidant, anti-inflammatory, and metal-chelating properties that make them attractive candidates for neurodegenerative diseases. Amyotrophic lateral sclerosis (ALS), a fatal and multifactorial motor neurodegenerative disorder, is characterized by oxidative stress, neuroinflammation, mitochondrial dysfunction, and metal dyshomeostasis, providing a strong rationale for exploring boron-based therapeutics.\n\nMETHODS: This review examines current literature on B chemistry, pharmacology, and translational applications, with emphasis on mechanisms relevant to ALS pathogenesis. This review focuses on ROS-responsive B scaffolds, blood-brain barrier (BBB) permeability, neuroprotective mechanisms, hormonal modulation, metal chelation, and emerging preclinical evidence supporting boron-based interventions.\n\nCONCLUSIONS: BCCs represent a promising yet underexplored therapeutic platform for ALS and related neurodegenerative disorders. Their ROS-responsive, redox-modulating, and neuroprotective properties, combined with favorable CNS drug-like pharmacokinetics, offer a mechanistically distinct approach to disease modification. Emerging preclinical evidence strongly supports further translational investigation.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Reactive Oxygen Species",
+        "Animals",
+        "Neuroprotective Agents",
+        "Boron Compounds",
+        "Neurons",
+        "Blood-Brain Barrier",
+        "Boron",
+        "Molecular Structure",
+        "Oxidative Stress"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis (ALS)",
+        "blood–brain barrier (BBB)",
+        "boron (B)",
+        "boron‐containing compounds (BCCs)",
+        "neurodegeneration",
+        "reactive oxygen species (ROS)"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42947290",
+      "event_key": "pubmed:42947290",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
+      "authors": [
+        "Thomas Meyer",
+        "Torsten Grehl",
+        "Peggy Schumann",
+        "Ute Weyen",
+        "Annekathrin Rödiger",
+        "Uta Smesny",
+        "Benjamin Ilse",
+        "Patrick Weydt",
+        "Sarah Bernsen",
+        "Rachel Fabian",
+        "Bettina Göricke",
+        "Susanne Petri",
+        "Rea Lumi",
+        "Bogdan Bjelica",
+        "Julian Großkreutz",
+        "Hakan Cetin",
+        "Omar Keritam",
+        "Friedrich Haimberger",
+        "Catharina Korsukewitz",
+        "Wolfgang Löscher",
+        "Zaharias Kohl",
+        "Martin Regensburger",
+        "Petra Baum",
+        "Moritz Metelmann",
+        "Dagmar Kettemann",
+        "Jenny Norden",
+        "Robert Steinbach",
+        "Péter Körtvélyessy",
+        "Paul Lingor",
+        "Robert McFarlane",
+        "Christoph Münch",
+        "Matthias Boentert",
+        "André Maier"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2026-11-01",
+      "pmid": "42947290",
+      "doi": "10.1111/ene.70798",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/",
+      "abstract": "BACKGROUND: Clinical heterogeneity in amyotrophic lateral sclerosis (ALS) may reflect structured disease trajectories. This study investigated whether anatomically defined motor phenotypes capture reproducible patterns associated with progression, serum neurofilament light chain (NfL), and survival.\n\nMETHODS: In a multicenter cohort of 1307 ALS patients, motor phenotypes were classified by region of onset, timing of propagation to a vertically distant body region (early ≤ 12 months vs. later), and the degree of upper (UMN) and lower motor neuron (LMN) dysfunction. Intercenter consistency was assessed using the Friedman test and Kendall's W. Associations with ALS progression rate (ALSPR), NfL, and survival were analyzed using group comparisons and Cox regression models.\n\nRESULTS: Phenotype classification was consistent across centers (Kendall's W 0.75-0.89). Onset phenotypes were significantly associated with ALSPR, NfL, and survival (p < 0.001). Trunk onset showed the lowest log(NfL/ALSPR), indicating dissociation between rapid progression and relative NfL elevation. Early propagation was the strongest marker of disease aggressiveness, with higher ALSPR, elevated NfL, and reduced survival (HR 2.93, p < 0.001). In early propagation, NfL disproportionally increased with progression indicating a relative uncoupling of NfL from functional decline. Phenotypes with balanced UMN/LMN and predominant LMN involvement were associated with shorter survival (HR 2.51, p < 0.001).\n\nCONCLUSIONS: Anatomically defined motor phenotypes identify reproducible ALS trajectories with distinct clinical and neurofilament profiles. Early propagation provides an actionable risk marker of disease aggressiveness, while combined upper and lower motor neuron dysfunction or lower motor neuron predominance is prognostically unfavorable. These findings support integrating structured phenotyping into prognostic models and clinical trial stratification.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Disease Progression",
+        "Neurofilament Proteins",
+        "Female",
+        "Phenotype",
+        "Male",
+        "Middle Aged",
+        "Motor Neurons",
+        "Aged",
+        "Cohort Studies"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "motor phenotypes",
+        "neurofilament light chain",
+        "propagation",
+        "survival"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42950073",
+      "event_key": "pubmed:42950073",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023.",
+      "authors": [
+        "Zhaoyi Jing",
+        "Shuhong Liu",
+        "Qingyu Song",
+        "Shengda Tian",
+        "Qingbo Zhou"
+      ],
+      "journal": "Neuroepidemiology",
+      "publication_date": "2026-10-28",
+      "pmid": "42950073",
+      "doi": "10.1159/ned/adwag059",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950073/",
+      "abstract": "BACKGROUND: Neurodegenerative diseases (NDDs), including Alzheimer's disease and other dementias (ADOD), Parkinson's disease (PD), and motor neuron disease (MND), represent a mounting public health challenge in China amid rapid population aging. A systematic deconstruction of their epidemiological transition using the most recent data remains lacking.\n\nMETHODS: Data from the Global Burden of Disease Study 2023 were utilized to examine temporal trends (1990-2023) for ADOD, PD, and MND in China. Age-standardized rates of incidence (ASIR), prevalence (ASPR), mortality (ASMR), and disability-adjusted life-years (ASDR) were analyzed. Joinpoint regression was used to identify significant inflection points. Decomposition analysis quantified the contributions of population aging, population growth, and epidemiological change. And bayesian age-period-cohort models projected trends to 2035.\n\nRESULTS: From 1990 to 2023, the ASIR for ADOD (EAPC 0.41; 95% CI 0.33 to 0.49) and PD (EAPC 0.84; 95% CI 0.76 to 0.92) rose significantly. Between 2019 and 2023, multiple indicators across the three diseases demonstrated a consistently synchronous upward trend. This acceleration coincided with the COVID-19 pandemic. Decomposition demonstrated that population aging was the dominant driver. Sex-specific disparities were pronounced. Females bore a higher ADOD burden, whereas males predominated in PD. ASIR and ASPR are expected to rise, while ASMR and ASDR are projected to decline for ADOD and PD. For MND, only the ASPR indicated a brief, peaked rise in the predicted trends.\n\nCONCLUSIONS: In the field of neurodegenerative diseases, China is projected to undergo an epidemiological transition characterized by chronicization. This trend calls for systematic adjustments in healthcare services, long-term care systems, and social support structures. Sex and gender differences further underscore the need for gender-sensitive prevention, clinical management, and care strategies to prevent the further widening of inequalities. Population aging remains a critical factor that cannot be overlooked. Therefore, there is an urgent need to establish a proactive, gender-sensitive framework for system-wide restructuring that incorporates long-term monitoring and oversight.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42949499",
+      "event_key": "pubmed:42949499",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Deep learning models to detect neurodegenerative diseases across different modalities, datasets, and stages: A systematic review.",
+      "authors": [
+        "Kriti Poddar",
+        "Charu Wahi"
+      ],
+      "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+      "publication_date": "2026-10-28",
+      "pmid": "42949499",
+      "doi": "10.1177/09287329261502060",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949499/",
+      "abstract": "BackgroundNeurodegenerative diseases like Alzheimer's and Parkinson's pose significant diagnostic challenges because they are incurable. Their symptoms often overlap with those of normal ageing and involve progressive neuronal loss. This makes early prediction, proper diagnosis, and ongoing monitoring crucial at every stage of the disease. Deep learning has become a useful tool for handling different types of data. However, the performance of these models relies heavily on the availability and variety of data, making it important to characterize datasets.ObjectiveThis PRISMA-based systematic review looks at 111 studies from 2019 to April 2026, organized into three clinical stages of neurodegenerative diseases: early prediction, diagnosis, and progression.MethodsEach study is assessed across four dimensions: data type (neuroimaging or non-neuroimaging), datasets (open-access, self-created, or hybrid), deep learning model architecture, and the use of explainable AI.ResultsMRI is the only imaging modality that spans all three stages. Speech is the most common non-neuroimaging method for diagnosis, while gait is used only for diagnosis and progression. The ADNI and PPMI datasets are the most commonly used. Self-created datasets introduce new modalities such as ECG and iPSCs, which are not found in open-access datasets. CNNs are the leading models for neuroimaging tasks, while LSTMs and RNNs capture temporal patterns in longitudinal datasets. Survival models are exclusively used for ALS and LATE. Fewer than 6% of the studies used confirmed XAI. Only 2 of the 111 studies validated their results on an independent external cohort.ConclusionThis review is the only one that covers all three disease stages across multiple neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "PRISMA",
+        "dataset",
+        "deep learning",
+        "diagnosis",
+        "modality",
+        "neurodegenerative disease",
+        "performance",
+        "prediction",
+        "preprocessing",
+        "progression",
+        "systematic literature review"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42948861",
+      "event_key": "pubmed:42948861",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Longitudinal coagulation-fibrinolysis dynamics are associated with survival in amyotrophic lateral sclerosis: a prospective cohort study.",
+      "authors": [
+        "Huixia Lin",
+        "Chunkai Li",
+        "Jun Wu",
+        "Junxiong Yin"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-28",
+      "pmid": "42948861",
+      "doi": "10.1080/21678421.2026.2750602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948861/",
+      "abstract": "Background: Amyotrophic lateral sclerosis (ALS) has been associated with thromboembolic risk. However, whether dynamic coagulation-fibrinolysis markers provide prognostic information in ALS remains insufficiently defined. Methods: We conducted a prospective cohort study of 151 patients with ALS, including repeated coagulation measurements in a longitudinal subset (n = 58), and assessed directional validation in the independent Answer ALS (AALS) cohort (n = 270). Survival analyses, longitudinal modeling, and plasma proteomic analyses were used to examine associations between coagulation-fibrinolysis dynamics, functional decline, and survival. Results: Higher baseline fibrinogen (FIB) was independently associated with shorter survival (HR = 2.19; 95% confidence interval (CI), 1.40-3.44). In the longitudinal subset, a steeper increase in D-dimer (DD) was associated with shorter survival (HR = 1.012; 95% CI, 1.001-1.024) and lower ALSFRS-R scores over time (β = -0.013; 95% CI, -0.016 to -0.009). Directionally consistent validation was observed in AALS using rescaled SomaScan-derived DD trajectories (HR = 1.0002; 95% CI, 1.0000-1.0004). Plasma proteomics showed reduced tetranectin, a fibrinolysis-related protein, in ALS; slower tetranectin decline was associated with longer survival using rescaled SomaScan-derived tetranectin trajectories (HR = 0.996; 95% CI, 0.993-0.998). Conclusions: These findings suggest that longitudinal coagulation-fibrinolysis markers may help identify a survival-related biomarker profile in ALS, involving higher baseline FIB, steeper rising DD, and reduced or more rapidly declining tetranectin.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "D-dimer",
+        "fibrinogen",
+        "survival",
+        "tetranectin"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42946883",
+      "event_key": "pubmed:42946883",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Improving dysarthric speech classification with generative AI-based data augmentation.",
+      "authors": [
+        "Davide Lillini",
+        "Teresa Basili",
+        "Lucia Migliorelli",
+        "Carlo Aironi",
+        "Leonardo Gabrielli",
+        "Stefano Squartini"
+      ],
+      "journal": "Medical & biological engineering & computing",
+      "publication_date": "2026-10-28",
+      "pmid": "42946883",
+      "doi": "10.1007/s11517-026-03705-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946883/",
+      "abstract": "Dysarthria is a neurological speech disorder characterized by impaired motor control of speech production, resulting in reduced intelligibility. It commonly arises in the context of neurodegenerative conditions, including amyotrophic lateral sclerosis and cerebral palsy. The development of deep learning systems for dysarthria assessment is hindered by the scarcity of annotated data, which restricts the ability of models to generalize to unseen speakers. This study proposes a cross-corpus diffusion-based data augmentation strategy for improving automatic speech intelligibility classification from dysarthric speech. A Grad-TTS model is trained on dysarthric speakers from the TORGO dataset and used to synthesize the vocabulary of UA-Speech, producing speaker-conditioned samples intended to transfer pathological acoustic traits across corpora. The proposed strategy is evaluated both independently and in combination with conventional signal-level augmentation using ResNet-50 and ResNet-152 classifiers in binary and four-class intelligibility classification tasks. The results indicate that cross-corpus synthetic augmentation improves average performance and that, in most settings, its integration with conventional augmentation yields further gains, suggesting that the two strategies introduce complementary forms of variability.",
+      "mesh_terms": [],
+      "keywords": [
+        "Cross-corpus learning",
+        "Diffusion models",
+        "Dysarthric speech",
+        "Speech intelligibility classification",
+        "Synthetic speech",
+        "Text-to-speech synthesis"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42946847",
+      "event_key": "pubmed:42946847",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Combined melatonin and edaravone therapy attenuates methylmercury-induced amyotrophic lateral sclerosis-like neurodegeneration through GLP-1 modulation and myelin preservation.",
+      "authors": [
+        "Gurudev Singh Raina",
+        "Sidharth Mehan",
+        "Ghanshyam Das Gupta"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "2026-10-28",
+      "pmid": "42946847",
+      "doi": "10.1007/s00210-026-06009-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946847/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disorder characterized by the selective degeneration of upper and lower motor neurons, resulting in progressive muscle weakness, paralysis, and respiratory failure. Despite the availability of disease-modifying therapies, current treatment options provide only modest clinical benefits, highlighting the need for novel therapeutic strategies targeting multiple pathological mechanisms. Melatonin, a pleiotropic neuroprotective molecule with antioxidant, anti-inflammatory, and anti-apoptotic properties, has emerged as a promising candidate; however, its influence on glucagon-like peptide-1 (GLP-1)-associated neuroprotective signaling and related molecular events in ALS remains poorly understood. Therefore, the present study investigated the neuroprotective efficacy of melatonin in a methylmercury (MTMR)-induced rat model of ALS and explored its effects on GLP-1-associated molecular alterations, neuroinflammation, oxidative stress, apoptosis, neurotransmitter homeostasis, demyelination, and neuronal injury. Molecular docking analysis was performed to predict the interaction of melatonin with proteins implicated in ALS pathology. Adult Wistar rats were exposed to MTMR (5 mg/kg, p.o.) for 21 days to induce ALS-like neurodegeneration, followed by treatment with melatonin (5 or 10 mg/kg, i.p.), edaravone (3 mg/kg, i.p.), or their combination for an additional 21 days. Neurobehavioral performance, biochemical alterations, hematological parameters, molecular biomarkers, and histopathological changes were subsequently evaluated. MTMR administration produced profound motor deficits accompanied by reduced GLP-1 levels, neurotransmitter imbalance, increased neuroinflammatory and apoptotic markers, elevated neurofilament light chain (NEFL), skeletal muscle injury, methylmercury accumulation, and extensive myelin and neuronal damage. Melatonin treatment significantly attenuated these pathological alterations in a dose-dependent manner by increasing GLP-1 levels, improving antioxidant status, reducing inflammatory and apoptotic responses, restoring neurotransmitter balance, preserving myelin integrity, and improving neuronal morphology across multiple brain regions and the spinal cord. Molecular docking further predicted favorable interactions between melatonin and several proteins associated with ALS pathophysiology, supporting its potential as a multitarget therapeutic agent. In most outcome measures, combined treatment with melatonin and edaravone produced greater neuroprotective effects than either intervention alone. Collectively, these findings demonstrate that melatonin substantially attenuates methylmercury-induced ALS-like neuropathology through coordinated modulation of multiple pathological processes associated with neurodegeneration. Although the precise molecular mechanisms require further experimental validation, the observed restoration of GLP-1 levels together with improvements in oxidative stress, neuroinflammation, apoptosis, neurotransmitter homeostasis, and myelin integrity suggests that melatonin may represent a promising adjunctive therapeutic strategy for ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Demyelination",
+        "Edaravone",
+        "GLP-1",
+        "Melatonin",
+        "Methylmercury",
+        "Neuroinflammation",
+        "Neuroprotection",
+        "Oxidative stress"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42922081",
@@ -122,6 +396,133 @@
       "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
+      "id": "42947411",
+      "event_key": "pubmed:42947411",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Time-to-Event Analysis of Clinical Milestones in the ALS Natural History Consortium Dataset.",
+      "authors": [
+        "Kelly Duffy",
+        "Kelly Gwathmey",
+        "David Schneck",
+        "Andres Arguedas",
+        "Annette Xenopoulos-Oddsson",
+        "Terry Heiman-Patterson",
+        "Senda Ajroud-Driss",
+        "Ximena Arcila-Londono",
+        "James Wymer",
+        "Nicholas Olney",
+        "Ghazala Hayat",
+        "Christian Lunetta",
+        "Federica Cerri",
+        "Tawfiq Al-Lahham",
+        "Alex Sherman",
+        "Mehdi Ghasemi",
+        "Erjia Cui",
+        "Mark Fiecas",
+        "David Walk"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-10-27",
+      "pmid": "42947411",
+      "doi": "10.1002/mus.70440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947411/",
+      "abstract": "INTRODUCTION/AIMS: Study of clinical milestones, particularly intermediate events like loss of ambulation, in large amyotrophic lateral sclerosis (ALS) cohorts is limited. Here, we leverage the ALS Natural History Consortium dataset to evaluate the time-to-event for several outcomes and prognostic factors that predict risk.\n\nMETHODS: Longitudinal data from 1950 participants were used in time-to-event analyses based on time from diagnosis. Outcomes were gastrostomy, loss of ambulation, loss of useful speech, non-invasive ventilation (NIV) usage, and death equivalent (death or mechanical ventilation). Median times-to-event were calculated along with Kaplan-Meier curves. Cox proportional hazards models for each outcome estimated (through adjusted hazard ratios [HR]) the impact of several prognostic factors, including sex, region of onset, age at diagnosis, and the initial rate of change (delta-FRS) in ALS Functional Rating Scale-Revised (ALSFRS-R) scores.\n\nRESULTS: Estimated median times-to-event for clinical outcomes ranged from 1.44 to 6.21 years, with a median time to death equivalent of 2.12 years. A higher delta-FRS was the greatest risk factor for all outcomes (HRs between 2.01 and 3.05). Limb onset decreased risk of loss of speech, NIV use, gastrostomy, and death equivalent (HRs 0.41-0.78). Older age at diagnosis increased risk of gastrostomy, NIV use, and death equivalent (HRs 1.08-1.27).\n\nDISCUSSION: These findings further inform expectations of time to various outcomes, especially rarely investigated intermediate events, and their risk factors. The importance of progression rate supports other recent findings, highlighting delta-FRS as a key prognostic factor with potential utility in clinical trial designs.",
+      "mesh_terms": [],
+      "keywords": [
+        "Cox proportional hazards model",
+        "amyotrophic lateral sclerosis",
+        "natural history study",
+        "prognostic factors",
+        "time‐to‐event"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42947273",
+      "event_key": "pubmed:42947273",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Intracisternal injection of two human SOD1 aggregate strains induces templated aggregation and ALS in transgenic mouse model.",
+      "authors": [
+        "Isabelle Sigfridsson",
+        "Matthew Marklund",
+        "Peter Munch Andersen",
+        "Per Zetterström",
+        "Stefan L Marklund",
+        "Thomas Brännström"
+      ],
+      "journal": "Acta neuropathologica communications",
+      "publication_date": "2026-10-27",
+      "pmid": "42947273",
+      "doi": "10.1186/s40478-026-02473-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947273/",
+      "abstract": "Cytosolic aggregates containing misfolded superoxide dismutase-1 (SOD1) protein is an established hallmark of ALS caused by mutations in the SOD1 gene. We have previously identified two structurally distinct strains of human (h) SOD1 aggregates (denoted A and B) in mice transgenic (Tg) for hSOD1. Strain A and B have both been shown to transmit templated aggregation and induce early-onset of fatal ALS-like disease when injected directly into the spinal cord or peripheral nerve of hSOD1 Tg mice. In contrast, peripheral administration of hSOD1 aggregates into the intraperitoneal cavity or skeletal muscle did not induce disease. Collectively, these studies provide insight on the spreading mechanism of SOD1. However, the complete map of propagation routes and underlying mechanisms utilized by SOD1 aggregates in ALS is not fully charted. Here, we investigated whether hSOD1 aggregates may spread to the central nervous system (CNS) via the cerebrospinal fluid (CSF). Mutant hSOD1 aggregate seeds or control samples prepared from spinal cords of hSOD1 Tg mice or non-Tg mice, respectively, were inoculated into the cisterna magna of adult 100-day-old Tg mice expressing the G85R mutated hSOD1 protein. Disease phenotyping as well as biochemical and immunohistochemical analyses were performed and compared across the experimental groups. The mice inoculated with hSOD1 seeds developed early signs of ALS by 90 days after inoculation and reached terminal stage approximately 180 days earlier than mice receiving control seeds. Additionally, both strain A and B were observed to initiate templated aggregation along the neuroaxis. The results show that hSOD1 aggregates are capable of transmitting from the CSF to the CNS where they induce ALS-like pathology and concomitant phenotype. Unraveling the propagation pathways utilized by SOD1 opens new avenues to assess treatment strategies against ALS.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Mice, Transgenic",
+        "Superoxide Dismutase-1",
+        "Humans",
+        "Disease Models, Animal",
+        "Spinal Cord",
+        "Mice",
+        "Protein Aggregation, Pathological",
+        "Female",
+        "Mutation",
+        "Mice, Inbred C57BL"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Cerebrospinal fluid",
+        "Neurodegeneration",
+        "Prions",
+        "Superoxide dismutase-1"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42946878",
+      "event_key": "pubmed:42946878",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Persistent and compartmentalized T cell immunity in ALS.",
+      "authors": [
+        "Zhenzhen Chen",
+        "Jannika Mansikkaviita",
+        "Christina Seitz",
+        "Solmaz Yazdani",
+        "Joonas Lehikoinen",
+        "Elie Deeba",
+        "Anikó Lovik",
+        "Marton Keszei",
+        "Hans Grönlund",
+        "Hannu Laaksovirta",
+        "Fang Fang",
+        "Pentti J Tienari",
+        "Caroline Ingre",
+        "John Andersson"
+      ],
+      "journal": "Nature medicine",
+      "publication_date": "2026-10-27",
+      "pmid": "42946878",
+      "doi": "10.1038/s41591-026-04728-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946878/",
+      "abstract": "Amyotrophic lateral sclerosis is a fatal neurodegenerative disease increasingly linked to T cell responses, although the mechanisms driving T cell activation and disease progression remain unclear. Here we used single-cell RNA and T cell receptor sequencing, longitudinal immune profiling and imaging flow cytometry to identify long-lived intrathecal clonotypes and antigen-presenting cell-T cell complexes displaying features of immunological synapse formation, consistent with intrathecal antigen presentation. Higher frequencies of CD4+ effector, CD4+ regulatory and CD8+ T cells in cerebrospinal fluid (CSF) were associated with slower disease progression, whereas increased circulating CD4+ effector and regulatory T cells were associated with faster progression. T cell clonotypes shared between blood and CSF exhibited distinct transcriptional states. Finally, frequencies of cytomegalovirus-specific T cells in CSF and anticytomegalovirus serum antibodies were correlated with faster progression and shorter survival in sporadic amyotrophic lateral sclerosis. These findings reveal compartmentalized immune dynamics, largely contrasting protective intrathecal responses with harmful systemic activation.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
       "id": "42946239",
       "event_key": "pubmed:42946239",
       "source_id": "pubmed",
@@ -150,7 +551,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42945473",
@@ -200,7 +601,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42945427",
@@ -222,7 +623,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42937037",
@@ -264,7 +665,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42934257",
@@ -287,7 +688,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42933736",
@@ -318,7 +719,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42934968",
@@ -352,7 +753,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42934032",
@@ -379,7 +780,7 @@
       "keywords": [],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42933747",
@@ -415,7 +816,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42933234",
@@ -445,7 +846,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42933233",
@@ -473,7 +874,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42927514",
@@ -1045,7 +1446,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42925619",
@@ -1423,7 +1824,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42902402",
@@ -1918,7 +2319,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42929861",
@@ -1968,7 +2369,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42896458",
@@ -2114,7 +2515,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42931148",
@@ -2151,7 +2552,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42886553",
@@ -2508,7 +2909,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42940139",
@@ -2543,7 +2944,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42895147",
@@ -2731,6 +3132,43 @@
       "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
+      "id": "42947858",
+      "event_key": "pubmed:42947858",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The cost of mentalizing: executive contributions to social cognition performance in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Chiara Cerami",
+        "Andrea Panzavolta",
+        "Veronica Faltracco",
+        "Eleonora Dalla Bella",
+        "Nilo Riva",
+        "Alessandra Telesca",
+        "Federica Ferrara",
+        "Alessandra Dodich",
+        "Christian Lunetta",
+        "Monica Consonni"
+      ],
+      "journal": "Frontiers in psychology",
+      "publication_date": "2026-10-13",
+      "pmid": "42947858",
+      "doi": "10.3389/fpsyg.2026.1960658",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947858/",
+      "abstract": "BACKGROUND: Mentalizing deficits are common in amyotrophic lateral sclerosis (ALS). Performance at high-level socio-cognitive tasks may be particularly vulnerable to integrity of basic cognitive processes. However, the extent to which non-social functioning contributes to socio-cognitive impairment in ALS remains poorly understood. In this study, we addressed this question in a large cohort of patients.\n\nMETHODS: We assessed 257 ALS patients and 120 healthy controls using the Story-based Empathy Task (SET), which dissociates intention attribution (IA), emotion attribution (EA), and basic causal inference (CI). Vectorial analyses were applied to quantify overall performance and imbalance between social and non-social components. Mediation analyses were conducted to evaluate the contribution of executive system integrity to social cognition performance in ALS.\n\nRESULTS: Patients showed significantly reduced performance across all SET conditions compared to controls, with imbalance between mentalizing and basic causal inference. Distinct profiles emerged across ALS phenotypes. ALS patients with behavioral changes exhibited predominant deficits in emotion attribution, whereas cognitively unimpaired ALS showed selective impairment in intention attribution. Executive functioning was significantly associated with SET performances and mediated the relationship between basic inference and both intention and emotion attribution.\n\nDISCUSSION: Mentalizing impairment in ALS reflects an interaction between executive processes and specialized socio-cognitive systems. The identification of dissociable profiles supports a dual-route, network-based model of ALS, involving socio-affective and inferential pathways, and underscores the importance of integrated cognitive assessment and more targeted interventions addressing both social and non-social cognitive domains.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "executive deficits",
+        "mediation analysis",
+        "mentalizing",
+        "social cognition"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
       "id": "42941856",
       "event_key": "pubmed:42941856",
       "source_id": "pubmed",
@@ -2766,7 +3204,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42939744",
@@ -2806,7 +3244,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42880056",
@@ -3401,7 +3839,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42929812",
@@ -3445,7 +3883,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42864685",
@@ -3619,7 +4057,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42855901",
@@ -4502,6 +4940,53 @@
       "collected_at": "2026-10-09T06:32:42Z",
       "first_seen_at": "2026-10-09T06:32:42Z",
       "last_seen_at": "2026-10-11T06:14:38Z"
+    },
+    {
+      "id": "42947405",
+      "event_key": "pubmed:42947405",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "NEK1 autophosphorylation is disrupted by amyotrophic lateral sclerosis-associated missense variants: activity biomarkers and structural insights.",
+      "authors": [
+        "Shalini Agarwal",
+        "Syed Arif Abdul Rehman",
+        "Ivan M Muñoz",
+        "Axel Knebel",
+        "Paul J Hop",
+        "Robert Gourlay",
+        "Fiona Brown",
+        "Thomas Macartney",
+        "Iolo Squires",
+        "Jan H Veldink",
+        "Kevin P Kenna",
+        "John Rouse",
+        "Arpan R Mehta"
+      ],
+      "journal": "Open biology",
+      "publication_date": "2026-10-07",
+      "pmid": "42947405",
+      "doi": "10.1098/rsob.260209",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947405/",
+      "abstract": "Rare variants in NEK1, encoding a serine/threonine kinase, are among the most consistently implicated genetic contributors to amyotrophic lateral sclerosis (ALS), reported in approximately 2-3% of cases. Yet, while recent studies have characterized the cell biological consequences of NEK1 loss-of-function, the biochemical effects of ALS-associated missense variants on kinase activity have not been directly investigated. This distinction is mechanistically important, because missense alleles encode mutant proteins rather than simply reducing protein dosage. Here, we provide the most comprehensive cell-based phosphoproteomic map of NEK1 phosphorylation to date, identifying 10 recurrent phosphorylation sites across independent expression and acquisition conditions. We experimentally assign pSer14, pThr156 and pSer418 as NEK1 autophosphorylation sites using kinase-dead controls, targeted extracted ion chromatogram analysis, phosphosite mutagenesis and phosphospecific antibodies. Leveraging activation-loop pThr156 as a read-out of NEK1 activity, we assessed nine ALS-associated missense variants spanning the major functional regions of the protein. Among catalytic-domain variants, R261C produced the most robust reduction in pThr156 autophosphorylation, R232C produced a smaller reduction, and R232H increased pThr156; the basic-region variant, A313T, also showed a smaller reduction. Structural modelling provides a mechanistic framework for understanding these variant-specific effects. Our study establishes the first activity-based framework for functional classification of NEK1 missense variants, and provides direct evidence that ALS-associated missense variants can alter NEK1 autophosphorylation through a mechanism distinct from simple haploinsufficiency. The phosphospecific antibodies, isogenic cell lines and curated phosphoproteomic datasets generated here provide a community resource for future studies of NEK1 regulation, variant interpretation and therapeutic target validation.",
+      "mesh_terms": [
+        "NIMA-Related Kinase 1",
+        "Amyotrophic Lateral Sclerosis",
+        "Mutation, Missense",
+        "Phosphorylation",
+        "Humans",
+        "Biomarkers",
+        "Models, Molecular"
+      ],
+      "keywords": [
+        "NEK1 kinase",
+        "amyotrophic lateral sclerosis",
+        "autophosphorylation",
+        "motor neuron disease"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42926777",
@@ -15173,7 +15658,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42928205",
@@ -15218,7 +15703,7 @@
       ],
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-28T06:06:47Z"
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42760536",
@@ -15517,6 +16002,41 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "42951629",
+      "event_key": "pubmed:42951629",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "[Disease modeling with iPSCs for pathophysiological elucidation and therapeutic research: establishment of an iPSC-based drug discovery platform centered on drug repositioning].",
+      "authors": [
+        "Haruhisa Inoue"
+      ],
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "publication_date": "2026-01-01",
+      "pmid": "42951629",
+      "doi": "10.11406/rinketsu.67.1145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951629/",
+      "abstract": "Advances in induced pluripotent stem cell (iPSC) technology have enabled the establishment of patient-derived disease models, greatly accelerating research on disease mechanisms and drug discovery. Drug repositioning, which applies existing drugs to new indications, has emerged as an efficient therapeutic development strategy that reduces both development time and cost. This review summarizes recent progress in disease modeling and therapeutic research using iPSCs, focusing on amyotrophic lateral sclerosis (ALS). Motor neurons differentiated from ALS patient-derived iPSCs successfully recapitulated disease phenotypes and enabled compound screening. Using this platform, the Src/c-Abl inhibitor bosutinib was identified as a promising therapeutic candidate. Bosutinib promoted autophagy, reduced abnormal protein accumulation, and suppressed motor neuron degeneration in vitro and in vivo. Based on these findings, investigator-initiated clinical trials were conducted, demonstrating acceptable safety and suggesting potential efficacy in ALS patients. Furthermore, integration of iPSC-based analyses with biomarkers such as neurofilament light chain enabled patient stratification and suggested the feasibility of personalized therapeutic approaches. Future integration of iPSC models with artificial intelligence, genomic analysis, and real-world clinical data is expected to further enhance predictive precision and accelerate translational research. iPSC-based drug discovery therefore represents a promising platform for developing novel therapies for neurodegenerative diseases.",
+      "mesh_terms": [
+        "Induced Pluripotent Stem Cells",
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Drug Repositioning",
+        "Drug Discovery",
+        "Animals",
+        "Models, Biological"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Drug repositioning",
+        "Src/c-Abl pathway",
+        "iPSC-based drug discovery and development"
+      ],
+      "collected_at": "2026-10-29T06:17:28Z",
+      "first_seen_at": "2026-10-29T06:17:28Z",
+      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "42880848",
