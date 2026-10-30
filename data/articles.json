@@ -1,19 +1,20 @@
 {
-  "updated_at": "2026-10-29T06:17:28Z",
+  "updated_at": "2026-10-30T06:17:27Z",
   "new_keys": [
-    "pubmed:42947522",
-    "pubmed:42947290",
-    "pubmed:42950073",
-    "pubmed:42949499",
-    "pubmed:42948861",
-    "pubmed:42946883",
-    "pubmed:42946847",
-    "pubmed:42947411",
-    "pubmed:42947273",
-    "pubmed:42946878",
-    "pubmed:42947858",
-    "pubmed:42947405",
-    "pubmed:42951629"
+    "pubmed:42953394",
+    "pubmed:42952031",
+    "pubmed:42957098",
+    "pubmed:42956091",
+    "pubmed:42955954",
+    "pubmed:42955945",
+    "pubmed:42954893",
+    "pubmed:42954000",
+    "pubmed:42953977",
+    "pubmed:42955216",
+    "pubmed:42953028",
+    "pubmed:42952712",
+    "pubmed:42952702",
+    "pubmed:42953823"
   ],
   "items": [
     {
@@ -103,7 +104,52 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42952031",
+      "event_key": "pubmed:42952031",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [18F]RP-115: Alternate Synthetic Method.",
+      "authors": [
+        "Sang Hee Lee",
+        "Joseph Blecha",
+        "Jung Min Kim",
+        "Ryan Michael Nillo",
+        "Robert R Flavell",
+        "Chih-Kai Chao",
+        "John R Forsayeth",
+        "John M Gerdes",
+        "Henry F VanBrocklin",
+        "David M Wilson"
+      ],
+      "journal": "Journal of labelled compounds & radiopharmaceuticals",
+      "publication_date": "2026-11-01",
+      "pmid": "42952031",
+      "doi": "10.1002/jlcr.70044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952031/",
+      "abstract": "Excitatory amino acid transporter 2 (EAAT2) is a key regulator of extracellular glutamate in the central nervous system. Dysregulated EAAT2 is implicated in neurodegenerative diseases such as Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS), highlighting EAAT2 as a potential target for PET imaging. We previously reported a multistep radiosynthesis of [18F]RP-115, a CNS-permeable prodrug that undergoes esterase-mediated hydrolysis in the CNS to yield the active EAAT2-binding carboxylate. Motivated by recent advances in copper-mediated radiofluorination (CMRF), we sought to develop a more efficient late-stage radiosynthesis of [18F]RP-115. A two-step radiosynthesis of [18F]RP-115 using CMRF provided [18F]RP-115 in high radiochemical yield (52.8% ± 2.1 %, decay-corrected from starting [18F]fluoride ion, n = 4), high molar activity (355 ± 61 GBq/μmol), and high radiochemical purity (> 99%) with a total synthesis time of 70 min. Chiral HPLC analysis demonstrated that the configuration of the aspartic acid residue remained intact without racemization during both the CMRF and trifluoroacetic acid mediated deprotection. We developed an efficient radiosynthesis of [18F]RP-115 via CMRF, achieving high radiochemical yield and molar activity. This efficient synthesis may serve as a basis for the future implementation of a CMRF-based automated radiosynthesis of [18F]RP-115.",
+      "mesh_terms": [
+        "Fluorine Radioisotopes",
+        "Positron-Emission Tomography",
+        "Copper",
+        "Radiopharmaceuticals",
+        "Excitatory Amino Acid Transporter 2",
+        "Chemistry Techniques, Synthetic",
+        "Halogenation"
+      ],
+      "keywords": [
+        "[18F]RP‐115",
+        "copper‐mediated radiofluorination",
+        "excitatory amino acid transporter 2",
+        "prodrug",
+        "radiotracer"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42947290",
@@ -175,7 +221,267 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42957098",
+      "event_key": "pubmed:42957098",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Characterization of plasma misfolded superoxide dismutase 1 in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Yih-Chih Kuo",
+        "Chen-Hung Ting",
+        "Hsing-Jung Lai",
+        "Po-Ya Huang",
+        "Yi-An Shih",
+        "Chih-Chao Yang",
+        "Lo-Fan Cheng",
+        "Shao-Ting Tai",
+        "Chi-Chao Chao",
+        "Hsiang-Yu Chang",
+        "I-Fan Wang",
+        "Li-Kai Tsai"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-10-29",
+      "pmid": "42957098",
+      "doi": "10.1016/j.nbd.2026.107669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957098/",
+      "abstract": "OBJECTIVE: To characterize the dynamics of plasma misfolded superoxide dismutase 1 (mSOD1) and evaluate its utility as a state-dependent biomarker for patient stratification and therapeutic monitoring in amyotrophic lateral sclerosis (ALS).\n\nMETHODS: We utilized an SOD1/G93A mouse model and a cohort of 160 ALS patients, including four with SOD1 mutations, 12 with non-SOD1 mutations (C9orf72, TARDBP, FUS, OPTN), and 144 with nongenetic ALS. Chemical precipitation and enzyme-linked immunosorbent assay were used to quantify mSOD1 levels in plasma, spinal cord extracts, and cerebrospinal fluid (CSF). Clinical outcomes were assessed by the annual reduction in the revised ALS Functional Rating Scale (ALSFRS-R) score and ventilator-free survival.\n\nRESULTS: In mice, plasma mSOD1 increased at the late symptomatic stage with subsequent numerical decline at the humane endpoint, accompanied by progressive motor neuron loss and increasing mSOD1-associated pathology. In humans, mSOD1 was elevated in 100% of SOD1-mutant, 25% of non-SOD1-mutant, and 22.2% of nongenetic ALS patients. Elevation was state-dependent, enriched in patients with moderate disability (ALSFRS-R 17-45). Plasma and CSF mSOD1 levels were correlated across the overall ALS cohort, but this association was no longer significant after exclusion of SOD1-mutant ALS cases. In one tofersen-treated patient, plasma mSOD1 showed rapid, parallel, and sustained reduction with CSF levels. No significant differences in clinical outcomes were observed in nongenetic ALS based on mSOD1 status.\n\nINTERPRETATION: Approximately 22% of nongenetic ALS patients exhibit elevated plasma mSOD1, primarily during the moderate disease stage. Plasma mSOD1 is a candidate state-dependent biomarker for biological stratification and may have potential for treatment monitoring.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Animal model",
+        "Misfolded superoxide dismutase 1 (SOD1)",
+        "Motor neuron disease"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42956091",
+      "event_key": "pubmed:42956091",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Wissenschaftsgeschichte als Objektarbeit am Museum für Naturkunde Berlin: Lehrtafeln bewahren und erforschen*.",
+      "authors": [
+        "Jutta Helbig"
+      ],
+      "journal": "Berichte zur Wissenschaftsgeschichte",
+      "publication_date": "2026-10-29",
+      "pmid": "42956091",
+      "doi": "10.1002/bewi.70047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956091/",
+      "abstract": "Historical teaching charts are often overlooked in museum collections, despite their potential as valuable sources for the history of science. This article examines how the documentation and contextualisation of such objects can generate new perspectives on scientific practice and knowledge production. It presents a collaborative university seminar at the Museum für Naturkunde Berlin in which students from different disciplines systematically documented a dispersed collection of 267 historical teaching charts and developed a documentation framework through object-based research. Using the teaching chart Anatomie von Helix pomatia as an exemplary case study, the article demonstrates how close examination of a single object reveals connections between scientific illustration, institutional practices, teaching, and the material production of knowledge. Rather than serving merely as visual aids, historical teaching charts emerge as material witnesses to scientific work, preserving traces of their production, use, and historical context. The project illustrates how the systematic documentation of neglected museum objects can provide a foundation for future research, collection management, and preservation. More broadly, it argues that the history of science begins with recognising, documenting, and interpreting material evidence as historical sources.",
+      "mesh_terms": [],
+      "keywords": [
+        "digitisation",
+        "documentation",
+        "history of science",
+        "museum collections",
+        "object‐based research",
+        "teaching charts",
+        "university collections"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42955954",
+      "event_key": "pubmed:42955954",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ataxin-2 loss flips a metabolic switch for neuron health.",
+      "authors": [
+        "Fabiana Longo",
+        "Albert R La Spada"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2026-10-29",
+      "pmid": "42955954",
+      "doi": "10.1016/j.celrep.2026.118128",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955954/",
+      "abstract": "Gastaldo et al.1 report that lowering ataxin-2 protects neurons from TDP-43 toxicity in amyotrophic lateral sclerosis by activating neuronal glycolysis and astrocytic cholesterol synthesis, not by reversing TDP-43-dependent molecular pathology. The downstream effectors, IDH1 and HMGCS1, thus emerge as candidate therapeutic targets.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42955945",
+      "event_key": "pubmed:42955945",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALS-linked FUS mutation impairs GEMIN5-dependent mRNA recruitment to neuronal late endosomes.",
+      "authors": [
+        "Adriano Setti",
+        "Lorenzo Stufera Mecarelli",
+        "Tiziana Santini",
+        "Angelo D'Angelo",
+        "Vittorio Padovano",
+        "Erika Vitiello",
+        "Francesco Castagnetti",
+        "Julie Martone",
+        "Davide Mariani",
+        "Irene Bozzoni"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2026-10-29",
+      "pmid": "42955945",
+      "doi": "10.1016/j.celrep.2026.118206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955945/",
+      "abstract": "Neurons depend on tightly regulated positioning of cellular components to maintain long-distance signaling, but the mechanisms guiding specific mRNAs to distant regions remain unclear. Here, we show that late endosomes function as selective RNA carriers in human motor neurons and uncover the molecular logic guiding their loading. Using APEX2-mediated proximity labeling, we identify the external transcriptome of RAB7A-positive endosomes and find a specific population of mRNAs enriched for endosomal, axonal, and synaptic functions. We find that mRNAs enriched in RAB7A endosomes contain evolutionarily conserved 5'UTRs that act as localization signals, and that the RNA-binding protein GEMIN5 interacts with these regions to promote endosomal RNA recruitment. Finally, we show that there is a conspicuous loss of endosome-associated transcripts in amyotrophic lateral sclerosis-associated conditions, accompanied by the mislocalization of GEMIN5 from endosomes. These findings uncover fundamental principles of RNA compartmentalization and highlight endosomal mRNA loading as a vulnerable axis in neuronal homeostasis.",
+      "mesh_terms": [],
+      "keywords": [
+        "5'UTR",
+        "ALS",
+        "APEX2",
+        "CP: molecular biology",
+        "CP: neuroscience",
+        "FUS",
+        "GEMIN5",
+        "RAB7A",
+        "RNA compartmentalization",
+        "late endosomes",
+        "proximity labeling"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42954893",
+      "event_key": "pubmed:42954893",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Consciousness in ALS.",
+      "authors": [
+        "Michael J Young"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-10-29",
+      "pmid": "42954893",
+      "doi": "10.1080/21678421.2026.2739759",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954893/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42954000",
+      "event_key": "pubmed:42954000",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Feasibility of Longitudinal Home Monitoring of Nocturnal Transcutaneous CO2 and Relationship to Standard Respiratory Measures in Patients With ALS: A Pilot Cohort Study.",
+      "authors": [
+        "Andrew Geronimo",
+        "Quy Cao",
+        "Lauren Elman",
+        "Zachary Simmons",
+        "Jason Ackrivo"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-10-29",
+      "pmid": "42954000",
+      "doi": "10.1002/mus.70432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954000/",
+      "abstract": "INTRODUCTION/AIMS: Amyotrophic lateral sclerosis (ALS) results in respiratory muscle weakness causing hypoventilation, retention of carbon dioxide (CO2), and chronic hypercapnic respiratory failure. In this pilot study, we performed a 12-month assessment of daytime and home nocturnal CO2 to track respiratory progression, determine relationships with surrogate respiratory measures, and assess the impact of non-invasive ventilatory support.\n\nMETHODS: Adults with forced vital capacity (FVC) less than 90% predicted secondary to ALS were recruited from two sites in the northeast US. Participants were followed up at standard visits every 3 months for up to five visits. Spirometry, functional scores, and patient-reported outcomes of dyspnea were recorded. Each visit included a 15-min, seated measurement of transcutaneous CO2 (PtcCO2) while in clinic, followed by 3 nights of home overnight PtcCO2 monitoring. Linear mixed-effects models were employed to describe the changes that occurred longitudinally and resulting from the initiation of non-invasive ventilation (NIV).\n\nRESULTS: Sixteen subjects were enrolled, with nine completing the full study. Strength and FVC declined over time, while daytime PtcCO2 remained stable. Five individuals demonstrated nocturnal hypercapnia that preceded FVC < 50% predicted normal. Transition to NIV was associated with a 7 mmHg decrease in nocturnal PtcCO2.\n\nDISCUSSION: Home nocturnal PtcCO2 assessment in ALS may identify respiratory insufficiency prior to FVC. Transcutaneous CO2 may play a role in the respiratory management of patients as a biomarker for hypoventilation risk and NIV titration. However, equipment availability and data quality limitations would benefit from professional assistance rather than independent in-home use.",
+      "mesh_terms": [],
+      "keywords": [
+        "capnography",
+        "hypoventilation",
+        "remote monitoring",
+        "sleep",
+        "spirometry"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42953977",
+      "event_key": "pubmed:42953977",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The TBK1-OTUB2-IRF3 signalling complex promotes neuroinflammation and neurodegeneration.",
+      "authors": [
+        "Jianzhao Zhang",
+        "Deqi Wang",
+        "Jiaqing Chen",
+        "Yantong Lu",
+        "Deyu Deng",
+        "Beining Xu",
+        "Yanqi Xu",
+        "Keshuo Jin",
+        "Jun Xu",
+        "Baohua Liu",
+        "Jing Ruan",
+        "Xu Wang"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-10-29",
+      "pmid": "42953977",
+      "doi": "10.1093/brain/awag378",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953977/",
+      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway-mediated chronic inflammation drives neurodegeneration in natural aging and various neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS). Here, we identify Otubain-2 (OTUB2) as a pivotal regulator that orchestrates the STING signalosome to amplify inflammatory responses. The function of OTUB2 in neuroinflammation and neurodegeneration was investigated through genetic deletion and pharmacological inhibition of OTUB2 in hTARDBP transgenic mice​, adeno-associated virus-mediated TDP43 overexpression mice, and aged mice. Biochemical assays were performed to dissect underlying molecular mechanisms. OTUB2 inhibited K63 ubiquitination of TANK-binding kinase 1 (TBK1), thereby suppressing TBK1 kinase activity and promoting cell death mediated by hyperactivated receptor-interacting serine/threonine-protein kinase 1 (RIPK1). Additionally, OTUB2 functioned as a scaffold facilitating assembly of the TBK1-interferon regulatory factor 3 (IRF3) signalling complex, a prerequisite for IRF3 phosphorylation, and enhanced IRF3 dimerization by reducing its K11 ubiquitination. Genetic deletion or pharmacological inhibition of OTUB2 significantly ameliorated neuroinflammation and neurodegeneration in both ALS and aged mouse models. This study establishes OTUB2 as a critical regulator of cGAS-STING signalling and a potential therapeutic target for neuroinflammation and neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "aging",
+        "amyotrophic lateral sclerosis",
+        "neurodegeneration",
+        "neuroinflammation",
+        "ubiquitination"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42955216",
+      "event_key": "pubmed:42955216",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Microglial perturbation in heavy metal-induced neuroinflammation and neurodegeneration: mechanisms, phenotypic plasticity, and therapeutic prospects.",
+      "authors": [
+        "Rademene Sunday Oria",
+        "Ugochukwu Godfrey Esomonu",
+        "Kenneth Igbang Sunday",
+        "Peter Arinze Oge"
+      ],
+      "journal": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+      "publication_date": "2026-10-28",
+      "pmid": "42955216",
+      "doi": "10.1007/s10534-026-00895-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955216/",
+      "abstract": "Heavy metal exposure has emerged as a significant environmental contributor to neurodegenerative disease, and a substantial body of mechanistic evidence implicates microglia in the pathological cascades that follow. Lead, cadmium, arsenic, manganese, copper, cobalt, mercury, and zinc disrupt central nervous system homeostasis through multiple cellular targets, but the resident innate immune cells of the brain are well placed to translate these insults into sustained neuroinflammation. Evidence for this critical narrative review was assembled through a purposive search of PubMed, MEDLINE, and Google Scholar for mechanistically informative studies reporting glial endpoints, with reference lists searched by hand and no systematic protocol applied. This review synthesizes current understanding of how individual metals engage microglial signaling networks, with particular attention to oxidative stress, NF-κB activation, NLRP3 inflammasome assembly, MAPK cascades, and suppression of the Nrf2 antioxidant axis. We examine the phenotypic spectrum that extends well beyond the classical M1/M2 dichotomy, including disease-associated microglia, lipid-droplet-accumulating microglia, and interferon-responsive states, and consider how metal-specific signatures map onto these transcriptional programs. Manganese-driven inflammasome assembly, cadmium-induced mitochondrial impairment, lead-mediated disruption of calcium homeostasis, and mercury-evoked autophagic dysfunction are discussed as illustrative examples of mechanistic divergence within a common neuroinflammatory framework. Glial responses to metal mixtures, which better represent real exposure than single-element designs, are considered separately, and the evidence for greater-than-additive effects is appraised. Downstream consequences for astrocyte reactivity, blood-brain barrier integrity, synaptic remodeling, and neuronal viability are placed in the context of Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Therapeutic avenues are appraised, including chelation, natural antioxidants, NLRP3 inhibitors, TREM2 modulation, and microglial replacement strategies. Methodological constraints, particularly the overreliance on BV-2 cells and acute high-dose exposure paradigms, are critically considered. The review concludes by identifying priorities for translational research, including longitudinal human cohort studies, single-cell transcriptomic profiling of metal-exposed microglia, and the development of region-specific exposure models that better reflect chronic environmental realities.",
+      "mesh_terms": [],
+      "keywords": [
+        "Disease-associated microglia",
+        "Environmental neurotoxicology",
+        "Heavy metals",
+        "Microglia",
+        "NLRP3 inflammasome",
+        "Neurodegeneration",
+        "Neuroinflammation"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42950073",
@@ -201,7 +507,7 @@
       "keywords": [],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42949499",
@@ -236,7 +542,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42948861",
@@ -267,7 +573,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42946883",
@@ -301,7 +607,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42946847",
@@ -335,7 +641,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42922081",
@@ -396,6 +702,39 @@
       "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
+      "id": "42953394",
+      "event_key": "pubmed:42953394",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Legacy of Recurrent Gene Flow and Evidence of Independent Evolution of ALS Resistance Mutations in Weedy Rice.",
+      "authors": [
+        "Guilherme Menegol Turra",
+        "Paula Sinigaglia Angonese",
+        "Eduardo Carlos Rudell",
+        "Vinícius Ferrari Tasca",
+        "Catarine Markus",
+        "Aldo Merotto Junior"
+      ],
+      "journal": "Evolutionary applications",
+      "publication_date": "2026-10-27",
+      "pmid": "42953394",
+      "doi": "10.1111/eva.70342",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953394/",
+      "abstract": "Weedy rice (Oryza spp.) provides a unique model for studying adaptive evolution because herbicide resistance can arise through both crop-to-weed gene flow and independent mutational events. In Brazil, nearly two decades of cultivation of imidazolinone (IMI)-resistant rice have imposed intense selection for acetolactate synthase (ALS) inhibitors resistance. This study investigated how historical gene flow and independent evolution have shaped the contemporary landscape of ALS resistance mutations in Brazilian weedy rice. Specifically, we characterized the diversity and distribution of ALS resistance mutations and developed rapid allele-specific molecular markers for major resistance alleles. A total of 200 weedy rice accessions collected from the major rice-growing region of Brazil were screened for IMI resistance and genotyped using newly developed SNAP (single nucleotide amplified polymorphism) qPCR markers targeting the IMI rice-derived mutations Ala122Thr, Ser653Asn, and Gly654Glu. Samples negative for these mutations were sequenced, and dose-response assays were conducted with imazethapyr, penoxsulam, nicosulfuron, and cloransulam-methyl. Ninety-three percent of the accessions were resistant to IMI herbicides. The ALS mutation Gly654Glu, present in rice cultivars used until 2006, was found in 15.5% of weedy rice resistant accessions, Ala122Thr became the dominant mutation (54.5%), whereas Ser653Asn occurred at an intermediate frequency (16.0%), indicating a temporal shift in the genetic basis of ALS resistance. Sequencing further identified the ALS substitutions Ala205Val, Trp574Leu, and Ser653Thr, which were not associated with commercial IMI-resistant rice cultivars, indicating ongoing independent evolution of target-site resistance. Trp574Leu conferred broad cross-resistance to all ALS-inhibiting herbicides evaluated, whereas the remaining mutations displayed mutation-specific resistance spectra. The SNAP markers showed high specificity and sensitivity, enabling reliable high-throughput detection of resistance alleles. Together, our findings demonstrate that the contemporary ALS resistance landscape in Brazilian weedy rice has been shaped mainly by repeated crop-to-weed gene flow, but also ongoing independent mutational events that continue to diversify resistance under herbicide selection.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS inhibitors",
+        "Oryza sativa",
+        "SNAP",
+        "molecular markers",
+        "target‐site resistance"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
       "id": "42947411",
       "event_key": "pubmed:42947411",
       "source_id": "pubmed",
@@ -439,7 +778,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42947273",
@@ -485,7 +824,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42946878",
@@ -520,7 +859,7 @@
       "keywords": [],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42946239",
@@ -551,7 +890,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42945473",
@@ -601,7 +940,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42945427",
@@ -623,7 +962,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42937037",
@@ -665,7 +1004,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42934257",
@@ -688,7 +1027,7 @@
       "keywords": [],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42933736",
@@ -753,7 +1092,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42934032",
@@ -1446,7 +1785,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42925619",
@@ -1824,7 +2163,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42902402",
@@ -2319,7 +2658,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42929861",
@@ -2515,7 +2854,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42931148",
@@ -2871,6 +3210,128 @@
       "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
+      "id": "42953028",
+      "event_key": "pubmed:42953028",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Variably protease-sensitive prionopathy in the context of a complex proteinopathy: clinical and neuropathological challenges.",
+      "authors": [
+        "Anika Simonovska Serra",
+        "Claudia Marina Vargiu",
+        "Sigrid Klotz",
+        "Evelyn Berger-Sieczkowski",
+        "Michaela Kreiter",
+        "Marlene Leoni",
+        "Alexandra Guttmann-Lattmanig",
+        "Lukas Haider",
+        "Guenther Regelsberger",
+        "Piero Parchi",
+        "Ellen Gelpi"
+      ],
+      "journal": "Frontiers in neuroscience",
+      "publication_date": "2026-10-14",
+      "pmid": "42953028",
+      "doi": "10.3389/fnins.2026.1950078",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953028/",
+      "abstract": "Variably protease-sensitive prionopathy (VPSPr) is the most recently identified sporadic human prion disease, displaying distinctive clinical and neuropathological features and a unique western blot profile. Clinically, it frequently presents with longer disease duration than classic sporadic Creutzfeldt-Jakob disease (sCJD), neuropathologically with characteristic prion protein (PrP) deposition patterns, and biochemically with variable resistance of PrP Sc to proteinase K (PK) digestion. Here, we describe clinico-pathological features of two new patients with VPSPr identified at postmortem examination, review current literature, and emphasize diagnostic challenges when combined with other neurodegenerative conditions. As in sCJD, the polymorphism M/V at codon 129 of the PRNP gene influences the phenotypic expression, which includes features within the frontotemporal lobar degeneration and motor neuron disease (FTLD-MND) spectrum. Genetic and molecular analysis, as well as postmortem neuropathological examination and western blotting (case 2) were performed. Case 1 with an MM genotype showed a prominent involvement of the motor cortex and striatum, consistent with the pyramidal and extrapyramidal clinical symptoms. The cerebellum was devoid of PrP deposits. Co-pathologies including tau pathology consistent with argyrophilic grain disease (AGD) and limbic-predominant age-related TDP-43 encephalopathy (LATE) were detected as well. Case 2 with a VV genotype displayed a prominent involvement of the cerebellum with microplaques and a slightly different PrP staining pattern, compared to case 1. Both patients showed a prolonged disease duration, 7 years and 3.5 years, respectively. The clinical and neuropathological diagnosis of VPSPr remains challenging, especially in the presence of co-pathologies. The codon 129 M/V polymorphism modulates the clinic and/or pathological phenotypic expression of VPSPr within the FT(L)D-MND spectrum.",
+      "mesh_terms": [],
+      "keywords": [
+        "Creutzfeldt-Jakob disease",
+        "FTLD-MND",
+        "PrP",
+        "atypical CJD",
+        "ladder-like",
+        "prion disease",
+        "variably protease-sensitive prionopathy (VPSPr)"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42952712",
+      "event_key": "pubmed:42952712",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Biophysics-informed computational framework for predicting antisense oligonucleotide knockdown efficacy under small-data constraints.",
+      "authors": [
+        "Risha Guha",
+        "Shawn Kim",
+        "Anwita Bandaru",
+        "Nithika Vivek"
+      ],
+      "journal": "Frontiers in systems biology",
+      "publication_date": "2026-10-14",
+      "pmid": "42952712",
+      "doi": "10.3389/fsysb.2026.1921636",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952712/",
+      "abstract": "A central strategy in treating neurodegenerative disorders, including amyotrophic lateral sclerosis (ALS), is lowering levels of disease-driving proteins. Antisense oligonucleotides (ASOs) offer a direct RNA-targeted approach to reduce protein expression, but experimental discovery and optimization are constrained by small, heterogeneous datasets and target-specific variability. Computational models that predict ASO knockdown efficacy directly from sequence and context could improve candidate selection, yet generalization across gene families and experimental settings remains challenging. In this study, we present a biophysics-based computational framework for predicting RNase H-active ASO knockdown efficacy under small-data constraints. We curate and integrate heterogeneous literature-derived ASO efficacy measurements into a unified dataset and evaluate model transfer using independently generated experimental ASOs targeting ALS-relevant genes DAZAP1 and FAM69C. Knockdown efficacy is defined at the transcript level (%KD), providing a mechanistic measure of RNase H-mediated activity. To our knowledge, this is the first framework that combines ASO feature engineering with one-shot family calibration for prediction under realistic small-data conditions. We integrate sequence representations with physics-based features capturing RNA-DNA hybridization thermodynamics, targeting RNA accessibility. Compared to sequence-only baselines, this mechanistic feature augmentation reduces external wet-lab prediction error, improving generalization to independent experimental data. Despite these gains, uncalibrated predictions exhibit systematic target-family-specific scale bias. We address this challenge by using a minimal one-shot family calibration strategy that applies an additive offset derived from a single experimentally measured reference ASO per new target family. We further assess the model's behavior using a leave-one-family-out simulation on literature-derived ASO families, repeatedly applying one-shot calibration to quantify its expected benefit and variability under controlled small-n conditions. One-shot calibration markedly improves absolute prediction accuracy while preserving within-family ranking, without retraining or increasing model complexity. Out-of-distribution evaluation shows stable performance for DAZAP1 and increased uncertainty for FAM69C, consistent with the expected effects of very small sample sizes. Permutation-based interpretability analyses show that predictive signal is dominated by global sequence architecture, with thermodynamic and accessibility features providing correlated, secondary contributions. Together, these results establish a computational workflow in which literature-trained models can be transferred to new target genes using minimal experimental input, supporting systematic ASO prioritization in small-data models.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "antisense oligonucleotide",
+        "knockdown",
+        "machine learning",
+        "protein interactions"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "42952702",
+      "event_key": "pubmed:42952702",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Impact of hybrid assistive limb on gait ability and quality of life in patients with amyotrophic lateral sclerosis.",
+      "authors": [
+        "Harumi Morioka",
+        "Takehisa Hirayama",
+        "Mari Shibukawa",
+        "Tatsuki Sugisawa",
+        "Junpei Nagasawa",
+        "Sayori Hanashiro",
+        "Junya Ebina",
+        "Ryuichi Okamoto",
+        "Makiko Ogawa",
+        "Ikuko Okuni",
+        "Yoshitaka Murakami",
+        "Osamu Kano"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2026-10-14",
+      "pmid": "42952702",
+      "doi": "10.3389/fneur.2026.1823485",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952702/",
+      "abstract": "OBJECTIVE: Hybrid Assistive Limb (HAL) is a cyborg-type wearable robot that supports gait training based on the wearer's intended motion. This study aimed to evaluate the effects of HAL treatment on gait ability and quality of life (QoL) in patients with amyotrophic lateral sclerosis (ALS).\n\nMETHODS: Patients with an unsteady gait with the ability to walk ≥10 m with assistance from a caregiver and/or walker were included in this study. Patients underwent nine HAL treatment sessions (20-40 min per session), with no more than one session per day, over a period of at least 4 weeks. Gait ability was evaluated using the distance of the 2-min walk test (2MWT), and the speed (m/s), step length (m/step), and cadence (step/s) of the 10-m walk test. Both tests were performed without HAL assistance. QoL was evaluated using the 36-Item Short Form Health Survey.\n\nRESULTS: We evaluated 30 patients who completed one course of treatment. To evaluate the effectiveness of HAL, a paired t- test was used for the results of one course. With one course of treatment, the 2MWT improved from 92.27 m (40.46) at baseline to 104.16 m (41.73) (p < 0.001). Regarding QoL, the mental component summary score was 55.35 (8.27) before HAL treatment, indicating relatively preserved mental QoL. There were no significant changes in QoL before and after treatment.\n\nCONCLUSION: Although no curative treatment exists for ALS, HAL treatment may provide short-term improvement in gait ability in patients with ALS. However, no significant changes in QoL were observed after one course of treatment.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Quality of Life",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Gait",
+        "Gait Disorders, Neurologic",
+        "Robotics"
+      ],
+      "keywords": [
+        "QoL",
+        "SF-36",
+        "amyotrophic lateral sclerosis",
+        "cyborg robot",
+        "gait ability",
+        "hybrid assistive limb"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
       "id": "42941452",
       "event_key": "pubmed:42941452",
       "source_id": "pubmed",
@@ -2909,7 +3370,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42940139",
@@ -2944,7 +3405,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42895147",
@@ -3166,7 +3627,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42941856",
@@ -3204,7 +3665,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42939744",
@@ -3244,7 +3705,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42880056",
@@ -3839,7 +4300,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42929812",
@@ -4057,7 +4518,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42855901",
@@ -4986,7 +5447,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42926777",
@@ -8066,6 +8527,39 @@
       "collected_at": "2026-10-01T06:24:05Z",
       "first_seen_at": "2026-10-01T06:24:05Z",
       "last_seen_at": "2026-10-03T05:37:05Z"
+    },
+    {
+      "id": "42953823",
+      "event_key": "pubmed:42953823",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Bypassing the Blood-Central Nervous System (CNS) Barrier: A Dual-Axis Framework for Amyotrophic Lateral Sclerosis (ALS) Utilizing Glymphatic-Lymphatic Clearance and In Situ Chaperone Synthesis.",
+      "authors": [
+        "Huan-Wei Chen"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-09-28",
+      "pmid": "42953823",
+      "doi": "10.7759/cureus.117043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953823/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by prion-like propagation of misfolded TAR DNA-binding protein 43 (TDP-43) and superoxide dismutase 1 (SOD1) across motor neuron pools. Because any circulating pharmacological agent must cross the blood-brain and blood-spinal cord barriers (BBB and BSCB), this review proposes active craniospinal tensioning (ACT) as a mechanical, non-pharmacological route to disease modification that acts on cerebrospinal fluid (CSF) and venous pressure dynamics rather than requiring penetration of these barriers. ACT is proposed to engage a single Monro-Kellie/Queckenstedt pressure continuity through two concurrent mechanisms: suboccipital venous occlusion-rebound, hypothesized to transiently raise and release craniospinal CSF pressure via venous compression and thereby accelerate venous-side glymphatic efflux; and dural pull-recoil, hypothesized to generate a reciprocal CSF pressure gradient via spinal elongation, agitating perivascular CSF directly while inducing a coupled venous pressure gradient. Because both mechanisms act concurrently on a shared venous-side target, the combined maneuver is proposed to be more potent than either delivered alone, as in prior work on pelvis-stabilized axial spinal traction (PSAST), which lacks the occlusion-rebound component. A secondary, hypothesis-generating micro-biochemical axis, cerebral venous preconditioning (CVPC), proposes that the same occlusion-rebound cycle produces capillary/venule wall strain sufficient to activate heat shock factor 1 (HSF-1) across the neurovascular unit, independent of oxygen tension, with a possible but uncharacterized contribution from hypoxia-inducible factor 1-alpha (HIF-1α). The two routes are non-exclusive, with the macro-fluidic axis alone proposed as sufficient. This framework is entirely theoretical, requires preclinical and clinical validation, and is intended as a template for related proteinopathy-driven neurodegenerative diseases, including Parkinson's disease, Huntington's disease, spinocerebellar ataxia, and fatal familial insomnia, addressed in forthcoming work.",
+      "mesh_terms": [],
+      "keywords": [
+        "active craniospinal tensioning (act)",
+        "amyotrophic lateral sclerosis (als)",
+        "blood-cns barrier (bcnsb)",
+        "cerebral venous preconditioning (cvpc)",
+        "dural pull-recoil",
+        "glymphatic-lymphatic clearance",
+        "heat shock factor 1 (hsf-1)",
+        "sod1 proteinopathy",
+        "suboccipital venous occlusion-rebound",
+        "tdp-43 proteinopathy"
+      ],
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42865955",
@@ -15658,7 +16152,7 @@
       ],
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42928205",
@@ -16036,7 +16530,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "42880848",

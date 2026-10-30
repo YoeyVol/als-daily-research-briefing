@@ -1,12 +1,107 @@
 {
-  "updated_at": "2026-10-29T06:17:28Z",
+  "updated_at": "2026-10-30T06:17:27Z",
   "new_keys": [
-    "clinicaltrials:NCT07688239:2026-10-28",
-    "clinicaltrials:NCT07900672:2026-10-28",
-    "clinicaltrials:NCT04055623:2026-10-28",
-    "clinicaltrials:NCT07823101:2026-10-28"
+    "clinicaltrials:NCT03225144:2026-10-29",
+    "clinicaltrials:NCT05632757:2026-10-29",
+    "clinicaltrials:NCT01925196:2026-10-29",
+    "clinicaltrials:NCT04691011:2026-10-29"
   ],
   "items": [
+    {
+      "id": "NCT05632757",
+      "event_key": "clinicaltrials:NCT05632757:2026-10-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05632757",
+      "title": "Anticipated Patient and Caregiver Burden",
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Behavioral: Psychological assessments"
+      ],
+      "start_date": "2023-06-22",
+      "last_update_date": "2026-10-29",
+      "url": "https://clinicaltrials.gov/study/NCT05632757",
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "NCT04691011",
+      "event_key": "clinicaltrials:NCT04691011:2026-10-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04691011",
+      "title": "New Magnetic Resonance Imaging Biomarkers in Amyotrophic Lateral Sclerosis",
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Other: Muscular MRI",
+        "Other: Electrophysiological exam",
+        "Other: Brain MRI",
+        "Other: Spinal cord MRI"
+      ],
+      "start_date": "2021-06-16",
+      "last_update_date": "2026-10-29",
+      "url": "https://clinicaltrials.gov/study/NCT04691011",
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-10-30T06:17:27Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "NCT03225144",
+      "event_key": "clinicaltrials:NCT03225144:2026-10-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03225144",
+      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2017-10-11",
+      "last_update_date": "2026-10-29",
+      "url": "https://clinicaltrials.gov/study/NCT03225144",
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
+    {
+      "id": "NCT01925196",
+      "event_key": "clinicaltrials:NCT01925196:2026-10-29",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT01925196",
+      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2013-09-30",
+      "last_update_date": "2026-10-29",
+      "url": "https://clinicaltrials.gov/study/NCT01925196",
+      "collected_at": "2026-10-30T06:17:27Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-10-30T06:17:27Z"
+    },
     {
       "id": "NCT07900672",
       "event_key": "clinicaltrials:NCT07900672:2026-10-28",
@@ -28,7 +123,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07900672",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT07823101",
@@ -51,7 +146,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT07688239",
@@ -75,7 +170,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07688239",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT04055623",
@@ -99,7 +194,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04055623",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT07322003",
@@ -123,7 +218,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT06429059",
@@ -149,7 +244,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06429059",
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
+      "last_seen_at": "2026-10-30T06:17:27Z"
     },
     {
       "id": "NCT07855211",
@@ -197,29 +292,6 @@
       "url": "https://clinicaltrials.gov/study/NCT06581861",
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
-    },
-    {
-      "id": "NCT03225144",
-      "event_key": "clinicaltrials:NCT03225144:2026-10-26",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT03225144",
-      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2017-10-11",
-      "last_update_date": "2026-10-26",
-      "url": "https://clinicaltrials.gov/study/NCT03225144",
-      "collected_at": "2026-10-27T05:25:53Z",
-      "first_seen_at": "2026-09-18T05:02:59Z",
       "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
@@ -1296,29 +1368,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07082192",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT01925196",
-      "event_key": "clinicaltrials:NCT01925196:2026-09-22",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT01925196",
-      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "COMPLETED",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2013-09-30",
-      "last_update_date": "2026-09-22",
-      "url": "https://clinicaltrials.gov/study/NCT01925196",
-      "collected_at": "2026-09-23T05:02:12Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
       "last_seen_at": "2026-09-25T05:14:48Z"
     },
     {
