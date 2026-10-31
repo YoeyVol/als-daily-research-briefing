@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-30T06:17:27Z",
+  "updated_at": "2026-10-31T06:09:13Z",
   "new_keys": [
-    "pubmed:42953394",
-    "pubmed:42952031",
-    "pubmed:42957098",
-    "pubmed:42956091",
-    "pubmed:42955954",
-    "pubmed:42955945",
-    "pubmed:42954893",
-    "pubmed:42954000",
-    "pubmed:42953977",
-    "pubmed:42955216",
-    "pubmed:42953028",
-    "pubmed:42952712",
-    "pubmed:42952702",
-    "pubmed:42953823"
+    "pubmed:42960175",
+    "pubmed:42959522",
+    "pubmed:42959461",
+    "pubmed:42958460"
   ],
   "items": [
     {
@@ -104,7 +94,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42952031",
@@ -149,7 +139,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42947290",
@@ -221,7 +211,39 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "42959461",
+      "event_key": "pubmed:42959461",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond the Larynx: New Insights Into Upper Airway Responses to Mechanical Insufflation-Exsufflation.",
+      "authors": [
+        "Alessandra Carneiro Dorça",
+        "Edna Maria de Sena Souza Rocha",
+        "Murilo Bufaíçal Marra",
+        "Letícia de Araújo Morais",
+        "Tiina Maarit Andersen"
+      ],
+      "journal": "Respirology case reports",
+      "publication_date": "2026-10-29",
+      "pmid": "42959461",
+      "doi": "10.1002/rcr2.70792",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959461/",
+      "abstract": "This case report describes a 44-year-old man with amyotrophic lateral sclerosis (ALS) and ineffective secretion clearance despite home use of mechanical insufflation-exsufflation (MI-E). He reported upper airway obstruction, respiratory discomfort and recurrent aerophagia during therapy. Dynamic assessments using transnasal flexible laryngoscopy and videofluoroscopy under different MI-E settings showed that upper airway responses were strongly influenced by inspiratory flow, pressure levels, expiratory time and cervical positioning. Higher inspiratory flow and pressure induced supraglottic closure and airflow diversion to the oesophagus. In contrast, lower inspiratory flow combined with reduced expiratory pressure and shorter expiratory time improved glottic opening, maintained airway patency and enhanced cough mechanics. Spontaneously adopted cervical extension optimized airflow and minimized oesophageal insufflation, whereas neutral alignment impaired cough efficiency. These findings emphasize the importance of individualized MI-E settings and patient-specific biomechanics in optimizing therapy in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "bulbar insufficiency",
+        "mechanical insufflation‐exsufflation",
+        "transnasal flexible laryngoscopy",
+        "videofluoroscopy"
+      ],
+      "collected_at": "2026-10-31T06:09:12Z",
+      "first_seen_at": "2026-10-31T06:09:12Z",
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42957098",
@@ -259,7 +281,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42956091",
@@ -289,7 +311,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42955954",
@@ -312,7 +334,7 @@
       "keywords": [],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42955945",
@@ -355,7 +377,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42954893",
@@ -377,7 +399,7 @@
       "keywords": [],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42954000",
@@ -409,7 +431,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42953977",
@@ -448,7 +470,62 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "42958460",
+      "event_key": "pubmed:42958460",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Strain-specific morphology and CNS propagation of template-directed SOD1 aggregation following peripheral nerve inoculation.",
+      "authors": [
+        "Isil Keskin",
+        "Isabelle Sigfridsson",
+        "Ela Skagerberg Ekhtiari",
+        "Matthew Marklund",
+        "Samuel Mattson",
+        "Thomas Brännström",
+        "Stefan L Marklund",
+        "Ulrika Nordström",
+        "Peter M Andersen"
+      ],
+      "journal": "Acta neuropathologica communications",
+      "publication_date": "2026-10-28",
+      "pmid": "42958460",
+      "doi": "10.1186/s40478-026-02455-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958460/",
+      "abstract": "Accumulation of misfolded SOD1 protein into intracellular aggregates, in the spinal cord (SpC) and brainstem, is a hallmark of amyotrophic lateral sclerosis caused by mutations in the SOD1 gene (SOD1-ALS). Two distinct aggregate conformations, denoted strain A and strain B, were identified in the CNS of SOD1G85R and SOD1D90A transgenic (Tg) ALS mouse models, respectively. Both strains transmit templated SOD1 aggregation and ALS-like disease in Tg mouse models when inoculated into the SpC, whereas muscle or intraperitoneal inoculations, of up to 300 times more inoculate, did not. Here, we used strain A and strain B aggregate seeds, prepared from SpCs of the Tg mice, to investigate strain-specific differences in transmission of templated aggregation and ALS phenotype via a peripheral nerve. We show that both strains can transmit templated aggregation to the CNS via the sciatic nerve in SOD1G85R Tg mice. Strain A resulted in shorter time to disease onset and earlier end-stage disease compared to strain B, and these strain-specific differences were accentuated in the sciatic nerve inoculation model compared to direct SpC inoculations. To further analyse the differences between strain A and strain B, we developed an immunohistochemical method that distinguishes the two SOD1 aggregate strains in tissue sections. This method revealed that strain B adopts an elongated, skein-like morphology, whereas strain A aggregates appear as accumulations of rounded, bead-like structures. These findings suggest that SOD1 aggregates forming in a peripheral nerve might transmit disease to the CNS and that different SOD1 aggregate strains can influence disease onset and progression. Our results warrant further exploratory studies of SOD1 aggregate conformations and their potential role in the manifestation of SOD1 mutant-specific disease phenotypes.",
+      "mesh_terms": [
+        "Animals",
+        "Mice, Transgenic",
+        "Superoxide Dismutase-1",
+        "Amyotrophic Lateral Sclerosis",
+        "Disease Models, Animal",
+        "Spinal Cord",
+        "Sciatic Nerve",
+        "Mice",
+        "Species Specificity",
+        "Female",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Protein Aggregation, Pathological"
+      ],
+      "keywords": [
+        "ALS",
+        "Aggregate conformation",
+        "Amyotrophic lateral sclerosis",
+        "Motor neuron disease",
+        "Neurodegenerative disease",
+        "SOD1",
+        "Sciatic nerve",
+        "Strain morphology",
+        "Templated aggregation"
+      ],
+      "collected_at": "2026-10-31T06:09:12Z",
+      "first_seen_at": "2026-10-31T06:09:12Z",
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42955216",
@@ -481,7 +558,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42950073",
@@ -507,7 +584,7 @@
       "keywords": [],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42949499",
@@ -542,7 +619,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42948861",
@@ -573,7 +650,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42946883",
@@ -607,7 +684,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42946847",
@@ -641,7 +718,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42922081",
@@ -732,7 +809,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42947411",
@@ -778,7 +855,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42947273",
@@ -824,7 +901,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42946878",
@@ -859,7 +936,7 @@
       "keywords": [],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42946239",
@@ -1639,6 +1716,26 @@
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
       "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42960175",
+      "event_key": "pubmed:42960175",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Corrigendum to From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1Gene-Associated Amyotrophic Lateral Sclerosis [Mayo Clinic Proceeding: Innovations, Quality & Outcomes 10(5) (2026) PIQO_100755].",
+      "authors": [],
+      "journal": "Mayo Clinic proceedings. Innovations, quality & outcomes",
+      "publication_date": "2026-10-22",
+      "pmid": "42960175",
+      "doi": "10.1016/j.mayocpiqo.2026.100775",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960175/",
+      "abstract": "[This corrects the article DOI: 10.1016/j.mayocpiqo.2026.100755.].",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-10-31T06:09:12Z",
+      "first_seen_at": "2026-10-31T06:09:12Z",
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42918778",
@@ -3247,7 +3344,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42952712",
@@ -3278,7 +3375,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42952702",
@@ -3329,7 +3426,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42941452",
@@ -3593,6 +3690,45 @@
       "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
+      "id": "42959522",
+      "event_key": "pubmed:42959522",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Engineered peroxisomes and patient-derived iPSC models as potential biomaterial platforms for precision neuroprotection in oxidative stress-driven central nervous system disorders.",
+      "authors": [
+        "Csaba Matta",
+        "Yoon-Hee Cheon",
+        "Judit Vágó",
+        "Zoltán Mészár",
+        "Ee-Hyun Kim",
+        "Songling Jiang",
+        "Andrea Balogh",
+        "Melinda Zana",
+        "András Dinnyés",
+        "Eun-Jung Jin"
+      ],
+      "journal": "Materials today. Bio",
+      "publication_date": "2026-10-13",
+      "pmid": "42959522",
+      "doi": "10.1016/j.mtbio.2026.103752",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959522/",
+      "abstract": "Peroxisomes couple hydrogen peroxide metabolism to lipid homeostasis, making their functions relevant to neurological disease and to the design of intracellular catalytic biomaterials. However, the strength of disease-specific evidence and the functions reproduced by current materials vary substantially. This narrative review distinguishes modified biological peroxisomes from artificial and biomimetic platforms and evaluates how patient-derived induced pluripotent stem cell (iPSC) models could support their development. We examine membrane chemistry, substrate permeability, enzyme retention, catalytic activity, cell targeting, blood-brain barrier transport, three-dimensional tissue penetration, and intracellular fate. We separate the established causal role of peroxisomal defects in primary peroxisomal disorders from associative or unresolved findings in Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Kleefstra syndrome is discussed as a hypothesis-generating neurodevelopmental model, without assuming a primary peroxisomal defect. Published artificial-organelle studies establish selected catalytic and delivery capabilities, but do not validate the integrated patient-specific CNS therapeutic strategy proposed here. We therefore outline a staged evaluation framework that combines materials characterization with mechanistic controls, differentiated neural cultures, multicellular models, animal pharmacology, safety, and manufacturing assessment. Comparison with conventional antioxidant carriers, plasmalogen supplementation, and PPAR agonists should determine whether compartmentalized catalysis offers a measurable advantage. We provide a platform classification, a disease-resolved evidence hierarchy, and a set of controls and measurable endpoints intended to make peroxisome-inspired constructs comparable across studies. Clinical development will require evidence of disease-relevant benefit beyond ROS reduction and an acceptable therapeutic window.",
+      "mesh_terms": [],
+      "keywords": [
+        "Artificial organelles",
+        "Biomaterials",
+        "CNS delivery",
+        "Kleefstra syndrome",
+        "Oxidative stress",
+        "Patient-derived iPSCs",
+        "Peroxisome engineering"
+      ],
+      "collected_at": "2026-10-31T06:09:12Z",
+      "first_seen_at": "2026-10-31T06:09:12Z",
+      "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
       "id": "42947858",
       "event_key": "pubmed:42947858",
       "source_id": "pubmed",
@@ -3627,7 +3763,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42941856",
@@ -5447,7 +5583,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42926777",
@@ -8559,7 +8695,7 @@
       ],
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42865955",
@@ -16530,7 +16666,7 @@
       ],
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
       "id": "42880848",

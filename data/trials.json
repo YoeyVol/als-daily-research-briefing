@@ -1,12 +1,83 @@
 {
-  "updated_at": "2026-10-30T06:17:27Z",
+  "updated_at": "2026-10-31T06:09:13Z",
   "new_keys": [
-    "clinicaltrials:NCT03225144:2026-10-29",
-    "clinicaltrials:NCT05632757:2026-10-29",
-    "clinicaltrials:NCT01925196:2026-10-29",
-    "clinicaltrials:NCT04691011:2026-10-29"
+    "clinicaltrials:NCT07906665:2026-10-30",
+    "clinicaltrials:NCT05936619:2026-10-30",
+    "clinicaltrials:NCT07287397:2026-10-30"
   ],
   "items": [
+    {
+      "id": "NCT07906665",
+      "event_key": "clinicaltrials:NCT07906665:2026-10-30",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07906665",
+      "title": "A Study of Single Ascending Doses of NI112 in Adults With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Sachi Bioworks Inc.",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: NI112",
+        "Drug: Placebo"
+      ],
+      "start_date": "2027-01-22",
+      "last_update_date": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT07906665",
+      "collected_at": "2026-10-31T06:09:13Z",
+      "first_seen_at": "2026-10-31T06:09:13Z",
+      "last_seen_at": "2026-10-31T06:09:13Z"
+    },
+    {
+      "id": "NCT07287397",
+      "event_key": "clinicaltrials:NCT07287397:2026-10-30",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07287397",
+      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
+      "sponsor": "Vector Y Therapeutics",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Genetic: VTx-002",
+        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
+      ],
+      "start_date": "2025-12-19",
+      "last_update_date": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT07287397",
+      "collected_at": "2026-10-31T06:09:13Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-10-31T06:09:13Z"
+    },
+    {
+      "id": "NCT05936619",
+      "event_key": "clinicaltrials:NCT05936619:2026-10-30",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05936619",
+      "title": "MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
+      "sponsor": "Nader Pouratian",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Mind Extender (MindEx)"
+      ],
+      "start_date": "2026-02-20",
+      "last_update_date": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT05936619",
+      "collected_at": "2026-10-31T06:09:13Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-10-31T06:09:13Z"
+    },
     {
       "id": "NCT05632757",
       "event_key": "clinicaltrials:NCT05632757:2026-10-29",
@@ -28,7 +99,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05632757",
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT04691011",
@@ -54,7 +125,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04691011",
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT03225144",
@@ -77,7 +148,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03225144",
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT01925196",
@@ -100,7 +171,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT07900672",
@@ -123,7 +194,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07900672",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT07823101",
@@ -146,7 +217,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT07688239",
@@ -170,7 +241,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07688239",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT04055623",
@@ -194,7 +265,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04055623",
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
-      "last_seen_at": "2026-10-30T06:17:27Z"
+      "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
       "id": "NCT07322003",
@@ -510,31 +581,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07871071",
       "collected_at": "2026-10-17T04:52:23Z",
       "first_seen_at": "2026-10-14T05:15:02Z",
-      "last_seen_at": "2026-10-19T05:07:08Z"
-    },
-    {
-      "id": "NCT07287397",
-      "event_key": "clinicaltrials:NCT07287397:2026-10-16",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07287397",
-      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
-      "sponsor": "Vector Y Therapeutics",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Genetic: VTx-002",
-        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
-      ],
-      "start_date": "2025-12-19",
-      "last_update_date": "2026-10-16",
-      "url": "https://clinicaltrials.gov/study/NCT07287397",
-      "collected_at": "2026-10-17T04:52:23Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-10-19T05:07:08Z"
     },
     {
@@ -962,29 +1008,6 @@
       "start_date": "2026-02-02",
       "last_update_date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07204977",
-      "collected_at": "2026-10-02T06:02:01Z",
-      "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
-    },
-    {
-      "id": "NCT05936619",
-      "event_key": "clinicaltrials:NCT05936619:2026-10-01",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT05936619",
-      "title": "MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
-      "sponsor": "Nader Pouratian",
-      "phase": [
-        "NA"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Device: Mind Extender (MindEx)"
-      ],
-      "start_date": "2026-02-20",
-      "last_update_date": "2026-10-01",
-      "url": "https://clinicaltrials.gov/study/NCT05936619",
       "collected_at": "2026-10-02T06:02:01Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
       "last_seen_at": "2026-10-04T06:12:30Z"
