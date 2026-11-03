@@ -1,12 +1,8 @@
 {
-  "updated_at": "2026-11-02T06:39:23Z",
+  "updated_at": "2026-11-03T07:08:17Z",
   "new_keys": [
-    "pubmed:42964735",
-    "pubmed:42963841",
-    "pubmed:42963796",
-    "pubmed:42966271",
-    "pubmed:42966163",
-    "pubmed:42967168"
+    "pubmed:42970317",
+    "pubmed:42969635"
   ],
   "items": [
     {
@@ -97,6 +93,29 @@
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
       "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "42969635",
+      "event_key": "pubmed:42969635",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Mitochondria in sporadic amyotrophic lateral sclerosis: actor or initiator?].",
+      "authors": [
+        "Sylvie Bannwarth",
+        "Véronique Paquis-Flucklinger"
+      ],
+      "journal": "Medecine sciences : M/S",
+      "publication_date": "2026-11-02",
+      "pmid": "42969635",
+      "doi": "10.1051/medsci/2026146",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969635/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-03T07:08:17Z",
+      "first_seen_at": "2026-11-03T07:08:17Z",
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42952031",
@@ -247,7 +266,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42963796",
@@ -301,7 +320,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42966271",
@@ -341,7 +360,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42959461",
@@ -631,7 +650,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42958460",
@@ -969,7 +988,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42953394",
@@ -1562,7 +1581,7 @@
       ],
       "collected_at": "2026-11-02T06:39:23Z",
       "first_seen_at": "2026-11-02T06:39:23Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42925563",
@@ -2433,6 +2452,30 @@
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
       "last_seen_at": "2026-10-25T05:08:11Z"
+    },
+    {
+      "id": "42970317",
+      "event_key": "pubmed:42970317",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Ceruloplasmin in Disorders of the Nervous System.",
+      "authors": [
+        "Masoumeh Pourhadi",
+        "Peter A LeWitt",
+        "Sokol V Todi"
+      ],
+      "journal": "Aging and disease",
+      "publication_date": "2026-10-20",
+      "pmid": "42970317",
+      "doi": "10.14336/AD.2026.0988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970317/",
+      "abstract": "Ceruloplasmin (Cp) is a multicopper ferroxidase that links copper handling, iron export, and redox homeostasis. Within the nervous system, these functions are critical because disruption of iron and copper balance can amplify oxidative stress, neuroinflammation, and neuronal vulnerability. Although Cp has long been studied as a circulating biomarker, most reports characterize it only by protein concentration, leaving its enzymatic and structural status comparatively unexplored. Here, we synthesize human literature on Cp across major neurological disorders, with attention to studies that assess Cp's ferroxidase activity, oxidation, fragmentation, and copper-binding state alongside its circulating levels. The evidence is by far most extensive in Alzheimer's and Parkinson's diseases, which together account for the majority of the reviewed literature: reduced ferroxidase activity, increased Cp oxidation, and altered non-Cp-bound copper are repeatedly linked to disease severity, regional iron accumulation, and biomarker-defined patient subgroups; in several studies, these alterations were independent of total Cp concentration. A smaller but growing body of evidence in amyotrophic lateral sclerosis, multiple sclerosis, essential tremor, and the cerebellar ataxias points to a related pattern of Cp-linked iron mishandling contributing to neuronal vulnerability. Preliminary findings from a few small studies in schizophrenia and a single study in obsessive-compulsive disorder further suggest that circulating Cp levels track systemic inflammatory and oxidative states in these conditions. From these investigations, a picture emerges where Cp's functional and structural integrity, rather than its abundance alone, is the more informative correlate of disease-relevant metal dyshomeostasis, most clearly demonstrated in Alzheimer's and Parkinson's diseases. Based on this body of work, we propose that future studies adopt combined assessments of Cp quantity and function to clarify disease-specific Cp signatures and to evaluate whether correcting Cp activity or copper/iron imbalance can improve outcomes.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-03T07:08:17Z",
+      "first_seen_at": "2026-11-03T07:08:17Z",
+      "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
       "id": "42942089",
