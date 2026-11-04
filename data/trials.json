@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-11-03T07:08:17Z",
-  "new_keys": [],
+  "updated_at": "2026-11-04T06:54:00Z",
+  "new_keys": [
+    "clinicaltrials:NCT07491562:2026-11-03"
+  ],
   "items": [
+    {
+      "id": "NCT07491562",
+      "event_key": "clinicaltrials:NCT07491562:2026-11-03",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07491562",
+      "title": "Evaluation of a Structurally Suitable Neck Exoskeleton in Patients With Amyotrophic Lateral Sclerosis",
+      "sponsor": "University of Utah",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Device: powered neck exoskeleton"
+      ],
+      "start_date": "2024-09-06",
+      "last_update_date": "2026-11-03",
+      "url": "https://clinicaltrials.gov/study/NCT07491562",
+      "collected_at": "2026-11-04T06:54:00Z",
+      "first_seen_at": "2026-11-04T06:54:00Z",
+      "last_seen_at": "2026-11-04T06:54:00Z"
+    },
     {
       "id": "NCT07906665",
       "event_key": "clinicaltrials:NCT07906665:2026-10-30",
