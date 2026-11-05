@@ -1,9 +1,82 @@
 {
-  "updated_at": "2026-11-04T06:54:00Z",
+  "updated_at": "2026-11-05T07:12:52Z",
   "new_keys": [
-    "clinicaltrials:NCT07491562:2026-11-03"
+    "clinicaltrials:NCT07589764:2026-11-04",
+    "clinicaltrials:NCT04856982:2026-11-04",
+    "clinicaltrials:NCT06881979:2026-11-04"
   ],
   "items": [
+    {
+      "id": "NCT07589764",
+      "event_key": "clinicaltrials:NCT07589764:2026-11-04",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07589764",
+      "title": "Pilot Trial Utilizing β-hydroxy-β-methylbutyrate to Lower IGFBP7 Levels in People With ALS",
+      "sponsor": "Duke University",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: β-hydroxy-β-methylbutyrate (HMB)"
+      ],
+      "start_date": "2026-12-01",
+      "last_update_date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07589764",
+      "collected_at": "2026-11-05T07:12:52Z",
+      "first_seen_at": "2026-11-05T07:12:52Z",
+      "last_seen_at": "2026-11-05T07:12:52Z"
+    },
+    {
+      "id": "NCT06881979",
+      "event_key": "clinicaltrials:NCT06881979:2026-11-04",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06881979",
+      "title": "High-Tech Rehabilitation Pathway for Chronic Adult Neuromuscular Diseases - Fit4MedRob-Chronic MND Project",
+      "sponsor": "Istituti Clinici Scientifici Maugeri SpA",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: High-tech rehabilitative treatment",
+        "Other: Rehabilitation"
+      ],
+      "start_date": "2025-04-28",
+      "last_update_date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT06881979",
+      "collected_at": "2026-11-05T07:12:52Z",
+      "first_seen_at": "2026-09-22T05:16:34Z",
+      "last_seen_at": "2026-11-05T07:12:52Z"
+    },
+    {
+      "id": "NCT04856982",
+      "event_key": "clinicaltrials:NCT04856982:2026-11-04",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT04856982",
+      "title": "Study to Learn If Tofersen (BIIB067) Can Delay ALS Symptoms and About Its Safety in Adults With a SOD1 Gene Mutation Who Have Not Yet Developed ALS Symptoms",
+      "sponsor": "Biogen",
+      "phase": [
+        "PHASE3"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: Tofersen",
+        "Drug: Placebo"
+      ],
+      "start_date": "2021-05-17",
+      "last_update_date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT04856982",
+      "collected_at": "2026-11-05T07:12:52Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-11-05T07:12:52Z"
+    },
     {
       "id": "NCT07491562",
       "event_key": "clinicaltrials:NCT07491562:2026-11-03",
@@ -25,7 +98,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07491562",
       "collected_at": "2026-11-04T06:54:00Z",
       "first_seen_at": "2026-11-04T06:54:00Z",
-      "last_seen_at": "2026-11-04T06:54:00Z"
+      "last_seen_at": "2026-11-05T07:12:52Z"
     },
     {
       "id": "NCT07906665",
@@ -501,30 +574,6 @@
       "start_date": "2026-11",
       "last_update_date": "2026-10-20",
       "url": "https://clinicaltrials.gov/study/NCT07883590",
-      "collected_at": "2026-10-21T05:10:26Z",
-      "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
-    },
-    {
-      "id": "NCT04856982",
-      "event_key": "clinicaltrials:NCT04856982:2026-10-20",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT04856982",
-      "title": "Study to Learn If Tofersen (BIIB067) Can Delay ALS Symptoms and About Its Safety in Adults With a SOD1 Gene Mutation Who Have Not Yet Developed ALS Symptoms",
-      "sponsor": "Biogen",
-      "phase": [
-        "PHASE3"
-      ],
-      "recruitment_status": "ACTIVE_NOT_RECRUITING",
-      "intervention": [
-        "Drug: Tofersen",
-        "Drug: Placebo"
-      ],
-      "start_date": "2021-05-17",
-      "last_update_date": "2026-10-20",
-      "url": "https://clinicaltrials.gov/study/NCT04856982",
       "collected_at": "2026-10-21T05:10:26Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
       "last_seen_at": "2026-10-23T05:13:06Z"
@@ -1413,30 +1462,6 @@
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
       "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT06881979",
-      "event_key": "clinicaltrials:NCT06881979:2026-09-21",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT06881979",
-      "title": "High-Tech Rehabilitation Pathway for Chronic Adult Neuromuscular Diseases - Fit4MedRob-Chronic MND Project",
-      "sponsor": "Istituti Clinici Scientifici Maugeri SpA",
-      "phase": [
-        "NA"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Device: High-tech rehabilitative treatment",
-        "Other: Rehabilitation"
-      ],
-      "start_date": "2025-04-28",
-      "last_update_date": "2026-09-21",
-      "url": "https://clinicaltrials.gov/study/NCT06881979",
-      "collected_at": "2026-09-22T05:16:34Z",
-      "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
       "id": "NCT05744310",
