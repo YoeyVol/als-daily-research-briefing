@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-05T07:12:52Z",
-  "new_keys": [],
+  "updated_at": "2026-11-06T07:12:53Z",
+  "new_keys": [
+    "pubmed:42983584",
+    "pubmed:42983429",
+    "pubmed:42982035",
+    "pubmed:42980747",
+    "pubmed:42980369",
+    "pubmed:42980086",
+    "pubmed:42979863",
+    "pubmed:42986019",
+    "pubmed:42981879",
+    "pubmed:42987653",
+    "pubmed:42983891",
+    "pubmed:42983872"
+  ],
   "items": [
     {
       "id": "42864601",
@@ -92,6 +105,268 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "42983584",
+      "event_key": "pubmed:42983584",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
+      "authors": [
+        "Min Xiong",
+        "Yeyu Huang",
+        "Haiqiang Jiang",
+        "Zhentao Zhang"
+      ],
+      "journal": "Translational neurodegeneration",
+      "publication_date": "2026-11-04",
+      "pmid": "42983584",
+      "doi": "10.1186/s40035-026-00592-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983584/",
+      "abstract": "Protein aggregation and impaired clearance constitute central pathological hallmarks of numerous neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and frontotemporal dementia. Misfolded proteins, both extracellular and intracellular, disrupt proteostasis and contribute to synaptic dysfunction, neuroinflammation, and neuronal loss. Within the central nervous system, glial cells serve as the primary mediators of pathological protein clearance. Microglia detect, phagocytose, and degrade aggregated proteins. However, under chronic pathological stress, microglial function turns from clearing pathological proteins to paradoxically facilitating their spread. Astrocytes, which provide metabolic and homeostatic support for neurons, also participate in the clearance of aggregates through phagocytosis and glymphatic drainage. Critically, crosstalk between astrocytes and microglia enhances the clearance: microglia can recruit and process aggregates internalized by astrocytes, while astrocyte-derived signals modulate the microglial phagocytic activity. Aging, genetic risk factors, or sustained neuroinflammation may reduce the efficiency of glial removal of aggregates and accelerate disease progression. Understanding the cellular and molecular underpinnings of microglial and astrocytic clearance pathways is essential for developing therapies aimed at restoring proteostasis and mitigating neurodegeneration.",
+      "mesh_terms": [
+        "Humans",
+        "Astrocytes",
+        "Microglia",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Brain",
+        "Protein Aggregates",
+        "Protein Aggregation, Pathological",
+        "Phagocytosis",
+        "Proteotoxic Stress"
+      ],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Autophagy",
+        "Neurodegeneration",
+        "Parkinson’s disease",
+        "Protein aggregation",
+        "Ubiquitin-proteasome system"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42983429",
+      "event_key": "pubmed:42983429",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "authors": [
+        "Pitchapa Bubphachat",
+        "Pritha Majumder",
+        "I-Fang Wang",
+        "Jeffrey K Huang",
+        "Tzu-Jen Kao",
+        "Yi-Chao Lee",
+        "Che-Kun James Shen",
+        "Guan-Chou Chen",
+        "Po-Chih Chen",
+        "Chi-Chen Sarah Huang"
+      ],
+      "journal": "Journal of biomedical science",
+      "publication_date": "2026-11-04",
+      "pmid": "42983429",
+      "doi": "10.1186/s12929-026-01296-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983429/",
+      "abstract": "BACKGROUND: Pathological aggregation of Tar DNA-binding protein 43 (TDP-43) and disruption of neuronal protein homeostasis are defining features of amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), and related TDP-43 proteinopathies. Efficient axonal transport of proteasomes is essential for maintaining local protein quality control in neurons. Proteasome inhibitor 31 (PI31) regulates both 26S proteasome assembly and dynein-mediated transport of 20S proteasomes. Although Tankyrase 1/2 (TNKS)-mediated ADP-ribosylation of PI31 promotes 26S proteasome assembly, its role in proteasome transport and its contribution to TDP-43 pathology remain unclear.\n\nMETHODS: Live-cell imaging was performed to examine 20S proteasome transport in primary cortical and motor neurons from wild-type and Prp-TDP-43A315T transgenic mice. Protein interactions among TDP-43, TNKS, and PI31 were analyzed by immunoprecipitation and Förster resonance energy transfer (FRET). Insoluble protein accumulation and colocalization were assessed by RIPA/urea fractionation, Western blotting, and immunofluorescence. Proteasome assembly and activity were evaluated using native gel electrophoresis and a 20S proteasome-specific fluorogenic substrate. TDP-43 aggregation was examined by semi-denaturing detergent agarose gel electrophoresis (SDD-AGE).\n\nRESULTS: In cell models expressing TDP-43-FL, TDP-43-A315T, or TDP-25 and in Prp-TDP-43A315T transgenic mice, pathological TDP-43 species formed distinct aggregates, ranging from oligomers to prominent cytoplasmic aggregates, yet all reduced proteasome activity, impaired axonal proteasome transport, and caused the accumulation of polyubiquitinated proteins, PI31, 20S proteasomes, and TDP-43 in the proximal axon and cell body. Pathological TDP-43 sequestered TNKS and proteasome components into insoluble fractions, thereby limiting the availability of free and soluble TNKS for interaction with PI31 and subsequent PI31 ADP-ribosylation, ultimately impairing 19S/20S proteasome assembly. Notably, disruption of the TNKS-PI31 interaction or inhibition of TNKS activity recapitulated the proteasome dysfunction induced by pathological TDP-43, supporting a role for the aberrant TNKS-TDP-43 interaction and consequent impairment of TNKS-mediated PI31 ADP-ribosylation in TNKS/PI31/proteasome axis dysfunction.\n\nCONCLUSIONS: Pathological TDP-43 disrupts proteasome function by impairing the TNKS/PI31/proteasome axis, suggesting that this axis may represent a potential therapeutic target for TDP-43 proteinopathies. Selectively restoring this pathway may enhance pathological TDP-43 clearance while minimizing nonspecific proteasome activation, thereby providing a more precise and safer therapeutic strategy for ALS and FTLD.",
+      "mesh_terms": [
+        "Animals",
+        "Proteasome Endopeptidase Complex",
+        "Mice",
+        "DNA-Binding Proteins",
+        "Tankyrases",
+        "Humans",
+        "Mice, Transgenic",
+        "TDP-43 Proteinopathies"
+      ],
+      "keywords": [
+        "ADP-ribosylation",
+        "ALS",
+        "Axon transport",
+        "Live cell imaging",
+        "PI31",
+        "Proteasome activity",
+        "Protein homeostasis",
+        "TDP-43",
+        "TNKS"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42982035",
+      "event_key": "pubmed:42982035",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Retraction to \"Integrative ALS therapy: gene targeted therapy by base editing and potential exercise rehabilitation as synergistic strategies for functional recovery\".",
+      "authors": [
+        "Kwangjun Lee",
+        "Taejin Kwak",
+        "Wonil Park"
+      ],
+      "journal": "Physical activity and nutrition",
+      "publication_date": "2026-11-04",
+      "pmid": "42982035",
+      "doi": "10.20463/pan.2026.0045.r1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42982035/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42980747",
+      "event_key": "pubmed:42980747",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "authors": [
+        "Bai-He He",
+        "Wei Yang",
+        "Min Yang",
+        "Xin Lv",
+        "Jian-Jun Zhao"
+      ],
+      "journal": "Molecular biology reports",
+      "publication_date": "2026-11-04",
+      "pmid": "42980747",
+      "doi": "10.1007/s11033-026-13064-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980747/",
+      "abstract": "Neurodegenerative diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS), represent a growing global public health burden with limited therapeutic options. Plant polysaccharides are natural, biocompatible, and multi-target bioactive macromolecules that have emerged as promising candidates for ND intervention. This review systematically summarizes recent progress in elucidating the structural characteristics, structure-activity relationships, and neuroprotective mechanisms of plant polysaccharides. Key structural features such as molecular weight, monosaccharide composition, glycosidic bond configuration, and spatial conformation critically modulate the biological activity of these molecules. Furthermore, we summarize the numerous protective effects of plant polysaccharides against NDs, including inhibiting abnormal protein aggregation, alleviating oxidative stress via the Nrf2/HO-1 pathway, suppressing neuroinflammation through the NF-κB and MAPK signaling pathways, regulating neuronal apoptosis, and modulating the gut-brain axis. Clinical translation challenges, primarily blood-brain barrier penetration, structural heterogeneity, and insufficient clinical validation, are discussed. Future directions include developing advanced delivery systems, conducting large-scale randomized controlled trials, and exploring synergistic combination therapies. Collectively, plant polysaccharides show considerable promise as potential multi-target candidates for the intervention of NDs, although further studies are needed to clarify their therapeutic potential and facilitate clinical translation.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Polysaccharides",
+        "Animals",
+        "Neuroprotective Agents",
+        "Oxidative Stress",
+        "Plants"
+      ],
+      "keywords": [
+        "Characteristics",
+        "Neurodegenerative diseases",
+        "Plant polysaccharides",
+        "Structure–activity relationship"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42980369",
+      "event_key": "pubmed:42980369",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Integrative spatial metallomics: a tutorial review of multimodal elemental imaging workflows, challenges and opportunities.",
+      "authors": [
+        "Naina Kumar",
+        "Nishita Paruchuri",
+        "Tracy Punshon",
+        "Brian Jackson",
+        "Kevin Cornell",
+        "Elijah Stommel",
+        "Hrishikesh Deosthali",
+        "Vismay Ravikumar",
+        "Engie Mostafa",
+        "Scott Palisoul",
+        "Louis Vaickus",
+        "Sunita Ho",
+        "Joshua Levy"
+      ],
+      "journal": "Analytical methods : advancing methods and applications",
+      "publication_date": "2026-11-04",
+      "pmid": "42980369",
+      "doi": "10.1039/d6ay01718e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980369/",
+      "abstract": "Spatially resolved molecular assays are increasingly used to study human health and disease, revealing complex tissue organization beyond what is accessible through bulk analyses. While spatial transcriptomic, metabolomic, and proteomic approaches have rapidly matured, quantitative mapping of metals and trace elements in biological tissues and biominerals through elemental imaging remains comparatively nascent. Elemental distributions alone often provide limited biological interpretation without contextualization within the tissue microenvironment. Here, we summarize themes and computational strategies for integrating spatial elemental data with histopathology and complementary spatial molecular assays. We highlight multimodal approaches for tissue alignment, pixel-wise clustering, and correlative analysis, illustrated through limited use cases involving amyotrophic lateral sclerosis (ALS) and kidney stone formation. In the ALS cohort, pixel-level elemental profiles were clustered and compared with annotated tissue structures. In the kidney stone cohort, spatial gradients and correlations in elemental and biomolecular features from the renal papilla through the medulla to cortex were examined. Finally, we discuss key challenges for cross-sample, cohort-level analyses, including differences in spatial resolution, normalization, tissue architecture, and mechanistic inference. Addressing these challenges will require interdisciplinary collaboration, enhanced biobanking practices, and development of computational and statistical frameworks.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42980086",
+      "event_key": "pubmed:42980086",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Protein Isoaspartate Repair in Amyotrophic Lateral Sclerosis: An Integrative Bioinformatic Analysis of the PCMT Gene Family.",
+      "authors": [
+        "Betul Irem Yardimci",
+        "Ayse Gul Zurel",
+        "Burcu Biterge"
+      ],
+      "journal": "ACS chemical neuroscience",
+      "publication_date": "2026-11-04",
+      "pmid": "42980086",
+      "doi": "10.1021/acschemneuro.6c00479",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980086/",
+      "abstract": "Protein homeostasis is a fundamental determinant of neuronal survival, and its disruption contributes to the pathogenesis of amyotrophic lateral sclerosis (ALS). Protein L-isoaspartate O-methyltransferases (PCMTs) are evolutionarily conserved proteins involved in the recognition and processing of damaged proteins through the repair of isoaspartyl residues and protein quality-control pathways; however, their potential involvement in ALS remains largely unexplored. Here, we performed a comprehensive in silico characterization of the PCMT family (PCMT1, PCMTD1, and PCMTD2) by integrating structural, transcriptomic, single-cell, genetic, and protein modeling analyses. Domain analysis demonstrated that all three proteins share a conserved PCMT domain, while predicted S-adenosylmethionine-binding motifs were identified in PCMT1 and PCMTD2 but not PCMTD1, indicating evolutionary conservation with functional divergence. Expression profiling revealed that PCMT family genes are expressed in ALS-relevant tissues and broadly distributed across neuronal, glial, vascular, and immune cell populations in both healthy and ALS-associated brain single-cell data sets. Analysis of multiple independent ALS transcriptomic cohorts identified consistent upregulation of PCMT family members, with PCMTD1 exhibiting the most reproducible disease-associated expression changes across nervous system tissues and peripheral blood. Gene set correlation analyses further revealed distinct relationships between PCMT expression and neuronal pathways, with PCMT1 showing positive associations with axonal transport and synaptic signaling, whereas PCMTD1 and PCMTD2 displayed largely inverse correlation patterns. Rare missense variants identified in ALS patients were predicted to impair protein function and decrease protein stability, while structural modeling suggested that several substitutions may disrupt conserved residues and the local protein architecture. Collectively, these findings identify the PCMT family as previously underexplored candidates associated with ALS and provide a comprehensive framework for future mechanistic studies investigating their roles in neuronal protein homeostasis and neurodegeneration.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Computational Biology",
+        "Protein D-Aspartate-L-Isoaspartate Methyltransferase",
+        "Isoaspartic Acid",
+        "Animals"
+      ],
+      "keywords": [
+        "ALS",
+        "PCMT1",
+        "PCMTD1",
+        "PCMTD2",
+        "amyotrophic lateral sclerosis",
+        "isoaspartate",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "42979863",
+      "event_key": "pubmed:42979863",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Liposomal Delivery of a Riluzole-Butyric Acid Mutual Prodrug Enhances Neuroprotection and Cognitive Recovery in Experimental Alzheimer's Disease.",
+      "authors": [
+        "Aditya Kumar Choudhury",
+        "Pooja Rani",
+        "Reena Gupta",
+        "Monica Gulati",
+        "Bhupinder Kapoor"
+      ],
+      "journal": "Journal of drug targeting",
+      "publication_date": "2026-11-04",
+      "pmid": "42979863",
+      "doi": "10.1080/1061186X.2026.2759730",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979863/",
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, impaired synaptic signaling, and persistent neuroinflammation. Current therapies primarily provide symptomatic relief and have limited effects on disease progression. Riluzole, approved for amyotrophic lateral sclerosis, exhibits neuroprotective effects through modulation of glutamatergic signaling, but its poor oral bioavailability limits its therapeutic potential. Butyric acid, a short-chain fatty acid postbiotic produced by gut microbial fermentation, possesses well-established anti-inflammatory and neuroprotective properties. In this study, a mutual prodrug of riluzole and butyric acid was synthesized and encapsulated into liposomes to investigate its effects on drug distribution and preclinical efficacy. The prodrug-loaded liposomes exhibited an average particle size of 322 nm, zeta potential of -7.95 mV, and entrapment efficiency of 43.49%. Oral administration significantly improved cognitive performance and attenuated neuroinflammation and oxidative stress in an AlCl3-induced AD-like rat model. Administration of prodrug-loaded liposomes led to the highest concentrations of riluzole in brain homogenates among the relevant treatment groups. Overall, the prodrug-loaded liposomes demonstrated better therapeutic efficacy than the prodrug suspension, individual drug-loaded liposomes, and their respective conventional formulations. The enhanced therapeutic performance is attributed to the complementary pharmacological actions of riluzole and butyric acid, combined with the ability of the liposomal system to improve drug bioavailability and facilitate cerebral delivery.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer disease",
+        "Butyric acid",
+        "Liposomes",
+        "Postbiotic",
+        "Prodrug",
+        "Riluzole"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
       "id": "42975618",
       "event_key": "pubmed:42975618",
       "source_id": "pubmed",
@@ -119,7 +394,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42977228",
@@ -152,7 +427,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42975660",
@@ -201,7 +476,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42975041",
@@ -233,7 +508,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42975030",
@@ -306,7 +581,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42974963",
@@ -341,7 +616,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42974926",
@@ -391,7 +666,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42974758",
@@ -429,7 +704,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42972606",
@@ -466,7 +741,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42969635",
@@ -492,6 +767,47 @@
       "last_seen_at": "2026-11-04T06:53:59Z"
     },
     {
+      "id": "42986019",
+      "event_key": "pubmed:42986019",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "STMN2: Membrane-Binding Microtubule Regulator or Tubulin Effector?",
+      "authors": [
+        "Xiang Deng",
+        "Timothy Mitchison"
+      ],
+      "journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+      "publication_date": "2026-11-01",
+      "pmid": "42986019",
+      "doi": "10.1002/bies.70200",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986019/",
+      "abstract": "STMN2, a protein implicated in motor neuron degeneration, is widely viewed as a membrane-associated microtubule inhibitor, but emerging evidence challenges whether this activity defined its cellular function. Three alternative models integrates available evidence to offer perspectives beyond microtubule regulation. The vesicle cargo adaptor model proposes that STMN2 recruits diverse cargos to transport vesicles for axonal delivery. The membrane-bound signaling messenger model links STMN2 turnover to local signaling, effector, degradation, or effector release. The traffic director model proposes that STMN2 regulates cargo routing between delivery and degradative pathways. These models are not mutually exclusive and position tubulin binding as a regulator of STMN2 function rather than its defining activity.",
+      "mesh_terms": [
+        "Humans",
+        "Tubulin",
+        "Animals",
+        "Microtubules",
+        "Stathmin",
+        "Signal Transduction"
+      ],
+      "keywords": [
+        "TDP‐43 proteinopathy",
+        "amyotrophic lateral sclerosis",
+        "axoplasmic transport",
+        "cell biology",
+        "cellular regulation",
+        "microtubule",
+        "neurodegeneration",
+        "regenerating axons",
+        "stathmin",
+        "tubulin"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
       "id": "42977507",
       "event_key": "pubmed:42977507",
       "source_id": "pubmed",
@@ -510,7 +826,16 @@
       "doi": "10.1111/ejn.70746",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42977507/",
       "abstract": "Brain aging is the principal risk factor for both neurodegenerative diseases (NDDs) and cerebral ischemic disorders, yet the subcellular mechanisms linking these conditions remain incompletely defined. Mitochondria-associated membranes (MAMs)-specialized contact sites between the endoplasmic reticulum (ER) and mitochondria-sit at the intersection of two well-established hallmarks of aging, mitochondrial dysfunction, and loss of proteostasis, making them an attractive mechanistic node for understanding age-related brain decline. In this review, we propose a MAM-centered framework that unifies neurodegenerative and ischemic brain pathology under the broader paradigm of brain aging. We first summarize the molecular architecture of MAMs and their core functions in neuronal Ca2+ transfer, mitochondrial dynamics, lipid metabolism, inflammasome assembly, and autophagic quality control, together with emerging evidence from non-neuronal brain cells. We then examine how MAM dysfunction intersects with five hallmarks of aging-mitochondrial dysfunction, loss of proteostasis, disabled macroautophagy, chronic inflammation (inflammaging), and altered intercellular communication-drawing on evidence from physiological aging and cellular senescence models. Next, we discuss disease-specific roles of MAMs in cerebral ischemia and in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. A central theme emerges: Rather than a unidirectional decline of MAMs, brain aging is associated with a loss of MAM homeostasis, in which both insufficient and excessive ER-mitochondria coupling can be pathological and the shared deficit is the failure to maintain contact-site function within an optimal range. Finally, we consider age-relevant therapeutic and biomarker strategies targeting MAMs and their potential translation into geriatric neurology. To our knowledge, this is the first review to integrate MAM biology across physiological brain aging, cerebral ischemia, and the four major NDDs within a single homeostatic framework, offering a unified perspective on the mechanisms of age-related brain decline.",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Aging",
+        "Mitochondria Associated Membranes",
+        "Brain Ischemia",
+        "Animals",
+        "Brain",
+        "Neurodegenerative Diseases",
+        "Mitochondria"
+      ],
       "keywords": [
         "brain aging",
         "cerebral ischemia",
@@ -522,7 +847,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42952031",
@@ -642,6 +967,42 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "42981879",
+      "event_key": "pubmed:42981879",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Targeting the DFG-out conformation of TTBK1 enables the discovery of selective type II neuroprotective inhibitors.",
+      "authors": [
+        "Cecilia Sanchez-Santos",
+        "Enrique Madruga",
+        "Javier Recio",
+        "Karen Diaz-Palacios",
+        "Elnaz Aledavood",
+        "Daniel Lietha",
+        "Carmen Gil",
+        "Ana Martinez"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2026-10-30",
+      "pmid": "42981879",
+      "doi": "10.1016/j.ejmech.2026.119468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981879/",
+      "abstract": "Tau Tubulin Kinase 1 (TTBK1) is an emerging therapeutic target for neurodegenerative diseases because it promotes the pathological phosphorylation of tau and TDP-43, key drivers of Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS). However, the development of selective TTBK1 inhibitors is hindered by the high structural similarity between TTBK1 and the essential paralog TTBK2, making ATP-competitive strategies challenging. Here, we report the discovery of computationally supported type II TTBK1 inhibitors by targeting the inactive DFG-out kinase conformation. A druggable DFG-out model was generated using metadynamics and molecular dynamic simulations and employed for virtual screening of the MBC chemical library. This approach identified novel chemotypes that were validated as selective TTBK1 inhibitors with improved discrimination over TTBK2. The most promising compounds also displayed neuroprotective activity in SH-SY5Y neuroblastoma cells. These findings demonstrate that targeting the inactive TTBK1 conformation is a viable strategy to achieve isoform selectivity and establish a new framework for developing disease-modifying therapies for ALS, AD, and other TTBK1-driven neurodegenerative disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Blood-brain barrier",
+        "Metadynamics simulations",
+        "TDP-43",
+        "TTBK1 inhibitor",
+        "Type II kinase inhibitors"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
       "id": "42963841",
       "event_key": "pubmed:42963841",
       "source_id": "pubmed",
@@ -759,7 +1120,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42966271",
@@ -1787,6 +2148,42 @@
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
       "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "42987653",
+      "event_key": "pubmed:42987653",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "A revised motor unit number estimate detects presymptomatic motor neuron loss in amyotrophic lateral sclerosis.",
+      "authors": [
+        "J Bilgorai",
+        "G F Rafferty",
+        "A Carobin",
+        "J Scott",
+        "M Chen",
+        "P Zhou",
+        "C E Shaw",
+        "A Vanhoestenberghe",
+        "J Bashford"
+      ],
+      "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+      "publication_date": "2026-10-26",
+      "pmid": "42987653",
+      "doi": "10.1016/j.clinph.2026.2112448",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987653/",
+      "abstract": "OBJECTIVE: To assess the feasibility and sensitivity of a revised stimulation-free motor unit number estimate (REMUNE) for detecting motor unit (MU) loss in amyotrophic lateral sclerosis (ALS).\n\nMETHODS: Eighteen ALS patients and twelve healthy controls underwent up to six assessments over one year. High-density surface EMG was recorded bilaterally from clinically relevant hand and lower-leg muscles during stable contractions across ten force levels. MU decomposition used blind source separation, following a novel REMUNE algorithm. In ALS patients, ALS functional rating scale-revised scores and motor unit number index were recorded in parallel.\n\nRESULTS: REMUNE was lower in ALS than controls after adjusting for age and gender (24.9 vs. 52.1, p=0.006; -52%). This difference persisted when only strong ALS muscles were analysed (26.0 vs. 56.1, p=0.027; -54%; strength data available only at first visits). Within ALS, weak muscles produced lower REMUNE values than strong ones (15.5 vs 26.0, p=0.003; -40%). An age-related decline in REMUNE was observed across all participants (-0.85 units/year, p=0.014). REMUNE remained stable over time in ALS muscles (p=0.997).\n\nCONCLUSIONS: REMUNE distinguished ALS from healthy muscles and captured strength-dependent MU loss.\n\nSIGNIFICANCE: REMUNE's sensitivity to presymptomatic MU loss highlights its potential as an early diagnostic aid and trial stratification tool.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Biomarker",
+        "Electromyography",
+        "Motor unit number estimation",
+        "Remote monitoring"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42934968",
@@ -3151,7 +3548,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42898978",
@@ -16994,6 +17391,56 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "42983891",
+      "event_key": "pubmed:42983891",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "TDP-43-related cryptic splicing reflects pathological heterogeneity in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Ichiko Ikegami",
+        "Shoko Hongo",
+        "Akihide Koyama",
+        "Yoshika Hayakawa-Yano",
+        "Masato Yano",
+        "Akihiro Sugai",
+        "Tomohiko Ishihara",
+        "Mari Tada",
+        "Akiyoshi Kakita",
+        "Osamu Onodera",
+        "Yuka Mitsuhashi Koike"
+      ],
+      "journal": "Acta neuropathologica communications",
+      "publication_date": "2026-08-08",
+      "pmid": "42983891",
+      "doi": "10.1186/s40478-026-02400-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983891/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) involves TAR DNA-binding protein 43 (TDP-43) dysfunction, leading to cryptic splicing, including UNC13A cryptic exon inclusion and truncated STMN2 production. Pathologically, ALS is classified into three phosphorylated TDP-43 subtypes (Types 1, 2a, and 2b) based on the distribution of neuronal and glial cytoplasmic inclusions and the density of dystrophic neurites. However, the relationship between these pathological subtypes and TDP-43-associated cryptic splicing remains unclear. This retrospective postmortem study aimed to analyze motor cortex tissue from sporadic ALS cases (Type 1, n = 12; Type 2a, n = 12; Type 2b, n = 11) with previously described subtype-specific morphological features. UNC13A cryptic RNA and truncated STMN2 RNA levels were quantified using quantitative real-time PCR (qRT-PCR). Compared with Types 1 and 2a, Type 2b, characterized by abundant thread-, dot-, and grain-like dystrophic neurites, exhibited significantly higher levels of UNC13A cryptic RNA and truncated STMN2 RNA. Droplet digital PCR revealed a similar subtype-dependent trend and showed strong correlations with qRT-PCR measurements, providing partial support for the primary findings. UNC13A cryptic RNA and truncated STMN2 RNA levels were positively correlated (Spearman's ρ = 0.58), indicating coordinated dysregulation of multiple TDP-43-dependent splicing targets. Our results demonstrate that the burden of TDP-43-associated cryptic splicing differs across ALS pathological subtypes. Additional analyses indicated that these subtype-dependent differences were not readily accounted for by disease duration, RNA quality, normalization strategy, or semiquantitative neuronal loss scores. These findings suggest that molecular heterogeneity parallels pathological heterogeneity in ALS and provide additional insight into the biological diversity of TDP-43 proteinopathy.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "DNA-Binding Proteins",
+        "Female",
+        "Male",
+        "Aged",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Nerve Tissue Proteins",
+        "Motor Cortex",
+        "Aged, 80 and over"
+      ],
+      "keywords": [
+        "STMN2",
+        "UNC13A",
+        "Amyotrophic lateral sclerosis",
+        "Cryptic splicing",
+        "TDP-43"
+      ],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
       "id": "42972546",
       "event_key": "pubmed:42972546",
       "source_id": "pubmed",
@@ -17040,7 +17487,7 @@
       ],
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
-      "last_seen_at": "2026-11-04T06:53:59Z"
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42934377",
@@ -17429,6 +17876,35 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "42983872",
+      "event_key": "pubmed:42983872",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "[Damage response mechanisms for evading neurodegeneration: mitochondrial supply driven by logistics gate disassembly].",
+      "authors": [
+        "Sumiko Kiryu-Seo"
+      ],
+      "journal": "Nihon yakurigaku zasshi. Folia pharmacologica Japonica",
+      "publication_date": "2026-01-01",
+      "pmid": "42983872",
+      "doi": "10.1254/fpj.26064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983872/",
+      "abstract": "Mature neurons are highly vulnerable to trauma and neurodegenerative diseases. Conversely, certain peripheral neurons exhibit remarkable survival and regenerative capacities by synchronously activating damage responses to undergo a transient \"rejuvenation.\" Identifying and elucidating these unresolved mechanisms is essential for understanding disease pathogenesis and developing fundamental therapies. Because these responses are driven by complex intercellular interactions, in vivo investigations are indispensable. To address this, we developed the Atf3:BAC Tg mice, a powerful tool that enables damaged neuron-specific genetic manipulation coupled with mitochondrial visualization. Tracking mitochondrial dynamics-which sensitively reflect neuronal states-revealed a novel damage response: injured motor neurons actively disassemble the axon initial segment (AIS), a structural hallmark of mature neurons, via the proteasome to evade axonal degeneration. The AIS functions as a logistical gate restricting axonal transport between the soma and the axon. Strikingly, dismantling this gate allows healthy mitochondria to surge from the soma into the distal axon, successfully preventing energy depletion. In contrast, in amyotrophic lateral sclerosis (ALS) motor neurons, this disassembly switch malfunctions from the early stages of the disease; the gate remains closed under pathological insults, leading to energetic starvation and subsequent degeneration. Intriguingly, ALS-resistant sensory neurons inherently lack this logistical gate, allowing unrestricted mitochondrial supply to axons even under proteasomal dysfunction. This review outlines these cutting-edge findings and introduces the forefront of fundamental research aiming to uncover the pathogenesis of neurodegenerative diseases through the lens of neuronal damage responses.",
+      "mesh_terms": [
+        "Animals",
+        "Mitochondria",
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Axons",
+        "Motor Neurons"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-06T07:12:53Z",
+      "first_seen_at": "2026-11-06T07:12:53Z",
+      "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
       "id": "42951629",
