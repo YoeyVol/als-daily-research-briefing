@@ -1,18 +1,16 @@
 {
-  "updated_at": "2026-11-06T07:12:53Z",
+  "updated_at": "2026-11-07T06:27:21Z",
   "new_keys": [
-    "pubmed:42983584",
-    "pubmed:42983429",
-    "pubmed:42982035",
-    "pubmed:42980747",
-    "pubmed:42980369",
-    "pubmed:42980086",
-    "pubmed:42979863",
-    "pubmed:42986019",
-    "pubmed:42981879",
-    "pubmed:42987653",
-    "pubmed:42983891",
-    "pubmed:42983872"
+    "pubmed:42992452",
+    "pubmed:42989982",
+    "pubmed:42989888",
+    "pubmed:42990777",
+    "pubmed:42990966",
+    "pubmed:42990340",
+    "pubmed:42990486",
+    "pubmed:42990859",
+    "pubmed:42991605",
+    "pubmed:42988796"
   ],
   "items": [
     {
@@ -105,6 +103,102 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "42992452",
+      "event_key": "pubmed:42992452",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Leuprorelin Acetate for Spinal and Bulbar Muscular Atrophy: A Systematic Review of Clinical Efficacy, Long-Term Outcomes, and Safety Considerations.",
+      "authors": [
+        "Brendon Wang",
+        "Irene Wang",
+        "Christopher Park",
+        "Paul E Barkhaus",
+        "David Shirilla"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-11-06",
+      "pmid": "42992452",
+      "doi": "10.1002/mus.70454",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992452/",
+      "abstract": "Spinal and bulbar muscular atrophy (SBMA; Kennedy disease) is a rare X-linked neuromuscular disorder caused by a CAG repeat expansion in the androgen receptor gene. Leuprorelin acetate, a luteinizing hormone-releasing hormone agonist, suppresses androgen signaling and is approved for SBMA-associated dysphagia in Japan; however, evidence regarding efficacy remains heterogeneous. PubMed and Embase were searched from inception through June 18, 2026, for studies evaluating leuprorelin in genetically confirmed SBMA. Randomized trials, observational cohorts, natural history-controlled studies, extension studies, and safety case reports were included, and findings were synthesized narratively because of substantial heterogeneity. Eleven studies met inclusion criteria, including eight efficacy studies (460 patients) and three safety-focused case reports. Leuprorelin reduced pathogenic androgen receptor accumulation and improved biochemical markers, including serum creatine kinase and creatinine decline. Although neither pivotal randomized trial demonstrated significant short-term functional improvement at 48 weeks, longer-term studies showed slower decline in Revised Amyotrophic Lateral Sclerosis Functional Rating Scale (ALSFRS-R), Limb Norris, and Norris Bulbar scores and improved event-free survival from pneumonia and death. Benefits were greatest with earlier treatment, particularly disease duration < 10 years. Leuprorelin was generally well tolerated; common adverse effects included hot flushes, sexual dysfunction, and decreased bone mineral density. Leuprorelin may slow long-term functional deterioration in SBMA, with greater benefit following early initiation and prolonged treatment.",
+      "mesh_terms": [],
+      "keywords": [
+        "Kennedy disease",
+        "LHRH agonist",
+        "androgen receptor",
+        "dysphagia",
+        "leuprorelin",
+        "neuromuscular disease",
+        "spinal and bulbar muscular atrophy"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
+      "id": "42989982",
+      "event_key": "pubmed:42989982",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The decline of respiratory function in amyotrophic lateral sclerosis patients and the role of non-invasive ventilation.",
+      "authors": [
+        "Flora Anna Cimmino",
+        "Giulia Comandini",
+        "Caterina Bigliazzi",
+        "Miriana D'Alessandro",
+        "Elisa Salvadori",
+        "Tommaso Pianigiani",
+        "Nicola De Stefano",
+        "Federica Ginanneschi",
+        "Stefania Casali",
+        "Elena Bargagli"
+      ],
+      "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+      "publication_date": "2026-11-05",
+      "pmid": "42989982",
+      "doi": "10.4081/monaldi.2026.3644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989982/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a chronic neurodegenerative disease characterized by a poor prognosis, with an average survival of 3 to 5 years from symptom onset. Respiratory failure is the main cause of death, and non-invasive ventilation (NIV) is a cornerstone in the management of ALS patients. This single-center retrospective study was conducted at Siena University Hospital between 2010 and 2024 to analyze respiratory function parameters in ALS patients undergoing NIV, stratified by disease severity and followed over one year, to assess the relationship between lung function decline and the timing of NIV initiation. A total of 49 patients (29 males, 20 females; mean age 67±12 years) were enrolled, and 31 (63%) received NIV. Clinical and functional parameters, including forced vital capacity (FVC), pCO₂, respiratory symptoms at baseline, and longitudinal measurements of sitting FVC (FVCsit%), supine FVC (FVCsup%), and pCO₂, were collected and analyzed over time. Differences in FVC decline were observed according to the timing of NIV initiation. Among non-severe patients, those starting NIV at T0 showed a 22.5% reduction in FVC over a mean follow-up of 12.8±4.8 months. Patients initiating NIV at T2 exhibited a reported FVCsit decline of 26% (p=0.0488) and a survival of 51.3±50 months from NIV initiation, whereas those starting later (T3-T6) showed a greater decline (FVCsit decline 34%, p=0.0002) and shorter survival duration (15.7±28.6 months). These findings describe differences in respiratory function trajectories and observed survival among patients initiating NIV at different follow-up time points. However, the retrospective design, small sample size, baseline differences between groups, and potential confounding and survival-related selection bias limit causal interpretation. Further studies are needed to clarify the relationship between NIV initiation timing and clinical outcomes in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "non-invasive ventilation",
+        "respiratory function"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
+      "id": "42989888",
+      "event_key": "pubmed:42989888",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Ansichtssache. Ein menschliches Herz als Fragengenerator und Exponat.",
+      "authors": [
+        "Marion Maria Ruisinger"
+      ],
+      "journal": "Berichte zur Wissenschaftsgeschichte",
+      "publication_date": "2026-11-05",
+      "pmid": "42989888",
+      "doi": "10.1002/bewi.70053",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989888/",
+      "abstract": "Ideally, provenance research concerning a human specimen leads from its extracorporeal fate back to its intracorporeal location within a living individual and its biography. This article traces the history of a paraffinated heart from the collection of the German Museum of the History of Medicine in Ingolstadt all the way back to its former owner. Furthermore, it discusses whether and how the research findings obtained in this manner can be incorporated into a public exhibition as part of the museum's science communication efforts.",
+      "mesh_terms": [],
+      "keywords": [
+        "Ausstellung",
+        "Human Remains",
+        "Provenienzforschung",
+        "menschliche Präparate"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
       "id": "42983584",
       "event_key": "pubmed:42983584",
       "source_id": "pubmed",
@@ -145,7 +239,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42983429",
@@ -195,7 +289,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42982035",
@@ -219,7 +313,7 @@
       "keywords": [],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42980747",
@@ -258,7 +352,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42980369",
@@ -292,7 +386,7 @@
       "keywords": [],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42980086",
@@ -331,7 +425,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42979863",
@@ -364,7 +458,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42975618",
@@ -707,6 +801,36 @@
       "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
+      "id": "42990777",
+      "event_key": "pubmed:42990777",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Pathological separation utility of plasma neurofilament light chain (NfL) detected by a single-molecule immunoassay platform in neurodegenerative diseases.",
+      "authors": [
+        "Jin Huang",
+        "Haiyan Li",
+        "Hailan Zhou",
+        "Tong Li",
+        "Jia Li",
+        "Dequan Liu",
+        "Keqiang Yan"
+      ],
+      "journal": "BMJ neurology open",
+      "publication_date": "2026-11-02",
+      "pmid": "42990777",
+      "doi": "10.1136/bmjno-2026-001715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990777/",
+      "abstract": "BACKGROUND: To establish age-stratified plasma neurofilament light chain (NfL) reference intervals using a domestic Digital Single-Molecule Sensing (DiSMS) platform and to explore neuropathological profiles across amyotrophic lateral sclerosis (ALS), inflammatory demyelinating diseases (IDD) and healthy individuals.\n\nMETHODS: We enrolled 719 participants (510 healthy controls, 121 ALS, 88 IDD). Age-specific reference intervals defining the healthy boundary were established using the 2.5th-97.5th percentile method. Pathological separation utility was evaluated via age-stratified subgroup comparisons and receiver operating characteristic (ROC) analysis.\n\nRESULTS: Plasma NfL levels in healthy individuals increased significantly with age (p<0.0001), with reference intervals of 2.68-17.09 pg/mL (20-49 years), 7.14-61.95 pg/mL (50-69 years) and 14.20-104.71 pg/mL (≥70 years). Out-of-boundary NfL elevation rates demonstrated prominent age-dependent fluctuations. In ALS, out-of-boundary elevation rates were 98.3% (57/58) for the 20-49 age group, 68.4% (39/57) for the 50-69 group and 50.0% (3/6) for the ≥70 group, capturing the aggressive tempo of primary motor neuron degeneration. In IDD-which primarily comprised patients in early, clinically stable phases-out-of-boundary rates were 17.0% (8/47) in the 20-49 group and 2.6% (1/38) in the 50-69 group. Age-stratified ROC analysis demonstrated exceptional separation capacity for ALS against healthy controls (area under the curve (AUC): 20-49 years=0.999; 50-69 years=0.964; ≥70 years=0.981) and against IDD (AUC: 20-49 years=0.910; 50-69 years=0.976). Intriguingly, in the 20-49 group where physiological ageing noise was minimal, the platform retained a modest capability to distinguish stable IDD from healthy controls (AUC=0.607).\n\nCONCLUSION: Age-stratified plasma NfL mapping provides a rigorous normative framework for defining population-specific healthy boundaries in China. Rather than functioning as a standalone differential classifier, the dramatic cross-sectional variance in peripheral NfL magnitude successfully maps the distinct pathological spaces separating primary, continuous neurodegeneration (ALS) from quiescent neuroinflammation (IDD) across the adult lifespan, validating the analytical utility of domestic DiSMS platforms.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
       "id": "42972606",
       "event_key": "pubmed:42972606",
       "source_id": "pubmed",
@@ -805,7 +929,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42977507",
@@ -1000,7 +1124,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42963841",
@@ -1420,6 +1544,41 @@
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
       "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "42990340",
+      "event_key": "pubmed:42990340",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Structural basis for repeat-associated non-AUG translation initiation on C9orf72 mRNA.",
+      "authors": [
+        "Ross Kaufhold",
+        "Wenzhao Dong",
+        "Ishita Purwar",
+        "Brenna Saladin",
+        "Clare M Wieland",
+        "Amy Krans",
+        "Erinn Laimon",
+        "Indranil Malik",
+        "Suada Leskaj",
+        "Tal Havilio",
+        "Masaaki Sokabe",
+        "Christopher S Fraser",
+        "Peter K Todd",
+        "Jailson Brito Querido"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-28",
+      "pmid": "42990340",
+      "doi": "10.64898/2026.10.25.761709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990340/",
+      "abstract": "A GGGGCC (G 4 C 2 ) hexanucleotide repeat expansion in the first intron of C9orf72 is the most common monogenic cause of Amyotrophic Lateral Sclerosis (ALS) and Frontotemporal Dementia (FTD). This element serves as a template for repeat-associated non-AUG (RAN) translation, which generates neurotoxic dipeptide repeat (DPR) proteins that aggregate in patient brains and contribute to neurodegeneration in model systems. To understand the mechanisms underlying RAN translation initiation, we used cryo-electron microscopy to determine the structure of an in vitro assembled human late-stage C9orf72 translation initiation complex at 3.2 Å resolution and a near-native complex purified from human cell lysate at 3.5 Å resolution. RAN translation on C9orf72 mRNA initiates predominantly at a near-cognate CUG codon that is located 24 nucleotides upstream of the G 4 C 2 repeat and is flanked by a strong endogenous Kozak sequence. The structures further reveal a direct interaction between the G 4 C 2 repeat and 18S ribosomal RNA expansion segment 9 (ES9S) on the 40S small ribosomal subunit through a kissing-loop interaction. Preventing this RNA-RNA interaction using complementary antisense oligonucleotides significantly reduces RAN translation in vitro and in patient-derived iNeurons, indicating that this structural interaction is functionally important. These findings provide mechanistic insights into RAN translation initiation and highlight a novel potential therapeutic approach to mitigate toxic DPR production in C9orf72-associated neurodegenerative disease.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42966163",
@@ -2150,6 +2309,104 @@
       "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
+      "id": "42990966",
+      "event_key": "pubmed:42990966",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Efficacy and tolerability of D-β-hydroxybutyrate ester in patients with amyotrophic lateral sclerosis (KETO-ALS)-a randomised, placebo-controlled, double-blind study.",
+      "authors": [
+        "Christine Herrmann",
+        "Luisa Jagodzinski",
+        "Zeynep Elmas",
+        "Tabea Herschmann",
+        "Elke Fröhlich",
+        "Franziska Bachhuber",
+        "Tanja Ruschitzka",
+        "Frank Willkomm",
+        "Özlem Parlak",
+        "Ulrike Weiland",
+        "Felicitas Becker",
+        "Lars Richter",
+        "Maximilian Wiesenfarth",
+        "Zeljko Uzelac",
+        "Sebastian Michels",
+        "Simon Witzel",
+        "Hayrettin Tumani",
+        "Jochen H Weishaupt",
+        "Ludwig Maier",
+        "Benjamin Mayer",
+        "Jens Dreyhaupt",
+        "Joachim Schuster",
+        "Johannes Dorst"
+      ],
+      "journal": "EClinicalMedicine",
+      "publication_date": "2026-10-26",
+      "pmid": "42990966",
+      "doi": "10.1016/j.eclinm.2026.104272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990966/",
+      "abstract": "BACKGROUND: Hypermetabolism and weight loss are prominent features of amyotrophic lateral sclerosis (ALS). Here, we sought to target the energy deficit in ALS by applying oral ketone bodies as high-energetic substrates.\n\nMETHODS: Patients with probable or definite ALS were enrolled to this randomised, placebo-controlled, parallel-group, double-blind, monocentre phase 2 trial. Eligible patients had a decline of ALS functional rating scale revised (ALSFRS-R) of at least 0.33 points/month. They were randomly assigned (1:1) to receive D-β-hydroxybutyrate ester (βHB, 30 g/day) or placebo. Primary endpoint was change of neurofilament light chain (NfL) per month, measured as slope over 6 months. Multiple linear regressions models were applied to adjust for NfL, age, BMI, and slow vital capacity (SVC) at baseline. The trial is registered with clinicaltrials.gov, number NCT04820478.\n\nFINDINGS: Between April 5, 2022, and February 12, 2025, 81 patients were randomly assigned to receive βHB (n = 40) or placebo (n = 41) and included in the intention-to-treat analysis. In the unadjusted analysis, the primary endpoint NfL slope was negative, showing a decline of -0.5 pg/mL/month (IQR -3.2 to 2.0, minimum -11.2, maximum 10.4) in the βHB group and a stable course of 0.0 pg/mL/month (IQR -1.7 to 3.3, minimum -6.2, maximum 49.0) in the placebo group (p = 0.094). In the adjusted analysis, the NfL slope showed a benefit for the βHB group (-1.5 pg/ml/month in βHB vs. +2.8 pg/ml/month in placebo, mean difference -4.2 pg/ml/month, 95% CI - ∞ to -1.1, p = 0.014). When using a mixed effect model, this effect was not statistically different (-0.4 pg/ml/month in βHB vs. +0.3 pg/ml/month in placebo, mean difference -0.7 pg/ml, month, p = 0.30). In the unadjusted analysis, ALSFRS-R showed a faster decline in the verum group (-1.4 points/month (IQR -2.1 to -0.6) vs. -0.8 points/month (IQR -1.2 to -0.2), p = 0.020). No significant difference between βHB and placebo was found regarding clinical endpoints such as ALSFRS-R or BMI in the adjusted analysis. βHB was well tolerated, with similar frequency of adverse events across both groups.\n\nINTERPRETATION: Whether the effects on NfL can be confirmed and translated into meaningful clinical effects, remains to be clarified by a larger phase 3 trial with extended treatment duration. βHB was well tolerated.\n\nFUNDING: This was an investigator-initiated study, funded by a private donation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Beta hydroxybutyrate ester",
+        "Neurofilament light chain",
+        "Oral ketone bodies"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
+      "id": "42990486",
+      "event_key": "pubmed:42990486",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cerebrospinal fluid α-synuclein seed amplification assay positivity identifies a prognostically distinct subgroup in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Kazuki Obara",
+        "Andrea Mastrangelo",
+        "Agustina Ranieri",
+        "Shorena Janelidze",
+        "Daisuke Ito",
+        "Munetaka Yamamoto",
+        "Veria Vacchiano",
+        "Rocco Liguori",
+        "Serena Caldera",
+        "Yuichi Riku",
+        "Yasushi Iwasaki",
+        "Sinh Tran",
+        "Takahiro Kawase",
+        "Yu Mori",
+        "Keita Hiraga",
+        "Shinichiro Yamada",
+        "Koyo Tsujikawa",
+        "Yosuke Nishio",
+        "Tomoo Ogi",
+        "Ryoichi Nakamura",
+        "Naoki Atsuta",
+        "Gen Sobue",
+        "Erik Stomrud",
+        "Sebastian Palmqvist",
+        "Oskar Hansson",
+        "Piero Parchi",
+        "Masahisa Katsuno",
+        "Niklas Mattsson-Carlgren"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "publication_date": "2026-10-26",
+      "pmid": "42990486",
+      "doi": "10.64898/2026.10.23.26366349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990486/",
+      "abstract": "BACKGROUND: α-synuclein (Lewy body-type) co-pathology has been identified at autopsy in a subset of patients with amyotrophic lateral sclerosis (ALS). However, its prevalence and prognostic relevance in vivo remain poorly characterized.\n\nMETHODS: We analyzed baseline cerebrospinal fluid (CSF) α-synuclein seed amplification assay (αSyn SAA) status in 443 patients with ALS from two cohorts (Nagoya, Japan, n = 248; Bologna, Italy, n = 195). Samples were classified as strong-positive, weak-positive, or negative based on RT-QuIC reactivity across replicate wells, using the assay's established a priori criteria at initial and repeat testing; classifications were corroborated by quantitative kinetic parameters. We compared age- and sex-adjusted odds of positivity in ALS with those in cognitively unimpaired (CU; n = 999; stratified by amyloid-β [Aβ] status), Aβ-positive mild cognitive impairment ( n = 224), and Alzheimer's disease dementia ( n = 319) groups from the Swedish BioFINDER cohort. In ALS, we examined tracheostomy-free survival and longitudinal functional decline using cohort-stratified Cox and linear mixed-effects models, respectively. We also assessed interactions between αSyn SAA status and baseline CSF neurofilament light chain (NfL). Prognostic analyses were performed in sporadic ALS and repeated after including familial or genetic cases.\n\nRESULTS: Strong αSyn SAA positivity was detected in 24/443 patients with ALS (5.4%); overall positivity, including weak-positive samples, was 37/443 (8.4%). Patients with ALS did not have significantly higher odds of SAA positivity than Aβ-negative CU participants (age- and sex-adjusted odds ratio [OR] 1.33, 95% CI [0.82, 2.14]) and had significantly lower odds than patients with Alzheimer's disease dementia (OR 0.44, [0.27, 0.70]). Among patients with sporadic ALS, strong αSyn SAA positivity was associated with shorter tracheostomy-free survival after adjustment for established predictors including NfL (adjusted HR 2.08 [1.25, 3.45]), whereas weak positivity showed no clear survival association. In linear mixed-effects models, strong αSyn SAA positivity modified the association between NfL and ALSFRS-R decline (NfL × αSyn SAA × time interaction β-0.70 points/month [-1.26, -0.14] per SD NfL). These findings persisted in analyses including familial or genetic ALS cases and in those restricted to Aβ-negative patients. Neuropathological findings ( n = 5) were concordant with the CSF αSyn SAA classification.\n\nCONCLUSIONS: A strong α-synuclein seeding profile was uncommon in ALS but identified a subgroup with shorter survival and a stronger association between NfL and functional decline. These findings provide ante-mortem evidence that α-synuclein co-pathology may contribute to prognostic heterogeneity in ALS.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
       "id": "42987653",
       "event_key": "pubmed:42987653",
       "source_id": "pubmed",
@@ -2183,7 +2440,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42934968",
@@ -2795,6 +3052,56 @@
       "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
+      "id": "42990859",
+      "event_key": "pubmed:42990859",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Intranasal CBT101 demonstrates favorable safety and neurophysiological evidence of central activity in healthy male volunteers.",
+      "authors": [
+        "Henri Benech",
+        "Lila Krebs-Drouot",
+        "Geoffrey Viardot",
+        "Valérie Bertaina-Anglade",
+        "Clara Lhotellier",
+        "Victoria Flament",
+        "Camille Roucairol",
+        "Aloïse Mabondzo",
+        "Jean-Louis Pinquier",
+        "Thomas Joudinaud"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2026-10-22",
+      "pmid": "42990859",
+      "doi": "10.3389/fneur.2026.1940627",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990859/",
+      "abstract": "OBJECTIVES: CBT101 is a creatine prodrug under development for disorders driven by impaired neuronal energy homeostasis, with initial development focused on creatine transporter deficiency and amyotrophic lateral sclerosis. This first-in-human study aimed to assess the safety and tolerability of single and repeated ascending intranasal doses of CBT101 in healthy male volunteers and explored neurophysiological evidence of central pharmacodynamic activity using quantitative EEG (qEEG) and event-related potentials (ERPs).\n\nMETHODS: This was a randomized, double-blind, single-center, placebo-controlled phase 1 trial including single ascending dose (SAD) and multiple ascending dose (MAD) parts. Forty-eight healthy male volunteers were randomized 3:1 to CBT101 or placebo. CBT101 was administered intranasally at 4.2, 8.4, or 12.6 mg in the SAD part and at 4.2, 8.4, or 12.6 mg/day for 14 days in the MAD part. The primary objective was safety and tolerability. Secondary analyses assessed quantitative EEG (qEEG) and event-related potentials (ERPs) as pharmacodynamic evaluations.\n\nRESULTS: No serious or severe treatment-emergent adverse events occurred, no dose-limiting toxicity was observed, and no clinically relevant safety findings were reported. As expected, plasma CBT101 concentrations were below the limit of quantification in all analyzed samples. qEEG analyses identified an acute post-dose increase in relative beta activity after single dosing. After repeated dosing, the qEEG profile evolved toward a more sustained pattern characterized by beta-1 modulation and early gamma-band changes. ERP/P300 analyses showed a transient decrease in P300 latency, with no statistically significant change in P300 amplitude.\n\nCONCLUSION: Intranasal CBT101 was safe and well tolerated across the evaluated SAD and MAD dose ranges in healthy male volunteers. Convergent qEEG and ERP findings provided early neurophysiological evidence of central pharmacodynamic engagement. These findings support continued clinical development of CBT101 for disorders associated with impaired neuronal energy homeostasis.\n\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, identifier: NCT07050316.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Administration, Intranasal",
+        "Adult",
+        "Double-Blind Method",
+        "Electroencephalography",
+        "Young Adult",
+        "Evoked Potentials",
+        "Healthy Volunteers",
+        "Prodrugs",
+        "Dose-Response Relationship, Drug",
+        "Middle Aged"
+      ],
+      "keywords": [
+        "CBT101",
+        "cerebral activity",
+        "phase 1",
+        "qEEG",
+        "safety"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
       "id": "42960175",
       "event_key": "pubmed:42960175",
       "source_id": "pubmed",
@@ -2922,6 +3229,40 @@
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
       "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "42991605",
+      "event_key": "pubmed:42991605",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Small-fiber degeneration, sensory dysfunction, and nociception comorbidity in central neurodegenerative disease.",
+      "authors": [
+        "Will Hauser",
+        "Jessica E Keller",
+        "Mamatha Pasnoor",
+        "Douglas E Wright"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2026-10-21",
+      "pmid": "42991605",
+      "doi": "10.3389/fnagi.2026.1854989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991605/",
+      "abstract": "Progressive neurodegenerative disease typically calls for clinical effort to improve cognitive and motor deficits. It is also focused on improving patients' quality of life. However, across these dementias and other diseases, the underlying causes and potential mechanisms remain unclear. Most experimental and clinical research focuses on the central nervous system, examining pathogenic proteins such as tau and amyloid beta, as well as the potential cascade following mitochondrial damage and neuroinflammation. Although peripheral involvement, including gut microbiome influences and other visceral organs, is well-documented, the peripheral nervous system remains an understudied component of these progressive diseases. As peripheral terminals of primary afferent neurons are exposed to inflammatory or toxic mediators, these neurons respond to these threats via neuron-specific phenotypic changes, including the generation of pain. Although normal peripheral sensitization is protective, exposure to damage in a chronic disease state can have long-term detrimental effects. Diseases that lead to central neurodegeneration often also feature peripheral neuropathy and chronic pain. We provide an overview of the incidence of peripheral neuropathy within these diseases, the contribution of changes in sensation to disease, and secondary neuropathic phenotypes resulting from disease. Woven in are discussions of the intersection of degeneration and toxic protein aggregation, briefly touching on resulting inflammatory signaling. Altogether, this review aims to synthesize current understanding of sensory peripheral nerve involvement across these neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "Amyotrophic Lateral Sclerosis (ALS)",
+        "Parkinson's disease",
+        "nociception",
+        "pain",
+        "peripheral nervous system",
+        "sensory dysfunction",
+        "small fiber neuropathy (SFN)"
+      ],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42942116",
@@ -17324,6 +17665,47 @@
       "last_seen_at": "2026-09-25T05:14:47Z"
     },
     {
+      "id": "42988796",
+      "event_key": "pubmed:42988796",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Shared and distinct gain-of-function consequences from pathologic cytoplasmic versus nuclear TDP-43.",
+      "authors": [
+        "Aaron Long",
+        "Heather N Currey",
+        "Matvey Goldberg",
+        "Randall J Eck",
+        "Marina Han",
+        "Rebecca L Kow",
+        "Brian C Kraemer",
+        "Nicole F Liachko"
+      ],
+      "journal": "Cell death & disease",
+      "publication_date": "2026-08-11",
+      "pmid": "42988796",
+      "doi": "10.1038/s41419-026-09143-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988796/",
+      "abstract": "While predominantly nuclear localized in healthy cells, TDP-43 can transit between the nucleus and cytoplasm. In frontotemporal lobar degeneration (FTLD-TDP) and amyotrophic lateral sclerosis (ALS), TDP-43 accumulates in hyperphosphorylated cytoplasmic aggregates. However, a subset of patients develops nuclear aggregates. Expression of wild-type TDP-43 in C. elegans neurons results in nuclear protein accumulation and toxic gain of function. To enable comparative study of nuclear and cytoplasmic TDP-43 phenotypes, we generated new models with inactivating mutations in the nuclear localization sequence (NLS) of TDP-43. When compared to nuclear TDP-43 strains, similar protein levels of cytoplasmic TDP-43 cause less neuronal dysfunction in C. elegans. Using RNA sequencing, we determine that transcriptomes are largely unchanged in these models. However, we identify innate immune pathway increases in response to cytoplasmic but not nuclear TDP-43. We find phosphorylation-mediated neurotoxicity of both cytoplasmic and nuclear localized TDP-43 is controlled by the phosphatase calcineurin. We also find that overexpression of the unfolded protein response (UPR) transcription factor XBP-1s worsens outcomes for wild-type TDP-43 animals but improves TDP-43 ΔNLS, suggesting different pathways controlling toxicity and clearance of nuclear versus cytoplasmic TDP-43. Taken together, these data support shared and distinct cellular responses to nuclear versus cytoplasmic TDP-43 localization in an intact animal nervous system. This comparative approach supports a better understanding of human disease and informs therapeutic development for pathological subtypes of TDP-43 proteinopathies.",
+      "mesh_terms": [
+        "Animals",
+        "DNA-Binding Proteins",
+        "Cytoplasm",
+        "Cell Nucleus",
+        "Caenorhabditis elegans",
+        "Humans",
+        "Nuclear Localization Signals",
+        "Caenorhabditis elegans Proteins",
+        "Unfolded Protein Response",
+        "Neurons",
+        "Phosphorylation"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-07T06:27:20Z",
+      "first_seen_at": "2026-11-07T06:27:20Z",
+      "last_seen_at": "2026-11-07T06:27:20Z"
+    },
+    {
       "id": "42845299",
       "event_key": "pubmed:42845299",
       "source_id": "pubmed",
@@ -17438,7 +17820,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42972546",
@@ -17904,7 +18286,7 @@
       "keywords": [],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:20Z"
     },
     {
       "id": "42951629",

@@ -1,13 +1,184 @@
 {
-  "updated_at": "2026-11-06T07:12:53Z",
+  "updated_at": "2026-11-07T06:27:21Z",
   "new_keys": [
-    "clinicaltrials:NCT03225144:2026-11-05",
-    "clinicaltrials:NCT07100119:2026-11-05",
-    "clinicaltrials:NCT07543367:2026-11-05",
-    "clinicaltrials:NCT06578195:2026-11-05",
-    "clinicaltrials:NCT07572838:2026-11-05"
+    "clinicaltrials:NCT07287397:2026-11-06",
+    "clinicaltrials:NCT07922031:2026-11-06",
+    "clinicaltrials:NCT07533903:2026-11-06",
+    "clinicaltrials:NCT07875972:2026-11-06",
+    "clinicaltrials:NCT07407725:2026-11-06",
+    "clinicaltrials:NCT07478172:2026-11-06",
+    "clinicaltrials:NCT06365216:2026-11-06"
   ],
   "items": [
+    {
+      "id": "NCT07922031",
+      "event_key": "clinicaltrials:NCT07922031:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07922031",
+      "title": "A Study on the Addition of Alsum30 for the Treatment of Amyotrophic Lateral Sclerosis",
+      "sponsor": "Liu Qing",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Dietary_Supplement: Sulforaphane and Bacillus coagulans GBI-30, 6086"
+      ],
+      "start_date": "2026-11",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07922031",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-11-07T06:27:21Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT07875972",
+      "event_key": "clinicaltrials:NCT07875972:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07875972",
+      "title": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Liu Qing",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: Orelabrutinib"
+      ],
+      "start_date": "2026-11",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07875972",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-10-16T04:51:29Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT07533903",
+      "event_key": "clinicaltrials:NCT07533903:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07533903",
+      "title": "Functional Outcomes and Control Using Synchron BCI - Australia",
+      "sponsor": "Synchron, Inc.",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: Stentrode"
+      ],
+      "start_date": "2026-05-22",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07533903",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-11-07T06:27:21Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT07478172",
+      "event_key": "clinicaltrials:NCT07478172:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07478172",
+      "title": "Effects of Whole-body Electrical Muscle Stimulation Exercise on Adults With Neuromuscular Disease",
+      "sponsor": "University of Missouri-Columbia",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: Whole-body Electrical Muscle Stimulation Exercise"
+      ],
+      "start_date": "2026-03-10",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07478172",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-11-07T06:27:21Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT07407725",
+      "event_key": "clinicaltrials:NCT07407725:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07407725",
+      "title": "Clinical Outcome Assessment for AT & BCI",
+      "sponsor": "Shirley Ryan AbilityLab",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Eye Tracker",
+        "Device: Mouth Operated Joystick",
+        "Device: Non-invasive electroencephalogram (EEG) Headset",
+        "Device: Implantable Brain-Computer-Interface",
+        "Device: Personal Assistive Technology",
+        "Device: Voice Control"
+      ],
+      "start_date": "2026-01-08",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07407725",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-11-07T06:27:21Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT07287397",
+      "event_key": "clinicaltrials:NCT07287397:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07287397",
+      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
+      "sponsor": "Vector Y Therapeutics",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Genetic: VTx-002",
+        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
+      ],
+      "start_date": "2025-12-19",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07287397",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
+    {
+      "id": "NCT06365216",
+      "event_key": "clinicaltrials:NCT06365216:2026-11-06",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06365216",
+      "title": "ALS Phase II Study of NX210c",
+      "sponsor": "Axoltis Pharma",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Drug: NX210c",
+        "Drug: Placebo"
+      ],
+      "start_date": "2024-10-25",
+      "last_update_date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT06365216",
+      "collected_at": "2026-11-07T06:27:21Z",
+      "first_seen_at": "2026-11-07T06:27:21Z",
+      "last_seen_at": "2026-11-07T06:27:21Z"
+    },
     {
       "id": "NCT07572838",
       "event_key": "clinicaltrials:NCT07572838:2026-11-05",
@@ -29,7 +200,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07572838",
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT07543367",
@@ -52,7 +223,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07543367",
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT07100119",
@@ -76,7 +247,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07100119",
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT06578195",
@@ -99,7 +270,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06578195",
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT03225144",
@@ -122,7 +293,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03225144",
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT07589764",
@@ -145,7 +316,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07589764",
       "collected_at": "2026-11-05T07:12:52Z",
       "first_seen_at": "2026-11-05T07:12:52Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT06881979",
@@ -169,7 +340,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06881979",
       "collected_at": "2026-11-05T07:12:52Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT04856982",
@@ -193,7 +364,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04856982",
       "collected_at": "2026-11-05T07:12:52Z",
       "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-11-06T07:12:53Z"
+      "last_seen_at": "2026-11-07T06:27:21Z"
     },
     {
       "id": "NCT07491562",
@@ -240,31 +411,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07906665",
       "collected_at": "2026-10-31T06:09:13Z",
       "first_seen_at": "2026-10-31T06:09:13Z",
-      "last_seen_at": "2026-11-02T06:39:23Z"
-    },
-    {
-      "id": "NCT07287397",
-      "event_key": "clinicaltrials:NCT07287397:2026-10-30",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07287397",
-      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
-      "sponsor": "Vector Y Therapeutics",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Genetic: VTx-002",
-        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
-      ],
-      "start_date": "2025-12-19",
-      "last_update_date": "2026-10-30",
-      "url": "https://clinicaltrials.gov/study/NCT07287397",
-      "collected_at": "2026-10-31T06:09:13Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-11-02T06:39:23Z"
     },
     {
@@ -747,29 +893,6 @@
       "collected_at": "2026-10-17T04:52:23Z",
       "first_seen_at": "2026-10-17T04:52:23Z",
       "last_seen_at": "2026-10-19T05:07:08Z"
-    },
-    {
-      "id": "NCT07875972",
-      "event_key": "clinicaltrials:NCT07875972:2026-10-15",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07875972",
-      "title": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "sponsor": "Liu Qing",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "NOT_YET_RECRUITING",
-      "intervention": [
-        "Drug: Orelabrutinib"
-      ],
-      "start_date": "2026-10",
-      "last_update_date": "2026-10-15",
-      "url": "https://clinicaltrials.gov/study/NCT07875972",
-      "collected_at": "2026-10-16T04:51:29Z",
-      "first_seen_at": "2026-10-16T04:51:29Z",
-      "last_seen_at": "2026-10-18T04:59:29Z"
     },
     {
       "id": "NCT07674667",
