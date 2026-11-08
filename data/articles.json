@@ -1,16 +1,8 @@
 {
-  "updated_at": "2026-11-07T06:27:21Z",
+  "updated_at": "2026-11-08T06:32:47Z",
   "new_keys": [
-    "pubmed:42992452",
-    "pubmed:42989982",
-    "pubmed:42989888",
-    "pubmed:42990777",
-    "pubmed:42990966",
-    "pubmed:42990340",
-    "pubmed:42990486",
-    "pubmed:42990859",
-    "pubmed:42991605",
-    "pubmed:42988796"
+    "pubmed:42995797",
+    "pubmed:42995867"
   ],
   "items": [
     {
@@ -134,7 +126,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42989982",
@@ -169,7 +161,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42989888",
@@ -196,7 +188,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42983584",
@@ -239,7 +231,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42983429",
@@ -289,7 +281,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42982035",
@@ -828,7 +820,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42972606",
@@ -929,7 +921,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42977507",
@@ -1578,7 +1570,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42966163",
@@ -2355,7 +2347,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42990486",
@@ -2404,7 +2396,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42987653",
@@ -2440,7 +2432,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42934968",
@@ -3052,6 +3044,45 @@
       "last_seen_at": "2026-10-26T05:10:19Z"
     },
     {
+      "id": "42995797",
+      "event_key": "pubmed:42995797",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Multi-level repression ensures tight translation control of C9ORF72.",
+      "authors": [
+        "Solomon A Haizel",
+        "Alfredo Vidal Ceballos",
+        "Alice Nayoung Ko",
+        "Lucas Lyu",
+        "Lauren Manning",
+        "Xinyi Ge",
+        "Violet Park",
+        "Huijing Zou",
+        "Churong Cheng",
+        "Richmond Afful",
+        "Serena Kher",
+        "Anthony Widjaja",
+        "Joanetta Jean-Baptiste",
+        "Sasha Khazhinsky",
+        "Pieter Spealman",
+        "Alisha N Jones",
+        "Leos Shivaya Valasek",
+        "Christine Vogel"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-22",
+      "pmid": "42995797",
+      "doi": "10.1101/2025.08.09.669471",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995797/",
+      "abstract": "C9ORF72 is involved in multiple neuronal functions and a major factor in Amyotrophic Lateral Sclerosis, a fatal neurodegenerative disease. Pathogenicity is implemented through an intronic repeat expansion in the gene's mRNA leader that produces long, repetitive RNA and dipeptides when translated through repeat associated non-canonical translation. The expanded repeat also suppresses transcription of the major transcript variant (Variant 2) which comprises 90% of the C9ORF72 levels in healthy cells, leading to an additional loss-of-function effect. Examining the sequence, structure, and ribosome occupancy of Variant 2's mRNA leader in detail, we found that translation of C9ORF72 is tightly regulated through a multi-layered system. To deconvolute this system, we conducted a mutant screen and developed a method to evaluate the results quantitatively. We found that near-cognate start codons in all three frames, a start-stop element in frame 2, a uTranslon in frame 1, and secondary structures cooperate to keep baseline C9ORF72 translation low. Further, initiation at upstream near-cognate start codons reduces the impact of both the start-stop and the uTranslon, effectively buffering their repressive function and creating a feedforward loop. A strong secondary structure in the Variant 2-specific sequence further modulates initiation at all the elements. We hypothesize that this buffered repressor system has evolved to ensure reliable, noise-insensitive expression of this critical regulator of neuronal function. Finally, we used ADAR-based RNA editing of specific sites in Variant 2's mRNA leader, increasing translation of the gene and providing a novel avenue to rescue the loss-of-function phenotype in disease.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-08T06:32:47Z",
+      "first_seen_at": "2026-11-08T06:32:47Z",
+      "last_seen_at": "2026-11-08T06:32:47Z"
+    },
+    {
       "id": "42990859",
       "event_key": "pubmed:42990859",
       "source_id": "pubmed",
@@ -3099,7 +3130,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42960175",
@@ -3262,7 +3293,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42942116",
@@ -3629,6 +3660,32 @@
       "collected_at": "2026-10-23T05:13:06Z",
       "first_seen_at": "2026-10-23T05:13:06Z",
       "last_seen_at": "2026-10-25T05:08:11Z"
+    },
+    {
+      "id": "42995867",
+      "event_key": "pubmed:42995867",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALSmiR: a curated evidence resource for ALS-associated microRNAs for biomarker discovery.",
+      "authors": [
+        "Mariana A Amoros",
+        "Srinivasan Ekambaram",
+        "Reda M Iskandar",
+        "Zachary Simmons",
+        "Nikolay V Dokholyan"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-20",
+      "pmid": "42995867",
+      "doi": "10.64898/2026.10.16.759728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995867/",
+      "abstract": "Amyotrophic lateral sclerosis is a multifactorial, late-onset neurodegenerative disease with incompletely understood pathogenesis. Limited survival after symptom onset creates an urgent need for biomarkers to support diagnosis, prognosis, and patient stratification. MicroRNAs are among the candidate biomarkers investigated in this disease. Although reviews have synthesized microRNA expression findings, differences in patient populations, biospecimens, and methods complicate comparisons. In the age of data-driven research, we need an updated, searchable resource that links each finding to its context and incorporates growing evidence. Here, we present ALSmiR, a public, manually curated database of polymerase chain reaction-based microRNA expression findings from human biological fluids and their components. ALSmiR currently contains 1,620 expression records from 49 publications comparing patients with amyotrophic lateral sclerosis with healthy controls, covering 816 microRNA names across 13 biospecimen categories. We link publication, cohort, and microRNA-result tables to preserve each finding's clinical and experimental context. We retain significant and non-significant results and provide searchable records and comma-separated values exports for independent analysis. We update ALSmiR annually and verify author submissions against source publications before inclusion. Researchers can use ALSmiR to assess candidate biomarkers, formulate hypotheses, and design independent validation studies. ALSmiR is freely accessible worldwide without registration at https://alsmir.dokhlab.org/ .",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-08T06:32:47Z",
+      "first_seen_at": "2026-11-08T06:32:47Z",
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42970317",
@@ -17703,7 +17760,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42845299",
@@ -17820,7 +17877,7 @@
       ],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42972546",
@@ -18286,7 +18343,7 @@
       "keywords": [],
       "collected_at": "2026-11-06T07:12:53Z",
       "first_seen_at": "2026-11-06T07:12:53Z",
-      "last_seen_at": "2026-11-07T06:27:20Z"
+      "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
       "id": "42951629",
