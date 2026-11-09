@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-11-08T06:32:47Z",
+  "updated_at": "2026-11-09T07:02:08Z",
   "new_keys": [
-    "pubmed:42995797",
-    "pubmed:42995867"
+    "pubmed:42999187",
+    "pubmed:42999280",
+    "pubmed:42999738"
   ],
   "items": [
     {
@@ -126,7 +127,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42989982",
@@ -161,7 +162,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42989888",
@@ -188,7 +189,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42983584",
@@ -820,7 +821,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42972606",
@@ -1570,7 +1571,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42966163",
@@ -2347,7 +2348,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42990486",
@@ -2396,7 +2397,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42987653",
@@ -3080,7 +3081,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42990859",
@@ -3130,7 +3131,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42960175",
@@ -3293,7 +3294,7 @@
       ],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42942116",
@@ -3685,7 +3686,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42970317",
@@ -4850,6 +4851,50 @@
       "last_seen_at": "2026-10-17T04:52:22Z"
     },
     {
+      "id": "42999187",
+      "event_key": "pubmed:42999187",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Temporal RNA splicing dysregulation in a human multicellular model of C9orf72 ALS.",
+      "authors": [
+        "Berna Aliya",
+        "Shiqi Liu",
+        "Alison Mansfield",
+        "Solan Xiyuan Yao",
+        "Sabra Mouhi",
+        "Supriya S Wariyar",
+        "Jesse Seth Tenkorang",
+        "Nuri E Smith",
+        "Mingee Chung",
+        "Ah Joung Rachel Yu",
+        "Taylor Pio",
+        "Najah E J Smith",
+        "Sabrina H Zhu",
+        "Adam N Trautwig",
+        "Janani Parameswaran",
+        "Luming Yin",
+        "Caroline M Watson",
+        "Brain Organoid Hub",
+        "Jie Jiang",
+        "Nicholas T Seyfried",
+        "Zachary T McEachin",
+        "Bing Yao",
+        "Jimena Andersen"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-14",
+      "pmid": "42999187",
+      "doi": "10.64898/2026.10.13.755334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999187/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a complex and heterogenous disease, comprising of familial and sporadic forms, numerous genetic mutations, and a wide range of affected cell types and proposed dysregulated processes. While the usage of in vitro cell cultures, mouse models, and postmortem patient tissue have advanced our understanding of ALS disease mechanisms, the temporal progression of the disease and how early molecular changes evolve remain poorly understood. Here, we establish human spinal cord organoids (hSpO) derived from C9orf72 patient induced pluripotent stem cells (C9-ALS hiPSCs) as a platform to model longitudinal changes across the disease trajectory. We show that C9-ALS hSpO recapitulate hallmark C9orf72 -related pathologies, increased cell death, and progressive neuronal dysfunction. We further identify RNA splicing dysregulation as an early and persistent feature of C9-ALS, with splicing signatures in hSpO closely mirroring those observed in postmortem patient tissue. Finally, prediction of RNA binding proteins (RBPs) that induce early splicing changes in C9-ALS reveals signatures consistent with a broad RBP network dysfunction. Together, this work establishes hSpO as an in vitro system for investigating early disease mechanisms of ALS in a human multicellular context and highlights dysregulated events that precede cell death.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-09T07:02:08Z",
+      "first_seen_at": "2026-11-09T07:02:08Z",
+      "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
       "id": "42953028",
       "event_key": "pubmed:42953028",
       "source_id": "pubmed",
@@ -5584,6 +5629,31 @@
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
       "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42999280",
+      "event_key": "pubmed:42999280",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALS-associated mutations reveal a conserved C-terminal self-assembly module in the TDP-43 low-complexity domain.",
+      "authors": [
+        "Nobuo Maita",
+        "Sun-Yong Kim",
+        "Yuko Kajino",
+        "Masato Kato"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-10-12",
+      "pmid": "42999280",
+      "doi": "10.64898/2026.10.09.756561",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999280/",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) is an RNA-binding protein whose low-complexity domain (LCD) mediates self-assembly, liquid-liquid phase separation, and pathological aggregation associated with amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Previous studies have established the central ultraconserved region (UCR) of the LCD as a major determinant of TDP-43 self-association. However, the contribution of the evolutionarily conserved C-terminal region remains poorly understood. To identify LCD residues required for self-assembly, we systematically analyzed 47 ALS-associated substitutions distributed throughout the TDP-43 LCD using hydrogel-binding and thioflavin T (ThT) assays. Several ALS-associated substitutions within the C-terminal conserved region (CCR) markedly reduced hydrogel incorporation and impaired fibrillization. Similar assembly defects were observed for methionine-to-serine substitutions at two conserved CCR residues, M405 and M414. Furthermore, CCR-containing C-terminal fragments encompassing residues 360-414 or 379-414 formed ThT-positive fibrillar assemblies in vitro . The assembly kinetics exhibited a characteristic lag phase followed by rapid fluorescence growth, consistent with the formation of cross-β-rich assemblies. These findings identify the CCR as an additional conserved self-assembly module within the TDP-43 LCD and expand the prevailing UCR-centered model of TDP-43 assembly. The observation that multiple ALS-associated substitutions reduce rather than enhance self-association further raises the possibility that disruption of normal TDP-43 assembly contributes to disease pathogenesis.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-09T07:02:08Z",
+      "first_seen_at": "2026-11-09T07:02:08Z",
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42926935",
@@ -17760,7 +17830,7 @@
       "keywords": [],
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42845299",
@@ -18100,6 +18170,43 @@
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
       "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "42999738",
+      "event_key": "pubmed:42999738",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Muscle Organoids Frontier: Construction Strategies and Applications of Multi-lineage Muscle Organoids and Multi-organoid Systems.",
+      "authors": [
+        "Dingding Wang",
+        "Lining Xu",
+        "Weijia Liu",
+        "Zitong Xie",
+        "Yuqing Sun",
+        "Mingxing Fan",
+        "Ling Wang",
+        "Quanzhong Ren",
+        "Yajun Liu",
+        "Junbo Liang",
+        "Renxian Wang"
+      ],
+      "journal": "Phenomics (Cham, Switzerland)",
+      "publication_date": "2026-07-09",
+      "pmid": "42999738",
+      "doi": "10.1007/s43657-026-00310-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999738/",
+      "abstract": "In recent years, multi-lineage muscle organoids have rapidly emerged as transformative research tools, providing high-fidelity models for deciphering skeletal muscle development and the pathological mechanisms of muscle diseases such as sarcopenia, amyotrophic lateral sclerosis, and myasthenia gravis. Primarily derived from pluripotent stem cells, these organoids integrate multiple functional lineages, such as skeletal muscle, neural, vascular, and skeletal components, thereby addressing the limitations of conventional single-tissue muscle models. In parallel, multi-organoid systems, such as assembloids and organ-on-a-chip platforms, further integrate distinct organoids (e.g., muscle, skeletal tissue, tendon, and hindbrain/cervical spinal cord) to reconstruct inter-organ communication and systemic physiology under physiologically relevant conditions. By recapitulating in vivo-like multi-tissue interactions, they serve as critical platforms for drug screening and therapeutic development. This review summarizes recent advances in multi-lineage muscle organoids and multi-organoid systems, outlining their cellular sources, construction strategies, and major applications in basic research, disease modeling, and drug discovery, and discusses current challenges and future directions to enhance their potential in muscle research.",
+      "mesh_terms": [],
+      "keywords": [
+        "Multi-lineage muscle organoids",
+        "Multi-organoid systems",
+        "Muscular disease modeling",
+        "Pluripotent stem cells"
+      ],
+      "collected_at": "2026-11-09T07:02:08Z",
+      "first_seen_at": "2026-11-09T07:02:08Z",
+      "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
       "id": "42864293",
