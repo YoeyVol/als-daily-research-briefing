@@ -1,9 +1,11 @@
 {
-  "updated_at": "2026-11-09T07:02:08Z",
+  "updated_at": "2026-11-10T07:38:54Z",
   "new_keys": [
-    "pubmed:42999187",
-    "pubmed:42999280",
-    "pubmed:42999738"
+    "pubmed:43003200",
+    "pubmed:43001357",
+    "pubmed:43001128",
+    "pubmed:43002167",
+    "pubmed:43000537"
   ],
   "items": [
     {
@@ -96,6 +98,68 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43003200",
+      "event_key": "pubmed:43003200",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond neurones: cardiac involvement in motor neurone disease.",
+      "authors": [
+        "Bianca C Bernardo",
+        "Aaron P Russell"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2026-11-09",
+      "pmid": "43003200",
+      "doi": "10.1016/j.neuroscience.2026.11.011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003200/",
+      "abstract": "Motor neurone disease (MND) is a fatal neurodegenerative disorder defined by the progressive loss of upper and lower motor neurones. This degeneration leads to muscle wasting and weakness, most prominently affecting the upper and lower limbs, the bulbar musculature responsible for speech and swallowing, as well as the respiratory muscles (Feldman et al., 2022). As the disease advances, affected individuals experience profound functional decline, loss of independence, and ultimately respiratory failure, which remains the leading cause of death (Kiernan et al., 2021). Despite advances in understanding the molecular and cellular mechanisms of MND, effective disease‑modifying treatments are limited and there is no cure. Management therefore focuses largely on symptomatic treatment and multidisciplinary supportive care to maintain quality of life (Simon et al., 2015). The long-standing view of MND as a disease confined to the motor system is increasingly being challenged. Emerging evidence from human and rodent studies suggests that other organ systems, such as the heart, may also be affected, raising the possibility that cardiac involvement is a clinically relevant but under‑recognised feature of the disease.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "Amyotrophic lateral sclerosis",
+        "Cardiac function",
+        "Echocardiography",
+        "Heart",
+        "MND",
+        "Motor neuron disease",
+        "TDP-43"
+      ],
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
+    },
+    {
+      "id": "43001357",
+      "event_key": "pubmed:43001357",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Amyotrophic lateral sclerosis treated with the modified Bu-Shen-Jian-Pi decoction (mBSJP): Multicenter study.",
+      "authors": [
+        "Xiaojing Han",
+        "Rui Li",
+        "Haihan Zhang",
+        "Yizhou Liu",
+        "Shi Kay Loong",
+        "Shangyu Wei",
+        "Yuze Wang",
+        "Weidong Pan",
+        "Ting Dong"
+      ],
+      "journal": "International journal of clinical pharmacology and therapeutics",
+      "publication_date": "2026-11-09",
+      "pmid": "43001357",
+      "doi": "10.5414/CP205054",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001357/",
+      "abstract": "OBJECTIVES: To investigate whether the modified Bu-Shen-Jian-Pi decoction (mBSJP) is more efficacious than the hitherto used and promoted BSJP formula in the treatment of amyotrophic lateral sclerosis (ALS).\n\nBACKGROUND: ALS is a fatal neurodegenerative disease with no satisfactory treatment option. Currently, there are few palliative care methods that can significantly delay the progression of the disease, and the efficacy of the herbal treatments used hitherto has also been unsatisfactory.\n\nMATERIALS AND METHODS: A total of 165 patients with ALS who met the diagnostic criteria after screening were randomly allocated into two groups, a modified Bu-Shen-Jian-Pi decoction group referred to as the mBSJP group and the placebo group. Clinical efficacy and side effects were evaluated during a 16-week observation period. Primary outcomes included Amyotrophic Lateral Sclerosis Symptom Score in Integrative Treatment Scale (ALS-SSIT) and Amyotrophic Lateral Sclerosis Rating Scale-Revised (ALSFRS-R) scores, and secondary observation parameters were 36-Item Short-Form Health Survey Questionnaire (SF-36) and forced vital capacity (FVC).\n\nRESULTS: A total of 73 patients in the mBSJP group and 71 patients in the placebo group completed the trial. At the end of the 16th week of treatment, there were significant statistical differences observed between the two groups in values for both the ALS-SSIT and the ALSFRS-R scores showing that mBSJP significantly delayed progression of the disease and appearance of symptoms compared to the administration of placebo.\n\nCONCLUSION: Treatment of ALS with mBSJP delays disease progression and is recommended as a treatment option for ALS in regions where the use of traditional Chinese medicine is regulated and approved.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
+    },
+    {
       "id": "42992452",
       "event_key": "pubmed:42992452",
       "source_id": "pubmed",
@@ -128,6 +192,58 @@
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
+      "id": "43001128",
+      "event_key": "pubmed:43001128",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Community awareness and knowledge of amyotrophic lateral sclerosis: a cross-sectional study in the Northern Border Region of Saudi Arabia.",
+      "authors": [
+        "Raed AlRuwaili",
+        "Manair H Alenzi",
+        "Mozon H Alenzi",
+        "Abdulrahman Omar A Alali",
+        "Samiah N Aljohani",
+        "Randa F Alenzi",
+        "Baraah Abu Alsel",
+        "Manal S Fawzy"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2026-11-05",
+      "pmid": "43001128",
+      "doi": "10.7717/peerj.21710",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001128/",
+      "abstract": "BACKGROUND: Public awareness of amyotrophic lateral sclerosis (ALS) is limited worldwide, with potential implications for timely recognition, care seeking, and social support. Data from the Northern Border Region of Saudi Arabia are lacking. This study aims to assess community awareness and knowledge of ALS and identify predictors of good awareness among adults in the Northern Border Region of Saudi Arabia.\n\nMETHODS: A cross-sectional survey of 1,277 adults used a structured self-administered questionnaire covering sociodemographic characteristics, general awareness, knowledge, attitudes, personal experience, and information sources. Awareness was scored from 16 knowledge items and categorized as good (≥ 60%) or poor (<60%). Descriptive statistics, chi-square tests with Cramér's V, and multivariable logistic regression were applied; model performance was assessed using the Hosmer-Lemeshow test and area under the receiver operating characteristic (ROC) curve (AUC).\n\nRESULTS: Participants were mainly young to middle-aged, female, and university-educated, and most worked outside the health field. Although 45.2% had heard of ALS, 90.8% showed poor awareness, while only 9.2% showed good awareness. Uncertainty predominated regarding prognosis, risk groups, neuroanatomical involvement, non-motor symptoms, curability, and diagnostic difficulty. Age and occupation were associated with awareness in bivariate analyses but lost significance after adjustment. Never having heard of ALS markedly reduced the odds of good awareness (adjusted odds ratio (AOR) = 0.167, 95% confidence interval (CI) [0.097-0.288], p < 0.001), while using the internet and healthcare sources was associated with higher awareness. The model showed good calibration (Hosmer-Lemeshow p = 0.891) and discrimination (AUC = 0.820).\n\nCONCLUSIONS: Community awareness and knowledge of ALS in this region are poor, underscoring the need for targeted digital and healthcare-based educational initiatives to improve ALS literacy.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Saudi Arabia",
+        "Female",
+        "Cross-Sectional Studies",
+        "Health Knowledge, Attitudes, Practice",
+        "Middle Aged",
+        "Adult",
+        "Male",
+        "Surveys and Questionnaires",
+        "Young Adult",
+        "Aged",
+        "Awareness",
+        "Logistic Models"
+      ],
+      "keywords": [
+        "ALS awareness",
+        "Amyotrophic lateral sclerosis",
+        "Community survey",
+        "Cross-sectional study",
+        "Northern Border Region",
+        "Public knowledge",
+        "Saudi Arabia"
+      ],
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42989982",
@@ -190,6 +306,32 @@
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
+      "id": "43002167",
+      "event_key": "pubmed:43002167",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Correspondence- The Unfinished Breath: Caregiver Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India - Methodological Considerations.",
+      "authors": [
+        "Nagma Sheenam",
+        "Ravi Gaur",
+        "Nitesh M Gonnade",
+        "T K Abins",
+        "Fiyanshu Satyavna"
+      ],
+      "journal": "Annals of Indian Academy of Neurology",
+      "publication_date": "2026-11-04",
+      "pmid": "43002167",
+      "doi": "10.4103/aian.aian_858_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002167/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42983584",
@@ -3081,7 +3223,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42990859",
@@ -3686,7 +3828,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42970317",
@@ -4892,7 +5034,7 @@
       "keywords": [],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42953028",
@@ -5653,7 +5795,7 @@
       "keywords": [],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42926935",
@@ -6008,6 +6150,48 @@
       "collected_at": "2026-10-13T07:00:32Z",
       "first_seen_at": "2026-10-13T07:00:32Z",
       "last_seen_at": "2026-10-15T05:01:49Z"
+    },
+    {
+      "id": "43000537",
+      "event_key": "pubmed:43000537",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "CREST functions as a molecular bridge between neuron-specific enhancers and epigenetic regulators in mature motor neurons.",
+      "authors": [
+        "Kaitlin N Montanera",
+        "Andrew J Lee",
+        "Woobin Yun",
+        "Alyssa Ialongo Del Prete",
+        "Ssu-Yu Yeh",
+        "Inkyung Jung",
+        "Ho Sung Rhee"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026-10-10",
+      "pmid": "43000537",
+      "doi": "10.1038/s41467-026-78396-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000537/",
+      "abstract": "Motor neuron development requires precise transcriptional regulation mediated in part by BAF (BRG1/BRM-associated factor) chromatin remodeling complexes. The neuron-specific BAF subunit CREST is critical for neuronal function and is mutated in some cases of amyotrophic lateral sclerosis (ALS), yet its underlying genomic mechanisms remain unclear. Using mouse embryonic stem cell differentiation, we show that CREST is essential for motor neuron maturation by activating mature neuronal genes and repressing progenitor genes. Mechanistically, CREST interacts with the neuronal transcription factors ONECUT1 and NGN2, and the BRM ATPase to target pre-existing accessible enhancers of neuronal genes. CREST deletion selectively prevents CBP histone acetyltransferase recruitment, reducing histone H3K27 acetylation at these enhancers and downregulating target gene expression, without disrupting BRM binding, enhancer accessibility, or long-range chromatin architecture. Overall, our findings identify CREST as a crucial epigenetic mediator bridging lineage-specific transcription factors, BAF complexes, and CBP to activate enhancers and promote proper motor neuron development.",
+      "mesh_terms": [
+        "Animals",
+        "Motor Neurons",
+        "Epigenesis, Genetic",
+        "Mice",
+        "Enhancer Elements, Genetic",
+        "Transcription Factors",
+        "Cell Differentiation",
+        "Histones",
+        "Neurogenesis",
+        "Gene Expression Regulation, Developmental",
+        "Embryonic Stem Cells",
+        "Nerve Tissue Proteins",
+        "DNA Helicases"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42939346",
@@ -18206,7 +18390,7 @@
       ],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
+      "last_seen_at": "2026-11-10T07:38:54Z"
     },
     {
       "id": "42864293",

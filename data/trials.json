@@ -1,7 +1,80 @@
 {
-  "updated_at": "2026-11-09T07:02:08Z",
-  "new_keys": [],
+  "updated_at": "2026-11-10T07:38:54Z",
+  "new_keys": [
+    "clinicaltrials:NCT03225144:2026-11-09",
+    "clinicaltrials:NCT05725759:2026-11-09",
+    "clinicaltrials:NCT01925196:2026-11-09"
+  ],
   "items": [
+    {
+      "id": "NCT05725759",
+      "event_key": "clinicaltrials:NCT05725759:2026-11-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05725759",
+      "title": "Rehabilitation and Exercise in SOD1-ALS TOfersen REcipients (RESTORE)",
+      "sponsor": "Washington University School of Medicine",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "ENROLLING_BY_INVITATION",
+      "intervention": [
+        "Behavioral: Rehabilitation"
+      ],
+      "start_date": "2022-11-08",
+      "last_update_date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT05725759",
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-11-10T07:38:54Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
+    },
+    {
+      "id": "NCT03225144",
+      "event_key": "clinicaltrials:NCT03225144:2026-11-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03225144",
+      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2017-10-11",
+      "last_update_date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT03225144",
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
+    },
+    {
+      "id": "NCT01925196",
+      "event_key": "clinicaltrials:NCT01925196:2026-11-09",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT01925196",
+      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2013-09-30",
+      "last_update_date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT01925196",
+      "collected_at": "2026-11-10T07:38:54Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-11-10T07:38:54Z"
+    },
     {
       "id": "NCT07922031",
       "event_key": "clinicaltrials:NCT07922031:2026-11-06",
@@ -265,29 +338,6 @@
       "last_seen_at": "2026-11-08T06:32:47Z"
     },
     {
-      "id": "NCT03225144",
-      "event_key": "clinicaltrials:NCT03225144:2026-11-05",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT03225144",
-      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2017-10-11",
-      "last_update_date": "2026-11-05",
-      "url": "https://clinicaltrials.gov/study/NCT03225144",
-      "collected_at": "2026-11-06T07:12:53Z",
-      "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-11-08T06:32:47Z"
-    },
-    {
       "id": "NCT07589764",
       "event_key": "clinicaltrials:NCT07589764:2026-11-04",
       "source_id": "clinicaltrials_gov",
@@ -475,29 +525,6 @@
       "url": "https://clinicaltrials.gov/study/NCT04691011",
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
-      "last_seen_at": "2026-11-01T06:39:12Z"
-    },
-    {
-      "id": "NCT01925196",
-      "event_key": "clinicaltrials:NCT01925196:2026-10-29",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT01925196",
-      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "COMPLETED",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2013-09-30",
-      "last_update_date": "2026-10-29",
-      "url": "https://clinicaltrials.gov/study/NCT01925196",
-      "collected_at": "2026-10-30T06:17:27Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
       "last_seen_at": "2026-11-01T06:39:12Z"
     },
     {
