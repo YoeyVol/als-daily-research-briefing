@@ -1,11 +1,8 @@
 {
-  "updated_at": "2026-11-10T07:38:54Z",
+  "updated_at": "2026-11-11T06:57:53Z",
   "new_keys": [
-    "pubmed:43003200",
-    "pubmed:43001357",
-    "pubmed:43001128",
-    "pubmed:43002167",
-    "pubmed:43000537"
+    "pubmed:43008331",
+    "pubmed:43004989"
   ],
   "items": [
     {
@@ -98,6 +95,38 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43008331",
+      "event_key": "pubmed:43008331",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
+      "authors": [
+        "Josephine Wallner",
+        "Miguel Angrick",
+        "Shiyu Luo",
+        "Daniel Candrea",
+        "Nathan Crone",
+        "Dean J Krusienski"
+      ],
+      "journal": "Journal of neural engineering",
+      "publication_date": "2026-11-10",
+      "pmid": "43008331",
+      "doi": "10.1088/1741-2552/aec049",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/",
+      "abstract": "Achieving long-term decoding stability is a critical challenge for chronic&#xD;intracranial brain-computer interfaces (BCIs). High-gamma (HG) activity from&#xD;intracranial recordings is the standard signal for BCI control, and lower-frequency features&#xD;can enhance HG decoding performance. This study evaluated the longitudinal stability of&#xD;speech and hand-grasp detection models using individual and joint spectral features, and&#xD;the local motor potential (LMP).&#xD;Approach. Longitudinal data from a single participant implanted with two 64-channel&#xD;ECoG arrays were used to evaluate the long-term stability of logistic regression models for&#xD;speech and hand-grasp detection. Models were trained on individual frequency bands and&#xD;on the LMP, a time-domain low-frequency feature, and evaluated over 21 months for&#xD;speech and 13 months for grasp. The best-performing band features were then combined&#xD;into multi-band models and analyzed for their spatial contributions.&#xD;Main Results. The LMP yielded the most accurate single feature models in both tasks&#xD;(speech 93.8%, grasp 99.4%) and showed little or no decline. Multi-band models&#xD;combining HG with lower frequency bands were substantially more stable than HG-only&#xD;models and outperformed the LMP models for speech but not grasp. HG accuracy&#xD;degraded strongly for both tasks (speech:-4.3 percentage points per 100 days, or pp/100d,&#xD;grasp:-3.4 pp/100d). HG+beta for speech showed a negligible decline (-0.5 pp/100d,&#xD;95.6% ±0.06% overall), and for grasp, delta alone showed remarkable stability (+0.5&#xD;pp/100d), while HG+beta+delta maintained 98.2 ±0.09% overall accuracy with flat&#xD;performance (+0.0 pp/100d). The advantage of the multi-band models increased over&#xD;time, reaching +20.6 pp for speech and +10.2 pp for grasp in the last 100 days.&#xD;Significance. Incorporating lower-frequency neural activity yields more stable long-term&#xD;speech and grasp detection than HG alone. These findings indicate that lower-frequency&#xD;and multi-band features may reduce recalibration requirements for simple BCI tasks, and&#xD;may complement the precision control provided by HG activity.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "brain-computer interface",
+        "electrocorticography",
+        "longitudinal stability"
+      ],
+      "collected_at": "2026-11-11T06:57:52Z",
+      "first_seen_at": "2026-11-11T06:57:52Z",
+      "last_seen_at": "2026-11-11T06:57:52Z"
+    },
+    {
       "id": "43003200",
       "event_key": "pubmed:43003200",
       "source_id": "pubmed",
@@ -127,7 +156,7 @@
       ],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "43001357",
@@ -157,7 +186,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42992452",
@@ -243,7 +272,7 @@
       ],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42989982",
@@ -308,6 +337,56 @@
       "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
+      "id": "43004989",
+      "event_key": "pubmed:43004989",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Genome Editing of Mitochondrial Dysfunction in Neurological Disease: Progress and Translational Barriers.",
+      "authors": [
+        "Reva Sharma",
+        "Nirupama Niranjan",
+        "Anika Long",
+        "Rishika Sharma",
+        "Fuad Safieh",
+        "Pranesh Kumar",
+        "Pranaav Sund",
+        "Zahra Sellami"
+      ],
+      "journal": "The Yale journal of biology and medicine",
+      "publication_date": "2026-11-04",
+      "pmid": "43004989",
+      "doi": "10.59249/AFKC3347",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004989/",
+      "abstract": "Mitochondrial dysfunction is increasingly recognized as a shared mechanism across neurological disease. Specifically, impaired oxidative phosphorylation, oxidative stress, and mitochondrial DNA damage are factors in primary mitochondrial disorders and major neurodegenerative diseases such as Parkinson, Alzheimer, and Huntington diseases, and amyotrophic lateral sclerosis. This review surveys the mechanisms driving mitochondrial dysfunction and evaluates the current landscape of gene-editing technologies developed to address them. We examine mitochondria-targeted editors and nuclear-targeted editors, examining the editing capability, delivery constraints, and off-target risk of each. Heteroplasmy-shifting nucleases currently offer the strongest in vivo evidence for mtDNA-directed therapy, while base editors extend correction to homoplasmic mutations at the cost of a narrower editing scope and off-target editing. Nuclear editing platforms avoid the mitochondrial gRNA import barrier entirely, allowing current technologies to achieve the most progress toward functional, behavioral rescue in animal models. Across all platforms, delivery efficiency, off-target specificity, and translation from rodent to primate models remain unresolved barriers to clinical application. Gene editing for mitochondrial dysfunction is highly creditable as a precision therapy for genetically defined disease subsets, including primary mitochondrial disease and other neurodegenerative disorders with a known nuclear driver, rather than as a universal strategy for sporadic neurodegeneration, where mitochondrial dysfunction arises from multifactorial and poorly localized causes.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Gene Editing",
+        "Mitochondria",
+        "Nervous System Diseases",
+        "Mitochondrial Diseases",
+        "DNA, Mitochondrial",
+        "Neurodegenerative Diseases",
+        "Translational Research, Biomedical"
+      ],
+      "keywords": [
+        "Adeno-Associated Virus",
+        "Base Editing",
+        "CRISPR-Cas9",
+        "Gene Editing",
+        "Mitochondrial DNA",
+        "Mitochondrial Dysfunction",
+        "Neurodegenerative Disease",
+        "Nuclear DNA",
+        "Oxidative Phosphorylation",
+        "Reactive Oxygen Species"
+      ],
+      "collected_at": "2026-11-11T06:57:52Z",
+      "first_seen_at": "2026-11-11T06:57:52Z",
+      "last_seen_at": "2026-11-11T06:57:52Z"
+    },
+    {
       "id": "43002167",
       "event_key": "pubmed:43002167",
       "source_id": "pubmed",
@@ -331,7 +410,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42983584",
@@ -3223,7 +3302,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42990859",
@@ -3828,7 +3907,7 @@
       "keywords": [],
       "collected_at": "2026-11-08T06:32:47Z",
       "first_seen_at": "2026-11-08T06:32:47Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42970317",
@@ -5034,7 +5113,7 @@
       "keywords": [],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42953028",
@@ -5795,7 +5874,7 @@
       "keywords": [],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42926935",
@@ -6191,7 +6270,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42939346",
@@ -18390,7 +18469,7 @@
       ],
       "collected_at": "2026-11-09T07:02:08Z",
       "first_seen_at": "2026-11-09T07:02:08Z",
-      "last_seen_at": "2026-11-10T07:38:54Z"
+      "last_seen_at": "2026-11-11T06:57:52Z"
     },
     {
       "id": "42864293",
