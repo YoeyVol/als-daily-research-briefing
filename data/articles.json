@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-11-11T06:57:53Z",
+  "updated_at": "2026-11-12T07:34:46Z",
   "new_keys": [
-    "pubmed:43008331",
-    "pubmed:43004989"
+    "pubmed:43014974",
+    "pubmed:43015100",
+    "pubmed:43012465",
+    "pubmed:43013396",
+    "pubmed:43009651",
+    "pubmed:43009540",
+    "pubmed:43012292",
+    "pubmed:43011830",
+    "pubmed:43011570",
+    "pubmed:43009624",
+    "pubmed:43009466"
   ],
   "items": [
     {
@@ -95,6 +104,168 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43015100",
+      "event_key": "pubmed:43015100",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Glial Regulation of Motor Circuit Formation, Function, and Regeneration.",
+      "authors": [
+        "Sarah D Ackerman",
+        "Laura Fontenas"
+      ],
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "publication_date": "2026-11-11",
+      "pmid": "43015100",
+      "doi": "10.1523/JNEUROSCI.1351-26.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015100/",
+      "abstract": "From simple planaria to humans, proper assembly and maintenance of motor circuits is key to organismal survival. Each year, ∼250,000-500,000 individuals suffer a spinal cord injury with little hope of successful recovery. Moreover, motor circuits are a primary target of prevalent neurodegenerative conditions like ALS and Parkinson's disease. Thus, understanding the mechanisms that build, maintain, and rebuild motor circuits is of substantial clinical interest. Recent data indicate that glia, a heterogeneous group of non-neuronal cells within the nervous system, directly communicate with neurons to tune motor circuit dynamics. We now know glia are often active drivers of neural development and pathology, rather than passive bystanders. This mini-review will highlight recent advances in our understanding of how diverse glial cell types promote proper construction, function, and deconstruction of the key circuits that drive motor behavior.",
+      "mesh_terms": [
+        "Animals",
+        "Neuroglia",
+        "Humans",
+        "Nerve Regeneration",
+        "Nerve Net",
+        "Motor Neurons"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
+      "id": "43012465",
+      "event_key": "pubmed:43012465",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Authors' Reply- Unfinished Breath: Caregivers' Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India.",
+      "authors": [
+        "Muddasu S Keerthipriya",
+        "Atchayaram Nalini",
+        "Priya T Thomas"
+      ],
+      "journal": "Annals of Indian Academy of Neurology",
+      "publication_date": "2026-11-11",
+      "pmid": "43012465",
+      "doi": "10.4103/aian.aian_1096_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012465/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
+      "id": "43013396",
+      "event_key": "pubmed:43013396",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.",
+      "authors": [
+        "Hyungsun Park",
+        "Taewan Kim",
+        "Minseo Kang",
+        "Ji-Kan Ryu",
+        "Seongju Lee"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2026-11-10",
+      "pmid": "43013396",
+      "doi": "10.1016/j.celrep.2026.118283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013396/",
+      "abstract": "Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer. Here, we identified TNFAIP3 interacting protein 1 (TNIP1) as an aggrephagy receptor implicated in neurodegenerative diseases. TNIP1 accumulated at polyubiquitinated protein aggregates upon proteotoxic stress. Genetic depletion of TNIP1 reduced protein aggregate clearance and increased axonal degeneration under proteotoxic stress. Mechanistically, TNIP1 enhanced protein aggregate clearance by assembling aggrephagy receptors, such as SQSTM1/p62 and TAX1BP1, onto protein aggregates. Gene expression analysis revealed that TNIP1 expression levels are reduced in patients with amyotrophic lateral sclerosis (ALS) with TAR DNA-binding protein 43 (TDP-43) inclusion pathology. Additionally, an ALS-associated TNIP1 mutant exhibited impaired association with TDP-43 aggregates and failed to rescue their autophagy-mediated degradation. These findings establish TNIP1 as an aggrephagy receptor and reveal its potential role as a therapeutic target for ALS and other proteinopathies.",
+      "mesh_terms": [],
+      "keywords": [
+        "CP: cell biology",
+        "CP: neuroscience",
+        "TDP-43",
+        "TNIP1",
+        "aggrephagy",
+        "amyotrophic lateral sclerosis",
+        "autophagy receptor"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
+      "id": "43009651",
+      "event_key": "pubmed:43009651",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Impaired discrimination of negative facial emotions in pure motor ALS.",
+      "authors": [
+        "Antonia Meyer",
+        "Anna Semenkova",
+        "Steven Wezel",
+        "Markus Weber",
+        "Kathi Schweikert",
+        "Regina Schläger",
+        "Janina Wendebourg",
+        "Olivier Piguet",
+        "Manfred Berres",
+        "Nathalie Braun",
+        "Dorothée Lulé",
+        "Marc Sollberger"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-11-10",
+      "pmid": "43009651",
+      "doi": "10.1007/s00415-026-14241-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009651/",
+      "abstract": "BACKGROUND AND OBJECTIVES: Emotion recognition deficits in amyotrophic lateral sclerosis (ALS) remain debated. We investigated whether patients with pure motor ALS (without cognitive and behavioural disturbances) and without clinically relevant mood disturbances are impaired in discriminating negative facial emotions, using a test without ceiling effects.\n\nMETHODS: This cross-sectional study included 35 patients with pure motor ALS, based on the revised Strong criteria and operationalised using the Edinburgh Cognitive and Behavioural ALS Screen (ECAS), without clinically relevant mood disturbances, alongside 35 age-, sex-, and education-matched cognitively and psychiatrically healthy controls. All participants completed a shortened five-emotion version of the Facial Emotion Intensity Rating Test - Congruent and Incongruent and the Facial Sex Matching Task (FSMT), a brief screening measure of non-emotional facial discrimination.\n\nRESULTS: Pure motor ALS patients showed poorer discrimination among negative facial emotions than healthy controls (p = 0.011, Cohen's d = 0.63). The group difference did not differ significantly across anger, fear, sadness, and disgust (p = 0.178). Similarly, the group difference in discrimination among negative emotions did not differ significantly from that in discrimination between negative emotions and happiness (p = 0.459). The two groups did not differ significantly on the FSMT.\n\nCONCLUSION: Discrimination of negative facial emotions was impaired in patients with pure motor ALS, suggesting that classification based on ECAS screening may underestimate social-cognitive involvement. Our findings are compatible with the concept of an ALS-frontotemporal spectrum disorder. Whether impaired emotion discrimination relates to additional cognitive or behavioural impairment remains to be determined. The clinical utility and reliability of our measure require further study.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Emotions",
+        "Cross-Sectional Studies",
+        "Aged",
+        "Facial Expression",
+        "Facial Recognition",
+        "Discrimination, Psychological"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Facial emotion recognition",
+        "Frontotemporal dementia",
+        "Pure motor ALS",
+        "Social cognition"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
+      "id": "43009540",
+      "event_key": "pubmed:43009540",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The neuro-inflammaging triangle: a self-amplifying circuit of protein pathology, senescence-associated secretory phenotype and innate immunity in neurodegenerative disease.",
+      "authors": [
+        "He-Jin Lee",
+        "Seung-Jae Lee"
+      ],
+      "journal": "Experimental & molecular medicine",
+      "publication_date": "2026-11-10",
+      "pmid": "43009540",
+      "doi": "10.1038/s12276-026-01891-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009540/",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, frontotemporal dementia and amyotrophic lateral sclerosis, share common pathological features, including abnormal protein aggregation, chronic neuroinflammation and progressive neuronal loss. Ageing is the strongest risk factor, accompanied by a chronic, mild inflammatory state called 'inflammaging,' partly due to senescent cells producing senescence-associated secretory phenotype (SASP) factors. Innate immune DNA- and danger-sensing pathways, most notably the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway and NOD-like receptor family, pyrin domain containing 3 (NLRP3) inflammasomes, convert cellular injury into chronic neuroinflammation. Here, we propose that protein pathology, SASP, and innate immune activation form a self-amplifying triangular circuit leading to age-related neurodegeneration. We present the cellular and molecular basis of each part and how microglia, astrocytes, oligodendrocyte precursor cells and neurons contribute. We outline treatment strategies, including senolytics, senomorphics, innate immune pathway inhibitors and metabolic restoration, and identify unresolved questions, including the reversibility of post-mitotic neuronal senescence, the relative contribution of each cell type and the translational challenge of interrupting the cycle. Collectively, the neuro-inflammaging triangle theory shifts focus from individual pathogenic entities to the self-amplifying circuit that sustains them, offering a unified mechanistic model to advance our understanding and treatment of age-related neurodegeneration.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
       "id": "43008331",
       "event_key": "pubmed:43008331",
       "source_id": "pubmed",
@@ -124,7 +295,7 @@
       ],
       "collected_at": "2026-11-11T06:57:52Z",
       "first_seen_at": "2026-11-11T06:57:52Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "43003200",
@@ -156,7 +327,7 @@
       ],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "43001357",
@@ -186,7 +357,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42992452",
@@ -272,7 +443,7 @@
       ],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42989982",
@@ -384,7 +555,7 @@
       ],
       "collected_at": "2026-11-11T06:57:52Z",
       "first_seen_at": "2026-11-11T06:57:52Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "43002167",
@@ -410,7 +581,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42983584",
@@ -703,6 +874,39 @@
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
       "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "43012292",
+      "event_key": "pubmed:43012292",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ferroptosis as a Therapeutic Target in Neurological Disorders: Pharmacological Advances and Translational Challenges.",
+      "authors": [
+        "Jun Hong Eng",
+        "Ashley En Yi Chong",
+        "Rhun Yian Koh",
+        "Anna Pick Kiong Ling"
+      ],
+      "journal": "Current pharmaceutical biotechnology",
+      "publication_date": "2026-11-03",
+      "pmid": "43012292",
+      "doi": "10.2174/0113892010520055261019113815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012292/",
+      "abstract": "Ferroptosis is an iron-mediated form of programmed cell death characterised by distinct features, including excessive iron accumulation, lipid peroxidation, and impaired antioxidant mechanisms. The susceptibility of the Central Nervous System (CNS) to ferroptosis has been reported, along with evidence that ferroptosis is associated with neurological disorders such as Alzheimer's Disease (AD), Parkinson's Disease (PD), Amyotrophic Lateral Sclerosis (ALS), stroke, and Multiple Sclerosis (MS). To date, major ferroptosis inhibitors encompass iron chelators, lipid-trapping antioxidants, and antioxidant modulators. Translational challenges in drug toxicity, selectivity, and delivery promote drug development in terms of improving pharmacokinetics through structural modification, alternative routes of administration, and nanoparticle encapsulation. In addition, research on identifying novel and promising ferroptosis inhibitors from natural products and known drug compounds is continuous, accompanied by ongoing drug optimisation and modification. Biomarkers of ferroptosis have been discussed given the emerging clinical interest in them for disease diagnosis or prognosis and patient stratification. Standalone anti-ferroptotic treatments for CNS disorders have been found to be difficult to achieve favourable clinical outcomes, thereby suggesting combination therapies that not only harness ferroptosis but also address diverse pathological pathways in the respective diseases as a prospect for managing CNS disorders. Thus, this article aims to review recent updates on clinically approved ferroptosis inhibitors as well as summarise the current drug development landscape and outline future directions to provide a better understanding of the contemporary development of ferroptosis inhibitors for neurological disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Parkinson’s disease",
+        "amyotrophic lateral sclerosis",
+        "iron metabolism",
+        "lipid peroxidation",
+        "multiple sclerosis",
+        "programmed cell death"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42977228",
@@ -2132,6 +2336,47 @@
       "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
+      "id": "43011830",
+      "event_key": "pubmed:43011830",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "From intestinal barrier sensing to glial immune programming: a barrier-immune-glia relay in microbiota-associated neurodegeneration.",
+      "authors": [
+        "Juanna Lin",
+        "Xuan Zou"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2026-10-27",
+      "pmid": "43011830",
+      "doi": "10.3389/fimmu.2026.1956619",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011830/",
+      "abstract": "The gut microbiota contributes to host homeostasis through metabolic, immunological, neural, and barrier-related pathways, and its role in the onset and progression of neurodegenerative diseases has received increasing attention. Patients with Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis often exhibit alterations in gut microbial composition, microbial metabolic function, and peripheral inflammatory phenotypes. However, existing clinical evidence is derived predominantly from cross-sectional studies, and the direction of causality between microbiota alterations and disease pathology remains to be established. This review uses a \"barrier-immune-glial relay\" framework to systematically summarize the potential mechanisms through which gut microbiota-associated signals influence immune homeostasis in the central nervous system. First, alterations in microbial composition, short-chain fatty acids, bile acids, tryptophan derivatives, and lipopolysaccharide may act on the intestinal epithelial barrier, enteric nervous system, and intestinal mucosal immune cells, thereby affecting local immune tolerance and inflammatory responses. Second, intestinal macrophages, dendritic cells, innate lymphoid cells, T cells, and B cells may translate local microbial signals into circulating metabolites, inflammatory mediators, and immune cell-associated signals, which may in turn influence blood-brain barrier function and the central immune microenvironment. Furthermore, microglia and astrocytes, as key integrators within the central nervous system, can respond to gut-derived metabolites and peripheral immune signals. Their interaction network may determine whether neuroinflammation, synaptic injury, and neurodegenerative pathology are amplified or constrained. This review also evaluates the levels of evidence supporting these mechanisms in Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, and multiple sclerosis. Although these disorders may share mechanistic nodes, including barrier impairment, immunometabolic dysregulation, and glial responses, their core pathologies, immune contexts, and temporal disease trajectories differ substantially. Finally, we propose that establishing a verifiable causal chain linking \"microbial functional genes-metabolites-barrier and immune remodeling-glial cell states-neuropathology-clinical phenotypes\" will provide a basis for biomarker development and precision interventions in neurodegenerative diseases.",
+      "mesh_terms": [
+        "Humans",
+        "Intestinal Barrier Function",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Neuroglia",
+        "Gastrointestinal Microbiome",
+        "Blood-Brain Barrier",
+        "Intestinal Mucosa"
+      ],
+      "keywords": [
+        "astrocytes",
+        "blood-brain barrier",
+        "gut microbiota",
+        "gut-immune-brain axis",
+        "intestinal mucosal barrier",
+        "microglia",
+        "neurodegenerative diseases",
+        "neuroimmunology"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
       "id": "42967168",
       "event_key": "pubmed:42967168",
       "source_id": "pubmed",
@@ -2521,6 +2766,37 @@
       "collected_at": "2026-10-27T05:25:53Z",
       "first_seen_at": "2026-10-27T05:25:53Z",
       "last_seen_at": "2026-10-29T06:17:28Z"
+    },
+    {
+      "id": "43011570",
+      "event_key": "pubmed:43011570",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Integrating single-cell transcriptomics into model systems to decode neurodegeneration in amyotrophic lateral sclerosis.",
+      "authors": [
+        "David Orsulik",
+        "Teresa Niccoli"
+      ],
+      "journal": "Frontiers in cellular neuroscience",
+      "publication_date": "2026-10-26",
+      "pmid": "43011570",
+      "doi": "10.3389/fncel.2026.1911064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011570/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterised by motor neuron degeneration. Several genetic risk factors, including mutations in C9orf72, SOD1, TARDBP and FUS have been linked to disease. However, the precise cellular pathogenic mechanisms of ALS remain poorly understood, impeding the development of effective therapeutics. ALS model systems, ranging from Drosophila, mice to human induced pluripotent stem cells (hiPSCs), are powerful research platforms for decoding these mechanisms, with their high genetic tractability allowing for the tracking of disease across the life course. Recently, the application of single cell resolution approaches have allowed the dissection of the heterogenous nature of cellular response to disease in these models, revealing novel ALS pathogenic mechanisms and therapeutic targets. In this Review, we explore the unique benefits and challenges of using single-cell RNA-sequencing (scRNA-seq)/single-nucleus RNA-sequencing (snRNA-seq) analysis of in vivo and in vitro ALS model systems to identify disease pathways and drive our mechanistic understanding of ALS forward. By using single cell approaches in models of ALS, researchers can identify novel, druggable, cellular pathways acting across all disease stages that may be obscured in late-stage post-mortem tissue.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "C9",
+        "Drosophila",
+        "TDP43",
+        "model systems",
+        "repeat expansion",
+        "single cell RNA-sequencing"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42990966",
@@ -6270,7 +6546,7 @@
       "keywords": [],
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-11T06:57:52Z"
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42939346",
@@ -10274,6 +10550,44 @@
       "last_seen_at": "2026-10-03T05:37:05Z"
     },
     {
+      "id": "43014974",
+      "event_key": "pubmed:43014974",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Dementia and Neurodegenerative Disease: Movement Disorders.",
+      "authors": [
+        "Nathan Lee",
+        "Michelle Roytman"
+      ],
+      "journal": "Neuroimaging clinics of North America",
+      "publication_date": "2026-09-29",
+      "pmid": "43014974",
+      "doi": "10.1016/j.nic.2026.07.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014974/",
+      "abstract": "Movement disorders encompass a wide variety of neurodegenerative conditions that ultimately present with a combination of changes in movement, and in some cases, changes in cognition. The heterogeneity of movement disorders reflects several underlying pathologic processes and include relatively common entities, such as Parkinson's disease and normal pressure hydrocephalus, as well as less common entities, such as atypical Parkinsonian syndromes, Huntington's disease, Wilson's disease, and amyotrophic lateral sclerosis. Multimodal imaging techniques, including a variety of PET radiotracers, can facilitate an accurate diagnosis of neurodegenerative movement disorders, highlighting the critical role of radiologists in this field.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Movement Disorders",
+        "Dementia",
+        "Brain",
+        "Neuroimaging",
+        "Positron-Emission Tomography"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Atypical Parkinsonian syndromes",
+        "Huntington disease",
+        "Movement disorders",
+        "Neurodegenerative disease",
+        "Parkinson disease"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
+    },
+    {
       "id": "42882466",
       "event_key": "pubmed:42882466",
       "source_id": "pubmed",
@@ -13032,6 +13346,45 @@
       "collected_at": "2026-09-20T05:15:34Z",
       "first_seen_at": "2026-09-20T05:15:34Z",
       "last_seen_at": "2026-09-22T05:16:34Z"
+    },
+    {
+      "id": "43009624",
+      "event_key": "pubmed:43009624",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "CircSMOX in muscle and neuronal physiology and disease.",
+      "authors": [
+        "Marianna Nicoletta Rossi",
+        "Lavinia Attili",
+        "Manuela Cervelli"
+      ],
+      "journal": "Amino acids",
+      "publication_date": "2026-09-18",
+      "pmid": "43009624",
+      "doi": "10.1007/s00726-026-03549-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009624/",
+      "abstract": "Circular RNAs (circRNAs) are single stranded RNA molecules with a covalently closed loop structure that confers remarkable stability. They are increasingly recognized as important regulators of gene expression, showing tissue- and stage-specific expression patterns. CircRNAs influence gene expression through several routes: many sequester microRNAs, others bind specific RNA-binding proteins, and some affect transcription or post-transcriptional control. A subset can even be translated into short peptides. They are particularly abundant in the nervous system and in skeletal muscle, where they contribute to processes such as neural development, synaptic function, neuronal plasticity, muscle formation, and tissue homeostasis. Disruptions in circRNA expression patterns have been linked to neurodegenerative conditions, muscle-wasting disorders, and other disease states. Among the known circRNAs, circSMOX-formed from exons 2 and 3 of the murine SMOX gene-has been found dynamically expressed during brain and muscle development and increased in models of ischemia, spinal cord damage, and muscle atrophy. During C2C12 myogenic differentiation, circSMOX expression parallels that of the linear SMOX transcript. In contrast, in dexamethasone-induced atrophy and in ALS mouse models (SOD1G93A and hFUS+/+), which exhibit progressive muscle atrophy, circSMOX is significantly upregulated. Mainly localized in the cytoplasm and less abundant than the linear isoform, circSMOX acts as a miR-340-5p sponge, influencing neuroinflammatory pathways. Despite these insights, the precise molecular mechanisms of circSMOX remain to be fully clarified, and the identification of a human ortholog will be important to broaden its therapeutic potential.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "RNA, Circular",
+        "Muscle, Skeletal",
+        "Neurons",
+        "MicroRNAs",
+        "Neurodegenerative Diseases",
+        "Gene Expression Regulation"
+      ],
+      "keywords": [
+        "CircRNA",
+        "CircSMOX",
+        "NcRNA",
+        "Neural tissue",
+        "Skeletal muscle tissue"
+      ],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42792233",
@@ -18013,6 +18366,33 @@
       "collected_at": "2026-09-17T05:09:43Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
       "last_seen_at": "2026-09-19T04:54:17Z"
+    },
+    {
+      "id": "43009466",
+      "event_key": "pubmed:43009466",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Autophagy induction mitigates FUS aggregate formation and early synaptic dysfunction at the NMJ in a FUS-ALS model.",
+      "authors": [
+        "Tulika Malik",
+        "Sam Jones",
+        "Olivia Ma",
+        "Sahana Mohan",
+        "R Michael Burger",
+        "Daniel T Babcock"
+      ],
+      "journal": "Cell death discovery",
+      "publication_date": "2026-08-14",
+      "pmid": "43009466",
+      "doi": "10.1038/s41420-026-03286-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009466/",
+      "abstract": "Mutations in Fused in Sarcoma (FUS), an RNA binding protein, cause Amyotrophic Lateral Sclerosis (ALS). ALS is an aggressive neurodegenerative disease resulting in motor neuron degeneration. Defects in synaptic integrity precede neuronal loss in ALS, but the mechanisms responsible for these early synaptic defects are unclear. To investigate early synaptic defects associated with ALS, we expressed an ALS-linked variant of human FUS in adult motor neurons and assessed synaptic pathology at the neuromuscular junction (NMJ). Here, we highlight the accumulation of FUS-positive aggregates at synaptic terminals and subsequent reduction in microtubule stability. Autophagy induction via expression of Rab1 or Fragile-X Mental Retardation Protein 1 (FMR1), or treatment with rapamycin reduces aggregate formation and restores synaptic structure and function. These findings reveal the utility of inducing autophagy to address early synaptic dysfunction in an ALS model and demonstrate a potential therapeutic target to preventing later stages of disease progression.Teaser Maintaining synaptic integrity protects motor neurons in a model of ALS.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-12T07:34:46Z",
+      "first_seen_at": "2026-11-12T07:34:46Z",
+      "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
       "id": "42772840",
