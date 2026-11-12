@@ -132,6 +132,8 @@ ALS Association、MND Association、ALS TDI、NEALS、FDA 与 EMA 已作为禁�
 
 ## 历史日报
 
+- [2026-11-12](2026-11-12.md)
+
 - [2026-11-11](2026-11-11.md)
 
 - [2026-11-10](2026-11-10.md)
