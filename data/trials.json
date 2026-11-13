@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-11-12T07:34:46Z",
-  "new_keys": [],
+  "updated_at": "2026-11-13T07:05:23Z",
+  "new_keys": [
+    "clinicaltrials:NCT02567136:2026-11-12",
+    "clinicaltrials:NCT05286372:2026-11-12",
+    "clinicaltrials:NCT07933549:2026-11-12",
+    "clinicaltrials:NCT06889857:2026-11-12",
+    "clinicaltrials:NCT03225144:2026-11-12",
+    "clinicaltrials:NCT07929792:2026-11-12",
+    "clinicaltrials:NCT07400393:2026-11-12",
+    "clinicaltrials:NCT07855211:2026-11-12"
+  ],
   "items": [
     {
+      "id": "NCT07933549",
+      "event_key": "clinicaltrials:NCT07933549:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07933549",
+      "title": "REstoration of Communication and LAnguage With Intracortical Microelectrodes",
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Device: RECLAIM System"
+      ],
+      "start_date": "2026-11-01",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07933549",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
       "id": "NCT07929792",
-      "event_key": "clinicaltrials:NCT07929792:2026-11-10",
+      "event_key": "clinicaltrials:NCT07929792:2026-11-12",
       "source_id": "clinicaltrials_gov",
       "source_name": "ClinicalTrials.gov",
       "category": "Clinical Trials",
@@ -20,11 +52,151 @@
         "Device: R1 Robot"
       ],
       "start_date": "2026-11",
-      "last_update_date": "2026-11-10",
+      "last_update_date": "2026-11-12",
       "url": "https://clinicaltrials.gov/study/NCT07929792",
-      "collected_at": "2026-11-11T06:57:53Z",
+      "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-11T06:57:53Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT07855211",
+      "event_key": "clinicaltrials:NCT07855211:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07855211",
+      "title": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Biogen",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: BIIB147",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-10-07",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07855211",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-10-03T05:37:06Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT07400393",
+      "event_key": "clinicaltrials:NCT07400393:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07400393",
+      "title": "Healey ALS MyMatch Common Screening Protocol",
+      "sponsor": "Massachusetts General Hospital",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-08-31",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07400393",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT06889857",
+      "event_key": "clinicaltrials:NCT06889857:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06889857",
+      "title": "Safety and Exploratory Clinical Outcomes of Repeated Intravenous SHED-Conditioned Medium as a Secretome-Based Cell-Free Therapy in Amyotrophic Lateral Sclerosis: A Prospective, Single-Center Study",
+      "sponsor": "Hitonowa Medical",
+      "phase": [
+        "EARLY_PHASE1"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Biological: The study drug is SHED-CM manufactured by U-Factor"
+      ],
+      "start_date": "2024-04-05",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT06889857",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT05286372",
+      "event_key": "clinicaltrials:NCT05286372:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05286372",
+      "title": "An Intermediate Size Expanded Access Protocol of AMX0035 for ALS",
+      "sponsor": "Amylyx Pharmaceuticals Inc.",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "NO_LONGER_AVAILABLE",
+      "intervention": [
+        "Drug: AMX0035"
+      ],
+      "start_date": "",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT05286372",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT03225144",
+      "event_key": "clinicaltrials:NCT03225144:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT03225144",
+      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2017-10-11",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT03225144",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-09-18T05:02:59Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "NCT02567136",
+      "event_key": "clinicaltrials:NCT02567136:2026-11-12",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT02567136",
+      "title": "Imaging Biomarkers in ALS",
+      "sponsor": "University of Minnesota",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2015-09",
+      "last_update_date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT02567136",
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "NCT07298486",
@@ -47,7 +219,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07298486",
       "collected_at": "2026-11-11T06:57:53Z",
       "first_seen_at": "2026-11-11T06:57:53Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "NCT07290062",
@@ -70,7 +242,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07290062",
       "collected_at": "2026-11-11T06:57:53Z",
       "first_seen_at": "2026-09-24T05:13:16Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "NCT07224256",
@@ -94,7 +266,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07224256",
       "collected_at": "2026-11-11T06:57:53Z",
       "first_seen_at": "2026-11-11T06:57:53Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "NCT07002034",
@@ -117,7 +289,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07002034",
       "collected_at": "2026-11-11T06:57:53Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "NCT05725759",
@@ -140,29 +312,6 @@
       "url": "https://clinicaltrials.gov/study/NCT05725759",
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
-    },
-    {
-      "id": "NCT03225144",
-      "event_key": "clinicaltrials:NCT03225144:2026-11-09",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT03225144",
-      "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2017-10-11",
-      "last_update_date": "2026-11-09",
-      "url": "https://clinicaltrials.gov/study/NCT03225144",
-      "collected_at": "2026-11-10T07:38:54Z",
-      "first_seen_at": "2026-09-18T05:02:59Z",
       "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
@@ -783,31 +932,6 @@
       "collected_at": "2026-10-28T06:06:47Z",
       "first_seen_at": "2026-10-28T06:06:47Z",
       "last_seen_at": "2026-10-30T06:17:27Z"
-    },
-    {
-      "id": "NCT07855211",
-      "event_key": "clinicaltrials:NCT07855211:2026-10-26",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07855211",
-      "title": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic Lateral Sclerosis (ALS)",
-      "sponsor": "Biogen",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: BIIB147",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-10-07",
-      "last_update_date": "2026-10-26",
-      "url": "https://clinicaltrials.gov/study/NCT07855211",
-      "collected_at": "2026-10-27T05:25:53Z",
-      "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
       "id": "NCT06581861",

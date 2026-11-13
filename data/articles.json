@@ -1,17 +1,14 @@
 {
-  "updated_at": "2026-11-12T07:34:46Z",
+  "updated_at": "2026-11-13T07:05:23Z",
   "new_keys": [
-    "pubmed:43014974",
-    "pubmed:43015100",
-    "pubmed:43012465",
-    "pubmed:43013396",
-    "pubmed:43009651",
-    "pubmed:43009540",
-    "pubmed:43012292",
-    "pubmed:43011830",
-    "pubmed:43011570",
-    "pubmed:43009624",
-    "pubmed:43009466"
+    "pubmed:43020536",
+    "pubmed:43020712",
+    "pubmed:43019526",
+    "pubmed:43015714",
+    "pubmed:43015463",
+    "pubmed:43016795",
+    "pubmed:43016791",
+    "pubmed:43016267"
   ],
   "items": [
     {
@@ -56,6 +53,89 @@
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
       "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "43020712",
+      "event_key": "pubmed:43020712",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Ventral Lung Injury and Pneumothorax in Patients With Amyotrophic Lateral Sclerosis Receiving Long-term Positive Pressure Ventilation.",
+      "authors": [
+        "Nobuhiro Okagaki",
+        "Tomomasa Tsuboi",
+        "Yuichi Chihara",
+        "Kensuke Sumi",
+        "Takashi Hajiro",
+        "Tomoki Maetani",
+        "Naoya Tanabe",
+        "Tomohiro Handa",
+        "Susumu Sato",
+        "Atsuo Sato"
+      ],
+      "journal": "Archivos de bronconeumologia",
+      "publication_date": "2026-11-12",
+      "pmid": "43020712",
+      "doi": "10.1016/j.arbres.2026.10.015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020712/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "43019526",
+      "event_key": "pubmed:43019526",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Rethinking Digital Outcome Measures for Amyotrophic Lateral Sclerosis Trials: Consensus Priorities for Actigraphy Harmonization, Validation, and Regulatory Readiness.",
+      "authors": [
+        "Frederik Steyn",
+        "Rakesh Pilkar",
+        "Nadia Sethi",
+        "Lori Heller",
+        "Cory Holdom",
+        "Ruben P A van Eijk",
+        "Marcin Straczkiewicz",
+        "Katherine M Burke",
+        "James D Berry",
+        "Sanjay Chandriani",
+        "Gordon Jewett",
+        "Emma Hodson-Tole",
+        "Collin Hovinga",
+        "Fernando Vieira",
+        "Christine Guo"
+      ],
+      "journal": "Journal of medical Internet research",
+      "publication_date": "2026-11-12",
+      "pmid": "43019526",
+      "doi": "10.2196/106677",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019526/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) clinical trials need outcome measures that complement established end points while capturing how people function in daily life. In this viewpoint, we draw on our collective experience in ALS research, clinical trials, digital-measure development, and regulatory science, together with published evidence, a preliminary patient survey, stakeholder discussions, and experience from multisite actigraphy studies. We argue that the field now has a substantial base of longitudinal data and candidate measures, but lacks the coordinated framework needed to compare, prioritize, and validate them across studies. We identify 4 linked priorities: adopt fit-for-purpose measures in stages and within defined contexts of use; harmonize data collection and analysis; use data to shortlist and validate measures across cohorts; and prepare actigraphy methods for trial adoption through early industry and regulatory engagement. Across these priorities, actigraphy should complement rather than replace established clinical outcomes, with its integration guided by patient relevance, ALS phenotypic heterogeneity, participant, and caregiver burden, and the intended context of use. Our central message is that progress now depends less on generating additional isolated datasets or measures than on coordinating the evaluation of existing assets, and aligning future evidence generation.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Actigraphy",
+        "Outcome Assessment, Health Care",
+        "Clinical Trials as Topic",
+        "Consensus",
+        "Digital Health"
+      ],
+      "keywords": [
+        "accelerometry",
+        "actigraphy",
+        "amyotrophic lateral sclerosis",
+        "clinical trial design",
+        "digital clinical outcome assessments",
+        "patient-centered outcomes",
+        "regulatory pathways"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42947522",
@@ -104,6 +184,103 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43015714",
+      "event_key": "pubmed:43015714",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "From technique to sensitivity: the transformation of clinical and ethical reasoning in physiotherapy students in the context of chronic neurodegenerative diseases.",
+      "authors": [
+        "Sagrario Pérez-de la Cruz"
+      ],
+      "journal": "BMC medical education",
+      "publication_date": "2026-11-11",
+      "pmid": "43015714",
+      "doi": "10.1186/s12909-026-10077-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015714/",
+      "abstract": "BACKGROUND: The evolution of Physiotherapy requires a shift from the biomedical model towards bioethical and humanistic approaches. This study explores how final-year students perceive their professional role when dealing with patients with complex neurodegenerative conditions, where traditional technical success is challenged by the irreversibility of the deterioration.\n\nMETHODS: Qualitative research based on interpretative description. Thirty final-year students from the University of Almería (Spain) took part, divided into five working groups. Three training sessions and discussions were held on Amyotrophic Lateral Sclerosis (ALS), Alzheimer's disease, stroke and Rett syndrome. The data were analysed using thematic analysis and triangulation by researchers external to the study, with reflexivity ensured through logbooks.\n\nRESULTS: A shift in clinical reasoning was identified, with sensitivity taking precedence over technique. Students redefined therapeutic success in terms of \"comfort\" and support, valuing \"microscopic achievements\" such as the preservation of dignity and the alleviation of distress. Of particular note is the ability to adapt ethical principles according to the patient's cognitive integrity (autonomy in ALS versus protection in Alzheimer's) and the integration of the carer as an inseparable part of the therapeutic process.\n\nCONCLUSION: Future physiotherapists perceive humanization and the empathetic interpretation of non-verbal cues as essential therapeutic tools. Unlike previous studies focused on clinical experience, this research explores pre-clinical ethical maturation, offering a unique perspective on the educational foundation and humanistic predisposition of future graduates prior to their immersion in the healthcare system. It is imperative that academic curricula formally integrate competencies in bioethics, palliative care and emotional management to prepare graduates for extreme vulnerability and prevent early professional burnout.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Physical Therapy Specialty",
+        "Qualitative Research",
+        "Clinical Reasoning",
+        "Male",
+        "Female",
+        "Spain",
+        "Physical Therapists",
+        "Attitude of Health Personnel",
+        "Chronic Disease",
+        "Curriculum"
+      ],
+      "keywords": [
+        "Bioethics",
+        "Humanization of care",
+        "Medical education",
+        "Neurodegenerative diseases",
+        "Physiotherapy"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "43015463",
+      "event_key": "pubmed:43015463",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss.",
+      "authors": [
+        "Matthew J Keuss",
+        "Peter Harley",
+        "Eugeni Ryadnov",
+        "Rachel E Jackson",
+        "Moritz Boll",
+        "Matteo Zanovello",
+        "Oscar G Wilkins",
+        "Simone Barattucci",
+        "Dragana Ilic",
+        "Rebecca L Simkin",
+        "Max Z Y J Chien",
+        "Alexander J Cammack",
+        "Darija Šoltić",
+        "Puja R Mehta",
+        "Yan To Ling",
+        "Maria Kowald",
+        "Ryan D Morrie",
+        "Georgiana Miller",
+        "Marcio G Oliveira",
+        "Graham Duddy",
+        "Sophie Wood",
+        "Joanna E Parkes",
+        "Aparna Sinha",
+        "Andrés F Correa-Sánchez",
+        "Adrian M Isaacs",
+        "Peter L Oliver",
+        "Fursham Hamid",
+        "Eric M Green",
+        "Elizabeth M C Fisher",
+        "Benjamin Davies",
+        "Giampietro Schiavo",
+        "Mala Shah",
+        "Noa Lipstein",
+        "Juan Burrone",
+        "Pietro Fratta"
+      ],
+      "journal": "Nature",
+      "publication_date": "2026-11-11",
+      "pmid": "43015463",
+      "doi": "10.1038/s41586-026-11256-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015463/",
+      "abstract": "TDP-43 nuclear depletion is a defining pathological feature of amyotrophic lateral sclerosis and frontotemporal dementia that induces widespread cryptic splicing defects in hundreds of transcripts1-8. Despite this, whether TDP-43 loss affects synaptic function has remained unclear. Here we show that TDP-43 loss induces a predegenerative state in which neurons remain structurally intact but suffer a substantial breakdown in synaptic communication. Genetic correction of a single cryptic splicing event in UNC13A was sufficient to rescue these deficits. We developed splice-switching antisense oligonucleotides that correct UNC13A cryptic splicing in human cortical and spinal motor neurons and in a humanized mouse model. In human neurons this intervention restored spontaneous and evoked synaptic vesicle release, release probability at individual synapses and wider network synchrony. Together, this establishes UNC13A splice correction as a mechanistically defined and genetically validated therapeutic strategy relevant to roughly 97% of patients with amyotrophic lateral sclerosis and roughly 50% of patients with frontotemporal dementia with TDP-43 pathology.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
       "id": "43015100",
       "event_key": "pubmed:43015100",
       "source_id": "pubmed",
@@ -131,7 +308,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43012465",
@@ -155,7 +332,41 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
+      "id": "43016791",
+      "event_key": "pubmed:43016791",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Chimeric models of neurodegenerative diseases: from disease mechanisms to regenerative therapies.",
+      "authors": [
+        "Laura Cáceres-Palomo",
+        "María Alfonso-Triguero",
+        "Arantzazu Belloso-Iguerategui",
+        "Estibaliz Santiago-Mujika",
+        "Marta Mirón-Alcalá",
+        "Amaia M Arranz"
+      ],
+      "journal": "Molecular neurodegeneration advances",
+      "publication_date": "2026-11-10",
+      "pmid": "43016791",
+      "doi": "10.1186/s44477-026-00059-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016791/",
+      "abstract": "Human-rodent chimeric CNS models provide a unique platform for investigating human-specific aspects of neurodegeneration within the physiological environment of the living CNS. These models are generated by transplanting human pluripotent stem cell-derived neurons, astrocytes, microglia, oligodendrocytes, or neural or glial progenitor cells into the CNS of permissive host animals. Following transplantation, human cells mature, functionally integrate within host tissue, and retain key species-specific molecular and cellular features. Here, we review recent advances in the use of chimeric models to investigate disease mechanisms in Alzheimer's disease, Parkinson's disease, Huntington's disease, Amyotrophic Lateral Sclerosis, and demyelinating disorders. We highlight the unique insights these models have provided into human-specific cellular vulnerabilities, genotype-dependent phenotypes, glial responses, and neuroimmune interactions in vivo. We also discuss emerging translational applications, including cell replacement therapies, engineered glial delivery platforms, and remyelination strategies, some of which have progressed toward clinical translation. Finally, we outline the current limitations and future directions for developing next-generation multi-lineage humanized models with enhanced disease fidelity and translational potential.",
+      "mesh_terms": [],
+      "keywords": [
+        "Cell replacement therapy",
+        "Glia",
+        "Human pluripotent stem cells",
+        "Human-rodent chimeras",
+        "Neurodegenerative diseases",
+        "Xenotransplantation"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43013396",
@@ -189,7 +400,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43009651",
@@ -240,7 +451,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43009540",
@@ -263,7 +474,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43008331",
@@ -295,7 +506,7 @@
       ],
       "collected_at": "2026-11-11T06:57:52Z",
       "first_seen_at": "2026-11-11T06:57:52Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43003200",
@@ -555,7 +766,7 @@
       ],
       "collected_at": "2026-11-11T06:57:52Z",
       "first_seen_at": "2026-11-11T06:57:52Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "43002167",
@@ -906,7 +1117,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42977228",
@@ -1964,6 +2175,55 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43016795",
+      "event_key": "pubmed:43016795",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Simultaneous evoked CMAP recording and sonography reveal a prolonged electromechanical delay in ALS patients.",
+      "authors": [
+        "Sebastian A Wölk",
+        "Uwe Walter",
+        "Johannes Prudlo",
+        "Anne-Kathrin Ruß",
+        "Robert Patejdl"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2026-10-28",
+      "pmid": "43016795",
+      "doi": "10.3389/fneur.2026.1943566",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016795/",
+      "abstract": "Alterations in electromechanical coupling have been described in patients with amyotrophic lateral sclerosis (ALS) and may contribute to the pathophysiology of the disease. Regardless of this, few measurements of electromechanical delay (EMD) in ALS patients have been published. In this motor nerve conduction study, 28 patients with ALS were examined for changes in electromechanical coupling time compared to healthy individuals using sonoelectromyography, a novel dual-method approach combining simultaneous evoked compound muscle action potential (CMAP) recording following an ENG protocol with Doppler ultrasound. In the examination of four muscles (the abductor digiti minimi muscle, brachioradialis muscle, tibialis anterior muscle, and rectus femoris muscle) ALS patients exhibited prolonged electromechanical delay times. These results demonstrate alterations in the electromechanical properties of muscle fibers and provide further insight into muscle contractility in ALS. The findings support the advancement and wider utilisation of sonoelectromyography as an innovative tool for assessing muscle function and indicate that EMD could be incorporated into diagnostic and disease monitoring protocols in ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Muscle, Skeletal",
+        "Aged",
+        "Nerve Conduction Studies",
+        "Adult",
+        "Evoked Potentials, Motor",
+        "Ultrasonography",
+        "Electromyography",
+        "Neural Conduction"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "distal motor latency",
+        "electrodiagnosis",
+        "electromechanical coupling",
+        "electromechanical delay",
+        "mechanical latency",
+        "muscle ultrasound",
+        "sonoelectromyography"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
+    },
+    {
       "id": "42990340",
       "event_key": "pubmed:42990340",
       "source_id": "pubmed",
@@ -2374,7 +2634,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42967168",
@@ -2796,7 +3056,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42990966",
@@ -3758,6 +4018,63 @@
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
       "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "43020536",
+      "event_key": "pubmed:43020536",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Combined γ-oryzanol and α-lipoic acid treatment suppresses inflammation and apoptosis in hSOD1G93A models of amyotrophic lateral sclerosis via the AKT/GSK3β pathway.",
+      "authors": [
+        "Ling Han",
+        "Jiayi Hou",
+        "Dongmei Zhang",
+        "Wenmo Zhang",
+        "Di Wang",
+        "Di Huo",
+        "Xiaoli Su",
+        "Xingli Tan",
+        "Ming Wang",
+        "Jing Xu",
+        "Jiling Cheng",
+        "Jing Wang",
+        "Honglin Feng"
+      ],
+      "journal": "Journal of pharmacological sciences",
+      "publication_date": "2026-10-21",
+      "pmid": "43020536",
+      "doi": "10.1016/j.jphs.2026.10.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020536/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with complex pathogenic mechanisms, and the efficacy of single-target interventions remains limited. γ-Oryzanol (Orz) and α-lipoic acid (ALA) exert neuroprotective effects individually, yet their combined effects and molecular mechanisms in ALS remain unclear.\n\nAIM: To investigate the therapeutic effects and mechanisms of combined Orz and ALA treatment in ALS.\n\nMETHODS: Network pharmacology was used to identify potential targets shared by the compounds and ALS. Core targets and pathways were identified through protein-protein interaction (PPI) network analysis, molecular docking, and functional enrichment analysis, followed by experimental validation in hSOD1G93A cell and transgenic mouse models.\n\nRESULTS: Six core targets (EGFR, AKT1, HSP90AA1, BCL2, SRC, HSP90AB1) were identified. In hSOD1G93A cells, combined treatment modulated mRNA expression and protein phosphorylation of the core targets and attenuated cellular injury. In hSOD1G93A transgenic mice, the combination delayed disease progression, prolonged survival, improved motor function, and reduced motor neuron loss. This combination alleviated inflammation and apoptosis by activating the AKT/GSK3β pathway.\n\nCONCLUSION: Combined Orz and ALA treatment modulates core targets, activates the AKT/GSK3β pathway, and suppresses inflammation and apoptosis. This combination represents a promising therapeutic strategy for ALS.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Apoptosis",
+        "Glycogen Synthase Kinase 3 beta",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Phenylpropionates",
+        "Thioctic Acid",
+        "Mice, Transgenic",
+        "Disease Models, Animal",
+        "Humans",
+        "Inflammation",
+        "Drug Therapy, Combination",
+        "Neuroprotective Agents",
+        "Resorcinols",
+        "Mice"
+      ],
+      "keywords": [
+        "AKT/GSK3β pathway",
+        "Amyotrophic lateral sclerosis",
+        "Apoptosis",
+        "Combined therapy",
+        "Inflammation"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42991605",
@@ -10585,7 +10902,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42882466",
@@ -13384,7 +13701,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42792233",
@@ -18392,7 +18709,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42772840",
@@ -19065,6 +19382,51 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "43016267",
+      "event_key": "pubmed:43016267",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ubiquitin-Proteasome System: Key Insights into Neurological Disorder Mechanisms.",
+      "authors": [
+        "Shahid Afridi",
+        "Furqan Choudhary",
+        "Pradakshina Sharma",
+        "Md Mustafa",
+        "Humaira Farooqi"
+      ],
+      "journal": "Current aging science",
+      "publication_date": "2026-01-01",
+      "pmid": "43016267",
+      "doi": "10.2174/0118746098383104251205103934",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016267/",
+      "abstract": "The ubiquitin-proteasome system (UPS) is crucial for maintaining protein homeostasis in the central nervous system. Dysfunction of the UPS leads to the accumulation of neurotoxic aggregates, including amyloid, tau, alpha-synuclein, SOD1, and TDP-43, which are hallmark features of various neurodegenerative diseases such as Alzheimer's, Parkinson's, and ALS. Agerelated decline in the UPS and autophagy-lysosomal pathways results in compromised proteostasis and progressive neuronal damage. Current literature from diverse databases provides insights emphasizing the clinical relevance of UPS-targeted interventions. Strategies such as targeted degradation of misfolded proteins, modulation of PINK1/Parkin-mediated mitophagy, and the use of enzyme activators or allosteric modulators show potential in restoring brain homeostasis. This review discusses UPS-mediated proteolytic mechanisms, molecular disruptions associated with disease progression, and emerging therapeutic approaches aimed at enhancing protein clearance.",
+      "mesh_terms": [
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Ubiquitin",
+        "Animals",
+        "Ubiquitin-Protein Ligases",
+        "Neurodegenerative Diseases",
+        "Autophagy",
+        "Proteostasis",
+        "Proteolysis",
+        "Proteotoxic Stress",
+        "Signal Transduction"
+      ],
+      "keywords": [
+        "Angelman syndrome",
+        "E3 ligase",
+        "Ubiquitin",
+        "central nervous system",
+        "neurodegenerative disorder",
+        "ubiquitin-proteasome system"
+      ],
+      "collected_at": "2026-11-13T07:05:23Z",
+      "first_seen_at": "2026-11-13T07:05:23Z",
+      "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
       "id": "42983872",
