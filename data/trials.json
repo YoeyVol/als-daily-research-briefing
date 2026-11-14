@@ -1,16 +1,110 @@
 {
-  "updated_at": "2026-11-13T07:05:23Z",
+  "updated_at": "2026-11-14T06:54:34Z",
   "new_keys": [
-    "clinicaltrials:NCT02567136:2026-11-12",
-    "clinicaltrials:NCT05286372:2026-11-12",
-    "clinicaltrials:NCT07933549:2026-11-12",
-    "clinicaltrials:NCT06889857:2026-11-12",
-    "clinicaltrials:NCT03225144:2026-11-12",
-    "clinicaltrials:NCT07929792:2026-11-12",
-    "clinicaltrials:NCT07400393:2026-11-12",
-    "clinicaltrials:NCT07855211:2026-11-12"
+    "clinicaltrials:NCT07287397:2026-11-13",
+    "clinicaltrials:NCT06710626:2026-11-13",
+    "clinicaltrials:NCT07883590:2026-11-13",
+    "clinicaltrials:NCT07934914:2026-11-13"
   ],
   "items": [
+    {
+      "id": "NCT07934914",
+      "event_key": "clinicaltrials:NCT07934914:2026-11-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07934914",
+      "title": "Endovascular Brain-Computer Interface for Upper-Limb Paralysis",
+      "sponsor": "Wei Wu",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Device: Endovascular Venous BCI Type-A Sensor",
+        "Device: BCI-Triggered Functional Electrical Stimulation",
+        "Device: BCI-Controlled Bionic Robotic Arm"
+      ],
+      "start_date": "2026-11-02",
+      "last_update_date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT07934914",
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "NCT07883590",
+      "event_key": "clinicaltrials:NCT07883590:2026-11-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07883590",
+      "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Drug: LY3873862",
+        "Drug: CYP450 Drug Cocktail",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-11",
+      "last_update_date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT07883590",
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-10-21T05:10:26Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "NCT07287397",
+      "event_key": "clinicaltrials:NCT07287397:2026-11-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07287397",
+      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
+      "sponsor": "Vector Y Therapeutics",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Genetic: VTx-002",
+        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
+      ],
+      "start_date": "2025-12-19",
+      "last_update_date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT07287397",
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-09-15T23:48:32Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "NCT06710626",
+      "event_key": "clinicaltrials:NCT06710626:2026-11-13",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06710626",
+      "title": "Control of Assistive Devices Via Brain-Computer Interface Technology",
+      "sponsor": "Neuralink Corp",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ENROLLING_BY_INVITATION",
+      "intervention": [
+        "Device: Assistive Robotic Arm"
+      ],
+      "start_date": "2024-11-25",
+      "last_update_date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT06710626",
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
     {
       "id": "NCT07933549",
       "event_key": "clinicaltrials:NCT07933549:2026-11-12",
@@ -32,7 +126,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07933549",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT07929792",
@@ -56,7 +150,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07929792",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-11T06:57:53Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT07855211",
@@ -81,7 +175,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07855211",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-10-03T05:37:06Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT07400393",
@@ -104,7 +198,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07400393",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT06889857",
@@ -127,7 +221,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06889857",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT05286372",
@@ -150,7 +244,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05286372",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT03225144",
@@ -173,7 +267,7 @@
       "url": "https://clinicaltrials.gov/study/NCT03225144",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-09-18T05:02:59Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT02567136",
@@ -196,7 +290,7 @@
       "url": "https://clinicaltrials.gov/study/NCT02567136",
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "NCT07298486",
@@ -455,31 +549,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07407725",
       "collected_at": "2026-11-07T06:27:21Z",
       "first_seen_at": "2026-11-07T06:27:21Z",
-      "last_seen_at": "2026-11-09T07:02:08Z"
-    },
-    {
-      "id": "NCT07287397",
-      "event_key": "clinicaltrials:NCT07287397:2026-11-06",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07287397",
-      "title": "Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
-      "sponsor": "Vector Y Therapeutics",
-      "phase": [
-        "PHASE1",
-        "PHASE2"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Genetic: VTx-002",
-        "Drug: Preventative (Prophylactic) Medication - Corticosteroids: Methylprednisolone"
-      ],
-      "start_date": "2025-12-19",
-      "last_update_date": "2026-11-06",
-      "url": "https://clinicaltrials.gov/study/NCT07287397",
-      "collected_at": "2026-11-07T06:27:21Z",
-      "first_seen_at": "2026-09-15T23:48:32Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
@@ -1026,31 +1095,6 @@
       "collected_at": "2026-10-22T05:14:31Z",
       "first_seen_at": "2026-10-22T05:14:31Z",
       "last_seen_at": "2026-10-24T04:55:34Z"
-    },
-    {
-      "id": "NCT07883590",
-      "event_key": "clinicaltrials:NCT07883590:2026-10-20",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07883590",
-      "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
-      "sponsor": "Eli Lilly and Company",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "NOT_YET_RECRUITING",
-      "intervention": [
-        "Drug: LY3873862",
-        "Drug: CYP450 Drug Cocktail",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-11",
-      "last_update_date": "2026-10-20",
-      "url": "https://clinicaltrials.gov/study/NCT07883590",
-      "collected_at": "2026-10-21T05:10:26Z",
-      "first_seen_at": "2026-10-21T05:10:26Z",
-      "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
       "id": "NCT05852418",

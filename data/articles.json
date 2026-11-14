@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-13T07:05:23Z",
+  "updated_at": "2026-11-14T06:54:34Z",
   "new_keys": [
-    "pubmed:43020536",
-    "pubmed:43020712",
-    "pubmed:43019526",
-    "pubmed:43015714",
-    "pubmed:43015463",
-    "pubmed:43016795",
-    "pubmed:43016791",
-    "pubmed:43016267"
+    "pubmed:43022413",
+    "pubmed:43025440",
+    "pubmed:43025655",
+    "pubmed:43024369",
+    "pubmed:43023697",
+    "pubmed:43023417",
+    "pubmed:43021426",
+    "pubmed:43022354",
+    "pubmed:43021436",
+    "pubmed:43023511",
+    "pubmed:43023114",
+    "pubmed:43022629",
+    "pubmed:43023487",
+    "pubmed:43023485",
+    "pubmed:43023483",
+    "pubmed:43022201",
+    "pubmed:43020779",
+    "pubmed:43021253"
   ],
   "items": [
     {
@@ -55,6 +65,256 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "43025440",
+      "event_key": "pubmed:43025440",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Guam disease features chronic traumatic encephalopathy-like tau seeds in brain and spinal cord.",
+      "authors": [
+        "Nil Saez-Calveras",
+        "Bert M Verheijen",
+        "Nabil Morgan",
+        "Elizabeth Hill",
+        "Prarthna Chabria",
+        "Skyler Taylor",
+        "Yogesh Tak",
+        "Kiyomitsu Oyanagi",
+        "Akiyoshi Kakita",
+        "Yuyu Song",
+        "Lukasz A Joachimiak",
+        "Jaime Vaquer-Alicea",
+        "Marc I Diamond",
+        "Ying Lu"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-11-14",
+      "pmid": "43025440",
+      "doi": "10.1093/brain/awag405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025440/",
+      "abstract": "Amyotrophic lateral sclerosis/parkinsonism-dementia complex (ALS/PDC) is a fatal neurodegenerative disorder that was once hyperendemic in the island of Guam (Mariana Islands, US) and a few other Pacific locales. Despite extensive investigations into its origins, the etiology of ALS/PDC remains unclear. ALS/PDC is, at the neuropathology level, characterized by tau-dominant multiple proteinopathy in brain and spinal cord. It was recently reported that Guam ALS/PDC brain extracts exhibit tau seeding activity in fluorescence resonance energy transfer (FRET)-based biosensor cells. To build upon those findings and explore the nature of tau seeds in ALS/PDC in more detail, we used an alanine mutational scanning (Ala scan) approach to determine the seeding profile of tau in nervous tissues of Guam ALS/PDC cases. First, we confirmed the detection of tau seeding activity in ALS/PDC brain samples in tau biosensor cells. Notably, we could also detect potent tau seeding activity in spinal cord. Subsequent Ala scan assays demonstrated that ALS/PDC tau displays an aggregate incorporation pattern that resembles that of chronic traumatic encephalopathy (CTE)-type tau. This result is consistent with recent electron cryo-microscopy studies of tau, which revealed that ALS/PDC tau filaments are predominantly of the CTE-type. The structural characteristics and seeding behaviour of ALS/PDC tau, as well as the regional distribution of tau pathology at post-mortem, suggest that ALS/PDC is a CTE-like tauopathy.",
+      "mesh_terms": [],
+      "keywords": [
+        "alanine scan",
+        "amyotrophic lateral sclerosis-parkinsonism dementia complex (ALS/PDC)",
+        "neurodegenerative disease",
+        "seeding",
+        "tau"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43025655",
+      "event_key": "pubmed:43025655",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Sphingolipid remodeling in SPT-related neuropathies.",
+      "authors": [
+        "Nicole Ziak",
+        "Arianna Dall'Ara",
+        "Thorsten Hornemann",
+        "Museer A Lone"
+      ],
+      "journal": "Journal of lipid research",
+      "publication_date": "2026-11-13",
+      "pmid": "43025655",
+      "doi": "10.1016/j.jlr.2026.101187",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025655/",
+      "abstract": "Sphingolipid homeostasis is critical for structural and functional integrity of neurons in the central and peripheral nervous systems. Serine-palmitoyltransferase (SPT) is the first and the rate-limiting metabolic entry point into the de novo sphingolipid biosynthesis. Mutations in SPT subunits, SPTLC1 and SPTLC2 lead to contrasting patient phenotypes, including amyotrophic lateral sclerosis (ALS) and hereditary sensory and autonomic neuropathy type 1 (HSAN1). A third mixed sensory-motor phenotype is attributed to distinct mutation sets in SPTLC1 and SPTLC2. However, a direct comparison of the metabolic consequences of mutations spanning these disease conditions has not been performed. Here, we demonstrate that SPTLC1- and SPTLC2-ALS variants contribute to enhanced sphingolipid synthesis as the ceramide-mediated homeostatic control is impaired. In contrast, HSAN1 variants display altered substrate selectivity, favoring non-canonical 1-deoxysphingolipid production while retaining canonical feedback regulation. Mixed sensory-motor mutants exhibit a third metabolic state, with elevated 1-deoxysphingolipid formation and, in contrast to HSAN1 variants, decreased feedback inhibition and increased canonical sphingolipid synthesis. Sphingolipid profiling reveals that ALS variants are characterized by preferential accumulation of dihydrosphingolipids and sphingolipid species containing C18-C22 N-acyl chains, whereas very-long-chain (C22-C26) 1-deoxysphingolipids predominate in HSAN1. The SPT-variants associated with mixed sensory-motor symptoms show elevated levels of both lipid types. Notably, the metabolic distinction is disease-specific and SPT subunit independent. The data support the view that segregated shifts in sphingolipid flux underlie divergence of clinical phenotypes in SPT-variants. These metabolic configurations generate testable predictions for therapy: L-serine supplementation may benefit HSAN1 but could prove counterproductive in ALS and sensory-motor disease conditions.",
+      "mesh_terms": [],
+      "keywords": [
+        "1-deoxysphingolipids",
+        "Serine-palmitoyltransferase (SPT)",
+        "amyotrophic lateral sclerosis (ALS)",
+        "hereditary sensory and autonomic neuropathy type 1 (HSAN1)",
+        "sensory-motor neuropathy",
+        "sphingolipid metabolism"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43024369",
+      "event_key": "pubmed:43024369",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Thyroid Disease and Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Tracy Peters",
+        "Haomin Yang",
+        "Zhangyu Zou",
+        "Weimin Ye"
+      ],
+      "journal": "Neuroepidemiology",
+      "publication_date": "2026-11-13",
+      "pmid": "43024369",
+      "doi": "10.1159/000549662",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024369/",
+      "abstract": "INTRODUCTION: Thyroid disease has been implicated in the pathology of neurodegenerative diseases. However, its role in amyotrophic lateral sclerosis (ALS) is unclear. This study aimed to investigate the association between thyroid disease, including hypothyroidism and hyperthyroidism, and the risk of ALS.\n\nMETHODS: We used a matched cohort design to evaluate UK Biobank data on participants enrolled between 2006 and 2010 who were followed up until 2022. We used Cox proportional hazards models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs).\n\nRESULTS: The study cohort comprised 42,684 patients with thyroid disease (females: 80%). Thyroid disease was moderately associated with an increased risk of ALS development (HR: 1.44, 95% CI: 1.02-2.02), and this association remained similar following adjustment for comparative height at the age of 10 years (HR: 1.44, 95% CI: 1.03-2.03). Hyperthyroidism showed a potential association with an increased risk of ALS development among individuals aged ≤60 years (HR: 21.22, 95% CI: 1.64-274.46) and in females (HR: 3.02, 95% CI: 1.13-8.08).\n\nCONCLUSION: Our findings demonstrate that thyroid disease is associated with a moderately increased risk of ALS development. Given the multifunctional role of the thyroid gland, further in-depth studies examining the relationship between thyroid conditions and ALS are warranted.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Middle Aged",
+        "Thyroid Diseases",
+        "Male",
+        "United Kingdom",
+        "Cohort Studies",
+        "Hyperthyroidism",
+        "Aged",
+        "Hypothyroidism",
+        "Adult"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Hyperthyroidism",
+        "Hypothyroidism",
+        "Matched cohort",
+        "Thyroid disease"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023697",
+      "event_key": "pubmed:43023697",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Tongue ultrasonography as a quantitative biomarker for oropharyngeal dysphagia in neuromuscular disorders: a systematic review.",
+      "authors": [
+        "Maria Chiara Maccarone",
+        "Nicola Manocchio",
+        "Calogero Foti",
+        "Yannis Dionyssiotis"
+      ],
+      "journal": "European journal of translational myology",
+      "publication_date": "2026-11-13",
+      "pmid": "43023697",
+      "doi": "10.4081/ejtm.2026.16288",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023697/",
+      "abstract": "Oropharyngeal Dysphagia (OD) is a prevalent and potentially life-threatening complication of Neuromuscular Disorders (NMDs). Tongue ultrasonography is an inexpensive, non-ionising, point-of-care technique that permits quantitative assessment of lingual muscle structure, but its value as a biomarker of OD across NMDs has not been systematically appraised. This systematic review aims to synthesize the available evidence on the diagnostic accuracy, reliability and clinical utility of quantitative tongue ultrasonography as a biomarker of OD in adults with NMDs. We systematically searched PubMed and Scopus for studies correlating quantitative tongue-ultrasound parameters, Tongue Thickness (TT) or Echo Intensity (EI), with instrumental swallowing assessment in adults with NMDs, following the PRISMA 2020 guideline. Study selection, data extraction and risk-of-bias appraisal were performed independently by two reviewers. Six studies (n = 10-38 per cohort) met the inclusion criteria. Reduced TT was a consistent marker of lingual atrophy in Amyotrophic Lateral Sclerosis (ALS) and correlated with oral-phase swallowing impairment, whereas functional measures of tongue strength were stronger predictors of aspiration risk. In Duchenne Muscular Dystrophy (DMD), increased TT reflected \"pseudohypertrophy\" from fatty and connective-tissue infiltration rather than preserved function and EI provided a complementary index of tissue quality in myopathic NMDs. Tongue ultrasonography is a promising, disease-sensitive biomarker for monitoring bulbar dysfunction in NMDs, but morphological indices should be integrated with functional swallowing data to predict aspiration risk. Standardized acquisition protocols and larger, longitudinal, multicentre studies are required before clinical implementation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Rehabilitation; Oropharyngeal dysphagia; Ultrasonography; Neuromuscular disorders; Swallowing dysfunction."
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023487",
+      "event_key": "pubmed:43023487",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "GEN-01 Familial versus sporadic ALS: assessing family histories under monogenic and polygenic inheritance models.",
+      "authors": [],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-13",
+      "pmid": "43023487",
+      "doi": "10.1080/21678421.2026.2732366",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023487/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023485",
+      "event_key": "pubmed:43023485",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "CLT-01 PrimeC in ALS: integrated clinical and biomarker evidence demonstrating target engagement and supporting global phase 3 development.",
+      "authors": [],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-13",
+      "pmid": "43023485",
+      "doi": "10.1080/21678421.2026.2732376",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023485/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023483",
+      "event_key": "pubmed:43023483",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "HCB-01 Establishment of comprehensive ALS brain bank resource, Tokyo.",
+      "authors": [],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-13",
+      "pmid": "43023483",
+      "doi": "10.1080/21678421.2026.2732369",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023483/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023417",
+      "event_key": "pubmed:43023417",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "iPSC-based Approaches to Amyotrophic Lateral Sclerosis: from Drug Screening to Regenerative Medicine in Early Clinical Translation.",
+      "authors": [
+        "Jessica Jianghan Lu",
+        "Martin Cheung"
+      ],
+      "journal": "Stem cells (Dayton, Ohio)",
+      "publication_date": "2026-11-13",
+      "pmid": "43023417",
+      "doi": "10.1093/stmcls/sxag064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023417/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterised by progressive loss of upper and lower motor neurons (MNs), with limited therapeutic options and modest benefit from currently approved drugs. Induced pluripotent stem cells (iPSCs) have emerged as a versatile platform for ALS research, enabling both regenerative medicine and phenotypic drug screening. iPSC-based transplantation strategies aim to replace lost cells or deliver neuroprotective support, while iPSC-derived MNs support drug discovery and repositioning. In the two decades since their discovery, iPSC technologies have progressed from concept to clinical translation, with both cell therapy products such as AstroRx and XS-228 entering trials and three screened drug candidates, Ropinirole, Bosutinib, and Ezogabine, advancing into clinical trials, underscoring their translational potential. In this review, we summarise iPSC-based approaches to ALS, focusing on cell therapies and drug discovery, highlight factors influencing transplantation success, and discuss ongoing clinical trials. We further discuss constraints that impede clinical trial progress, including limited understanding of ALS pathogenesis, absence of robust biomarkers to guide patient stratification and evaluate treatment response, and technical challenges related to the maturation of iPSC-derived neural cells. Finally, we advocate that advancing iPSC approaches requires both deeper understanding of ALS biology and technical innovation. Key priorities are refining iPSC differentiation protocols to improve neuronal maturity and implementing trial designs with adequate duration and rigorous patient stratification.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43021426",
+      "event_key": "pubmed:43021426",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Reconciling cryptic relatedness to drive gene discovery in amyotrophic lateral sclerosis/frontotemporal dementia.",
+      "authors": [
+        "Ramita D Karra",
+        "Karri Kaivola"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-11-12",
+      "pmid": "43021426",
+      "doi": "10.1093/brain/awag400",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021426/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
       "id": "43020712",
       "event_key": "pubmed:43020712",
       "source_id": "pubmed",
@@ -83,7 +343,7 @@
       "keywords": [],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43019526",
@@ -135,7 +395,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42947522",
@@ -184,6 +444,67 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43022354",
+      "event_key": "pubmed:43022354",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A phase II, randomised, placebo-controlled, double-blind trial of cannabis extract for amyotrophic lateral sclerosis: the EMERALD trial.",
+      "authors": [
+        "Berzenn Urbi",
+        "Arman Sabet",
+        "Ian Hughes",
+        "Richard Bedlack",
+        "Ethan Russo",
+        "Simon A Broadley"
+      ],
+      "journal": "BMJ neurology open",
+      "publication_date": "2026-11-11",
+      "pmid": "43022354",
+      "doi": "10.1136/bmjno-2026-001766",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022354/",
+      "abstract": "INTRODUCTION: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease with limited disease-modifying treatment options. Preclinical and clinical data suggest that cannabinoid-based therapies may exert neuroprotective and symptomatic benefits. We conducted a trial to evaluate the effects of cannabis-based medicine extract (CBME) on disease progression in patients with ALS.\n\nMETHODS: This was a randomised, double-blind, placebo-controlled trial. Participants received CBME or placebo for 6 months. The primary outcome was the difference in ALS Functional Rating Scale-Revised (ALSFRS-R) scores at the end of treatment (EOT). Secondary outcomes included adverse events, forced vital capacity (FVC), pain and spasticity measures, weight loss, cognition and quality of life.\n\nRESULTS: Due to COVID-19 restrictions and driving limitations, only 17 participants were enrolled (CBME: n=8; placebo: n=9), and 8 completed treatment (4 per group). At EOT, adjusted mean ALSFRS-R scores were 31.67 for CBME and 34.33 for placebo (difference: -2.66; 95% CI -7.25 to 1.92; p=0.18; n=8). No significant differences were observed in secondary outcomes. Post hoc analyses suggested potential effects of CBME on pain and cognition for further confirmation: usual pain intensity decreased by 2.52 points (95% CI -8.92 to 3.87, p=0.34; n=8), a decrease of 3 days in the number of pain days (95% CI -28.90 to 22.59, p=0.75; n=8), executive function improved by 7.71 points (95% CI 0.90 to 14.52; p=0.04; n=8) and a 5.68-point improvement in memory (95% CI -0.29 to 11.64; p=0.06; n=8).\n\nCONCLUSION: This trial did not achieve the target sample size therefore was underpowered to demonstrate efficacy of cannabis in slowing ALS progression. However, exploratory analyses generated hypotheses regarding possible effects on pain and cognition which require confirmation in adequately powered studies.\n\nTRIAL REGISTRATION NUMBER: (ID: NCT03690791) on 27 September 2018.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "CLINICAL NEUROLOGY",
+        "MOTOR NEURON DISEASE",
+        "NEUROMUSCULAR"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43021436",
+      "event_key": "pubmed:43021436",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neuronal cell-cycle re-entry stratifies clinical trajectories in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Jonathan Plessis-Belair",
+        "Roger B Sher"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-11-11",
+      "pmid": "43021436",
+      "doi": "10.1093/brain/awag391",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021436/",
+      "abstract": "The clinical heterogeneity of Amyotrophic Lateral Sclerosis (ALS) remains a fundamental barrier to effective therapy. While cell cycle re-entry in post-mitotic neurons is a known precursor to neurodegeneration, its role in defining patient-specific outcomes has never been established. Here, we integrate large-scale transcriptomic profiling from the AnswerALS cohort with mechanistic studies in human iPSC-derived spinal motor neurons to define how cell-cycle re-entry shapes disease heterogeneity in ALS. We identify a transcriptionally distinct patient subgroup with the highest expression of G1 or G2-phase cyclins that exhibit significantly slower functional decline (ALSFRS-R), whereas the engagement of S-phase markers correlates with accelerated disease progression. Nucleocytoplasmic transport dysfunction, a hallmark of ALS and related disorders, disrupts the spatial distribution of key regulatory proteins and may contribute to maladaptive cell-cycle activation. Our recent evidence suggests that impaired nuclear import may initiate, rather than merely accompany, neuronal cell-cycle re-entry. Using iPSC-derived motor neurons, we show that impaired nuclear import initiates TDP-43 pathology and global nuclear/cytoplasmic mis-localization of key ALS-related proteins. This nucleocytoplasmic transport dysfunction triggers a transient wave of cell-cycle activity immediately preceding neuronal cell death. Crucially, we show that DNA-replication initiation is a pathological inflection point of no return, as neurons entering S-phase accumulate replication-associated DNA damage and undergo cell death. Selective inhibition of CDK4/6 prevents S-phase entry and confers potent neuroprotection. Our findings demonstrate that impaired nuclear import drives maladaptive cell-cycle reactivation in ALS and that the depth of cell-cycle engagement stratifies neuronal fate and patient trajectories.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "cell cycle",
+        "motor neurons",
+        "neurodegeneration",
+        "patient heterogeneity"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
       "id": "43015714",
       "event_key": "pubmed:43015714",
       "source_id": "pubmed",
@@ -222,7 +543,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43015463",
@@ -278,7 +599,7 @@
       "keywords": [],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43015100",
@@ -308,7 +629,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43012465",
@@ -332,7 +653,75 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023511",
+      "event_key": "pubmed:43023511",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Therapeutic Potential of Liposomes in Targeting Neurodegenerative Diseases: Mechanistic Insights and a Future Perspective.",
+      "authors": [
+        "Shweta Swagatika Bhanja",
+        "Shyamalendu Tripathy",
+        "Dinesh Kumar Sharma"
+      ],
+      "journal": "Current neurovascular research",
+      "publication_date": "2026-11-10",
+      "pmid": "43023511",
+      "doi": "10.2174/0115672026509056261030055920",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023511/",
+      "abstract": "INTRODUCTION: Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, are progressive disorders with limited disease-modifying treatments. Poor drug bioavailability, systemic toxicity, and restricted Blood-Brain Barrier (BBB) penetration remain major therapeutic challenges. Although previous reviews have discussed liposomal delivery, an updated mechanistic and translational assessment is needed.\n\nMETHODS: This review analyzed relevant studies on liposome-based drug delivery for neurodegenerative diseases, focusing on BBB penetration, targeting strategies, formulation characteristics, therapeutic mechanisms, and translational challenges.\n\nRESULTS: Liposomes improve drug solubility, stability, bioavailability, and brain delivery through passive transport, receptor-mediated transcytosis, adsorptive-mediated transport, and ligandassisted targeting. Functionalization with transferrin, lactoferrin, peptides, antibodies, and other ligands can enhance BBB transport and site-specific delivery. Liposomal systems target key pathological mechanisms, including amyloid-β aggregation, oxidative stress, neuroinflammation, mitochondrial dysfunction, and dopaminergic neuronal degeneration. Major gaps include limited clinical validation, long-term safety data, BBB-targeting efficiency, formulation stability, and manufacturing scalability.\n\nDISCUSSION: Compared with earlier reviews, this review integrates recent advances in liposome engineering with disease-specific mechanisms, BBB-targeting strategies, therapeutic outcomes, and translational barriers, providing a comprehensive perspective on the progression from preclinical development toward clinical application.\n\nCONCLUSION: Liposomes represent a promising platform for targeted therapy of neurodegenerative diseases. Standardized evaluation, scalable manufacturing, long-term safety assessment, and well-designed clinical trials are essential for establishing their therapeutic efficacy and facilitating clinical translation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease.",
+        "Nanoliposomes",
+        "blood-brain barrier",
+        "drug delivery",
+        "neurodegenerative disease",
+        "targeted therapy"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
+      "id": "43023114",
+      "event_key": "pubmed:43023114",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "OGS-MA114 ameliorates FUS mutant-associated ALS pathology by activating PINK1-dependent mitophagy.",
+      "authors": [
+        "Seong Hyun Kim",
+        "Jun Hee So",
+        "Yunkyoung Lee",
+        "Na Yeon Park",
+        "Jung Sang Park",
+        "Pansoo Kim",
+        "Ji-Eun Bae",
+        "Doo Sin Jo",
+        "Hae-Chul Park",
+        "Dong-Hyung Cho"
+      ],
+      "journal": "Animal cells and systems",
+      "publication_date": "2026-11-10",
+      "pmid": "43023114",
+      "doi": "10.1080/19768354.2026.2736980",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023114/",
+      "abstract": "Mitochondrial dysfunction and impaired mitophagy are increasingly recognized as central contributors to pathogenesis of amyotrophic lateral sclerosis (ALS). In this study, we identified OGS-MA114 (C₂₃H₁₉ClN₄O₃S), as a compound that activates mitophagy through a bioactive chemical library screen in SH-SY5Y cells. OGS-MA114 significantly enhanced autophagic and mitophagic flux, increased Ser65-phosphorylated ubiquitin levels, and promoted Parkin recruitment to damaged mitochondria, indicating activation of the PINK1/Parkin pathway. In SH-SY5Y cells expressing the ALS-associated FUSP525L mutant, OGS-MA114 restored mitochondrial membrane potential, reduced cleaved caspase-3 levels, and improved cell viability under mitochondrial stress conditions. Furthermore, in a transgenic zebrafish model expressing mutant FUSR521C, OGS-MA114 significantly improved locomotor activity and survival while reducing cell death in the spinal cord. These findings suggest that OGS-MA114 ameliorates ALS-associated pathological phenotypes by enhancing PINK1-dependent mitophagy. Thus, pharmacological modulation of mitophagy may provide a useful basis for further investigation of ALS and -related neurodegenerative disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "FUSP525L",
+        "OGS-MA114",
+        "amyotrophic lateral sclerosis",
+        "mitophagy",
+        "neuroprotection"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43016791",
@@ -366,7 +755,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43013396",
@@ -400,7 +789,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43009651",
@@ -451,7 +840,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43009540",
@@ -474,7 +863,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43008331",
@@ -603,6 +992,41 @@
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
+      "id": "43022629",
+      "event_key": "pubmed:43022629",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "In-Gel Tryptic Digestion and HCD/EThcD LC-MS/MS for Mapping Autophosphorylation Sites.",
+      "authors": [
+        "Shalini Agarwal",
+        "Robert Gourlay",
+        "Renata F Soares",
+        "Arpan R Mehta"
+      ],
+      "journal": "Bio-protocol",
+      "publication_date": "2026-11-05",
+      "pmid": "43022629",
+      "doi": "10.21769/BioProtoc.5836",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022629/",
+      "abstract": "This protocol describes a targeted workflow for identifying and quantitatively comparing kinase autophosphorylation sites, using in-gel proteolytic digestion, LC-MS/MS analysis, phosphosite localisation, and extracted ion chromatogram (XIC) analysis. The detailed protocol begins with an excised SDS-PAGE gel band containing the immunoprecipitated kinase of interest. Standard cell culture, expression, immunoprecipitation, and SDS-PAGE procedures can be used to generate this starting material according to the experimental system under investigation; the specific conditions used for NEK1 are described in our associated research article. Here, the protocol is applied to characterise phosphorylation sites on NEK1-a serine/threonine kinase implicated in amyotrophic lateral sclerosis (ALS)-using a homozygous NEK1 knockout cell background in which GFP-tagged wild-type or kinase-dead NEK1 constructs are re-expressed. This experimental system enables accurate assessment of kinase-dependent phosphorylation events in the absence of endogenous NEK1. A key methodological feature of the workflow is the use of two parallel MS2 fragmentation strategies: higher energy collisional dissociation (HCD) and electron-transfer/HCD (EThcD). EThcD generates complementary b/y and c/z ion series, providing superior localisation confidence for labile phosphorylation events that are difficult to resolve using HCD alone. Relative phosphopeptide abundance across conditions can be assessed using extracted ion chromatograms generated in FreeStyle, or using Skyline software with normalisation to the total ion current (TIC), as performed in the associated NEK1 study. Although demonstrated here using NEK1, the protocol is readily adaptable to other kinases amenable to immunoprecipitation and will be of interest to researchers studying kinase signalling, post-translational modification biology, and disease-associated phosphorylation events. Key features • Uses a homozygous NEK1 knockout cell background with re-expressed GFP-tagged constructs for discrimination of kinase-activity-associated candidate autophosphorylation events from background. • Parallel HCD and EThcD fragmentation runs per sample for complementary phosphosite localisation; EThcD is particularly advantageous for labile or multiply phosphorylated peptides. • Quantitative wild-type vs. kinase-dead comparison using extracted ion chromatograms normalised to reference peptides or total ion current, with worked m/z calculations and FreeStyle screenshots. • Readily adaptable to any kinase amenable to immunoprecipitation and for which a kinase-dead control construct can be generated.",
+      "mesh_terms": [],
+      "keywords": [
+        "Autophosphorylation",
+        "Autophosphosite mapping",
+        "EThcD",
+        "Extracted ion chromatogram",
+        "HCD",
+        "In-gel digestion",
+        "LC-MS/MS",
+        "NEK1",
+        "Phosphoproteomics"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "43001128",
@@ -1117,7 +1541,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42977228",
@@ -1428,6 +1852,42 @@
       "collected_at": "2026-11-04T06:53:59Z",
       "first_seen_at": "2026-11-04T06:53:59Z",
       "last_seen_at": "2026-11-06T07:12:53Z"
+    },
+    {
+      "id": "43022413",
+      "event_key": "pubmed:43022413",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Brain-computer interfaces for neurodegenerative diseases: A comprehensive review of closed-loop systems from diagnosis to neural rehabilitation.",
+      "authors": [
+        "Qingyang Shan",
+        "Jiaqi Li",
+        "Yi Wang",
+        "Shantanu Gupta",
+        "Lizhou Song",
+        "Wangzheqi Zhang",
+        "Fei Su",
+        "Yadong Guo"
+      ],
+      "journal": "iScience",
+      "publication_date": "2026-11-02",
+      "pmid": "43022413",
+      "doi": "10.1016/j.isci.2026.118073",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022413/",
+      "abstract": "Brain-computer interface (BCI) technology serves as an important bridge between the nervous system and external devices and has shown considerable promise for the diagnosis and treatment of neurodegenerative diseases, whose global burden continues to increase: in 2021, more than 57 million people were living with dementia worldwide, with Alzheimer's disease (AD) accounting for approximately 60-70% of cases, while an estimated 11.77 million people were living with Parkinson's disease (PD) in 2021, according to the Global Burden of Disease Study 2021. This growing disease burden, together with the progressive loss of cognitive, motor, and communicative functions, highlights the need for more precise approaches to early detection, functional assistance, and individualized intervention. Conventional diagnostic and therapeutic approaches remain poorly suited to early detection and timely intervention. This paper analyzes the development of BCI technology, from the first detection of electroencephalogram (EEG) signals to the parallel development of invasive and non-invasive systems, and outlines the basic principles of signal acquisition, processing, and decoding, together with the relative advantages and limitations of different approaches. It then focuses on the use of BCI in Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), covering early diagnosis, functional reconstruction, and neuromodulation. The article also discusses the difficulties encountered by BCI technology in terms of technological realization, clinical translation, and ethical considerations, as well as several future research directions, including multimodal fusion, adaptive algorithms, closed-loop control systems, and personalized treatment so as to drive the applications of BCI in precision medicine and in neurological diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "BCI",
+        "brain-computer interface",
+        "closed-loop regulation",
+        "neurodegenerative diseases",
+        "neuroplasticity",
+        "precision medicine"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42990777",
@@ -1844,6 +2304,35 @@
       "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
+      "id": "43022201",
+      "event_key": "pubmed:43022201",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Optogenetics in neurobiology and neurodegenerative disorders: from neural circuit mechanisms to precision neuromodulation.",
+      "authors": [
+        "V Singaravel"
+      ],
+      "journal": "Frontiers in medical technology",
+      "publication_date": "2026-10-29",
+      "pmid": "43022201",
+      "doi": "10.3389/fmedt.2026.1958917",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022201/",
+      "abstract": "Neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, multiple sclerosis and stroke, are characterized by progressive neuronal dysfunction, synaptic impairment and neural circuit degeneration, leading to severe cognitive and motor deficits. Although considerable progress has been made in understanding their molecular pathology, the circuit level mechanisms driving disease onset and progression remain incompletely understood. Optogenetics, which combines microbial opsins, genetic engineering and optical stimulation, enables reversible, cell-specific control of neuronal activity with millisecond precision and has transformed neuroscience from observational analysis to causal investigation of neural circuits. This review summarizes recent advances in the molecular basis of optogenetics, microbial opsins, gene delivery strategies and optical stimulation technologies, together with their applications in basic neurobiology and neurodegenerative disease research. We discuss how optogenetics has advanced understanding of neural circuit organization, synaptic plasticity, memory, neurodevelopment, sleep regulation, protein aggregation, synaptic dysfunction, neuroinflammation, mitochondrial impairment, oxidative stress and regulated cell death. Although these studies have generated important mechanistic insights and demonstrated functional improvements in experimental models, translation into human therapies remains investigational due to challenges associated with gene delivery, long-term opsin expression, immune compatibility and optical accessibility. Emerging therapeutic strategies, including closed-loop neuromodulation, wireless photostimulation, artificial intelligence-assisted neural decoding, nanotechnology enabled light delivery and brain computer interfaces, are critically evaluated with emphasis on their current evidence status, translational challenges and limitations for clinical implementation. Collectively, optogenetics provides an unprecedented platform for deciphering disease mechanisms and evaluating circuit-based neuromodulation strategies, while continued technological and biological validation will determine its future role in precision therapies for neurodegenerative disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "microbial opsins",
+        "neural circuits",
+        "neurodegenerative disorders",
+        "optogenetics",
+        "precision neuromodulation",
+        "synaptic plasticity"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
       "id": "42976580",
       "event_key": "pubmed:42976580",
       "source_id": "pubmed",
@@ -2221,7 +2710,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42990340",
@@ -2634,7 +3123,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42967168",
@@ -3056,7 +3545,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42990966",
@@ -4074,7 +4563,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42991605",
@@ -5260,6 +5749,57 @@
       "collected_at": "2026-10-17T04:52:22Z",
       "first_seen_at": "2026-10-17T04:52:22Z",
       "last_seen_at": "2026-10-19T05:07:07Z"
+    },
+    {
+      "id": "43020779",
+      "event_key": "pubmed:43020779",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "SLITRK2 knockdown rescues axonal and functional neuromuscular junction deficits in human iPSC-derived mutant FUS-ALS motor neurons.",
+      "authors": [
+        "Rianne de Jongh",
+        "Anna F Wiersema",
+        "Charlotte H van Dijk",
+        "Roos C Verdegaal",
+        "Mareine M J Smulders",
+        "Onur Basak",
+        "Jelle van Os",
+        "Sofie Peeters",
+        "Laura Olmedo-Martínez",
+        "Lauri M Bloemenkamp",
+        "Keith M Garner",
+        "Sandrine Da Cruz",
+        "Max Koppers",
+        "Alessandro Iuliano",
+        "W W M Pim Pijnappel",
+        "Kevin P Kenna",
+        "R Jeroen Pasterkamp"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026-10-15",
+      "pmid": "43020779",
+      "doi": "10.1038/s41467-026-78419-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020779/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by motor neuron (MN) loss caused by early axonal and synaptic changes. However, the mechanisms underlying these changes remain incompletely understood. Here, we exploit FUS-ALS to interrogate cell compartment-specific changes in RNA expression and regulation in human induced pluripotent stem cell (iPSC)-derived MN. This approach identifies compartment-specific 3' untranslated region (3'UTR) isoform expression in human healthy control MN axons. Further, it unveils altered 3' UTR isoforms in ALS in different cellular compartments in genes such as SNCA, previously linked to neurodegeneration. Expression of SLITRK2 is most strongly and consistently upregulated across multiple FUS-ALS models, and its knockdown normalizes axonal defects linked to FUS-ALS. Using a fully iPSC-derived neuromuscular microfluidics protocol, we show that SLITRK2 knockdown in FUS-ALS MN rescues neuromuscular junction (NMJ) signaling without affecting NMJ innervation or MN hypo-excitability. Our study provides insight into compartment-specific 3'UTR expression in ALS, presents a robust iNMJ-on-a-chip model, and links elevated SLITRK2 to axonal and synaptic defects in FUS-ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Neuromuscular Junction",
+        "Motor Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Axons",
+        "Amyotrophic Lateral Sclerosis",
+        "Gene Knockdown Techniques",
+        "RNA-Binding Protein FUS",
+        "3' Untranslated Regions",
+        "Nerve Tissue Proteins",
+        "Mutation",
+        "Animals"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42941925",
@@ -10902,7 +11442,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42882466",
@@ -13701,7 +14241,7 @@
       ],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42792233",
@@ -18604,6 +19144,52 @@
       "last_seen_at": "2026-09-24T05:13:16Z"
     },
     {
+      "id": "43021253",
+      "event_key": "pubmed:43021253",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Amyotrophic lateral sclerosis coexisting with primary sjögren's syndrome: a clinical case series and exploratory transcriptomic analysis.",
+      "authors": [
+        "Yuxue Nie",
+        "Jialei Zhang",
+        "Zhe Zhang",
+        "Jiaxin Zhou",
+        "Wen Zhang",
+        "Yan Zhao",
+        "Mengtao Li",
+        "Lin Qiao"
+      ],
+      "journal": "BMC medical genomics",
+      "publication_date": "2026-08-18",
+      "pmid": "43021253",
+      "doi": "10.1186/s12920-026-02456-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021253/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration, while primary Sjögren's syndrome (pSS) is a systemic autoimmune disease with prominent immune dysregulation. Although immune-related alterations have been implicated in ALS and autoimmune diseases, the clinical coexistence of ALS and pSS remains poorly characterized. We aimed to describe the clinical features of patients with concomitant ALS and pSS and to explore peripheral blood transcriptomic patterns in independent ALS and pSS cohorts.\n\nMETHODS: We retrospectively identified patients with both ALS and pSS through systematic electronic health record screening and multidisciplinary clinical review. Clinical characteristics, disease chronology, treatment exposure, and outcomes were summarized. In parallel, we performed an exploratory transcriptomic analysis using publicly available peripheral blood datasets from independent ALS and pSS cohorts. Differentially expressed genes and overlapping inflammatory signatures were evaluated, with additional sensitivity assessment performed using an independent ALS cohort.\n\nRESULTS: Seven patients fulfilling diagnostic criteria for both ALS and pSS were identified. The temporal relationship between the two diseases was heterogeneous, with variable disease onset sequences and clinical trajectories. Immunomodulatory treatments were associated with transient improvement in systemic autoimmune manifestations in some patients, but no conclusions regarding modification of ALS progression could be established. Transcriptomic analyses identified overlapping upregulated genes between ALS and pSS cohorts, enriched in interferon- and NF-κB-related inflammatory signatures. However, these signatures represent commonly observed inflammatory responses across multiple disease contexts and should not be interpreted as evidence of ALS-pSS-specific biological convergence. Sensitivity assessment using an independent ALS cohort demonstrated partial reproducibility of selected non-specific inflammatory signatures across datasets.\n\nCONCLUSIONS: Taken together, these findings present two independent, exploratory observations: a rare clinical co-occurrence and a non-specific systemic inflammatory signature identified in unrelated public datasets, both requiring sensitivity assessment and serving as hypothesis-generating baselines for future studies.",
+      "mesh_terms": [
+        "Humans",
+        "Sjogren's Syndrome",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Gene Expression Profiling",
+        "Middle Aged",
+        "Transcriptome",
+        "Male",
+        "Aged",
+        "Retrospective Studies"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Case series",
+        "Inflammatory signature",
+        "Peripheral blood transcriptomics",
+        "Primary Sjögren's syndrome"
+      ],
+      "collected_at": "2026-11-14T06:54:34Z",
+      "first_seen_at": "2026-11-14T06:54:34Z",
+      "last_seen_at": "2026-11-14T06:54:34Z"
+    },
+    {
       "id": "42746497",
       "event_key": "pubmed:42746497",
       "source_id": "pubmed",
@@ -18709,7 +19295,7 @@
       "keywords": [],
       "collected_at": "2026-11-12T07:34:46Z",
       "first_seen_at": "2026-11-12T07:34:46Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42772840",
@@ -19426,7 +20012,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-13T07:05:23Z"
+      "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
       "id": "42983872",
