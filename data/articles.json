@@ -1,24 +1,21 @@
 {
-  "updated_at": "2026-11-14T06:54:34Z",
+  "updated_at": "2026-11-15T07:00:00Z",
   "new_keys": [
-    "pubmed:43022413",
-    "pubmed:43025440",
-    "pubmed:43025655",
-    "pubmed:43024369",
-    "pubmed:43023697",
-    "pubmed:43023417",
-    "pubmed:43021426",
-    "pubmed:43022354",
-    "pubmed:43021436",
-    "pubmed:43023511",
-    "pubmed:43023114",
-    "pubmed:43022629",
-    "pubmed:43023487",
-    "pubmed:43023485",
-    "pubmed:43023483",
-    "pubmed:43022201",
-    "pubmed:43020779",
-    "pubmed:43021253"
+    "pubmed:43032804",
+    "pubmed:43033255",
+    "pubmed:43033081",
+    "pubmed:43026380",
+    "pubmed:43030892",
+    "pubmed:43028238",
+    "pubmed:43029807",
+    "pubmed:43027360",
+    "pubmed:43031658",
+    "pubmed:43028460",
+    "pubmed:43028444",
+    "pubmed:43027938",
+    "pubmed:43027884",
+    "pubmed:43027782",
+    "pubmed:43033473"
   ],
   "items": [
     {
@@ -65,6 +62,110 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "43033473",
+      "event_key": "pubmed:43033473",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Emerging Insights into Autophagy-Lysosomal Dysfunction in Age-Related Neurodegenerative Disorders.",
+      "authors": [
+        "Shaik Basha",
+        "Ahana Chattopadhyay",
+        "Aparna Ramakrishna Pai",
+        "Krishna Kishore Mahato"
+      ],
+      "journal": "ASN neuro",
+      "publication_date": "2026-11-14",
+      "pmid": "43033473",
+      "doi": "10.1080/17590914.2026.2759459",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033473/",
+      "abstract": "Ageing is associated with changes in autophagic-lysosomal quality control, but these changes are not uniform and do not necessarily indicate reduced autophagy. This narrative review uses a clearance-bottleneck framework to examine how defects in pathway capacity, cargo recognition, autophagosome formation, trafficking, or lysosomal degradation may affect the ageing nervous system. It integrates evidence on lysosomal function and biogenesis, nutrient-sensing and transcriptional regulation, macroautophagy, chaperone-mediated autophagy, protein turnover, and organelle quality control. The review considers how these processes intersect with protein aggregation, mitochondrial dysfunction, synaptic regulation, and inflammatory communication among neurons, microglia, and astrocytes. Findings across Alzheimer's disease and tauopathies, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal dementia, and Huntington's disease/polyglutamine disorders are compared with attention to cargo, cellular context, model, and evidence from human studies. Methodological limitations are emphasized, particularly the inability of autophagy markers alone to establish completed flux. Therapeutic studies are evaluated separately for rescue, human target engagement, and clinical benefit. Evidence does not establish that precision correction of a defined neuronal autophagy defect improves clinical outcomes. The framework identifies priorities for validating clearance defects and testing interventions.",
+      "mesh_terms": [
+        "Humans",
+        "Autophagy",
+        "Neurodegenerative Diseases",
+        "Lysosomes",
+        "Aging",
+        "Animals",
+        "Neurons"
+      ],
+      "keywords": [
+        "Ageing",
+        "autophagy",
+        "lysosomal dysfunction",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43033255",
+      "event_key": "pubmed:43033255",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Neuropharmacology of omega-3 long-chain polyunsaturated fatty acids in neurodegenerative diseases: mechanisms, multi-omics evidence, and clinical translation.",
+      "authors": [
+        "Sajid Ali",
+        "Aziz Ullah"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "2026-11-14",
+      "pmid": "43033255",
+      "doi": "10.1007/s00210-026-06086-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033255/",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis, involve progressive neuronal dysfunction associated with neuroinflammation, oxidative stress, mitochondrial impairment, defective proteostasis, and synaptic failure. Although symptomatic treatment remains central, anti-amyloid therapies can modestly slow clinical decline in selected patients with early Alzheimer's disease. This review critically evaluates the neuropharmacological evidence for omega-3 long-chain polyunsaturated fatty acids, particularly docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), and the barriers to their clinical translation. We narratively synthesized preclinical, observational, and interventional clinical evidence, focusing on membrane organization, inflammatory resolution, mitochondrial and redox homeostasis, autophagy, proteostasis, neuronal signaling, and factors contributing to heterogeneous clinical outcomes. Preclinical studies support context-dependent effects of DHA and EPA on neuronal membranes, inflammatory signaling, mitochondrial function, redox balance, autophagy, and synaptic plasticity. Human evidence is less consistent: observational studies generally report favorable associations between omega-3 status and neurological outcomes, whereas randomized trials show null, modest, or subgroup-dependent effects. Outcomes vary with disease stage, baseline omega-3 status, formulation, dose, treatment duration, genotype, and endpoint selection. Uncertain central nervous system exposure and limited pharmacokinetic and target-engagement data remain major translational barriers. Omega-3 long-chain polyunsaturated fatty acids are biologically plausible neuropharmacological modulators, but current evidence does not establish DHA or EPA as broadly effective disease-modifying treatments for neurodegenerative diseases. Future trials should prioritize early-stage, biomarker-stratified populations, pharmacologically characterized formulations, adequate treatment duration, and clinically meaningful progression-related outcomes.",
+      "mesh_terms": [],
+      "keywords": [
+        "Clinical translation",
+        "Docosahexaenoic acid",
+        "Eicosapentaenoic acid",
+        "Multi-omics",
+        "Neurodegenerative diseases",
+        "Neuropharmacology",
+        "Omega-3 long-chain polyunsaturated fatty acids"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43033081",
+      "event_key": "pubmed:43033081",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Power-law age-dependence supports phenotype-specific multistep architecture in MND.",
+      "authors": [
+        "Steve Vucic",
+        "Robert D Henderson",
+        "David Schultz",
+        "Merrilee Needham",
+        "Susan Mathers",
+        "Pamela A Mccombe",
+        "Paul Talman",
+        "Matthew C Kiernan"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-14",
+      "pmid": "43033081",
+      "doi": "10.1080/21678421.2026.2762732",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033081/",
+      "abstract": "OBJECTIVE: To determine whether age-specific motor neuron disease (MND) incidence is better described by power-law age-dependence, compatible with multistep architecture, or by an exponential model.\n\nMETHODS: We analyzed curated Australian Motor Neuron Disease Registry data using age at symptom onset, clinical phenotype and Australian population denominators. The primary analysis modeled age-specific incidence across the 30-75-year range using 5-year age bands. Power-law and exponential Poisson models were compared using differences in Akaike Information Criterion (ΔAIC), with supplementary analyses across an expanded 20-90-year range and a restricted younger age range (<60 years).\n\nRESULTS: Across 2,556 patients in the primary analysis, the power-law model provided superior fit to the exponential model in the total cohort, with a ΔAIC of 60.06. The estimated power-law slope was 3.75, corresponding to 4.75 apparent steps. Power-law superiority was observed across clinical phenotypes, with the highest apparent step estimates in bulbar-onset ALS and flail arm syndrome, and the lowest in cervical-onset ALS and primary lateral sclerosis. Sensitivity analyses across expanded and restricted age ranges supported the primary findings.\n\nCONCLUSION: In the Australian MND Registry cohort, power-law age-dependence provided a better fit to observed age-specific incidence than the exponential alternative. These findings are compatible with a multistep model of MND pathogenesis but do not establish a fixed sequence of discrete pathogenic events.",
+      "mesh_terms": [],
+      "keywords": [
+        "Exponential",
+        "incidence",
+        "motor neuron disease",
+        "multi-step process",
+        "power-law"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43025440",
       "event_key": "pubmed:43025440",
       "source_id": "pubmed",
@@ -103,7 +204,45 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43026380",
+      "event_key": "pubmed:43026380",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Breathing in an Accelerated World: Temporality, Ethical Repertoires, and Medical Students' Examination Texts on Advanced Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Søren Bruno Elmgreen"
+      ],
+      "journal": "Culture, medicine and psychiatry",
+      "publication_date": "2026-11-13",
+      "pmid": "43026380",
+      "doi": "10.1007/s11013-026-10023-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026380/",
+      "abstract": "Medical students are commonly examined on ethically difficult clinical decisions, yet examination scripts have rarely been treated as a distinct empirical object in medical humanities. This article analyses 61 anonymised written examination responses from Danish medical students addressing acute respiratory failure in a fictional patient with advanced amyotrophic lateral sclerosis (ALS). The study is framed as a genre analysis of examination texts, operationalised through repeated close reading, inductive coding of recurrent textual moves, and abductive interpretation through Hartmut Rosa's concepts of acceleration and resonance. Four ethical repertoires were identified: accelerated stabilisation; prognostic triage and the limit of intervention; distributed responsibility and the search for a legitimate pause; and fragile resonance through attention to wishes, dignity, and palliative alternatives. Across the corpus, students wrote judgement through temporal distinctions between urgency and delay, reversibility and progression, and escalation and proportionate limitation. The findings do not show professionalism as such, but rather the institutionally legitimate ways in which professional judgement is made legible under assessment. Examination scripts matter for medical humanities because they make curricular normativity and evaluative pressure textually visible, showing how future clinicians are taught to write responsibility, uncertainty, and care into the same ethical scene. These repertoires also render an ableist prognostic imagination institutionally legible-one in which ventilator-dependent life is readily scripted in advance as a future to be avoided rather than supported-linking the temporal analysis to critical disability studies' account of the curative imaginary.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Students, Medical",
+        "Denmark",
+        "Clinical Decision-Making",
+        "Respiratory Insufficiency",
+        "Ethics, Medical",
+        "Male",
+        "Humanities"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Genre analysis",
+        "Medical education",
+        "Medical humanities",
+        "Temporality"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43025655",
@@ -135,7 +274,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43024369",
@@ -179,7 +318,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023697",
@@ -206,7 +345,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023487",
@@ -226,7 +365,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023485",
@@ -246,7 +385,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023483",
@@ -266,7 +405,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023417",
@@ -289,7 +428,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43021426",
@@ -312,7 +451,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43020712",
@@ -343,7 +482,7 @@
       "keywords": [],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43019526",
@@ -395,7 +534,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42947522",
@@ -473,7 +612,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43021436",
@@ -502,7 +641,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43015714",
@@ -543,7 +682,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43015463",
@@ -599,7 +738,7 @@
       "keywords": [],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43015100",
@@ -684,7 +823,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43023114",
@@ -721,7 +860,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43016791",
@@ -755,7 +894,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43013396",
@@ -898,6 +1037,39 @@
       "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
+      "id": "43030892",
+      "event_key": "pubmed:43030892",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Beyond Motor Neuron Degeneration: Non-Motor Manifestations and Multisystem Involvement in Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Maria Veciunca",
+        "Medeea Roman",
+        "Vlăduț-Gabriel Vasiliu",
+        "Rodica Bălașa",
+        "Anca Moțățăianu"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2026-11-09",
+      "pmid": "43030892",
+      "doi": "10.3390/jcm15218750",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030892/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease that primarily affects the motor system through the degeneration of motor neurons in the motor cortex, brainstem nuclei, and anterior horn of the spinal cord. ALS typically has a focal onset characterized by muscle weakness, followed by progressive spreading to other body regions, with respiratory muscle failure representing the main life-limiting complication. Median survival is approximately 2-5 years after disease onset. In addition to the well-established motor manifestations, non-motor symptoms are increasingly recognized and may occur in approximately 50% of patients. These include behavioral and neuropsychiatric disturbances, sleep disorders, sensory abnormalities, autonomic dysfunction involving the cardiovascular, gastrointestinal, and genitourinary systems, as well as metabolic and endocrine alterations. Recent evidence supports the concept of ALS as a multisystem disorder characterized by substantial clinical, genetic, and neuropathological heterogeneity. Nevertheless, non-motor manifestations remain less extensively characterized than motor symptoms and are frequently underestimated in clinical practice. This narrative review summarizes the current evidence on non-motor manifestations in ALS, discusses their potential underlying mechanisms and impact on quality of life, and highlights areas requiring further investigation. A better understanding and systematic assessment of these manifestations may contribute to a more comprehensive and patient-centered approach to ALS care.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "cognitive impairment",
+        "dysautonomia",
+        "multisystem involvement",
+        "non-motor symptoms",
+        "sleep disorders"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43003200",
       "event_key": "pubmed:43003200",
       "source_id": "pubmed",
@@ -960,6 +1132,54 @@
       "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
+      "id": "43028238",
+      "event_key": "pubmed:43028238",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Mitochondrial Dysfunction in Neurodegenerative Diseases: Molecular Mechanisms, Primary Drivers Versus Early Amplifiers, and Emerging Mitochondria-Targeted Therapeutic Strategies.",
+      "authors": [
+        "Prarthana Kalerammana Gopalakrishna",
+        "Thirupathirao Vishnumukkala",
+        "Zaw Myo Hein",
+        "Barani Karikalan",
+        "Srikumar Chakravarthi",
+        "Farida Hussan",
+        "Riya Sandeep Deoghare",
+        "Saravanan Jagadeesan",
+        "Narendiran Krishnasamy",
+        "Soe Ei Phyu",
+        "Pamela David",
+        "Mohd Amir Kamaruzzaman"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-11-07",
+      "pmid": "43028238",
+      "doi": "10.3390/ijms27219993",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028238/",
+      "abstract": "Mitochondria are critical for bioenergetics, calcium and redox homeostasis, and apoptosis in neurons. Neurons are especially susceptible to mitochondrial malfunction since they are terminally differentiated and have extraordinary energy requirements. Mechanisms such as defective oxidative phosphorylation, altered fission-fusion dynamics, defective mitophagy, impaired axonal transport and excessive reactive oxygen species (ROS) generation are increasingly appreciated as important mechanisms in major neurodegenerative diseases (NDDs) like Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS) and Huntington's disease (HD). The review discusses the structure and function of mitochondria with emphasis on oxidative phosphorylation, ROS and reactive nitrogen species (RNS) signalling, calcium-mediated excitotoxicity, lipid metabolism, and apoptotic and non-apoptotic cell-death mechanisms including necroptosis, ferroptosis, pyroptosis and parthanatos. In particular, disease-specific processes are highlighted, such as impaired mitophagy by amyloid β/tau in AD, PTEN-induced kinase 1 (PINK1)/Parkin dysfunction and complex I inhibition in PD, Superoxide Dismutase 1 (SOD1)/C9orf72-associated mitochondrial defects in ALS, and bioenergetic dysfunction by mutant huntingtin in HD. Therapeutic approaches include mitochondria-targeted antioxidants, fusion and biogenesis enhancers, fission inhibitors, inflammasome modulators, Mitochondrial Permeability Transition Pore (mPTP) inhibitors and gene therapy. Also highlighted are recent advancements such as Ubiquitin-Specific Peptidase 30 (USP30) inhibition, intercellular mitochondrial transfer and regulatory approval of a mitochondria-targeted peptide, together with evidence supporting causality and hurdles underpinning clinical translation. Graded against human-genetic, patient-tissue and model-based evidence, mitochondrial dysfunction is best supported as a primary driver in PD and genetic ALS, and as an early amplifier of proteinopathic or mutant-huntingtin toxicity in sporadic AD and HD.",
+      "mesh_terms": [
+        "Humans",
+        "Mitochondria",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Reactive Oxygen Species",
+        "Mitochondrial Dynamics",
+        "Mitophagy"
+      ],
+      "keywords": [
+        "mitochondria-targeted antioxidants",
+        "mitochondrial dynamics",
+        "mitochondrial dysfunction",
+        "mitophagy",
+        "neurodegeneration",
+        "oxidative phosphorylation"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "42992452",
       "event_key": "pubmed:42992452",
       "source_id": "pubmed",
@@ -994,6 +1214,92 @@
       "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
+      "id": "43032804",
+      "event_key": "pubmed:43032804",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Limited contribution of natural killer cells to SOD1 G93A ALS pathogenesis: evidence from comprehensive immunophenotyping and genetic deletion of Ncr1 and Properdin.",
+      "authors": [
+        "Roxane Crabé",
+        "Alexandre Brodovitch",
+        "Philippe Gosset",
+        "Charlotte Gavard",
+        "Véronique Brugioti",
+        "Désiré Challuau",
+        "Antoine Picot",
+        "Gabriel Espinosa-Carrasco",
+        "Laurent Soustelle",
+        "Kevin Mouzat",
+        "Javier Hernandez",
+        "José Boucraut",
+        "Thierry Vincent",
+        "Cédric Raoul"
+      ],
+      "journal": "Brain, behavior, & immunity - health",
+      "publication_date": "2026-11-05",
+      "pmid": "43032804",
+      "doi": "10.1016/j.bbih.2026.101401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032804/",
+      "abstract": "Immune dysregulation contributes to amyotrophic lateral sclerosis (ALS) pathogenesis. Natural killer (NK) lymphocytes have been proposed to contribute to ALS, but their exact role remains debated. Here we combined comprehensive immunophenotyping strategy with two complementary loss-of-function approaches to trace NK cells and assess their Ncr1-associated cytotoxic function in SOD1 G93A mice. We found no significant difference in the proportion, maturation, and activation status of circulating NK cells between control and SOD1 G93A mice at onset and symptomatic stage, and no significant NK cell recruitment to the central nervous system at any disease stage. Notably, resident microglia in the SOD1 G93A spinal cord acquire NK1.1 expression at the symptomatic stage. NK cells isolated from SOD1 G93A mice did not affect motoneuron survival in vitro. We further show that genetic deletion of Ncr1, which abolishes one of the major activating pathways of NK-cell cytotoxicity, did not modify disease onset, motor function or survival of SOD1 G93A mice. Additionally, we show that Properdin, a positive regulator of the alternative complement pathway and a reported ligand of NCR1, decorates misfolded SOD1 inclusions and degenerating astrocytes, consistent with a role as a phagocytic signal for CD68+ microglia. However, genetic deletion of Properdin in SOD1 G93A did not influence neuroinflammation or motoneuron survival. Together, the unchanged frequency, maturation or activation status of NK cells, combined with the lack of effect of Ncr1 genetic ablation argue against a major NK contribution to motoneuron degeneration in the SOD1 G93A mouse model, while uncovering an unexpected role for Properdin in opsonizing misfolded SOD1 aggregates.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Lymphocytes",
+        "Motoneurons",
+        "Natural Killer cells",
+        "Natural cytotoxicity triggering receptor 1",
+        "Neuroimmunity",
+        "Properdin"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43029807",
+      "event_key": "pubmed:43029807",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "MobileNetV2 for Multiclass Neurodegenerative Gait Analysis Using Bilateral Ground Reaction Force Images: From Transfer Learning to Raspberry Pi 4 Deployment.",
+      "authors": [
+        "Vessela Krasteva",
+        "Todor Stoyanov",
+        "Irena Jekova"
+      ],
+      "journal": "Sensors (Basel, Switzerland)",
+      "publication_date": "2026-11-05",
+      "pmid": "43029807",
+      "doi": "10.3390/s26217010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43029807/",
+      "abstract": "Neurodegenerative diseases (NDDs), including Parkinson's disease (PARK), Huntington's disease (HUNT), and amyotrophic lateral sclerosis (ALS), are associated with characteristic gait alterations. This study proposes an image-based deep-learning approach for NDD gait classification and its implementation on an edge-computing platform. The main contributions include: (1) mapping synchronized left- and right-foot ground reaction force (GRF) signals from individual gait cycles into a common 2D bilateral force space to generate three complementary representations-Trajectory Map (bilateral force trajectories), Derivative Map (dynamic transitions), and Occupancy Heatmap (loading-state distributions); (2) adapting ImageNet-pretrained MobileNetV2 to four-class gait classification (CONTROL, ALS, HUNT, and PARK) through classification-layer retraining and feature-extractor fine-tuning; (3) comparing compact (α = 0.35; ~0.4 M parameters) and higher-capacity (α = 1.4; ~4.4 M parameters) MobileNetV2 configurations; and (4) evaluating the deployment of the resulting models on a Raspberry Pi 4 as a resource-constrained edge-computing platform. The models were evaluated on a test subset of 2259 gait cycles from the Gait in Neurodegenerative Disease Database, comprising CONTROL (612), ALS (367), HUNT (727), and PARK (553). Fine-tuning increased overall four-class accuracy from 89.64-92.61% to 95.09-96.41% across the GRF representations and model configurations. Paired comparisons showed improvements of 3.81-6.29 percentage points across all six matched configurations. Class-specific one-vs-rest accuracy was consistently high after fine-tuning: CONTROL (97.74-98.63%), ALS (98.41-98.94%), HUNT (96.02-97.21%), and PARK (97.30-98.23%). The highest four-class accuracy (96.41%; 95% CI: 95.45-97.29%; Occupancy Heatmap, α = 1.4) was preserved for the unquantized TFLite model evaluated on the Raspberry Pi 4, while dynamic-range quantization reduced accuracy by 0.22 percentage points to 96.19%. Compact fine-tuned MobileNetV2 models required approximately 42-46 ms of inference latency and 89-97 mJ of estimated incremental energy per inference, compared with 324-374 ms and 680-785 mJ, respectively, for the higher-capacity models. Dynamic-range quantization reduced model storage by approximately 62% (α = 0.35) and 72% (α = 1.4). Overall, bilateral GRF representations combined with MobileNetV2 transfer learning enable accurate multiclass NDD gait classification, while compact models provide a favorable performance-efficiency trade-off for resource-constrained edge implementation. However, subject-independent validation remains necessary because the reported accuracy was obtained using gait-cycle-level data partitioning.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Gait Analysis",
+        "Gait",
+        "Deep Learning",
+        "Parkinson Disease",
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "keywords": [
+        "Huntington’s disease",
+        "Parkinson’s disease",
+        "amyotrophic lateral sclerosis",
+        "deep learning",
+        "edge computing",
+        "embedded systems",
+        "gait classification",
+        "image processing",
+        "neurodegenerative diseases",
+        "vertical ground reaction force"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43022629",
       "event_key": "pubmed:43022629",
       "source_id": "pubmed",
@@ -1026,7 +1332,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "43001128",
@@ -1511,6 +1817,61 @@
       "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
+      "id": "43027360",
+      "event_key": "pubmed:43027360",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Electromagnetic Modulation of the ALS Transcriptome: Toward a Non-Drug Therapeutic Strategy.",
+      "authors": [
+        "Arun Pal",
+        "Banaja P Dash",
+        "Marc Uhlarz",
+        "Jonas Gronemann",
+        "Julia Japtok",
+        "Hannes Glaß",
+        "Jens Pietzsch",
+        "Joachim Wosnitza",
+        "Katrin Sameith",
+        "Andreas Dahl",
+        "Andreas Hermann",
+        "Richard H W Funk",
+        "Thomas Herrmannsdörfer"
+      ],
+      "journal": "Cells",
+      "publication_date": "2026-11-03",
+      "pmid": "43027360",
+      "doi": "10.3390/cells15212003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027360/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease hallmarked by progressive loss of neuromuscular junctions, cortical and spinal motor neurons (MNs), resulting in muscle paralysis. MNs are particularly vulnerable due to their long axons and high metabolic demands. ALS pathology involves impaired RNA metabolism, protein aggregation, cytoskeletal defects affecting organelle trafficking, and mitochondrial dysfunction, ultimately leading to neurodegeneration. Current treatments only marginally extend survival, calling for alternative therapies. We recently reported beneficial effects of electromagnetic alternating field stimulation (ACMS) on axonal regeneration and organelle motility in ALS. Here, we used iPSC-derived spinal MNs from familial ALS patients with FUS mutations to optimize magnetic field parameters regarding frequency, amplitude and duration. Using compartmentalized neuron cultures, we also tested different magnetic field orientations relative to axons. Following ACMS, we assessed axonal organelle trafficking and the nuclear DNA damage response (DDR) by live-cell imaging. Untreated ALS neurons showed clear defects in both assays. Exposure to magnetic AC sine waves above a threshold amplitude of 7 mT, applied perpendicular to the axonal plane with an optimal low frequency of 25 Hz, led to a sustained boost of mitochondrial and lysosomal motility for over one week and rehabilitation of DDR. These phenotypic improvements correlated with global transcriptomic changes revealed by RNA-sequencing. These phenotypic improvements correlated with global transcriptomic changes revealed by RNA-sequencing. While untreated mutant and wild-type neurons displayed different gene expression profiles, ACMS converged them to a novel, harmonized transcriptional state across all lines. Further analysis of differentially expressed genes (DEGs) yielded a conceptual model in which ACMS activates extracellular matrix (ECM)-mediated cell adhesion and neurotransmitter receptor, ion channel and kinase signaling pathways, ultimately modulating gene transcription and, thereby, motor- and microtubule-associated proteins. This model provides a framework for follow-up studies to experimentally validate the underlying mechanisms and assess the therapeutic potential of ACMS as an alternative biophysical treatment modality for neurodegenerative diseases.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "Transcriptome",
+        "Motor Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Mitochondria",
+        "Axons",
+        "RNA-Binding Protein FUS",
+        "Electromagnetic Fields",
+        "DNA Damage"
+      ],
+      "keywords": [
+        "DNA damage response",
+        "Lou Gehrig’s disease",
+        "axonal organelle motility",
+        "extracellular matrix",
+        "global RNA-seq",
+        "inducible pluripotent stem cells",
+        "magnetic-field-mediated neuroprotection",
+        "motor neurons",
+        "neurodegenerative disease"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43012292",
       "event_key": "pubmed:43012292",
       "source_id": "pubmed",
@@ -1887,7 +2248,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42990777",
@@ -2180,6 +2541,84 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43031658",
+      "event_key": "pubmed:43031658",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "SEL1L: molecular gatekeeper of the endoplasmic reticulum quality control network.",
+      "authors": [
+        "Zhenxuan Shen",
+        "Yiting Niu",
+        "Hedong Chen",
+        "Meikun Pan",
+        "Fan Yang",
+        "Meiying Li",
+        "Chong Zhang",
+        "Yali Zhou",
+        "Jianguo Yan"
+      ],
+      "journal": "Experimental biology and medicine (Maywood, N.J.)",
+      "publication_date": "2026-10-30",
+      "pmid": "43031658",
+      "doi": "10.3389/ebm.2026.11350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031658/",
+      "abstract": "SEL1L (suppressor/enhancer of lin-12-like) is an endoplasmic reticulum (ER) transmembrane protein that serves as a key regulatory molecule in the endoplasmic reticulum-associated degradation (ERAD) pathway, playing a central role in maintaining intracellular protein homeostasis. This paper provides a systematic review of SEL1L's structural characteristics, the molecular mechanisms by which it forms a functional complex with the E3 ubiquitin ligase HMG-CoA reductase degradation protein 1 (HRD1, encoded by SYVN1) to synergistically execute ERAD, and its pathophysiological significance in the onset and progression of various diseases. Research indicates that SEL1L dysfunction is closely associated with pathogenic protein aggregation in neurodegenerative diseases (e.g., Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis), protein homeostasis imbalances during tumorigenesis, cellular metabolic dysregulation in metabolic disorders (e.g., diabetes, lipid metabolism disorders), and immune system dysfunction. Furthermore, the expression levels or variants of SEL1L exhibit specific alterations across different tumor tissues, suggesting its potential as a disease biomarker and therapeutic target. This paper aims to synthesize existing research, elucidate the 'gatekeeper' role of SEL1L in multiple physiological and pathological processes, and explore the prospects for developing novel therapeutic strategies by targeting the SEL1L-HRD1 complex and related pathways.",
+      "mesh_terms": [
+        "Humans",
+        "Endoplasmic Reticulum",
+        "Endoplasmic Reticulum-Associated Degradation",
+        "Neurodegenerative Diseases",
+        "Ubiquitin-Protein Ligases",
+        "Proteins",
+        "Animals"
+      ],
+      "keywords": [
+        "AD",
+        "PD",
+        "SEL1L",
+        "immunity",
+        "metabolic diseases",
+        "neurodegenerative diseases",
+        "tumor"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43028460",
+      "event_key": "pubmed:43028460",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Lipidomics in Brain Health and Neurodegenerative Diseases: Mechanisms, Biomarkers, and Therapeutic Perspectives.",
+      "authors": [
+        "Arshad Husain Rahmani",
+        "Tarique Sarwar"
+      ],
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "publication_date": "2026-10-30",
+      "pmid": "43028460",
+      "doi": "10.3390/diagnostics16213589",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028460/",
+      "abstract": "Lipids constitute nearly half of the brain's dry weight and play a crucial role in maintaining the function of the central nervous system (CNS). Beyond their well-known function as structural components of cellular membranes and energy storage, lipids are now identified as dynamic bioactive mediators that regulate neuronal signaling, synaptic plasticity, membrane integrity and neuroinflammatory responses. Emerging evidence demonstrates that altered lipid homeostasis is associated with the pathogenesis of neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS) and Huntington's disease (HD). In this review, we highlight key pathophysiological mechanisms, including dysregulation of lipid transport by cholesterol and apolipoprotein E4 (ApoE4), which may influence the aggregation of amyloid-β in AD. We discuss sphingolipid dysregulation and impaired glucocerebrosidase activity in modulating α-synuclein pathology in PD. Furthermore, we emphasize the importance of polyunsaturated fatty acids (PUFAs) and their oxidized forms in the regulation of oxidative stress, ferroptosis, and neuronal cell death in ALS and HD. Besides mechanistic information, this review also highlights the recent advancements in modern lipidomic technologies, such as high-resolution mass spectrometry and multi-omics integration, which have facilitated the comprehensive characterization of disease-associated lipid alterations. Emerging lipid signatures, including alterations in ceramide, cholesterol metabolism and lipid droplet biogenesis in glial cells, are being investigated as candidate biomarkers and therapeutic targets. Collectively, we outline a strategy for exploiting the brain lipidome to explore the potential for personalized disease-modifying strategies against neurodegeneration by integrating mechanistic, diagnostic and therapeutic insights.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Parkinson’s disease",
+        "biomarkers",
+        "lipid metabolism",
+        "lipidomics",
+        "neurodegeneration",
+        "neuroinflammation",
+        "precision medicine"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "42981879",
       "event_key": "pubmed:42981879",
       "source_id": "pubmed",
@@ -2304,6 +2743,84 @@
       "last_seen_at": "2026-11-03T07:08:17Z"
     },
     {
+      "id": "43028444",
+      "event_key": "pubmed:43028444",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Enhancing Machine Learning Performance for ALS Classification Using Feature Selection Technique.",
+      "authors": [
+        "Arunesh Dutt",
+        "Ashutosh Tiwari",
+        "Saurav Tripathi",
+        "Pradeep Kumar Tiwari",
+        "Mritunjai Kumar",
+        "Akansha Dwivedi",
+        "Komal Singh",
+        "Ashish Khare",
+        "Narendra Kumar Shukla",
+        "Niraj Kumar"
+      ],
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "publication_date": "2026-10-29",
+      "pmid": "43028444",
+      "doi": "10.3390/diagnostics16213573",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028444/",
+      "abstract": "Background: Electromyogram (EMG) is considered for the diagnosis of amyotrophic lateral sclerosis (ALS). We investigated how frequently an initial electrophysiological evaluation is performed in ALS patients. Objective: We aimed to identify ALS cases using the feature selection algorithm (FSA). A pattern of feature involvement was expected in the early phase of ALS based on the typical consistent involvement of a few particular muscles in the late stages. Methods: We used a clinical and EMG dataset of 36 patients (21 ALS patients and 15 healthy) for analysis. The present approach used a Random Forest (RF)-based machine learning (ML) algorithm for the prediction of ALS patients. The goal of this study was to determine how feature selection techniques can enhance machine learning algorithms that can be used in real-time applications. Findings: The experimental findings demonstrate the superior performance of the proposed model. This work demonstrates how machine learning models can offer important predictive insights in ALS, improving knowledge of disease dynamics and aiding patient care. According to the comparison results, the RF model utilizing the feature selection algorithm demonstrated a positive improvement, and the accuracy of the RF model with and without the feature selection technique was found to be 87.50% and 75%, respectively. Conclusions: The algorithm improved the model accuracy from 75% to 87.50%, resulting in an absolute increase of 12.5 percentage points in classification accuracy. This study found that fibrillation, positive sharp waves (PSW), and fasciculation features were high-yielding in EMG of ALS cases.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis (ALS)",
+        "electromyography (EMG)",
+        "machine learning (ML)",
+        "motor neuron disease (MND)",
+        "muscles"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
+      "id": "43027938",
+      "event_key": "pubmed:43027938",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Beyond the Neuron: TDP-43 and the Challenge of Pre-Analytical Quality in Platelet Biomarker Development.",
+      "authors": [
+        "Birhanemaskal Malkamu",
+        "Emanuele Buratti",
+        "Sara Cappelli"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-10-29",
+      "pmid": "43027938",
+      "doi": "10.3390/ijms27219691",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027938/",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) is the primary pathological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Yet, despite two decades of intensive research, a reliable peripheral TDP-43 biomarker remains elusive. Recognizing platelets as a major blood reservoir of TDP-43 opens new diagnostic avenues but may also reveal potential vulnerabilities. In this narrative review, we first trace the evolving understanding of TDP-43 from a nuclear RNA-binding protein to a molecule whose functions and disease-associated alterations extend beyond the neuron. We then examine recent breakthroughs demonstrating that TDP-43 function is shaped by its cellular environment and how it may be uniquely concentrated in platelets. Next, we argue that pre-analytical variables, such as hemolysis, clotting, cold-chain failures, and biobank protocols, are not mere \"noise\" but potential confounders that distort molecular integrity and should be taken into account. Finally, we discuss the biological and methodological uncertainties surrounding platelet TDP-43 and highlight how standardized handling and systematic pre-analytical reporting can improve reproducibility and support future biomarker validation. More broadly, the methodological standards outlined in this review may extend beyond TDP-43 to other disease-related proteins that are present in platelets and similarly sensitive to pre-analytical variability.",
+      "mesh_terms": [
+        "Humans",
+        "Blood Platelets",
+        "Biomarkers",
+        "DNA-Binding Proteins",
+        "Amyotrophic Lateral Sclerosis",
+        "Neurons",
+        "Frontotemporal Dementia",
+        "Animals"
+      ],
+      "keywords": [
+        "ALS",
+        "FTD",
+        "TDP-43",
+        "biomarker",
+        "platelets",
+        "pre-analytical quality",
+        "proteomodulation"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43022201",
       "event_key": "pubmed:43022201",
       "source_id": "pubmed",
@@ -2330,7 +2847,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42976580",
@@ -2664,6 +3181,46 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43027884",
+      "event_key": "pubmed:43027884",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk.",
+      "authors": [
+        "Tianying Zhao",
+        "Mariah M Hoffman",
+        "Gang Wu",
+        "Veronique V Belzil"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-10-28",
+      "pmid": "43027884",
+      "doi": "10.3390/ijms27219632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027884/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder whose genetic architecture and molecular mechanisms remain incompletely understood, particularly in sporadic disease. To investigate whether genetically regulated DNA methylation may help interpret ALS susceptibility, we conducted a methylome-wide association study of genetically predicted blood methylation using the PrediXcan framework. CpG-specific models from the ARIES and Understanding Society cohorts were applied to ALS genome-wide association study (GWAS) summary statistics from 27,205 cases and 110,881 controls of European ancestry. Using S-PrediXcan, we evaluated 192,378 unique CpG sites. At nominal p < 0.05, 3741 CpGs were associated with ALS risk using ARIES models and 13,127 using Understanding Society models. After Bonferroni correction, 25 CpGs across eight genomic regions remained significant, including signals near established ALS and ALS-frontotemporal dementia loci (C9orf72, TBK1, SCFD1, and MOB3B). Three CpGs mapped to WHAMM at 15q25.2, a region not previously implicated by ALS GWAS. Predicted methylation was positively associated with risk at 18 CpGs and inversely associated at seven. Complementary whole-blood transcriptome-wide association analysis identified 11 significant genes, including C9orf72. Together, these findings prioritize regulatory candidates for functional investigation without establishing that methylation changes cause ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "DNA Methylation",
+        "Genome-Wide Association Study",
+        "Genetic Predisposition to Disease",
+        "CpG Islands",
+        "Polymorphism, Single Nucleotide",
+        "C9orf72 Protein"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "epigenetics",
+        "genetic regulation",
+        "methylome-wide association study",
+        "transcriptome-wide association study"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "43016795",
       "event_key": "pubmed:43016795",
       "source_id": "pubmed",
@@ -2710,7 +3267,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42990340",
@@ -3779,6 +4336,55 @@
       "last_seen_at": "2026-10-29T06:17:28Z"
     },
     {
+      "id": "43027782",
+      "event_key": "pubmed:43027782",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Convergent Early Dysregulation of Sarcopenia-Associated Genes in Skeletal Muscle During Aging and SOD1G93A ALS Models.",
+      "authors": [
+        "Paula Aparicio",
+        "Gabriella Dobrowolny",
+        "Martina Lupoli",
+        "Laura Moreno-Martínez",
+        "Tresa López-Royo",
+        "Antonio Musarò",
+        "Raquel Manzano",
+        "Rosario Osta"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-10-25",
+      "pmid": "43027782",
+      "doi": "10.3390/ijms27219529",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027782/",
+      "abstract": "Skeletal muscle undergoes structural and functional decline due to aging and neuromuscular disorders such as amyotrophic lateral sclerosis (ALS), both of which impact protein expression and contribute to muscle atrophy. This study investigates how aging and the SOD1G93A ALS-related mutation affect the expression of eight genes previously linked to sarcopenia (PF4, OIT3, MMRN1, MASP1, C1R, SVEP1, VCAN and SPTB) but not yet characterized in muscle tissue. To this end, we analyzed their expression (1) during muscle aging in WT mice (5 and 24 months), (2) in SOD1G93A-transfected myotube cells in vitro, (3) in a muscle-specific SOD1G93A mouse model (5 and 24 months), and (4) in a systemic SOD1G93A transgenic mouse at different disease stages (60 and 120 days) by quantitative PCR. All eight target genes were expressed in skeletal muscle and most of them showed increased transcription with aging. In ALS models, gene expression was significantly overexpressed at early stages, particularly in muscle-specific (MLC/SOD1G93A) and systemic (SOD1G93A) models, mimicking aging-related profiles. These alterations attenuated with disease progression, suggesting an early transient muscle response to ALS-linked SOD1 mutations. Hence, this study demonstrates that sarcopenia-associated proteins are actively expressed and modulated in skeletal muscle during aging and ALS and suggests convergent response mechanisms.",
+      "mesh_terms": [
+        "Animals",
+        "Sarcopenia",
+        "Amyotrophic Lateral Sclerosis",
+        "Aging",
+        "Muscle, Skeletal",
+        "Superoxide Dismutase-1",
+        "Mice",
+        "Mice, Transgenic",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Humans",
+        "Mutation",
+        "Superoxide Dismutase"
+      ],
+      "keywords": [
+        "ALS",
+        "aging",
+        "atrophy",
+        "sarcopenia",
+        "skeletal muscle"
+      ],
+      "collected_at": "2026-11-15T07:00:00Z",
+      "first_seen_at": "2026-11-15T07:00:00Z",
+      "last_seen_at": "2026-11-15T07:00:00Z"
+    },
+    {
       "id": "42933234",
       "event_key": "pubmed:42933234",
       "source_id": "pubmed",
@@ -4563,7 +5169,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42991605",
@@ -5799,7 +6405,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42941925",
@@ -19187,7 +19793,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42746497",
@@ -20012,7 +20618,7 @@
       ],
       "collected_at": "2026-11-13T07:05:23Z",
       "first_seen_at": "2026-11-13T07:05:23Z",
-      "last_seen_at": "2026-11-14T06:54:34Z"
+      "last_seen_at": "2026-11-15T07:00:00Z"
     },
     {
       "id": "42983872",
