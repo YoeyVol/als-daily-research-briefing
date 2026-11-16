@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-11-15T07:00:00Z",
+  "updated_at": "2026-11-16T07:08:01Z",
   "new_keys": [
-    "pubmed:43032804",
-    "pubmed:43033255",
-    "pubmed:43033081",
-    "pubmed:43026380",
-    "pubmed:43030892",
-    "pubmed:43028238",
-    "pubmed:43029807",
-    "pubmed:43027360",
-    "pubmed:43031658",
-    "pubmed:43028460",
-    "pubmed:43028444",
-    "pubmed:43027938",
-    "pubmed:43027884",
-    "pubmed:43027782",
-    "pubmed:43033473"
+    "pubmed:43034702",
+    "pubmed:43035261"
   ],
   "items": [
     {
@@ -97,7 +84,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43033255",
@@ -128,7 +115,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43033081",
@@ -163,7 +150,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43025440",
@@ -204,7 +191,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43026380",
@@ -242,7 +229,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43025655",
@@ -274,7 +261,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43024369",
@@ -318,7 +305,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023697",
@@ -345,7 +332,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023487",
@@ -365,7 +352,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023485",
@@ -385,7 +372,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023483",
@@ -405,7 +392,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023417",
@@ -428,7 +415,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43021426",
@@ -451,7 +438,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43020712",
@@ -612,7 +599,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43021436",
@@ -641,7 +628,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43015714",
@@ -823,7 +810,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43023114",
@@ -860,7 +847,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43016791",
@@ -1067,7 +1054,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43003200",
@@ -1177,7 +1164,30 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
+    },
+    {
+      "id": "43034702",
+      "event_key": "pubmed:43034702",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Disarming oxidized lipids: AAV-delivered antibody neutralization as an emerging strategy against ALS.",
+      "authors": [
+        "Sergi Verdés",
+        "Assumpció Bosch"
+      ],
+      "journal": "Molecular therapy. Advances",
+      "publication_date": "2026-11-06",
+      "pmid": "43034702",
+      "doi": "10.1016/j.omta.2026.201879",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034702/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-16T07:08:01Z",
+      "first_seen_at": "2026-11-16T07:08:01Z",
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42992452",
@@ -1254,7 +1264,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43029807",
@@ -1297,7 +1307,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43022629",
@@ -1332,7 +1342,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43001128",
@@ -1869,7 +1879,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43012292",
@@ -2248,7 +2258,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42990777",
@@ -2339,6 +2349,46 @@
       "collected_at": "2026-11-03T07:08:17Z",
       "first_seen_at": "2026-11-03T07:08:17Z",
       "last_seen_at": "2026-11-04T06:53:59Z"
+    },
+    {
+      "id": "43035261",
+      "event_key": "pubmed:43035261",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Toll-Like Receptor-Driven Neuroinflammation in Neurological Disorders: Signaling Crosstalk and Therapeutic Opportunities.",
+      "authors": [
+        "Akhil Sharma",
+        "Gurkirat Singh",
+        "Ashi Mannan",
+        "Vetriselvan Subramaniyan",
+        "Kamal Dua",
+        "Thakur Gurjeet Singh"
+      ],
+      "journal": "Journal of neuroscience research",
+      "publication_date": "2026-11-01",
+      "pmid": "43035261",
+      "doi": "10.1002/jnr.70171",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035261/",
+      "abstract": "Toll-like receptors (TLRs) serve as pivotal mediators bridging innate immunity and neuroinflammation, orchestrating pathological cascades that drive neurological disorders. Beyond their sentinel role in pathogen recognition, aberrant TLR activation triggers intricate and destructive signaling networks, including activation of NF-κB, MAPK, JAK/STAT, and PI3K/AKT, alongside IRFs and type I interferon responses that converge on chronic neuroinflammation and subsequent neuronal damage. This review dissects TLRs' multilayered contribution to neuropathology, emphasizing their regulation of secondary inflammatory mechanisms, including NLRP3 inflammasome priming and activation, mTOR-driven metabolic dysregulation, SOCS-mediated feedback inhibition, inflammasome activation, and pyroptotic cell death. Critically, these signaling pathways create a pathological intersection with oxidative stress and mitochondrial dysfunction, amplifying a self-perpetuating cycle of neuronal injury that underlies conditions like Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and Amyotrophic lateral sclerosis (ALS), Stroke, Multiple sclerosis (MS), Epilepsy and Traumatic brain injury (TBI). Against this neuropathological landscape, this review systematically evaluates emerging therapeutic strategies targeting TLR-mediated neuroinflammation, encompassing small molecule TLR antagonists, intracellular adaptor protein inhibitors targeting myeloid differentiation primary response 88 (MyD88) and TIR-domain-containing adapter-inducing interferon-β (TRIF), biologic therapies including monoclonal antibodies and fusion proteins, natural phytochemicals and nutraceuticals, Clustered regularly interspaced short palindromic repeats (CRISPR)-based genomic interventions, and cell-based immunomodulatory therapies, collectively representing a mechanistically diverse arsenal aimed at recalibrating the dysregulated innate immune response to achieve durable neuroprotection across the full spectrum of TLR-mediated neurological disorders.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Neuroinflammatory Diseases",
+        "Toll-Like Receptors",
+        "Signal Transduction",
+        "Nervous System Diseases"
+      ],
+      "keywords": [
+        "Toll‐like‐receptors (TLRs)",
+        "innate immunity",
+        "neurodegeneration",
+        "neuroinflammation",
+        "neuroprotection"
+      ],
+      "collected_at": "2026-11-16T07:08:01Z",
+      "first_seen_at": "2026-11-16T07:08:01Z",
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42986019",
@@ -2584,7 +2634,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43028460",
@@ -2616,7 +2666,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42981879",
@@ -2777,7 +2827,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43027938",
@@ -2818,7 +2868,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43022201",
@@ -2847,7 +2897,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42976580",
@@ -3218,7 +3268,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "43016795",
@@ -4382,7 +4432,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42933234",
@@ -6405,7 +6455,7 @@
       "keywords": [],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42941925",
@@ -19793,7 +19843,7 @@
       ],
       "collected_at": "2026-11-14T06:54:34Z",
       "first_seen_at": "2026-11-14T06:54:34Z",
-      "last_seen_at": "2026-11-15T07:00:00Z"
+      "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
       "id": "42746497",
