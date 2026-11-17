@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-11-16T07:08:01Z",
-  "new_keys": [],
+  "updated_at": "2026-11-17T08:20:26Z",
+  "new_keys": [
+    "clinicaltrials:NCT05470478:2026-11-16",
+    "clinicaltrials:NCT06100276:2026-11-16",
+    "clinicaltrials:NCT05336760:2026-11-16"
+  ],
   "items": [
+    {
+      "id": "NCT06100276",
+      "event_key": "clinicaltrials:NCT06100276:2026-11-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06100276",
+      "title": "Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered Gene Therapy AMT-162 in Adult Participants With SOD1 Amyotrophic Lateral Sclerosis (SOD1-ALS)",
+      "sponsor": "UniQure Biopharma B.V.",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: AMT-162"
+      ],
+      "start_date": "2024-08-01",
+      "last_update_date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT06100276",
+      "collected_at": "2026-11-17T08:20:26Z",
+      "first_seen_at": "2026-11-17T08:20:26Z",
+      "last_seen_at": "2026-11-17T08:20:26Z"
+    },
+    {
+      "id": "NCT05470478",
+      "event_key": "clinicaltrials:NCT05470478:2026-11-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05470478",
+      "title": "iBCI Optimization for Veterans With Paralysis",
+      "sponsor": "VA Office of Research and Development",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Device: Mobile neural decoding platform (mobile iBCI)"
+      ],
+      "start_date": "2027-04-14",
+      "last_update_date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT05470478",
+      "collected_at": "2026-11-17T08:20:26Z",
+      "first_seen_at": "2026-11-17T08:20:26Z",
+      "last_seen_at": "2026-11-17T08:20:26Z"
+    },
+    {
+      "id": "NCT05336760",
+      "event_key": "clinicaltrials:NCT05336760:2026-11-16",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05336760",
+      "title": "Dysphagia, QoL and Attitudes Towards PEG in ALS Patients",
+      "sponsor": "University Rehabilitation Institute, Republic of Slovenia",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Diagnostic_Test: Iowa Oral Performance Instrument (IOPI)",
+        "Diagnostic_Test: Mann Assessment of Swallowing Ability (MASA)",
+        "Diagnostic_Test: Fiberoptic Endoscopic Evaluation of Swallowing",
+        "Diagnostic_Test: Respiratory function measurements"
+      ],
+      "start_date": "2023-01-01",
+      "last_update_date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT05336760",
+      "collected_at": "2026-11-17T08:20:26Z",
+      "first_seen_at": "2026-11-17T08:20:26Z",
+      "last_seen_at": "2026-11-17T08:20:26Z"
+    },
     {
       "id": "NCT07934914",
       "event_key": "clinicaltrials:NCT07934914:2026-11-13",
