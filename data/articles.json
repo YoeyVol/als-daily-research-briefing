@@ -1,20 +1,18 @@
 {
-  "updated_at": "2026-11-17T08:20:26Z",
+  "updated_at": "2026-11-18T07:51:39Z",
   "new_keys": [
-    "pubmed:43038492",
-    "pubmed:43038487",
-    "pubmed:43038501",
-    "pubmed:43036320",
-    "pubmed:43038449",
-    "pubmed:43038882",
-    "pubmed:43037734",
-    "pubmed:43037476",
-    "pubmed:43036915",
-    "pubmed:43035913",
-    "pubmed:43035909",
-    "pubmed:43038719",
-    "pubmed:43036675",
-    "pubmed:43039413"
+    "pubmed:43045628",
+    "pubmed:43044226",
+    "pubmed:43043867",
+    "pubmed:43043758",
+    "pubmed:43044492",
+    "pubmed:43041904",
+    "pubmed:43041981",
+    "pubmed:43045285",
+    "pubmed:43045284",
+    "pubmed:43045282",
+    "pubmed:43045281",
+    "pubmed:43045278"
   ],
   "items": [
     {
@@ -61,6 +59,140 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "43045628",
+      "event_key": "pubmed:43045628",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Developmental and age-acquired somatic mutations in neurodegenerative diseases.",
+      "authors": [
+        "Sushmita Nayak",
+        "Michael A Lodato"
+      ],
+      "journal": "Trends in genetics : TIG",
+      "publication_date": "2026-11-17",
+      "pmid": "43045628",
+      "doi": "10.1016/j.tig.2026.10.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045628/",
+      "abstract": "Classical genetic studies have assumed a uniform genome across the body, but humans are genetic mosaics harboring distinct somatic mutations acquired during development and aging. The role of somatic mosaicism in neurodegenerative disease remains poorly understood. In this article, we review somatic mosaicism in two contexts: developmental mosaics arising during embryogenesis and age-associated clonal expansions. Developmental mosaics are established contributors to neurodevelopmental disorders, with emerging evidence linking them to adult-onset neurodegeneration, including amyotrophic lateral sclerosis and Alzheimer's disease. Postnatal clonal expansions in microglia and hematopoietic cells may further promote systemic inflammation and disease progression. We synthesize these findings into a framework in which developmental and age-acquired mutations contribute to neuronal vulnerability, disease heterogeneity, and the pathogenesis of sporadic neurodegenerative disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "clonal hematopoiesis",
+        "clonal mosaicism",
+        "neurodegeneration",
+        "single-nucleotide variants",
+        "somatic mutations"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43044226",
+      "event_key": "pubmed:43044226",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke.",
+      "authors": [
+        "Alexander Utzschmid",
+        "Jonas Terlau",
+        "Lisa Held",
+        "Laura Schiffl",
+        "Hongbiao Chen",
+        "Göktug Alkan",
+        "Paolo Favero",
+        "Viktor Maria Eisenkolb",
+        "Arthur Wagner",
+        "Jens Gempt",
+        "Bernhard Meyer",
+        "Simon N Jacob"
+      ],
+      "journal": "Journal of neural engineering",
+      "publication_date": "2026-11-17",
+      "pmid": "43044226",
+      "doi": "10.1088/1741-2552/aec32c",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044226/",
+      "abstract": "Implantable brain-computer interfaces (iBCIs) with single-neuron resolution are showing great promise for restoring mobility and communication in individuals with spinal cord injury or motor neuron disease. Stroke is the most common cause of acquired brain injury and a major contributor to long-term disability, making chronic stroke a highly relevant indication for iBCIs. However, whether stable intracortical recordings can be obtained from the structurally lesioned human brain is unknown. &#xD;Approach: We report recordings from four 64-channel microelectrode arrays implanted in a participant with chronic aphasia after a large left-hemispheric stroke. The arrays targeted right-hemispheric frontoparietal regions homotopic to the damaged left-hemispheric language network.&#xD;Main results: Across 111 sessions spanning 1,240 days, unit yield and signal quality remained stable. Waveform-based tracking reliably identified individual units across sessions, including across extended recording gaps. Short- and long-term unit stability was comparable to previous reports from iBCI participants without structural brain lesions, and tracked units showed consistent spiking properties across sessions.&#xD;Significance: Our findings provide the first evidence that single-neuron recordings can remain stable over the long term following a large hemispheric stroke involving substantial cortical and subcortical injury. They establish the feasibility of chronic, cellular-resolution iBCIs after stroke and support the development of neurorestorative applications for deficits caused by structural brain injury.",
+      "mesh_terms": [],
+      "keywords": [
+        "Utah microelectrode array",
+        "aphasia",
+        "chronic single-unit recording",
+        "implantable brain-computer interface",
+        "long-term recording stability",
+        "stroke"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43043867",
+      "event_key": "pubmed:43043867",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Context matters: serum neurofilament light chain, a diagnostic aid in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Sean E Smith",
+        "Timothy M Miller",
+        "Robert C Bucelli"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2026-11-17",
+      "pmid": "43043867",
+      "doi": "10.1093/brain/awag409",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043867/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43043758",
+      "event_key": "pubmed:43043758",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.",
+      "authors": [
+        "Chen Liang",
+        "Tongtong Cui",
+        "Bingyu Cai",
+        "Yali Ding",
+        "Jinjie Chang",
+        "Wenhui Huang",
+        "Zongbao Lu",
+        "Jiabao Han",
+        "Qi Gu",
+        "Ying Zhang",
+        "Wei Li",
+        "Fei Teng"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2026-11-17",
+      "pmid": "43043758",
+      "doi": "10.1016/j.celrep.2026.118305",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043758/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder primarily driven by TAR DNA-binding protein 43 (TDP-43) proteinopathy, which triggers early axonal disintegration and disrupts central nervous system homeostasis. Current therapeutic options remain limited. To address these core pathologies, we developed a dual-gene therapeutic strategy that simultaneously restores two pivotal factors: progranulin (GRN), a multifunctional effector critical for lysosomal function and neuroinflammation regulation, and stathmin-2 (STMN2), an essential regulator of axonal integrity and regeneration whose loss is directly linked to TDP-43 pathology. In TDP-43A315T transgenic mice, this combined therapy significantly extended survival, preserved motor performance, and maintained neuromuscular integrity. In human iPSC-derived motor neurons, the dual therapy promoted axonal regeneration following injury. Mechanistically, treatment coordinately restored axonal and synaptic gene programs in motor neurons while upregulating lysosomal pathways in microglia and neuronal support genes in astrocytes, collectively rebalancing neuronal and glial function. These findings establish that dual augmentation of GRN and STMN2 represents a potential therapeutic strategy for ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "AAV delivery",
+        "ALS",
+        "CP: immunology",
+        "CP: neuroscience",
+        "GRN",
+        "STMN2",
+        "dual-gene therapy"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
       "id": "43038882",
       "event_key": "pubmed:43038882",
       "source_id": "pubmed",
@@ -95,7 +227,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43038492",
@@ -153,7 +285,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43038487",
@@ -218,7 +350,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43038449",
@@ -267,7 +399,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43037734",
@@ -310,7 +442,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43037476",
@@ -333,7 +465,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43036915",
@@ -378,7 +510,42 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43044492",
+      "event_key": "pubmed:43044492",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Multisystem assessment of white matter tracts in amyotrophic lateral sclerosis using NODDI and TractSeg.",
+      "authors": [
+        "Fanzun Meng",
+        "Shuangwu Liu",
+        "Xiaoyu Xiao",
+        "Zixiang Guo",
+        "Fangchun Huang",
+        "Zhuqing Xu",
+        "Yuqi Li",
+        "Wenjing Jiang"
+      ],
+      "journal": "NeuroImage. Clinical",
+      "publication_date": "2026-11-14",
+      "pmid": "43044492",
+      "doi": "10.1016/j.nicl.2026.104088",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044492/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a multisystem neurodegenerative disorder affecting motor, cognitive, and sensory networks. Conventional diffusion MRI lacks specificity for complex white matter pathology. This study combined neurite orientation dispersion and density imaging (NODDI) with automated fiber segmentation (TractSeg) to systematically evaluate microstructural alterations across multiple white matter pathways in a single ALS cohort.\n\nMETHODS: We combined NODDI with automated TractSeg fiber segmentation in 83 sporadic ALS patients and 59 healthy controls. NODDI metrics (NDI, ODI, ISOVF) were extracted from 98 nodes along 19 tracts. Group comparisons used ANCOVA with FDR correction (q < 0.05).\n\nRESULTS: The left corticospinal tract (CST) showed ODI elevation and NDI reduction, and the right CST showed more extensive injury with ODI elevation, widespread NDI reduction, and ISOVF elevation. The corpus callosum exhibited focal changes in the rostral body, the anterior midbody and the posterior midbody involving ODI, NDI, and ISOVF. Among cerebellar motor, visuospatial processing, and limbic pathways, only the right superior longitudinal fasciculus II showed ISOVF elevation. Visual and language pathways predominantly showed ISOVF elevation, with additional NDI elevation in the right optic radiation and left arcuate fasciculus.\n\nCONCLUSIONS: This study demonstrates asymmetric, pathway-selective white matter pathology in ALS. Focal damage in the mid-body of the corpus callosum supports its role as a hub for interhemispheric disease propagation. Evidence of both degeneration and possible compensatory neurite reorganization in visual and language pathways further establishes ALS as a multisystem network disorder. NODDI combined with TractSeg offers biologically specific imaging biomarkers for disease monitoring and clinical subtyping.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Multisystem neurodegeneration",
+        "NODDI",
+        "TractSeg",
+        "White matter tracts"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43035913",
@@ -415,7 +582,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43035909",
@@ -445,7 +612,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43033473",
@@ -483,7 +650,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43033255",
@@ -514,7 +681,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43033081",
@@ -549,7 +716,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43025440",
@@ -629,7 +796,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43026380",
@@ -901,7 +1068,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43021426",
@@ -1094,7 +1261,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43022354",
@@ -1723,7 +1890,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43034702",
@@ -1746,7 +1913,7 @@
       "keywords": [],
       "collected_at": "2026-11-16T07:08:01Z",
       "first_seen_at": "2026-11-16T07:08:01Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "42992452",
@@ -1823,7 +1990,7 @@
       ],
       "collected_at": "2026-11-15T07:00:00Z",
       "first_seen_at": "2026-11-15T07:00:00Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43029807",
@@ -2784,6 +2951,56 @@
       "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
+      "id": "43041981",
+      "event_key": "pubmed:43041981",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Corneal nerve status as a biomarker for neurodegenerative and neurological diseases: a narrative review.",
+      "authors": [
+        "Jiayue Li",
+        "Andrew En Hsien Sim",
+        "Mingyi Yu",
+        "Chang Liu",
+        "Isabelle Xin Yu Lee",
+        "Ansa Anam",
+        "Jasmine Shimin Koh",
+        "Yu-Chi Liu"
+      ],
+      "journal": "British journal of biomedical science",
+      "publication_date": "2026-11-02",
+      "pmid": "43041981",
+      "doi": "10.3389/bjbs.2026.17067",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041981/",
+      "abstract": "Corneal nerve status has gained prominence as a potential adjunctive biomarker for neurodegenerative and neurological diseases, as corneal small-fibre abnormalities can be detected in peripheral neuropathy and may precede conventional manifestations in certain conditions. Advances in in vivo confocal microscopy (IVCM) allow non-invasive, cellular-level assessments of corneal nerve alterations in real-time. Corneal nerve metrics have been associated with disease progression and severity. This review explores the role of corneal nerve status in the evaluation and monitoring of neurodegenerative and neurological diseases or conditions, including diabetic peripheral neuropathy (DPN), Parkinson's disease (PD), mild cognitive impairment (MCI) and dementia, multiple sclerosis (MS), schizophrenia, amyotrophic lateral sclerosis (ALS), migraine, tauopathies, and chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). The strength and maturity of evidence vary substantially between conditions. DPN has the most established evidence base, with replicated cross-sectional and longitudinal studies showing reductions in corneal nerve fibre density, branch density and length, and evidence that corneal nerve loss may precede conventional manifestations of neuropathy. In MS, longitudinal studies demonstrate progressive corneal nerve loss associated with worsening disability. In PD, the extent of corneal nerve fibre loss correlates with severity of motor deterioration, cognitive impairment and development of autonomic dysfunction, although proposed applications in prodromal detection, disease phenotyping, and prognostication remain largely dependent on small, single-centre studies. Studies in MCI and dementia suggest potential diagnostic and prognostic utility, including comparisons with neuroimaging, but are largely derived from overlapping single-centre cohorts. Evidence in CIDP, migraine, ALS, and schizophrenia remains limited or conflicting, while evidence in tauopathies is predominantly pre-clinical. Overall, current literature supports corneal nerve parameters primarily as promising adjunctive rather than established diagnostic, prognostic, treatment-response biomarkers. Direct evidence that IVCM provides incremental diagnostic or prognostic value over established biomarkers remains limited. Furthermore, heterogeneity in confocal platforms, image acquisition, image sampling, and analytical methods must be considered in the interpretation across studies. Standardised acquisition and analysis protocols, prospective multicentre longitudinal studies, appropriate adjustment for confounders, and direct comparison with established biomarkers are necessary before broader clinical translation.",
+      "mesh_terms": [
+        "Humans",
+        "Cornea",
+        "Biomarkers",
+        "Neurodegenerative Diseases",
+        "Nervous System Diseases",
+        "Multiple Sclerosis",
+        "Nerve Fibers",
+        "Disease Progression",
+        "Diabetic Neuropathies",
+        "Microscopy, Confocal",
+        "Parkinson Disease"
+      ],
+      "keywords": [
+        "Parkinson’s disease",
+        "cornea",
+        "corneal confocal microscopy",
+        "corneal nerves",
+        "dementia",
+        "diabetic peripheral neuropathy",
+        "multiple sclerosis",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
       "id": "43022413",
       "event_key": "pubmed:43022413",
       "source_id": "pubmed",
@@ -2945,7 +3162,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43035261",
@@ -2985,7 +3202,7 @@
       ],
       "collected_at": "2026-11-16T07:08:01Z",
       "first_seen_at": "2026-11-16T07:08:01Z",
-      "last_seen_at": "2026-11-17T08:20:26Z"
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "42986019",
@@ -8879,6 +9096,29 @@
       "collected_at": "2026-10-12T06:21:56Z",
       "first_seen_at": "2026-10-12T06:21:56Z",
       "last_seen_at": "2026-10-13T07:00:32Z"
+    },
+    {
+      "id": "43041904",
+      "event_key": "pubmed:43041904",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Novel Compounds as TREM2 Agonists for Treating Parkinson's Disease, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Frontotemporal Dementia, Nasu-Hakola Disease, and Stroke.",
+      "authors": [
+        "Ram W Sabnis",
+        "Anika R Sabnis"
+      ],
+      "journal": "ACS medicinal chemistry letters",
+      "publication_date": "2026-10-09",
+      "pmid": "43041904",
+      "doi": "10.1021/acsmedchemlett.6c00510",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041904/",
+      "abstract": "Provided herein are novel compounds as TREM2 agonists, pharmaceutical compositions, use of such compounds in treating Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, frontotemporal dementia, Nasu-Hakola disease and stroke, and processes for preparing such compounds.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "42939724",
@@ -21221,6 +21461,170 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "43045285",
+      "event_key": "pubmed:43045285",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Clinical applications of brain-computer interfaces in the motor system.",
+      "authors": [
+        "Ander Ramos-Murguialday",
+        "Preeya Khanna",
+        "David J Lin"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "43045285",
+      "doi": "10.1016/B978-0-443-27442-8.00020-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045285/",
+      "abstract": "Brain-computer interfaces (BCIs) enable direct interaction between neural activity and external devices or neuromodulatory systems, offering novel approaches for restoring, rehabilitating, and modulating motor function following neurologic injury and disease. Over recent decades, BCIs have progressed from experimental demonstrations of operant conditioning to clinically relevant technologies applied in stroke, spinal cord injury, amyotrophic lateral sclerosis, movement disorders, and other motor syndromes. This chapter presents a critical, clinically focused review of motor BCIs, with emphasis on clinical applications rather than technical fundamentals. Key topics include invasive and noninvasive signal acquisition methods, anatomic targets for recording and stimulation, decoding and artificial intelligence approaches, and actuator systems such as robotics, functional electrical stimulation, and spinal or cortical neuromodulation. Particular attention is directed toward hybrid and closed-loop architectures that connect motor intention with sensory or motor outcomes through precise temporal contingency, a fundamental requirement for promoting adaptive neuroplasticity. Evidence from randomized controlled trials, meta-analyses, and emerging invasive studies is evaluated, highlighting areas with substantial clinical support, particularly poststroke motor rehabilitation and adaptive deep brain stimulation for Parkinson disease, as well as fields undergoing active translational development. The chapter also addresses efficacy measures, treatment durability, and current barriers to widespread clinical implementation, while outlining future directions involving minimally invasive implants, adaptive decoders, and network-level neuromodulation.",
+      "mesh_terms": [],
+      "keywords": [
+        "Bioelectronic medicine",
+        "Brain–computer interface",
+        "Brain–machine interface",
+        "Clinical neurotechnology",
+        "Closed-loop systems",
+        "Motor control",
+        "Neural decoding",
+        "Neural interfaces",
+        "Neuromodulation",
+        "Neuroprosthetics",
+        "Rehabilitation"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43045284",
+      "event_key": "pubmed:43045284",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Clinical application of repetitive transcranial magnetic stimulation and transcranial direct current stimulation as treatment in motor disorders.",
+      "authors": [
+        "Jean-Pascal Lefaucheur"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "43045284",
+      "doi": "10.1016/B978-0-443-27442-8.00019-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045284/",
+      "abstract": "This review examines the potential of the two main noninvasive brain stimulation (NIBS) techniques - repetitive transcranial magnetic stimulation (rTMS) and transcranial direct current stimulation (tDCS) - for the treatment of motor disorders. Although rTMS has demonstrated its ability to induce significant changes in various motor and nonmotor symptoms of Parkinson disease (PD), its clinical application remains limited, except for the treatment of PD-associated depression using rTMS applied to the dorsolateral prefrontal cortex. Some theoretical concepts support the use of certain \"excitability-decreasing\" NIBS protocols (rTMS delivered at low frequency or as continuous θ burst stimulation (cTBS), or cathodal tDCS) applied to motor cortical regions to alleviate dystonia. Similarly, \"excitability-decreasing\" NIBS protocols, but applied to the cerebellum, have shown some beneficial effects on various forms of ataxia or tremor. On the other hand, the use of anodal tDCS of the cerebellum combined with cathodal spinal DCS is a particularly promising prospect, as well as closed-loop transcranial alternating current stimulation protocols on tremor. In the context of amyotrophic lateral sclerosis, NIBS techniques aim to promote neuroprotection, at least in the early stages of the disease. This can be achieved by applying cTBS or anodal tDCS (possibly combined with cathodal spinal DCS) to motor cortical regions. However, the clinical relevance of NIBS techniques is generally limited by the short-lived nature of their effects, requiring repeated sessions, particularly for rTMS, which may not be an optimal care model in the context of highly chronic conditions such as motor disorders. Therefore, home-based tDCS could open new avenues for the clinical application of NIBS, thanks to its ease of use and lower rate of adverse effects compared to invasive neuromodulation methods or surgical lesions. Finally, perspectives of combined strategies and personalized targeting, especially for multisite montages and based on functional connectivity studies, are particularly attractive for the development of NIBS techniques aimed at alleviating motor disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Cerebellar ataxia",
+        "Dystonia",
+        "Essential tremor",
+        "Neuromodulation",
+        "Parkinson disease",
+        "Repetitive transcranial magnetic stimulation",
+        "Transcranial direct current stimulation"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43045282",
+      "event_key": "pubmed:43045282",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Clinical use of transcranial magnetic stimulation combined with electroencephalography in the motor system.",
+      "authors": [
+        "Caroline Tscherpel",
+        "Christian Grefkes"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "43045282",
+      "doi": "10.1016/B978-0-443-27442-8.00021-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045282/",
+      "abstract": "Transcranial magnetic stimulation combined with electroencephalography (TMS-EEG) has emerged as a powerful technique to investigate cortical physiology and network dynamics in vivo. By directly recording the cortical response to noninvasive brain stimulation, TMS-EEG enables the assessment of cortical inhibitory and excitatory mechanisms, oscillatory activity, and effective connectivity within large-scale network organization independently of the corticospinal output pathways. These properties make TMS-EEG particularly valuable for studying disorders affecting the motor system. This chapter reviews the principles of TMS-EEG in the motor system and summarizes its application in four major neurologic disorders leading to motor network dysfunction, including stroke, amyotrophic lateral sclerosis (ALS), Parkinson's disease, and multiple sclerosis. Across these, TMS-EEG has provided novel insights into disease-specific mechanisms, including cortical disinhibition, network reorganization, diaschisis, pathologic oscillatory activity, and alterations in brain complexity. Furthermore, growing evidence suggests that TMS-EEG-derived measures are associated with clinically relevant outcomes such as motor impairment, recovery potential, disease progression, and treatment response. Although methodologic challenges and the need for larger and longitudinal cohorts remain, TMS-EEG represents a promising approach for characterizing network dysfunction and may contribute to future treatment strategies in neurology.",
+      "mesh_terms": [
+        "Humans",
+        "Transcranial Magnetic Stimulation",
+        "Electroencephalography",
+        "Motor Cortex"
+      ],
+      "keywords": [
+        "Motor reorganization",
+        "Multiple sclerosis",
+        "Neurodegeneration",
+        "Neuroplasticity",
+        "Neurorehabilitation",
+        "Stroke"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43045281",
+      "event_key": "pubmed:43045281",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Transcranial magnetic stimulation: Positive effects.",
+      "authors": [
+        "Danny A Spampinato",
+        "John C Rothwell",
+        "Jaime Ibañez Pereda",
+        "Lorenzo Rocchi"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "43045281",
+      "doi": "10.1016/B978-0-443-27442-8.00016-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045281/",
+      "abstract": "Transcranial magnetic stimulation has evolved from early studies of electrical stimulation of the motor cortex into a powerful noninvasive tool for investigating the human corticospinal system. This chapter reviews the neurophysiologic basis of transcranial magnetic stimulation-evoked responses, encompassing the activation of cortical circuits, the generation and propagation of descending corticospinal volleys, the role of direct and indirect waves, and the contribution of spinal motoneuron pool dynamics to the formation of the motor-evoked potential. Methods for assessing corticospinal function are discussed systematically, including motor threshold determination, input-output curves, the cortical silent period, and paired-pulse paradigms that probe intracortical inhibitory and facilitatory circuits. The triple stimulation technique is presented as an approach to overcoming the temporal dispersion that limits conventional motor-evoked potential interpretation, while high-density surface electromyography is reviewed as an emerging method for resolving individual motor unit contributions to the compound response. Finally, the clinical applications of transcranial magnetic stimulation are illustrated through its use in disorders affecting the corticospinal tract, including amyotrophic lateral sclerosis, primary lateral sclerosis, hereditary spastic paraplegia, multiple sclerosis, stroke, and cervical spondylotic myelopathy, highlighting its value for both investigating corticospinal physiology and supporting clinical diagnosis and prognosis.",
+      "mesh_terms": [],
+      "keywords": [
+        "Corticospinal excitability",
+        "Motor-evoked potential",
+        "Neurophysiology",
+        "Paired-pulse TMS",
+        "Transcranial magnetic stimulation",
+        "Triple stimulation technique"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
+    },
+    {
+      "id": "43045278",
+      "event_key": "pubmed:43045278",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Utility of transcranial magnetic stimulation in the diagnosis of neurologic disorders.",
+      "authors": [
+        "Parvathi Menon",
+        "Mehdi VAN DEN Bos",
+        "Steve Vucic"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "publication_date": "2026-01-01",
+      "pmid": "43045278",
+      "doi": "10.1016/B978-0-443-27442-8.00002-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045278/",
+      "abstract": "Transcranial magnetic stimulation (TMS) techniques provide unique insights into human motor cortical physiology and have emerged as an important diagnostic investigation in a variety of neurologic disorders. Single-, paired-, and triple-pulse TMS techniques, incorporating the conventional amplitude-based and threshold tracking methodology, have established clinical and diagnostic utility in amyotrophic lateral sclerosis (ALS), dementias, movement and functional disorders, myelopathies, and neuroinflammatory diseases. Cortical hyperexcitability has emerged as an important diagnostic aid in ALS, and recent commercialization of the threshold-tracking software may facilitate translation into clinical practice. Single-pulse TMS measures have exhibited diagnostic utility in myelopathy even in the absence of radiologic changes. Short-latency afferent inhibition (SAI), reflecting central cholinergic transmission, is reduced in Alzheimer disease and mild cognitive impairment, serving as a surrogate diagnostic biomarker. Triple stimulation technique enhances the detection of upper motor neuron dysfunction and may aid diagnostic demyelinating neuropathies by establishing the presence of proximal conduction block in the cervical nerve root region. The present review discusses the physiologic processes underlying TMS measures and focuses on their diagnostic utility in neurologic diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "Diagnostic utility",
+        "motor evoked potential",
+        "neurologic disorders",
+        "short interval intracortical inhibition",
+        "transcranial magnetic stimulation"
+      ],
+      "collected_at": "2026-11-18T07:51:39Z",
+      "first_seen_at": "2026-11-18T07:51:39Z",
+      "last_seen_at": "2026-11-18T07:51:39Z"
     },
     {
       "id": "43016267",
