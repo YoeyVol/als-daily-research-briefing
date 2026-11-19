@@ -1,20 +1,224 @@
 {
-  "updated_at": "2026-11-18T07:51:39Z",
+  "updated_at": "2026-11-19T07:47:35Z",
   "new_keys": [
-    "pubmed:43045628",
-    "pubmed:43044226",
-    "pubmed:43043867",
-    "pubmed:43043758",
-    "pubmed:43044492",
-    "pubmed:43041904",
-    "pubmed:43041981",
-    "pubmed:43045285",
-    "pubmed:43045284",
-    "pubmed:43045282",
-    "pubmed:43045281",
-    "pubmed:43045278"
+    "pubmed:43051186",
+    "pubmed:43051909",
+    "pubmed:43051945",
+    "pubmed:43049901",
+    "pubmed:43046861",
+    "pubmed:43050726",
+    "pubmed:43051857",
+    "pubmed:43045712",
+    "pubmed:43049247"
   ],
   "items": [
+    {
+      "id": "43051186",
+      "event_key": "pubmed:43051186",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Safety and efficacy of daily oral edaravone (FNP122) in patients with amyotrophic lateral sclerosis (ADORE): a multicentre, double-blind, phase 3, randomised controlled trial.",
+      "authors": [
+        "Ruben P A van Eijk",
+        "Mónica Povedano",
+        "Philip Van Damme",
+        "Adriano Chiò",
+        "Christopher J McDermott",
+        "Ammar Al-Chalabi",
+        "Orla Hardiman",
+        "Carla Varona",
+        "Cristina Tarragó",
+        "Tania Nadal",
+        "Núria Albareda",
+        "Leonard H van den Berg",
+        "ADORE Study Group"
+      ],
+      "journal": "The Lancet. Neurology",
+      "publication_date": "2026-12-01",
+      "pmid": "43051186",
+      "doi": "10.1016/S1474-4422(26)00336-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051186/",
+      "abstract": "BACKGROUND: Oxidative stress, resulting from excessive production of reactive oxygen species, is implicated in the pathogenesis of amyotrophic lateral sclerosis. Edaravone is a free-radical scavenger that has been shown to reduce functional decline over 24 weeks in a subset of patients with amyotrophic lateral sclerosis and is approved for its treatment in several countries. We investigated the safety and efficacy of edaravone (FNP122), a novel once-daily oral formulation of edaravone, in a broader population of patients with amyotrophic lateral sclerosis over a longer period.\n\nMETHODS: This multicentre, double-blind, phase 3, randomised controlled trial was done in 37 hospitals in Belgium, France, Germany, Ireland, Italy, the Netherlands, Poland, Portugal, Russia, Spain, Sweden, and the UK. Eligible patients were adults aged 18-80 years, with amyotrophic lateral sclerosis, 24 months or less since symptom onset, vital capacity at least 70%, and rate of change in amyotrophic lateral sclerosis Functional Rating Scale-Revised (ALSFRS-R) score between 0·35 and 1·50 points per month (both inclusive). Eligible patients were randomly assigned 2:1 using a central web-based allocation system to oral edaravone (100 mg per day) or placebo. Participants, investigators, study staff, outcome assessors, and the sponsor remained masked to treatment allocation throughout the study. The primary endpoint was the mean difference in change from baseline in ALSFRS-R total score at week 48 between edaravone and placebo, assessed in patients who received at least one dose of study drug. This trial was registered with ClinicalTrials.gov (NCT05178810) and is complete.\n\nFINDINGS: Between Oct 18, 2021, and Nov 30, 2022, 370 individuals were screened, of whom 313 were randomly assigned to receive edaravone (n=209) or placebo (n=104). One site was found to be noncompliant with Good Clinical Practice and nine individuals from that site were excluded (three in the edaravone group and six in the placebo group). One patient in each group did not receive any treatment; thus, 302 individuals were treated and analysed (205 in the edaravone group and 97 in the placebo group). Median age at baseline was 59 years (IQR 53-68). 185 (61%) of 302 patients were male and 117 (39%) were female. 275 (91%) of 302 patients were White. At 48 weeks, least squares mean change from baseline in ALSFRS-R total score was not significantly different between the edaravone group (-12·6 points [SE 0·7]) and placebo group (-13·4 points [1·0], least squares mean difference 0·78 points; 95% CI -1·44 to 3·00, p=0·49). Edaravone was well tolerated, with no between-group difference in the incidence of treatment-emergent adverse events (180 [88%] of 205 patients in the edaravone group vs 82 [85%] of 97 patients in the placebo group). No deaths were considered related to study treatment.\n\nINTERPRETATION: Oral edaravone was well tolerated but did not significantly slow functional decline versus placebo over 48 weeks. These results do not support its use at the tested dose for modifying disease progression in the general amyotrophic lateral sclerosis population and highlight the need for the development of more effective therapeutic strategies.\n\nFUNDING: Ferrer.",
+      "mesh_terms": [
+        "Humans",
+        "Edaravone",
+        "Double-Blind Method",
+        "Amyotrophic Lateral Sclerosis",
+        "Middle Aged",
+        "Female",
+        "Male",
+        "Aged",
+        "Free Radical Scavengers",
+        "Adult",
+        "Administration, Oral",
+        "Treatment Outcome",
+        "Young Adult",
+        "Aged, 80 and over"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
+      "id": "43051909",
+      "event_key": "pubmed:43051909",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Amyotrophic Lateral Sclerosis Preceded by Vocal Fold Atrophy.",
+      "authors": [
+        "Makoto Tsumura",
+        "Satoshi Yamashita",
+        "Ryo Takagi",
+        "Tomoyuki Otsu",
+        "Akihiko Taira",
+        "Masaki Tomura",
+        "Yuri Mizuno",
+        "Naoki Akamatsu",
+        "Hiroyuki Murai"
+      ],
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "publication_date": "2026-11-19",
+      "pmid": "43051909",
+      "doi": "10.2169/internalmedicine.7648-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051909/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder that affects the upper and lower motor neurons of the brain and spinal cord, ultimately leading to respiratory failure. Vocal fold atrophy (VFA) is characterized by vocal fold arch atrophy, prominent vocal processes, and a spindle-shaped glottis gap. We herein report an 81-year-old male patient diagnosed with ALS shortly after VFA onset. VFA is generally associated with aging and Parkinson's disease; however, our report indicates that dysphonia may precede bulbar symptoms, and VFA is a suggestive sign in an atypical ALS diagnosis.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "vocal fold atrophy"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
+      "id": "43051945",
+      "event_key": "pubmed:43051945",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Parietal GABA in individuals with amyotrophic lateral sclerosis and asymptomatic C9orf72 repeat expansion carriers assessed with MR spectroscopy at 7 T.",
+      "authors": [
+        "Wytse van Hoek",
+        "Abram D Nitert",
+        "Kevin van Veenhuijzen",
+        "Carrie Wismans",
+        "Harold H G Tan",
+        "Dennis W J Klomp",
+        "Jannie P Wijnen",
+        "Leonard H van Den Berg",
+        "Henk-Jan Westeneng"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-18",
+      "pmid": "43051945",
+      "doi": "10.1080/21678421.2026.2762726",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051945/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease. Multiple pathways are involved in its pathophysiology, but the exact mechanisms are still unknown. In this study, we investigate the role of gamma-aminobutyric acid (GABA) in ALS and the related C9orf72 repeat expansion (C9). As the primary inhibitory neurotransmitter, GABA may affect hyperexcitability in ALS. Decreased GABA levels have been reported in the motor cortex in ALS, but neither regions outside the motor area nor carriers of ALS-related pathogenic genetic variants were investigated. We used GABA-edited magnetic resonance spectroscopy (MEGA-sLASER) at 7 T to examine ratios of GABA to creatine. We compared individuals with ALS (n = 17) to controls (n = 13) and separately compare asymptomatic C9orf72 repeat expansion carriers (n = 5) to non-carriers (n = 7) from a single family. We placed the voxel of interest in the parietal lobe as it is specifically at risk in C9 carriers. We found no statistically significant differences in mean GABA ratios in either comparison, but individuals with ALS showed a higher variance than controls (p = 0.026). We conclude that parietal GABA is not involved in ALS pathology in all individuals with ALS, but increased variance indicates heterogeneity and may reflect subgroups with GABAergic dysfunction.",
+      "mesh_terms": [],
+      "keywords": [
+        "C9orf72 repeat expansion",
+        "GABA",
+        "amyotrophic lateral sclerosis",
+        "magnetic resonance spectroscopy"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
+      "id": "43049901",
+      "event_key": "pubmed:43049901",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Increased resting muscle activity in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Anna B Jacobsen",
+        "Hugh Bostock",
+        "Gaia Fanella",
+        "Gintaute Samusyte",
+        "Bülent Cengiz",
+        "Anders Fuglsang-Frederiksen",
+        "Mamede de Carvalho",
+        "Hatice Tankisi"
+      ],
+      "journal": "Journal of neurology",
+      "publication_date": "2026-11-18",
+      "pmid": "43049901",
+      "doi": "10.1007/s00415-026-14243-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049901/",
+      "abstract": "BACKGROUND: Increased muscle activity during intended rest is frequently observed in patients with amyotrophic lateral sclerosis (ALS), but its clinical significance remains unclear. Our aim was to compare resting muscle activity during transcranial magnetic stimulation (TMS) between ALS patients and patient controls, and to correlate it with clinical and neurophysiological parameters.\n\nMETHODS: Resting muscle activity was assessed retrospectively by counting the number of stimulation attempts in a standardized paired-pulse TMS protocol that were rejected by the software. Stimulations were rejected if the resting electromyography (EMG) signal exceeded 30 µV at least five times during the 300 ms before the TMS stimulus. Secondary outcomes included the revised ALS functional rating score (ALSFRS-R), the revised upper motor neuron (UMN) score, the muscle strength (MRC) score, TMS, and quantitative EMG (qEMG) parameters.\n\nRESULTS: Seventy ALS patients aged 68.4 ± 10.3 years (mean ± SD) were compared with 73 patient controls (63.8 ± 13.8 years). ALS patients had significantly more rejected stimulations due to preceding EMG activity than patient controls (adjusted estimates 27.28 vs 7.28, p = 4.13 × 10^-7). Among ALS patients, those with UMN signs had more rejected stimulations than those without UMN signs (medians 40 vs 20, p = 0.025). The number of rejected stimulations correlated with fasciculation potentials (FPs) (rho = 0.3, p = 0.020) and two clinical markers of UMN dysfunction, including brisk jaw jerk (rho = 0.26, p = 0.032) and biceps reflexes (rho = 0.25, p=0.038).\n\nCONCLUSIONS: Compared with patient controls, ALS patients exhibited increased resting muscle activity during TMS examination. These findings may provide further insight into the pathophysiology of ALS.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Transcranial Magnetic Stimulation",
+        "Male",
+        "Electromyography",
+        "Muscle, Skeletal",
+        "Aged",
+        "Middle Aged",
+        "Rest",
+        "Evoked Potentials, Motor",
+        "Retrospective Studies",
+        "Muscle Strength"
+      ],
+      "keywords": [
+        "Intracortical inhibition",
+        "Motor neuron disease",
+        "Muscle activity",
+        "Muscle relaxation",
+        "Transcranial magnetic stimulation"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
+      "id": "43046861",
+      "event_key": "pubmed:43046861",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "All Roads Lead to Rome: Non-canonical Modulators of RNA Metabolism in ALS Pathogenesis.",
+      "authors": [
+        "Xingyuan Chen",
+        "Zhongwen Cao",
+        "Ting Zhao",
+        "Xiaochen Liang",
+        "Yinsheng Wang"
+      ],
+      "journal": "ACS chemical neuroscience",
+      "publication_date": "2026-11-18",
+      "pmid": "43046861",
+      "doi": "10.1021/acschemneuro.6c00600",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046861/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss. Aberrant RNA metabolism is one of its most consistent molecular features, and ALS has long been framed as a disease of RNA-binding proteins (RBPs), given that mutations in RBPs are among the most frequent genetic causes of ALS. However, a growing number of ALS-associated genes encode proteins that lack canonical RNA-binding domains; nonetheless, their mutations also disrupt RNA homeostasis. This review examines how these non-canonical disease modulators perturb RNA metabolism. We group these factors into three functional classes. One includes proteostasis regulators, whose dysfunction impairs protein quality control and promotes the accumulation of aggregation-prone RBPs in cytoplasmic inclusions and persistent stress granules. Another involves factors that elicit RNA toxicity or disrupt ribonucleoprotein organization, including GGGGCC repeat expansion in C9ORF72 and CAG repeat expansion in ATXN1. The third class comprises factors governing axonal RNA granule transport. Across these categories, a shared consequence is the disruption of mRNA processing, stability, localization, and translation in motor neurons. We further discuss how epitranscriptomic dysregulation, particularly altered m6A and m1A modification states, may contribute to ALS pathology. We also discuss the therapeutic implications of this mechanistic convergence in defective RNA metabolism in ALS.",
+      "mesh_terms": [
+        "Amyotrophic Lateral Sclerosis",
+        "Humans",
+        "RNA-Binding Proteins",
+        "Animals",
+        "RNA",
+        "Motor Neurons",
+        "Mutation"
+      ],
+      "keywords": [
+        "RNA metabolism",
+        "RNA-binding proteins",
+        "amyotrophic lateral sclerosis",
+        "antisense oligonucleotide",
+        "protein aggregation",
+        "stress granule"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
     {
       "id": "42864601",
       "event_key": "pubmed:42864601",
@@ -85,7 +289,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43044226",
@@ -125,7 +329,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43043867",
@@ -149,7 +353,7 @@
       "keywords": [],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43043758",
@@ -190,7 +394,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43038882",
@@ -227,7 +431,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43038492",
@@ -285,7 +489,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43038487",
@@ -350,7 +554,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43038449",
@@ -399,7 +603,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43037734",
@@ -442,7 +646,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43037476",
@@ -465,7 +669,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43036915",
@@ -510,7 +714,36 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
+      "id": "43050726",
+      "event_key": "pubmed:43050726",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "ALSFRS-R item comparability and respiratory validation in data-driven ALS progression modeling.",
+      "authors": [
+        "Beixing Yang"
+      ],
+      "journal": "Journal of the neurological sciences",
+      "publication_date": "2026-11-14",
+      "pmid": "43050726",
+      "doi": "10.1016/j.jns.2026.126249",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050726/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer's disease",
+        "Cerebral amyloid angiopathy",
+        "Cerebrospinal fluid biomarkers",
+        "Cortical atrophy",
+        "Magnetic resonance imaging",
+        "Neurofilament light chain"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43044492",
@@ -545,7 +778,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43035913",
@@ -582,7 +815,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43035909",
@@ -612,7 +845,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43033473",
@@ -796,7 +1029,7 @@
       "keywords": [],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43026380",
@@ -1068,7 +1301,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43021426",
@@ -1261,7 +1494,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43022354",
@@ -1718,6 +1951,47 @@
       "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
+      "id": "43051857",
+      "event_key": "pubmed:43051857",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The persistent North-South gradient in motor neuron disease mortality in Spain: A 25-year nationwide spatio-temporal analysis.",
+      "authors": [
+        "Lucía Cayuela",
+        "Cristina García-Muñoz",
+        "Francisco H Machancoses",
+        "Julián Librero",
+        "Aurelio Cayuela"
+      ],
+      "journal": "Spatial and spatio-temporal epidemiology",
+      "publication_date": "2026-11-09",
+      "pmid": "43051857",
+      "doi": "10.1016/j.sste.2026.100861",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051857/",
+      "abstract": "BACKGROUND: Motor neuron disease (MND) mortality is increasing worldwide, yet its long-term spatial and temporal distribution in Spain remains poorly characterised. We investigated nationwide patterns of recorded MND mortality over a 25-year period using Bayesian spatio-temporal disease mapping.\n\nMETHODS: We conducted a nationwide ecological study including all 52 Spanish provinces between 1999 and 2023 using mortality records from the Spanish National Statistics Institute. Deaths coded as ICD-10 G12.2 were analysed using Bayesian hierarchical spatio-temporal Poisson models fitted with Integrated Nested Laplace Approximation. Excess mortality was assessed using posterior relative risks and exceedance probabilities.\n\nRESULTS: Spatial effects accounted for most latent variability in both men (84.7%) and women (79.7%), whereas space-time interactions contributed only 5-6%, indicating a largely stable geographical pattern. Recorded MND mortality increased throughout the study period in both sexes, with a more sustained increase in men. A persistent north-south gradient was identified, with significantly elevated relative risks concentrated in the Basque Country and neighbouring northern provinces and lower risks across southern Spain. Although the overall spatial pattern remained stable, high-risk northern areas became progressively more pronounced over time. The highest relative risks were observed in Vizcaya among men and Guipúzcoa among women, both in 2021.\n\nCONCLUSIONS: Recorded MND mortality in Spain is characterised by a persistent north-south gradient and a nationwide temporal increase. These findings likely reflect differences in diagnostic ascertainment, survival, and healthcare delivery, while environmental and genetic factors remain plausible contributors requiring further investigation.",
+      "mesh_terms": [
+        "Spain",
+        "Motor Neuron Disease",
+        "Spatio-Temporal Analysis",
+        "Humans",
+        "Female",
+        "Male",
+        "Bayes Theorem",
+        "Aged"
+      ],
+      "keywords": [
+        "Mortality",
+        "Motor Neuron Disease",
+        "Spain",
+        "Spatio-Temporal Analysis",
+        "epidemiology"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
       "id": "43030892",
       "event_key": "pubmed:43030892",
       "source_id": "pubmed",
@@ -1890,7 +2164,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43034702",
@@ -2998,7 +3272,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43022413",
@@ -3162,7 +3436,7 @@
       ],
       "collected_at": "2026-11-17T08:20:26Z",
       "first_seen_at": "2026-11-17T08:20:26Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43035261",
@@ -3202,7 +3476,7 @@
       ],
       "collected_at": "2026-11-16T07:08:01Z",
       "first_seen_at": "2026-11-16T07:08:01Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "42986019",
@@ -6679,6 +6953,48 @@
       "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
+      "id": "43045712",
+      "event_key": "pubmed:43045712",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Ten protein panel predicts ALS from plasma with high accuracy.",
+      "authors": [
+        "Woo Jae Kim",
+        "Mingee Chung",
+        "Seneshaw Asress",
+        "Adam N Trautwig",
+        "Eric Dammer",
+        "Christina N Fournier",
+        "Nicholas T Seyfried",
+        "Zachary T McEachin",
+        "Jonathan D Glass",
+        "Eleanor V Thomas"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026-10-19",
+      "pmid": "43045712",
+      "doi": "10.1038/s41467-026-78766-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045712/",
+      "abstract": "Predictive biomarkers are increasingly used to guide clinical trial design, diagnosis, and management of patients with neurodegenerative diseases. We profiled plasma from 632 ALS patients and 160 healthy controls using the NULISA CNS and Inflammation Panels and applied eXtreme Gradient Boosting (XGBoost) with nested cross-validation and SHapley Additive exPlanations (SHAP) to identify disease-associated proteins. A 12-protein candidate panel was refined using SHAP feature importance and absolute quantification, then evaluated in an independent validation cohort (144 ALS, 37 controls). We identified a final 10-protein panel (NEFL, FOLR1, pTau-181, TREM1, VEGFA, NEFH, CALCA, NRGN, LAMP3, and PTX3) that achieved high classification performance (balanced accuracy 98.3%; AUC 0.992). Model performance was driven by plasma proteomic signatures rather than clinical variables and was not dependent on neurofilament light chain alone. Representing over 750 ALS cases, this study supports development of a clinically deployable blood-based ALS screening tool.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Female",
+        "Biomarkers",
+        "Proteomics",
+        "Middle Aged",
+        "Male",
+        "Aged",
+        "Case-Control Studies",
+        "Blood Proteins"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
       "id": "42974031",
       "event_key": "pubmed:42974031",
       "source_id": "pubmed",
@@ -9118,7 +9434,7 @@
       "keywords": [],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "42939724",
@@ -21463,6 +21779,45 @@
       "last_seen_at": "2026-09-30T05:50:41Z"
     },
     {
+      "id": "43049247",
+      "event_key": "pubmed:43049247",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Extracellular Vesicle Derived Biomarkers for the Diagnosis of Neurodegenerative Diseases.",
+      "authors": [
+        "Bina Pani Gupta",
+        "Shivam Agarwal",
+        "Swetanka Prasad"
+      ],
+      "journal": "BioMed research international",
+      "publication_date": "2026-01-01",
+      "pmid": "43049247",
+      "doi": "10.1155/bmri/1031834",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049247/",
+      "abstract": "Liquid biopsy, a noninvasive method analyzing biofluids such as blood and cerebrospinal fluid, has transformed early detection and monitoring of neurodegenerative diseases. Small extracellular vesicles (sEVs) (30-150 nm) secreted by cells are pivotal because of their ability to cross the blood-brain barrier and carry disease-specific cargos like proteins and microRNAs. This review synthesizes recent advancements in EV-based liquid biopsy for diagnosing NDDs, including Alzheimer's disease, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, and frontotemporal dementia. Following PRISMA guidelines, we analyzed 113 studies from databases like PubMed and Scopus, highlighting EV-associated biomarkers' diagnostic potential. These vesicles offer a minimally invasive approach to detect proteinopathies and genetic markers, reflecting central nervous system pathology. Despite their promise, challenges such as standardized isolation protocols and clinical validation remain. This review discusses current trends, methodologies, and future directions for integrating EV-based diagnostics into clinical practice, emphasizing precision medicine for NDDs.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Extracellular Vesicles",
+        "Biomarkers",
+        "Liquid Biopsy",
+        "MicroRNAs"
+      ],
+      "keywords": [
+        "Alzheimer′s disease",
+        "Parkinson′s disease",
+        "biomarkers",
+        "extracellular vesicles",
+        "liquid biopsy",
+        "neurodegenerative diseases",
+        "precision medicine"
+      ],
+      "collected_at": "2026-11-19T07:47:34Z",
+      "first_seen_at": "2026-11-19T07:47:34Z",
+      "last_seen_at": "2026-11-19T07:47:34Z"
+    },
+    {
       "id": "43045285",
       "event_key": "pubmed:43045285",
       "source_id": "pubmed",
@@ -21480,7 +21835,12 @@
       "doi": "10.1016/B978-0-443-27442-8.00020-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045285/",
       "abstract": "Brain-computer interfaces (BCIs) enable direct interaction between neural activity and external devices or neuromodulatory systems, offering novel approaches for restoring, rehabilitating, and modulating motor function following neurologic injury and disease. Over recent decades, BCIs have progressed from experimental demonstrations of operant conditioning to clinically relevant technologies applied in stroke, spinal cord injury, amyotrophic lateral sclerosis, movement disorders, and other motor syndromes. This chapter presents a critical, clinically focused review of motor BCIs, with emphasis on clinical applications rather than technical fundamentals. Key topics include invasive and noninvasive signal acquisition methods, anatomic targets for recording and stimulation, decoding and artificial intelligence approaches, and actuator systems such as robotics, functional electrical stimulation, and spinal or cortical neuromodulation. Particular attention is directed toward hybrid and closed-loop architectures that connect motor intention with sensory or motor outcomes through precise temporal contingency, a fundamental requirement for promoting adaptive neuroplasticity. Evidence from randomized controlled trials, meta-analyses, and emerging invasive studies is evaluated, highlighting areas with substantial clinical support, particularly poststroke motor rehabilitation and adaptive deep brain stimulation for Parkinson disease, as well as fields undergoing active translational development. The chapter also addresses efficacy measures, treatment durability, and current barriers to widespread clinical implementation, while outlining future directions involving minimally invasive implants, adaptive decoders, and network-level neuromodulation.",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Brain-Computer Interfaces",
+        "Movement Disorders",
+        "Animals"
+      ],
       "keywords": [
         "Bioelectronic medicine",
         "Brain–computer interface",
@@ -21496,7 +21856,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43045284",
@@ -21514,7 +21874,12 @@
       "doi": "10.1016/B978-0-443-27442-8.00019-6",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045284/",
       "abstract": "This review examines the potential of the two main noninvasive brain stimulation (NIBS) techniques - repetitive transcranial magnetic stimulation (rTMS) and transcranial direct current stimulation (tDCS) - for the treatment of motor disorders. Although rTMS has demonstrated its ability to induce significant changes in various motor and nonmotor symptoms of Parkinson disease (PD), its clinical application remains limited, except for the treatment of PD-associated depression using rTMS applied to the dorsolateral prefrontal cortex. Some theoretical concepts support the use of certain \"excitability-decreasing\" NIBS protocols (rTMS delivered at low frequency or as continuous θ burst stimulation (cTBS), or cathodal tDCS) applied to motor cortical regions to alleviate dystonia. Similarly, \"excitability-decreasing\" NIBS protocols, but applied to the cerebellum, have shown some beneficial effects on various forms of ataxia or tremor. On the other hand, the use of anodal tDCS of the cerebellum combined with cathodal spinal DCS is a particularly promising prospect, as well as closed-loop transcranial alternating current stimulation protocols on tremor. In the context of amyotrophic lateral sclerosis, NIBS techniques aim to promote neuroprotection, at least in the early stages of the disease. This can be achieved by applying cTBS or anodal tDCS (possibly combined with cathodal spinal DCS) to motor cortical regions. However, the clinical relevance of NIBS techniques is generally limited by the short-lived nature of their effects, requiring repeated sessions, particularly for rTMS, which may not be an optimal care model in the context of highly chronic conditions such as motor disorders. Therefore, home-based tDCS could open new avenues for the clinical application of NIBS, thanks to its ease of use and lower rate of adverse effects compared to invasive neuromodulation methods or surgical lesions. Finally, perspectives of combined strategies and personalized targeting, especially for multisite montages and based on functional connectivity studies, are particularly attractive for the development of NIBS techniques aimed at alleviating motor disorders.",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Transcranial Direct Current Stimulation",
+        "Transcranial Magnetic Stimulation",
+        "Motor Disorders"
+      ],
       "keywords": [
         "Amyotrophic lateral sclerosis",
         "Cerebellar ataxia",
@@ -21527,7 +21892,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43045282",
@@ -21562,7 +21927,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43045281",
@@ -21583,7 +21948,14 @@
       "doi": "10.1016/B978-0-443-27442-8.00016-0",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045281/",
       "abstract": "Transcranial magnetic stimulation has evolved from early studies of electrical stimulation of the motor cortex into a powerful noninvasive tool for investigating the human corticospinal system. This chapter reviews the neurophysiologic basis of transcranial magnetic stimulation-evoked responses, encompassing the activation of cortical circuits, the generation and propagation of descending corticospinal volleys, the role of direct and indirect waves, and the contribution of spinal motoneuron pool dynamics to the formation of the motor-evoked potential. Methods for assessing corticospinal function are discussed systematically, including motor threshold determination, input-output curves, the cortical silent period, and paired-pulse paradigms that probe intracortical inhibitory and facilitatory circuits. The triple stimulation technique is presented as an approach to overcoming the temporal dispersion that limits conventional motor-evoked potential interpretation, while high-density surface electromyography is reviewed as an emerging method for resolving individual motor unit contributions to the compound response. Finally, the clinical applications of transcranial magnetic stimulation are illustrated through its use in disorders affecting the corticospinal tract, including amyotrophic lateral sclerosis, primary lateral sclerosis, hereditary spastic paraplegia, multiple sclerosis, stroke, and cervical spondylotic myelopathy, highlighting its value for both investigating corticospinal physiology and supporting clinical diagnosis and prognosis.",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Transcranial Magnetic Stimulation",
+        "Evoked Potentials, Motor",
+        "Pyramidal Tracts",
+        "Motor Cortex",
+        "Animals"
+      ],
       "keywords": [
         "Corticospinal excitability",
         "Motor-evoked potential",
@@ -21594,7 +21966,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43045278",
@@ -21614,7 +21986,13 @@
       "doi": "10.1016/B978-0-443-27442-8.00002-0",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045278/",
       "abstract": "Transcranial magnetic stimulation (TMS) techniques provide unique insights into human motor cortical physiology and have emerged as an important diagnostic investigation in a variety of neurologic disorders. Single-, paired-, and triple-pulse TMS techniques, incorporating the conventional amplitude-based and threshold tracking methodology, have established clinical and diagnostic utility in amyotrophic lateral sclerosis (ALS), dementias, movement and functional disorders, myelopathies, and neuroinflammatory diseases. Cortical hyperexcitability has emerged as an important diagnostic aid in ALS, and recent commercialization of the threshold-tracking software may facilitate translation into clinical practice. Single-pulse TMS measures have exhibited diagnostic utility in myelopathy even in the absence of radiologic changes. Short-latency afferent inhibition (SAI), reflecting central cholinergic transmission, is reduced in Alzheimer disease and mild cognitive impairment, serving as a surrogate diagnostic biomarker. Triple stimulation technique enhances the detection of upper motor neuron dysfunction and may aid diagnostic demyelinating neuropathies by establishing the presence of proximal conduction block in the cervical nerve root region. The present review discusses the physiologic processes underlying TMS measures and focuses on their diagnostic utility in neurologic diseases.",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Transcranial Magnetic Stimulation",
+        "Nervous System Diseases",
+        "Evoked Potentials, Motor",
+        "Motor Cortex"
+      ],
       "keywords": [
         "Diagnostic utility",
         "motor evoked potential",
@@ -21624,7 +22002,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-18T07:51:39Z"
+      "last_seen_at": "2026-11-19T07:47:34Z"
     },
     {
       "id": "43016267",
