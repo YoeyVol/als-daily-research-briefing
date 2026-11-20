@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-11-19T07:47:35Z",
+  "updated_at": "2026-11-20T07:39:17Z",
   "new_keys": [
-    "pubmed:43051186",
-    "pubmed:43051909",
-    "pubmed:43051945",
-    "pubmed:43049901",
-    "pubmed:43046861",
-    "pubmed:43050726",
-    "pubmed:43051857",
-    "pubmed:43045712",
-    "pubmed:43049247"
+    "pubmed:43057404",
+    "pubmed:43055898",
+    "pubmed:43055014",
+    "pubmed:43052829"
   ],
   "items": [
     {
@@ -59,7 +54,72 @@
       "keywords": [],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
+    {
+      "id": "43057404",
+      "event_key": "pubmed:43057404",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Novel VAPB variants in sporadic ALS promote protein aggregation and PERK-ISR associated apoptosis.",
+      "authors": [
+        "Jianmin Chen",
+        "Yixin Qi",
+        "Liqi Chen",
+        "Shuyan Feng",
+        "Sheng Chen",
+        "Changyun Liu",
+        "Yingqian Lu",
+        "Zhangyu Zou"
+      ],
+      "journal": "Neurobiology of disease",
+      "publication_date": "2026-11-19",
+      "pmid": "43057404",
+      "doi": "10.1016/j.nbd.2026.107689",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057404/",
+      "abstract": "BACKGROUND: Vesicle-associated membrane protein-associated protein B (VAPB) has been established as a causative gene for amyotrophic lateral sclerosis (ALS). However, VAPB mutations have been infrequently reported, and the pathogenic mechanisms underlying novel variants remain poorly characterized. In the present study, VAPB was sequenced in a cohort of Chinese patients with sporadic ALS to identify novel variants and delineate their functional consequences.\n\nMETHODS: Targeted next-generation sequencing was conducted in non-consecutive ALS patients referred to Departments of Neurology at Fujian Medical University Union Hospital between 2017 and 2024. Variant pathogenicity was assessed using PolyPhen-2, MutationTaster, and other in silico prediction tools. Functional analyses comprised immunofluorescence, solubility fractionation, immunoblotting for PERK, eIF2α, and ATF4, and Annexin V-APC/7-AAD flow cytometry.\n\nRESULTS: Three novel heterozygous missense variants, c.38 A > C (p.Q13P), c.511G > A (p.E171K), c.659 T > G (p.L220R), and one known c.166C > T (p.P56S) mutation, were individually identified in four patients with sporadic ALS. All patients showed relatively rapid disease progression except the patient with P56S mutation. Most in silico prediction tools classified Q13P and E171K as likely damaging. Immunofluorescence analysis demonstrated that Q13P and E171K, but not L220R, formed perinuclear aggregates showing extensive colocalization with the endoplasmic reticulum (ER) chaperone PDI. In Neuro-2a cells, upon tunicamycin treatment, overexpression of Q13P or E171K was associated with increased p-PERK/PERK and p-eIF2α/eIF2α ratios and elevated ATF4 expression. Furthermore, independent of tunicamycin treatment, these mutants suppressed global protein synthesis, as assessed by the SUnSET assay. Furthermore, both variants increased the protein levels of CHOP, Bax, and cleaved caspase-3 and were associated with an increased proportion of Annexin V-positive cells.\n\nCONCLUSION: Our findings demonstrate that the VAPB variants Q13P (MSP domain) and E171K (coiled-coil domain), but not L220R, are associated with ER aggregates and converge on activation of the PERK-eIF2α-ATF4 branch of the integrated stress response (ISR), accompanied by ER stress-associated apoptosis (increased CHOP, Bax, and cleaved caspase-3). These observations are consistent with a likely pathogenic role for these two variants and indicate that variants arising in distinct structural domains converge on a shared ER stress-PERK-ISR-apoptosis axis, a candidate therapeutic target in VAPB-associated ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Endoplasmic reticulum stress",
+        "Integrated stress response (ISR)",
+        "VAPB"
+      ],
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
+    {
+      "id": "43055898",
+      "event_key": "pubmed:43055898",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Evaluation of glucosamine coated mesoporous silica nanoparticles for antioxidant activity cytocompatibility and blood brain barrier permeability in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Nagore Grasa-Gude",
+        "Victoria García-Almodóvar",
+        "Diana Díaz-García",
+        "Santiago Gómez-Ruiz"
+      ],
+      "journal": "Discover nano",
+      "publication_date": "2026-11-19",
+      "pmid": "43055898",
+      "doi": "10.1186/s11671-026-05075-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055898/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) remains a fatal neurodegenerative disease with limited disease-modifying options, and effective delivery of therapeutics to the central nervous system is hindered by the blood-brain barrier (BBB). Here, we report mesoporous silica nanoparticles (MSNs) designed as a combination-delivery platform integrating riluzole, 5-methoxytryptamine (5MT) as an antioxidant-related component, and glucosamine as a biomolecular surface coating. The resulting multifunctional nanosystems were prepared and characterized by complementary physicochemical techniques, supporting successful incorporation of the selected components within the MSN-based carrier. To obtain a first-pass indication of brain-oriented delivery feasibility, permeability was assessed using a PAMPA-BBB assay that mimics key features of the brain lipid environment. This screening assay showed formulation-dependent apparent silica carryover across the artificial lipid membrane and provides a basis for subsequent evaluation in cell-based BBB models, supporting their further evaluation as ALS-oriented nanodelivery candidates. Overall, these results establish a rational proof-of concept of MSN platform for combination delivery and provide a permeability-screening basis for subsequent studies in more advanced BBB and neurobiological models, supporting their further evaluation as multifunctional delivery platforms for neurodegenerative diseases, such as ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Blood-brain barrier",
+        "Drug delivery",
+        "Mesoporous silica nanoparticles",
+        "Riluzole"
+      ],
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43051909",
@@ -92,7 +152,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43051945",
@@ -127,7 +187,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43049901",
@@ -176,7 +236,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43046861",
@@ -217,7 +277,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "42864601",
@@ -289,7 +349,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43044226",
@@ -329,7 +389,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43043867",
@@ -353,7 +413,7 @@
       "keywords": [],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43043758",
@@ -394,7 +454,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43038882",
@@ -743,7 +803,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43044492",
@@ -778,7 +838,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43035913",
@@ -1989,7 +2049,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43030892",
@@ -3272,7 +3332,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43022413",
@@ -6953,6 +7013,41 @@
       "last_seen_at": "2026-10-23T05:13:06Z"
     },
     {
+      "id": "43055014",
+      "event_key": "pubmed:43055014",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Erdheim-Chester Disease: A Case Report Exploring the Crucial Role of Multimodality Imaging and Targeted Specimen Re-review.",
+      "authors": [
+        "Isabelle Ho",
+        "Oluwaseun Olabiyi",
+        "Keng Yeow Tay"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-10-19",
+      "pmid": "43055014",
+      "doi": "10.7759/cureus.118188",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055014/",
+      "abstract": "Erdheim-Chester disease (ECD) is a rare multisystemic, non-Langerhans cell histiocytic neoplasm that is becoming increasingly recognized. The discovery of somatic mutations in the mitogen-activated protein kinase signaling pathway, most commonly BRAF V600E, has led to the disease being reclassified from an inflammatory process to a neoplastic one. The disease often presents with non-specific symptoms, most commonly bone pain, often leading to a delay in diagnosis, with the diagnosis often first being suggested by imaging findings. We present the case of a 56-year-old gentleman who presented with an atypical, five-year prodrome of progressive proximal muscle weakness, fatigue, hyperreflexia, and focal fasciculations, initially mimicking a primary neuromuscular or motor neuron disease. Subsequent multimodality imaging revealed classic features of systemic histiocytosis, including symmetric appendicular osteosclerosis on bone scintigraphy, retro-orbital masses with exophthalmos on brain magnetic resonance imaging, and perinephric soft tissue infiltration (\"hairy kidney\") and periaortic encasement (\"coated aorta\") on abdominal computed tomography, alongside primary testicular involvement on positron emission tomography. Although an initial retroperitoneal tissue biopsy yielded non-diagnostic fibroadipose tissue, specimen re-review histopathologically confirmed the BRAF V600E mutation. The patient was initiated on targeted kinase inhibitor therapy with vemurafenib. This report highlights the vital role of multimodality imaging in suggesting the diagnosis and the necessity of expert tissue re-review or molecular sequencing when initial biopsy results appear non-specific.",
+      "mesh_terms": [],
+      "keywords": [
+        "braf v600e mutation",
+        "cd68-positive",
+        "diabetes insipidus",
+        "ecd",
+        "hairy kidney",
+        "histiocytic neoplasm",
+        "histiocytosis",
+        "mapk pathway",
+        "non-langerhans cell histiocytosis",
+        "osteosclerosis"
+      ],
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
+    {
       "id": "43045712",
       "event_key": "pubmed:43045712",
       "source_id": "pubmed",
@@ -6992,7 +7087,7 @@
       "keywords": [],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "42974031",
@@ -9434,7 +9529,7 @@
       "keywords": [],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "42939724",
@@ -20688,6 +20783,48 @@
       "last_seen_at": "2026-09-15T23:48:30Z"
     },
     {
+      "id": "43052829",
+      "event_key": "pubmed:43052829",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Identification of marker genes and signaling pathways associated with amyotrophic lateral sclerosis using bioinformatics analysis of RNA sequencing data.",
+      "authors": [
+        "Basavaraj Vastrad",
+        "Siddalingeshwar Patil",
+        "Chanabasayya Vastrad",
+        "Anandkumar Tengli"
+      ],
+      "journal": "BMC neurology",
+      "publication_date": "2026-08-25",
+      "pmid": "43052829",
+      "doi": "10.1186/s12883-026-05276-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052829/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS), is a global disease that is a leading cause of neurodegenerative condition that affects motor neurons. However, the etiology of ALS remains poorly understood. The genes responsible for the pathogenesis of ALS have not been fully identified. To identify novel genes associated with carcinogenesis and progression of PDA, we analyzed the RNA sequencing dataset GSE277709 from the Gene Expression Omnibus (GEO) database. The differentially expressed genes (DEGs) were identified using DESeq2 R bioconductor package, whereas the Gene Ontology (GO) and REACTOME pathway enrichment analysis were performed by g:Profiler. Protein-protein interaction (PPI) network of DEGs was analyzed by HIPPIE (Human Integrated Protein-Protein Interaction rEference) interactome online database, and Cytoscape software was used for visualizing PPI network. Then, the microRNAs (miRNAs) and transcription factors (TF) in ALS were screened out from the miRNet and NetworkAnalyst database. Potential drug targets for ALS were obtained from the DrugBank database. MiRNA-hub gene regulatory network, TF-hub gene regulatory network and drug-hub gene interaction network were constructed by Cytoscape software. Finally, receiver operating characteristic (ROC) curve analysis was performed to assess the diagnostic value of hub genes. There exist strong correlations among samples of ALS and normal control group. There was a total of 958 DEGs, including 479 up-regulated genes and 479 down-regulated genes. GO enrichment analysis revealed that these DEGs were associates with multicellular organismal process, primary metabolic process, cell periphery, intracellular membraneless organelle, signaling receptor and transmembrane transporter activity. REACTOME pathway enrichment analysis revealed that these DEGs were associates with extracellular matrix organization and sensory perception. Hub genes EGFR (epidermal growth factor receptor), FN1 (fibronectin 1), CAV1 (caveolin 1), BCAR1 (BCAR1 scaffold protein, Cas family member), YAP1 (Yes1 associated transcriptional regulator), POU5F1 (POU class 5 homeobox 1), TTYH1 (tweety family member 1), ACTA1 (actin alpha 1, skeletal muscle), GPR17 (G protein-coupled receptor 17) and TF (transferrin) were identified form PPI network and modules. The MiRNA-hub gene regulatory network and TF-hub gene regulatory network showed that hsa-miR-6874-5p, hsa-miR-561-5p, GATA2 (GATA binding protein 2) and SRF (serum response factor) might play an important role in the ALS. By analyzing drug-hub gene interaction network, we pridicted drug molecules such as Lormetazepam and Medazepam for ALS treatment. These hubs demonstrated strong diagnostic values. The study highlights the potential impact of EGFR, FN1, CAV1, BCAR1, YAP1, POU5F1, TTYH1, ACTA1, GPR17 and TF on the development and progression of ALS, supporting their role as potential biomarkers.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Computational Biology",
+        "Signal Transduction",
+        "Gene Regulatory Networks",
+        "Protein Interaction Maps",
+        "MicroRNAs",
+        "Sequence Analysis, RNA",
+        "Gene Expression Profiling",
+        "Transcription Factors"
+      ],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Bioinformatics analysis",
+        "Biomarker",
+        "Differentially expressed genes",
+        "Protein–protein interaction network"
+      ],
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
+    {
       "id": "42796657",
       "event_key": "pubmed:42796657",
       "source_id": "pubmed",
@@ -21815,7 +21952,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43045285",
@@ -21856,7 +21993,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43045284",
@@ -21892,7 +22029,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43045282",
@@ -21927,7 +22064,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43045281",
@@ -21966,7 +22103,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43045278",
@@ -22002,7 +22139,7 @@
       ],
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:34Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "43016267",

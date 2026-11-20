@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-11-19T07:47:35Z",
+  "updated_at": "2026-11-20T07:39:17Z",
   "new_keys": [
-    "clinicaltrials:NCT05842941:2026-11-18",
-    "clinicaltrials:NCT06527222:2026-11-18"
+    "clinicaltrials:NCT07193953:2026-11-19",
+    "clinicaltrials:NCT07202494:2026-11-19"
   ],
   "items": [
+    {
+      "id": "NCT07202494",
+      "event_key": "clinicaltrials:NCT07202494:2026-11-19",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07202494",
+      "title": "Integrating Metabolism, Connectivity, and Mesoscale Imaging at Ultra-high Field to Decipher Mechanisms of Resilience and Neurodegeneration in Neurological Diseases and Healthy Aging",
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Other: Imaging Techniques (MRI 3T & 7T, Functional, Structural, and Metabolic Imaging)"
+      ],
+      "start_date": "2025-05-19",
+      "last_update_date": "2026-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT07202494",
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
+    {
+      "id": "NCT07193953",
+      "event_key": "clinicaltrials:NCT07193953:2026-11-19",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07193953",
+      "title": "Intravenous Immunoglobulin (IVIG) and Blood-Brain Barrier Disruption in Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: Next Generation Dome Helmet Focused Ultrasound",
+        "Drug: Intravenous immunoglobulin (IVIG), 10% solution for infusion",
+        "Drug: Definity® Vial for (Perflutren Lipid Microsphere) Injectable Suspension"
+      ],
+      "start_date": "2025-04-15",
+      "last_update_date": "2026-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT07193953",
+      "collected_at": "2026-11-20T07:39:17Z",
+      "first_seen_at": "2026-11-20T07:39:17Z",
+      "last_seen_at": "2026-11-20T07:39:17Z"
+    },
     {
       "id": "NCT06527222",
       "event_key": "clinicaltrials:NCT06527222:2026-11-18",
@@ -27,7 +75,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06527222",
       "collected_at": "2026-11-19T07:47:35Z",
       "first_seen_at": "2026-11-19T07:47:35Z",
-      "last_seen_at": "2026-11-19T07:47:35Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "NCT05842941",
@@ -52,7 +100,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05842941",
       "collected_at": "2026-11-19T07:47:35Z",
       "first_seen_at": "2026-11-19T07:47:35Z",
-      "last_seen_at": "2026-11-19T07:47:35Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "NCT07943442",
@@ -75,7 +123,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07943442",
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-11-18T07:51:39Z",
-      "last_seen_at": "2026-11-19T07:47:35Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "NCT07322003",
@@ -99,7 +147,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07322003",
       "collected_at": "2026-11-18T07:51:39Z",
       "first_seen_at": "2026-09-15T23:48:32Z",
-      "last_seen_at": "2026-11-19T07:47:35Z"
+      "last_seen_at": "2026-11-20T07:39:17Z"
     },
     {
       "id": "NCT06100276",
