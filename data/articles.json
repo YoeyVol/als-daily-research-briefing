@@ -1,12 +1,62 @@
 {
-  "updated_at": "2026-11-20T07:39:17Z",
+  "updated_at": "2026-11-21T07:37:11Z",
   "new_keys": [
-    "pubmed:43057404",
-    "pubmed:43055898",
-    "pubmed:43055014",
-    "pubmed:43052829"
+    "pubmed:43059034",
+    "pubmed:43064600",
+    "pubmed:43064242",
+    "pubmed:43064096",
+    "pubmed:43063507",
+    "pubmed:43062202",
+    "pubmed:43061696",
+    "pubmed:43059883",
+    "pubmed:43059861",
+    "pubmed:43060119",
+    "pubmed:43060627",
+    "pubmed:43060384",
+    "pubmed:43059159",
+    "pubmed:43061646",
+    "pubmed:43058834",
+    "pubmed:43061545"
   ],
   "items": [
+    {
+      "id": "43059034",
+      "event_key": "pubmed:43059034",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Exploring Predictive Genetic Testing Practices Across Adult-Onset Neurodegenerative Disorders.",
+      "authors": [
+        "Cal Burns",
+        "Amanda L Bergner",
+        "Maureen Mulhern",
+        "Elizabeth Harrington"
+      ],
+      "journal": "Journal of genetic counseling",
+      "publication_date": "2026-12-01",
+      "pmid": "43059034",
+      "doi": "10.1002/jgc4.70305",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059034/",
+      "abstract": "A predictive genetic testing protocol for Huntington disease (HD) has been published and utilized since 1989. The current guideline recommends an intake call, pre-test genetic counseling, neurological examination, mental health assessment, results disclosure, and post-test follow up. Predictive testing is now available for other common adult-onset neurodegenerative disorders (AOND), including Alzheimer's disease, amyotrophic lateral sclerosis, spinocerebellar ataxia, frontotemporal dementia, Parkinson's disease, prion disease, and CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy), yet similar protocols for most of these conditions have not been developed. It is hypothesized that the HD protocol is guiding predictive testing across AONDs, but this has not been formally evaluated. This exploratory, cross-sectional study surveyed genetic counselors (GCs) regarding their predictive testing practices. A total of 70 responses were received; 66 were included in demographic and other characteristic analysis, and 59 were included in practice descriptive analysis. GCs reported an average of 1.89 predictive cases per month and primarily operated within a neurology clinic (52/66, 79%). A total of 215 predictive testing practices were collected from the 59 respondents. Pre-test GC appointments (99%, n = 213) and a results disclosure session (100%, n = 215) were consistently incorporated in current practices. Over half of respondents utilized a mental health assessment (63%, n = 136) and structured follow-up after results are disclosed (58%, n = 124). Less than half of respondents utilized an intake call (48%, n = 104) and neurological examination (38%, n = 81). This study found that a vast majority of pre-test GC appointments were documented in the electronic medical record (207/213, 97%) and billed using insurance (164/213, 77%). GCs were reported as the most frequent healthcare professional involved in the assessment of mental health (118/136, 97%). Overall, these findings suggest that GCs are adapting the current HD predictive testing protocol similarly across AONDs. These findings provide insight into the current practices of predictive testing for AONDs in the absence of formal condition-specific guidelines.",
+      "mesh_terms": [
+        "Humans",
+        "Genetic Testing",
+        "Neurodegenerative Diseases",
+        "Cross-Sectional Studies",
+        "Genetic Counseling",
+        "Adult"
+      ],
+      "keywords": [
+        "Huntington disease",
+        "adult‐onset neurodegenerative disorders",
+        "genetic counseling",
+        "predictive genetic testing",
+        "predictive testing protocols"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
     {
       "id": "43051186",
       "event_key": "pubmed:43051186",
@@ -36,25 +86,245 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051186/",
       "abstract": "BACKGROUND: Oxidative stress, resulting from excessive production of reactive oxygen species, is implicated in the pathogenesis of amyotrophic lateral sclerosis. Edaravone is a free-radical scavenger that has been shown to reduce functional decline over 24 weeks in a subset of patients with amyotrophic lateral sclerosis and is approved for its treatment in several countries. We investigated the safety and efficacy of edaravone (FNP122), a novel once-daily oral formulation of edaravone, in a broader population of patients with amyotrophic lateral sclerosis over a longer period.\n\nMETHODS: This multicentre, double-blind, phase 3, randomised controlled trial was done in 37 hospitals in Belgium, France, Germany, Ireland, Italy, the Netherlands, Poland, Portugal, Russia, Spain, Sweden, and the UK. Eligible patients were adults aged 18-80 years, with amyotrophic lateral sclerosis, 24 months or less since symptom onset, vital capacity at least 70%, and rate of change in amyotrophic lateral sclerosis Functional Rating Scale-Revised (ALSFRS-R) score between 0·35 and 1·50 points per month (both inclusive). Eligible patients were randomly assigned 2:1 using a central web-based allocation system to oral edaravone (100 mg per day) or placebo. Participants, investigators, study staff, outcome assessors, and the sponsor remained masked to treatment allocation throughout the study. The primary endpoint was the mean difference in change from baseline in ALSFRS-R total score at week 48 between edaravone and placebo, assessed in patients who received at least one dose of study drug. This trial was registered with ClinicalTrials.gov (NCT05178810) and is complete.\n\nFINDINGS: Between Oct 18, 2021, and Nov 30, 2022, 370 individuals were screened, of whom 313 were randomly assigned to receive edaravone (n=209) or placebo (n=104). One site was found to be noncompliant with Good Clinical Practice and nine individuals from that site were excluded (three in the edaravone group and six in the placebo group). One patient in each group did not receive any treatment; thus, 302 individuals were treated and analysed (205 in the edaravone group and 97 in the placebo group). Median age at baseline was 59 years (IQR 53-68). 185 (61%) of 302 patients were male and 117 (39%) were female. 275 (91%) of 302 patients were White. At 48 weeks, least squares mean change from baseline in ALSFRS-R total score was not significantly different between the edaravone group (-12·6 points [SE 0·7]) and placebo group (-13·4 points [1·0], least squares mean difference 0·78 points; 95% CI -1·44 to 3·00, p=0·49). Edaravone was well tolerated, with no between-group difference in the incidence of treatment-emergent adverse events (180 [88%] of 205 patients in the edaravone group vs 82 [85%] of 97 patients in the placebo group). No deaths were considered related to study treatment.\n\nINTERPRETATION: Oral edaravone was well tolerated but did not significantly slow functional decline versus placebo over 48 weeks. These results do not support its use at the tested dose for modifying disease progression in the general amyotrophic lateral sclerosis population and highlight the need for the development of more effective therapeutic strategies.\n\nFUNDING: Ferrer.",
       "mesh_terms": [
-        "Humans",
-        "Edaravone",
-        "Double-Blind Method",
-        "Amyotrophic Lateral Sclerosis",
-        "Middle Aged",
-        "Female",
-        "Male",
-        "Aged",
-        "Free Radical Scavengers",
         "Adult",
-        "Administration, Oral",
-        "Treatment Outcome",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
         "Young Adult",
-        "Aged, 80 and over"
+        "Administration, Oral",
+        "Amyotrophic Lateral Sclerosis",
+        "Double-Blind Method",
+        "Edaravone",
+        "Free Radical Scavengers",
+        "Treatment Outcome"
       ],
       "keywords": [],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43064600",
+      "event_key": "pubmed:43064600",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Altered Brain-cerebrospinal Fluid Dynamics and Juxtacortical Microstructural Alterations in Early-stage Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Jixin Luan",
+        "Jianing Li",
+        "Zexin Zhan",
+        "Hongxu Wang",
+        "Liangqi Cheng",
+        "Yan Yun",
+        "Xinghao Lian",
+        "Mingjie Ma",
+        "Yao Tang",
+        "Mengxuan Wu",
+        "Pingkang Huang",
+        "Jiahao Lv",
+        "Dexin Yu",
+        "Xiaohan Sun",
+        "Shuangwu Liu",
+        "Fuchen Liu"
+      ],
+      "journal": "Academic radiology",
+      "publication_date": "2026-11-20",
+      "pmid": "43064600",
+      "doi": "10.1016/j.acra.2026.11.015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064600/",
+      "abstract": "RATIONALE AND OBJECTIVES: Altered cerebrospinal fluid (CSF) dynamics may contribute to amyotrophic lateral sclerosis (ALS), but their relationships with cortical microstructure and functional impairment in patients with early-stage ALS (King's stage 1; ALS-ES) remain unclear.\n\nMATERIALS AND METHODS: Eighty patients with King's Stage 1 ALS and 82 healthy controls underwent resting-state functional magnetic resonance imaging (MRI), diffusion MRI, and structural MRI. Global blood oxygen level-dependent-cerebrospinal fluid (gBOLD-CSF) coupling was used as a surrogate measure of brain-CSF dynamics. Juxtacortical free-water fraction (FWF) was quantified across 68 cortical regions. Regional clinical associations were assessed using partial correlations, and indirect effects were estimated using 5000-bootstrap mediation analyses. Spatial correlates of FWF alterations were examined using normative neurotransmitter, cellular, mitochondrial, and transcriptomic maps.\n\nRESULTS: After covariate adjustment, gBOLD-CSF coupling was significantly weaker and less negative in ALS-ES than in HCs (pFDR < 0.001). Higher FWF was negatively associated with revised amyotrophic lateral sclerosis functional rating scale scores in the left precentral, left rostral middle frontal, left transverse temporal, and right rostral middle frontal regions after Bonferroni correction. Exploratory mediation analyses identified nominal indirect associations in the left precentral and left rostral middle frontal gyri. Regional FWF abnormalities spatially corresponded to serotonin, gamma-aminobutyric acid, mitochondrial, neuronal, endothelial, and immune-related normative maps.\n\nCONCLUSION: ALS-ES is characterized by altered brain-CSF coupling and spatially patterned juxtacortical extracellular-water abnormalities associated with functional impairment. Normative molecular mapping nominates neurovascular, neuronal, and immune-related contexts for this imaging phenotype.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Brain-CSF dynamics",
+        "Early-stage",
+        "Free water fraction",
+        "Imaging transcriptomics"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43064242",
+      "event_key": "pubmed:43064242",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
+      "authors": [
+        "Ziang Xu",
+        "ZhongZheng Mao",
+        "Dan Qiu",
+        "Brenda Cabrera-Mendoza",
+        "Huaigui Liu",
+        "Jun He",
+        "Renato Polimanti"
+      ],
+      "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+      "publication_date": "2026-11-20",
+      "pmid": "43064242",
+      "doi": "10.1016/j.bpsc.2026.11.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064242/",
+      "abstract": "BACKGROUND: Psychiatric and neurodegenerative conditions have both shared and distinct symptomatology, but the brain mechanisms underlying diagnostic similarities and differences remain unclear.\n\nMETHODS: Using genome-wide association data, we analyzed 12 psychiatric disorders and four neurodegenerative diseases, assessing polygenic overlap, shared loci, and genetic causal relationships linking their genetic latent factors with 3,935 brain imaging-derived phenotypes (IDP).\n\nRESULTS: Using genomic structural equation modeling, we identified an internalizing factor (F1), an addiction factor (F2), a factor related to schizophrenia and bipolar disorder (F3), a neurodevelopmental factor (F4), and a factor related to Alzheimer's disease and amyotrophic lateral sclerosis (F5). These showed shared transcriptomic enrichments for frontal and anterior cingulate cortical regions, while F1-specific depletion in substantia nigra and F3-specific enrichment in nucleus accumbens appeared to be specific. Fine-mapping identified 99 variants, including shared loci (e.g., VRK2: F1, F2, F3; TSHZ3: F1, F2; TCF4: F1, F3) and factor-specific loci (e.g., DRD2-F2; SCN2A-F3; FOXP2-F4; TNIP1-F5). The brain-wide analysis of fine-mapped loci identified 1,480 IDP associations (false discovery rate q<0.05). Among these, BANK1 rs1813006, related to F2, was associated to >400 brain IDPs (mostly related to cortical area, cortical grey-white contrast, cortical thickness, and regional and tissue volume). Similarly, MOBP rs1768190 related to F5 was associated with >200 brain IDPs, with about half of them related to cortical thickness.\n\nCONCLUSIONS: The present study provides new insights into cross-diagnostic mechanisms linking genetic variation and molecular changes to the brain structural and functional variation across psychiatric and neurodegenerative conditions.",
+      "mesh_terms": [],
+      "keywords": [
+        "Endophenotypes",
+        "Genome-wide Association Study",
+        "Magnetic Resonance Imaging",
+        "Multivariate modeling",
+        "Pleiotropy"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43064096",
+      "event_key": "pubmed:43064096",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "MultiNSDE: treatment-aware neural SDEs for generative modeling of real and counterfactual patient trajectories.",
+      "authors": [
+        "Diego Valderrama",
+        "Achille Fourtoy",
+        "India Mähler",
+        "Annika Gerken",
+        "Sven Stodtmann",
+        "Holger Fröhlich",
+        "Pooled Resource Open-Access ALS Clinical Trials"
+      ],
+      "journal": "Journal of biomedical informatics",
+      "publication_date": "2026-11-20",
+      "pmid": "43064096",
+      "doi": "10.1016/j.jbi.2026.105130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064096/",
+      "abstract": "BACKGROUND: Synthetic patient data may facilitate biomedical research, trial planning, and the construction of synthetic control arms, but there is a lack of methods that enable the realistic generation of mixed-type longitudinal clinical trial data while accounting for treatment effects.\n\nMETHODS: We developed MultiNSDE, a neural stochastic differential equation framework for modeling high-dimensional static and longitudinal clinical study data, including continuous, categorical, and time-to-event outcomes. The model separates treatment- and placebo-associated dynamics, enabling treatment-aware individual trajectory simulation and counterfactual treatment assignment.\n\nRESULTS: MultiNSDE was evaluated on three neurodegenerative disease trial datasets: A4 in Alzheimer's disease, PRO-ACT in amyotrophic lateral sclerosis, and DATATOP in Parkinson's disease. The model reproduced static and longitudinal data distributions, extrapolated clinically plausible trajectories, and generated coherent counterfactual outcomes under treatment-to-placebo and placebo-to-treatment shifts. Synthetic data generated by MultiNSDE preserved average treatment effect estimates observed in the real datasets.\n\nCONCLUSIONS: MultiNSDE provides a proof-of-concept for the generation of realistic mixed-type longitudinal clinical trial data while preserving clinically meaningful treatment-associated differences in outcomes. It may support disease modeling, counterfactual simulation, and synthetic control generation in neurodegenerative disease research.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43063507",
+      "event_key": "pubmed:43063507",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Safety, tolerability, and effect of nusinersen in ambulatory and non-ambulatory adults with 5q-SMA treated up to five years.",
+      "authors": [
+        "Matti D Allen",
+        "Andrea Jaworek",
+        "Katie Jira",
+        "Steven Severyn",
+        "Songzhu Zhao",
+        "Matthew Linsenmayer",
+        "Kristina Kelly",
+        "Marco Tellez",
+        "Sarah Heintzman",
+        "Jerry Reynolds",
+        "Gary Sterling",
+        "Tristan Weaver",
+        "Kiran Rajneesh",
+        "W David Arnold",
+        "Stephen J Kolb",
+        "Bakri Elsheikh"
+      ],
+      "journal": "Journal of neuromuscular diseases",
+      "publication_date": "2026-11-20",
+      "pmid": "43063507",
+      "doi": "10.1177/22143602261474303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063507/",
+      "abstract": "BackgroundNusinersen treatment of adults with 5q-SMA was found to be safe and stabilizes or improves motor function in the short-term (<38 months), but data examining longer-term (>38 months) impact and safety is lacking.ObjectiveTo study the long-term (24-60 months) effects and safety profile of nusinersen in adults with 5q-SMA.MethodsWe conducted a observational study of 5q-SMA patients, age ≥18 years, and receiving nusinersen for ≥24 months. Data were analyzed by ambulatory status. Clinical outcomes included: 6-minute walk test (6MWT), Hammersmith Functional Motor Scale - Expanded (HFMSE) scores, revised upper limb module (RULM) scores, pulmonary function test results, and medication-related adverse effects. Data were collected at baseline and post-treatment initiation at months 2, 6, 12, 24, 36, 48, and 60 +/- 2 months. Linear mixed models with random intercept for each patient were used to examine the changes of outcomes across time.ResultsThiry-two individuals with 5q-SMA (17 female) were included. Nineteen were non-ambulatory (mean age 38.3+/- 12.1 years) and 13 were ambulatory (mean age 32.9+/-9.5 years) at treatment onset. Average treatment duration was 53.3 months (range 24-60 months). The ambulatory group showed stability in 6MWT and HFMSE compared to baseline. In non-ambulatory patients, RULM and FVC remained stable. No serious adverse events attributable to nusinersen were reported.ConclusionsLong-term nusinersen treatment is safe in adults with SMA. Patients showed relative clinical stability over 60 months. These findings suggest that nusinersen may provide relative improvement compared to the natural disease progression over 2-5 years of treatment.",
+      "mesh_terms": [],
+      "keywords": [
+        "SMA",
+        "antisense oligonucleotide",
+        "intrathecal therapy",
+        "motor function",
+        "motor neuron disease",
+        "nusinersen"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43062202",
+      "event_key": "pubmed:43062202",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Lived experiences of fatigue in individuals with amyotrophic lateral sclerosis: a qualitative study.",
+      "authors": [
+        "Astrid Grouls",
+        "Hala Q Khan",
+        "Elizabeth A Kvale",
+        "Lydia J Sharp",
+        "Sarah H Berth"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-20",
+      "pmid": "43062202",
+      "doi": "10.1080/21678421.2026.2762727",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062202/",
+      "abstract": "OBJECTIVE: Fatigue is a prominent and burdensome symptom of amyotrophic lateral sclerosis (ALS). Its measurement is difficult due to limited definition of the characteristics of fatigue unique to ALS. We aimedto characterize the lived experience of fatigue in ALS, including how it is perceived, understood and experienced, to inform a disease-specific, patient-centred conceptual framework.\n\nMETHODS: We developed an interview guide based on existing fatigue scales, review of the literature on fatigue in ALS and the experiences of ALS care providers. We conducted focus groups of people with ALS with open-ended discussion of the fatigue experience. Thematic analysis with a phenomenological approach was employed to identify primary themes.\n\nRESULTS: Four focus groups were held with a total of fifteen participants. People reported that fatigue shaped their daily activity and sleep patterns, was worsened by activity and improved with rest, changed social interactions, incorporated mental, physical and emotional components, and was manageable with various means of physical and psychological coping. Some participants reported difficulty distinguishing between physical weakness from ALS and physical fatigue.\n\nCONCLUSIONS: We identified four interconnected themes that illuminate how fatigue is experienced, interpreted, and given meaning in the everyday lives of people with ALS, extending beyond traditional clinical characterizations. This work has informed development of a conceptual model and a preliminary patient-informed definition of fatigue in ALS. Participants defined fatigue as an all-encompassing phenomenon that feels unique to ALS, is related to weakness, and has physical and mental components only partially managed through rest, expectation-setting and activity modulation.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "fatigue",
+        "neuromuscular disease",
+        "quality of life"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43061696",
+      "event_key": "pubmed:43061696",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
+      "authors": [
+        "Tornike Jangirashvili",
+        "Orchid Parthiv",
+        "Saba Kurtsikidze",
+        "Sanjana Srinivas",
+        "Mikheil Oboladze",
+        "Malak Yassine",
+        "Nikoloz Maghradze",
+        "Barbare Khaburdzania",
+        "Mir Mohammad Ali Mir Yawar Ali"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-11-19",
+      "pmid": "43061696",
+      "doi": "10.7759/cureus.119949",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061696/",
+      "abstract": "Takotsubo syndrome (TTS) is an acute, usually reversible form of left ventricular dysfunction that mimics acute coronary syndrome and carries a long-term prognosis comparable to that of myocardial infarction. Its pathogenesis has been linked to the brain-heart axis, and TTS has been described after acute neurological events and in patients with chronic neurological disease. However, the evidence remains fragmented across individual conditions, and acute triggers are rarely distinguished from pre-existing disorders. The objective here is to systematically review primary observational evidence on TTS in adults with acute and chronic neurological conditions, with emphasis on the temporal relationship, cardiac phenotypes, complications, and clinical outcomes, and to summarize the mechanistic evidence reported by the included studies. A systematic literature search was conducted across PubMed/MEDLINE, ScienceDirect, Google Scholar, and ResearchGate (January 2016 to September 2026) in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, supplemented by citation searching. Eligibility criteria, data extraction, and quality appraisal with the Newcastle-Ottawa Scale were predefined. Of 3170 records, 16 primary observational studies were included: five multicenter registry analyses, four administrative database analyses, five cohort studies, one case-control study, and one cross-sectional study. Reviews and case reports provided context only, and reports from overlapping data sources were not pooled. In the International Takotsubo Registry, an acute neurological disorder preceded TTS in 6.7% of 2402 patients, most often seizures, intracranial hemorrhage, or cerebral ischemia, and TTS was diagnosed within two days of neurological symptoms in 87.3%. In the German-Italian-Spanish Takotsubo Registry, 17% of 2301 patients had a neurological disorder, mostly pre-existing. Neurologically associated TTS showed lower left ventricular ejection fraction (37.4% vs 41.0%), more cardiogenic shock (15.1% vs 8.6%), and higher in-hospital mortality (17.4% vs 4.0%; adjusted odds ratio 3.20), which reached 30.4% after intracranial hemorrhage. A neurological disorder independently predicted long-term mortality (hazard ratio 1.72). Migraine was associated with lower adjusted mortality, whereas amyotrophic lateral sclerosis was associated with a more severe in-hospital course. Ballooning patterns differed only modestly, and chest pain was reported in 29.0% of neurologically associated cases compared with 72.9% of other cases. Evidence for traumatic brain injury was limited to one strain-defined cohort and coded trauma data, and direct mechanistic measurements were scarce. Neurological disease identifies a higher-risk subgroup of patients with TTS who often present without chest pain. TTS should be considered in patients with acute neurological events who develop unexplained hemodynamic instability, electrocardiographic changes, or troponin elevation, and echocardiography should anticipate more severe systolic dysfunction. The evidence base is small, partly overlapping, and diagnostically heterogeneous, and outcomes were reported as all-cause. Prospective studies with standardized diagnostic criteria and separate reporting of cardiac and neurological outcomes are needed.",
+      "mesh_terms": [],
+      "keywords": [
+        "brain-heart axis",
+        "cerebro vascular disease",
+        "intracranial brain tumors",
+        "migraine disorder",
+        "neurological disorders",
+        "seizure",
+        "takotsubo cardiomyopathy (tc)",
+        "takotsubo's syndrome",
+        "traumatic brain injury(tbi)"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43057404",
@@ -88,7 +358,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43055898",
@@ -119,7 +389,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43051909",
@@ -152,7 +422,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43051945",
@@ -187,7 +457,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43049901",
@@ -236,7 +506,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43046861",
@@ -277,7 +547,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "42864601",
@@ -803,7 +1073,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43044492",
@@ -1316,6 +1586,36 @@
       "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
+      "id": "43061545",
+      "event_key": "pubmed:43061545",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Aging and neurodegenerative diseases: emerging technologies and therapeutics.",
+      "authors": [
+        "Ashok K Shetty",
+        "Parinita M Mandhyan"
+      ],
+      "journal": "Military Medical Research",
+      "publication_date": "2026-11-12",
+      "pmid": "43061545",
+      "doi": "10.1016/j.mmr.2026.100079",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061545/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Amyotrophic lateral sclerosis",
+        "Cellular senescence",
+        "Healthspan",
+        "Parkinson’s disease",
+        "Partial reprogramming"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
       "id": "43038719",
       "event_key": "pubmed:43038719",
       "source_id": "pubmed",
@@ -1769,6 +2069,81 @@
       "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
+      "id": "43059883",
+      "event_key": "pubmed:43059883",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Spatial proteomics on repurposed sequencers reveals early astrocytic remodeling in an ALS mouse model.",
+      "authors": [
+        "Kunal Pandit",
+        "Craig Fouts",
+        "Sarah Rodwin",
+        "Silas Maniatis",
+        "Karan Dhingra",
+        "Selma Marrakchi",
+        "Daniel Domovic",
+        "Jagjit Singh",
+        "Bianca Dumitrascu",
+        "Hemali Phatnani",
+        "Maroš Pleška",
+        "Sanja Vickovic"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-10",
+      "pmid": "43059883",
+      "doi": "10.64898/2026.11.08.765207",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059883/",
+      "abstract": "Spatial proteomics can reveal how disease reshapes cells and their local environments, but extending these measurements across replicated tissue cohorts requires validated antibodies, consistent sample processing and integrated analysis. These requirements are particularly pressing in studies of amyotrophic lateral sclerosis (ALS), where pathology evolves unevenly across spinal-cord regions and disease stages. Here, we established an end-to-end spatial proteomics workflow linking a validated 28-antibody panel to automated fluorescence decoding and imaging on repurposed high-throughput sequencers, followed by multicycle image processing, cellular profiling and probabilistic spatial-neighborhood analysis. We applied it to 70 lumbar spinal-cord sections from nine SOD1-G93A and nine wild-type mice at presymptomatic, disease-onset and symptomatic stages. Spatial neighborhood analysis revealed that the environments surrounding motor neurons were already remodeled at disease onset. GFAP-high neighborhoods expanded in the ventral gray matter, with 43% of motor neurons embedded in these environments in SOD1-G93A mice, compared with 15% in wild-type mice. This early expansion preceded the later decline of non-reactive gray matter and detectable motor-neuron loss. The regional organization of the protein-defined changes shared features with neuronal and astrocytic patterns mapped by spatial transcriptomics in mouse and human ALS. This work enables spatial proteomics across replicated tissue cohorts and identifies localized remodeling of the environments around surviving motor neurons as an early feature of disease in the SOD1-G93A model.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43059861",
+      "event_key": "pubmed:43059861",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Restoring intended speech in people with dysarthria from pontine stroke using an intracortical brain-computer interface.",
+      "authors": [
+        "Samuel R Nason-Tomaszewski",
+        "Pranav I Deevi",
+        "Justin J Jude",
+        "Qinwan Rabbani",
+        "Brandon G Jacques",
+        "Anna L Pritchard",
+        "Lahiru N Wimalasena",
+        "Brice A Richards",
+        "Brianna M Karpowicz",
+        "Payton H Bechefsky",
+        "Nicholas S Card",
+        "Angelique C Paulk",
+        "Jian Li",
+        "Darrel R Deo",
+        "Eun Young Choi",
+        "Leigh R Hochberg",
+        "Sergey D Stavisky",
+        "David M Brandman",
+        "Daniel B Rubin",
+        "Nicholas AuYong",
+        "Chethan Pandarinath"
+      ],
+      "journal": "medRxiv : the preprint server for health sciences",
+      "publication_date": "2026-11-10",
+      "pmid": "43059861",
+      "doi": "10.64898/2026.02.19.26346583",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059861/",
+      "abstract": "Restoring communication for people with dysarthria secondary to pontine stroke remains a critical challenge. Intracortical brain-computer interfaces (iBCIs) have demonstrated great potential for speech restoration in people with amyotrophic lateral sclerosis (ALS), with 1-24% word error rates (WERs) on a 125,000-word vocabulary. In pontine stroke, only BCIs spanning large regions of cortex (using electrocorticography) have been previously tested, achieving 25.5% WERs with a smaller 1,024-word vocabulary. Whether intracortical BCI performance improvements extend to people with pontine stroke-induced dysarthria remains unclear. Here, we detail targeting and deployment strategies for iBCIs that restore intended speech in people with long-standing dysarthria and tetraplegia due to pontine stroke, and show that neural activity from as few as one 64-channel microelectrode array in orofacial motor cortex can achieve high-performance speech decoding, with performance comparable to prior iBCI work. We used neural networks to predict word sequences from iBCI signals as BrainGate2 participants T16 and T22 mimed (mouthed without vocalization) sentences from a large vocabulary. With standard adjustments for signal changes, decoding has remained stable more than two years post-implantation for T16 and two months for T22, achieving median 19.4% and 10.6% WERs with a 125,000-word vocabulary and median 10.0% and 2.25% WERs with a 1,024-word vocabulary for T16 and T22, respectively. Using a more structured task, we demonstrate the day-over-day signal changes that necessitate adjustment. These results demonstrate that brain-to-text iBCIs decoding from small patches of cortex can achieve high performance in individuals with pontine stroke, with comparable performance to speech iBCIs in individuals with ALS.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
       "id": "43023511",
       "event_key": "pubmed:43023511",
       "source_id": "pubmed",
@@ -2011,6 +2386,33 @@
       "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
+      "id": "43060119",
+      "event_key": "pubmed:43060119",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Stathmin-2 regulates microtubule dynamics and axonal resilience in human motor neurons.",
+      "authors": [
+        "Kaya J E Matson",
+        "Cecilia R Petruconis",
+        "Amber Hernandez",
+        "Jay R Dave",
+        "Suradip Das",
+        "Erika L F Holzbaur"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-09",
+      "pmid": "43060119",
+      "doi": "10.64898/2026.11.07.764673",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060119/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by the selective degeneration of motor neurons, yet the mechanisms that either induce neurodegeneration or confer neuronal resilience remain poorly understood. Loss of the microtubule-associated protein Stathmin-2 (STMN2) is a downstream consequence of TDP-43 pathology present in nearly all cases of ALS and has emerged as a central feature of disease. However, the mechanisms by which STMN2 maintains homeostasis in motor neurons remain incompletely defined. Here, we investigated the role of STMN2 in regulating cytoskeletal organization and axonal function. Using TIRF microscopy at a single molecule resolution, we found that increasing STMN2 concentrations suppressed microtubule polymerization and increased catastrophe. In human induced pluripotent stem cell-derived motor neurons, STMN2 depletion increased baseline rates of microtubule polymerization. However, STMN2 depletion impaired recovery of axonal microtubules following transient nocodazole-induced depolymerization, indicating that STMN2 is required for efficient cytoskeletal remodeling after stress. Consistent with these findings, STMN2-depleted neurons exhibited impaired microtubule recovery following acute depolymerization and reduced axonal recoil after optically induced local microtubule severing. Finally, STMN2 depletion disrupted the formation of neuromuscular junction-like contacts in human motor neuron-myocyte co-cultures, linking impaired cytoskeletal homeostasis to loss of distal neuronal connectivity. Together, these findings identify STMN2 as a key regulator of cytoskeletal resilience that coordinates microtubule remodeling, mitochondrial transport, and maintenance of neuromuscular junctions. We propose that impaired resilience of the axonal cytoskeleton represents a critical point of vulnerability in motor neurons in patients with ALS, establishing cytoskeletal resilience as a potential therapeutic target downstream of TDP-43 pathology.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
       "id": "43051857",
       "event_key": "pubmed:43051857",
       "source_id": "pubmed",
@@ -2049,7 +2451,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43030892",
@@ -2282,6 +2684,42 @@
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
+      "id": "43060627",
+      "event_key": "pubmed:43060627",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Individualized AI-driven Neuromodulation selectively enhances and reorganizes human tongue sensorimotor networks.",
+      "authors": [
+        "T D Papageorgiou",
+        "J Webb",
+        "A Allam",
+        "S Reddy",
+        "C Noorbakhsh",
+        "D Huynh",
+        "R Hekmati",
+        "E M Rohren",
+        "E M Sturgis",
+        "S G Hilsenbeck",
+        "K A Hutcheson",
+        "S R Heilbronner",
+        "A M Thompson",
+        "C R Neblett",
+        "E Froudarakis"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-05",
+      "pmid": "43060627",
+      "doi": "10.64898/2026.11.04.764393",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060627/",
+      "abstract": "Precise modulation of brain networks for tongue motor and sensory control (TMSC) is critical for neruorehabilitation. Existing neuromodulation approaches use fixed targets, ignoring individual network architecture. We present an AI-driven, individualized fMRI neuromodulation (iNM) platform adaptively targeting subject-specific TMSC networks in real-time. Using a neurofunctional twin built from each participant's anatomy and function, iNM reinforces targeted activity and suppresses competing states. Unsupervised machine learning and hidden Markov modeling showed iNM increased TMSC-state occupancy from 82% to 97% and suppressed swallow-state interference by 83%. The inferior parietal lobule emerged as a sensorimotor integration hub, with increased magnitude (d' 90.4 right, 84 left) and spatial expansion (134.8% right, 81.8% left). Cortico-subcortical connectivity strengthened 53% to 74% across motor, sensory, and attention networks and persisted into non-iNM blocks. Thus, iNM may offer precision neurorehabilitation for CNS or PNS disorders, such as amyotrophic lateral sclerosis, and treatment-induced cranial neuropathy in head-and-neck-cancer survivors, respectively.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43032804",
@@ -2887,6 +3325,45 @@
       "last_seen_at": "2026-11-06T07:12:53Z"
     },
     {
+      "id": "43060384",
+      "event_key": "pubmed:43060384",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Disrupted mannosidase enzymes in C9orf72 ALS/FTD.",
+      "authors": [
+        "B N Ondatje",
+        "L M Gittings",
+        "K R Preller",
+        "E Alsop",
+        "K Garcia-Mansfield",
+        "N Hansen",
+        "B Lovell",
+        "R Sharma",
+        "I S Piras",
+        "M Martinez",
+        "B Meechoovet",
+        "A Bonfitto",
+        "S Song",
+        "J Levy",
+        "M Huentelman",
+        "P Pirrotte",
+        "K Van Keuren-Jensen",
+        "R Sattler"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-03",
+      "pmid": "43060384",
+      "doi": "10.64898/2026.10.30.763135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060384/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is an age-related neurodegenerative disorder resulting from the loss of motor neurons in the brain and spinal cord. Neuroinflammation, induced by glial cells including microglia (MG) and astrocytes, is an acknowledged aspect of this neurodegeneration. Generating induced pluripotent stem cell (iPSC) neuroinflammatory models of ALS may help elucidate non-neuronal mechanisms of disease. Here, we analyze human postmortem tissue and an iPSC derived glia-crosstalk model identifying a reduction in Golgi enzymes MAN1A1 and MAN1A2 in addition to other glycan enzymes from ALS-associated microglia and astrocytes. Impaired Golgi and glycan metabolism is linked to inflammation and other related ALS disease mechanisms including impaired lysosomal proteostasis, altered extracellular matrix, disrupted secretion, and altered cell-cell signaling.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
       "id": "43027360",
       "event_key": "pubmed:43027360",
       "source_id": "pubmed",
@@ -3459,6 +3936,55 @@
       "collected_at": "2026-11-03T07:08:17Z",
       "first_seen_at": "2026-11-03T07:08:17Z",
       "last_seen_at": "2026-11-04T06:53:59Z"
+    },
+    {
+      "id": "43059159",
+      "event_key": "pubmed:43059159",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Associations of Diagnosed Herpesvirus Infections and Antiviral Use With Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Systemic Lupus Erythematosus: A Nationwide Danish Cohort Study.",
+      "authors": [
+        "Susana Aznar",
+        "Matilde Winther-Jensen",
+        "Marie Villumsen",
+        "Tomasz Brudek"
+      ],
+      "journal": "Immunity, inflammation and disease",
+      "publication_date": "2026-11-01",
+      "pmid": "43059159",
+      "doi": "10.1002/iid3.70609",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059159/",
+      "abstract": "BACKGROUND: Diagnosed herpesvirus infections have been associated with several neurological and autoimmune diseases. We examined associations of recorded herpesvirus diagnoses, antiviral use, and HIV status with subsequent risk of multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS), and systemic lupus erythematosus (SLE).\n\nMETHODS: We conducted a nationwide Danish registry-based cohort study (1995-2018) including 48,897 individuals with a recorded HSV-1/2, Epstein-Barr virus (EBV), cytomegalovirus (CMV), or varicella-zoster virus (VZV) diagnosis and 546,890 matched comparators. In a separate analysis, 5737 individuals with HIV were compared with 58,160 matched comparators. Diagnoses of MS, ALS, or SLE ≥ 5 years after infection were primary outcomes. We estimated 20-year cumulative incidence and fitted absolute risk regression models in a competing-risk framework.\n\nRESULTS: The 20-year cumulative incidence of the composite outcome (MS, ALS, or SLE) was 0.66% among individuals with a recorded herpesvirus diagnosis and 0.38% among comparators (p < 0.001). Disease-specific cumulative incidence was higher for MS (0.50% vs. 0.24%, p < 0.001), similar for ALS (0.08% vs. 0.07%, p = 0.37), and slightly higher for SLE in the unadjusted analysis (0.097% vs. 0.07%, p = 0.04). After adjustment for antiviral-use category, the model estimate for MS was 1.35 (95% CI 1.03-1.78, p = 0.03), whereas estimates for ALS and SLE were not significant. Composite-outcome incidence was higher for recorded HSV-1/2 and EBV diagnoses, but not CMV. In the HIV analysis, the composite outcome occurred in 3/5737 individuals with HIV and 119/58,160 comparators (p = 0.01).\n\nCONCLUSION: This nationwide study supports an epidemiological association between a recorded diagnosis and later MS risk, whereas no adjusted association was observed for ALS or SLE.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Lupus Erythematosus, Systemic",
+        "Denmark",
+        "Male",
+        "Multiple Sclerosis",
+        "Middle Aged",
+        "Herpesviridae Infections",
+        "Adult",
+        "Antiviral Agents",
+        "Incidence",
+        "Amyotrophic Lateral Sclerosis",
+        "Cohort Studies",
+        "Registries",
+        "Aged"
+      ],
+      "keywords": [
+        "Danish registries",
+        "Epstein‐Barr virus",
+        "amyotrophic lateral sclerosis",
+        "antiviral use",
+        "herpesvirus",
+        "multiple sclerosis",
+        "systemic lupus erythematosus"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43039413",
@@ -6770,6 +7296,39 @@
       "last_seen_at": "2026-10-25T05:08:11Z"
     },
     {
+      "id": "43061646",
+      "event_key": "pubmed:43061646",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Bypassing the Blood-Brain Barrier: A Dual-Axis Framework for Parkinson's Disease Utilizing Glymphatic-Lymphatic Clearance and In Situ Chaperone Synthesis.",
+      "authors": [
+        "Huan-Wei Chen"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-10-20",
+      "pmid": "43061646",
+      "doi": "10.7759/cureus.118265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061646/",
+      "abstract": "Parkinson's disease (PD) is characterized neuropathologically by loss of dopaminergic neurons in the substantia nigra pars compacta and by aggregation of misfolded alpha-synuclein into Lewy bodies and Lewy neurites, which is proposed to propagate in a prion-like manner following a stereotyped, stage-dependent pattern described by Braak staging. Because any circulating agent intended to act within the central nervous system (CNS) must cross the blood-brain barrier, this review proposes active craniospinal tensioning (ACT), a mechanical, non-pharmacological route to disease modification acting on cerebrospinal fluid (CSF) and cerebral venous pressure dynamics. ACT combines two concurrent mechanisms converging on a single venous-side target within Monro-Kellie/Queckenstedt pressure continuity: suboccipital venous occlusion-rebound, proposed to raise and release craniospinal CSF pressure to accelerate venous-side glymphatic efflux, and dural pull-recoil, a reverse Queckenstedt effect in which spinal elongation is proposed to generate a CSF-side pressure gradient with a coupled venous component. The proposed disease-modifying route is clearance of transiting extracellular alpha-synuclein from the perivascular and interstitial space before it templates a neighboring cell. The claim is scoped to the CNS phase of PD, excluding peripheral vagal or olfactory transport, with its most direct anatomical rationale at the dorsal motor nucleus of the vagus (DMV), one of the two earliest CNS sites of Lewy pathology in Braak staging and adjacent to ACT's craniocervical site of action, where ACT is proposed to act on onward extracellular spread rather than on arrival. A secondary, hypothesis-generating axis, cerebral venous preconditioning (CVPC), proposes that the same cycle produces venule- and capillary-wall strain sufficient to activate heat shock factor 1 (HSF-1) within the neurovascular unit, beginning at the vessel wall, independent of oxygen tension, with a possible contribution from hypoxia-inducible factor 1-alpha (HIF-1α) left open; the mechanical route alone is proposed as sufficient. Validation is staged, with diffusion tensor image analysis along the perivascular space (DTI-ALPS) and neuromelanin-sensitive magnetic resonance imaging with quantitative susceptibility mapping (QSM) of the substantia nigra as dual falsification endpoints over at least two years, and any disease-modification claim deferred to a randomized, delayed-start trial. This framework is entirely theoretical, requires clinical validation, and extends a dual-axis template already applied to Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS).",
+      "mesh_terms": [],
+      "keywords": [
+        "active craniospinal tensioning (act)",
+        "alpha-synuclein",
+        "cerebral venous preconditioning (cvpc)",
+        "diffusion tensor image analysis along the perivascular space (dti-alps)",
+        "dural pull-recoil",
+        "glymphatic-lymphatic clearance",
+        "heat shock factor 1 (hsf-1)",
+        "parkinson's disease (pd)",
+        "quantitative susceptibility mapping (qsm)",
+        "suboccipital venous occlusion-rebound"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
       "id": "42995867",
       "event_key": "pubmed:42995867",
       "source_id": "pubmed",
@@ -7045,7 +7604,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43045712",
@@ -7087,7 +7646,7 @@
       "keywords": [],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "42974031",
@@ -20822,7 +21381,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "42796657",
@@ -21088,6 +21647,60 @@
       "collected_at": "2026-09-22T05:16:34Z",
       "first_seen_at": "2026-09-22T05:16:34Z",
       "last_seen_at": "2026-09-24T05:13:16Z"
+    },
+    {
+      "id": "43058834",
+      "event_key": "pubmed:43058834",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A conditional Vrk1 cholinergic knockout mouse recapitulates severe human motor neuron disease.",
+      "authors": [
+        "Shlomit Golan-Malul",
+        "Itai Greenbaum",
+        "Avital Schauder",
+        "Stephanie Oren",
+        "Ori Brenner",
+        "Yael Rosenberg",
+        "Rebecca Haffner-Krausz",
+        "Shifra Ben-Dor",
+        "Sigal Meilin",
+        "Ephrat Levy-Lahad",
+        "Paul Renbaum"
+      ],
+      "journal": "Acta neuropathologica communications",
+      "publication_date": "2026-08-19",
+      "pmid": "43058834",
+      "doi": "10.1186/s40478-026-02405-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058834/",
+      "abstract": "Mutations in the VRK1 (Vaccinia-related kinase 1) gene have been implicated in neurodegenerative disease, primarily affecting motor neurons (MNs) and brain development. However, VRK1's role in MN function and underlying disease mechanisms remain poorly understood. In this study, we investigated VRK1's role in motor neuron disease (MND) by generating a conditional knockout (cKO) mouse model lacking Vrk1 in cholinergic neurons. We created a Vrk1-targeted Cre-lox MND mouse model, in which Cre recombination resulted in a null mutation of Vrk1. Cre-recombinase was expressed in cholinergic neurons, including MNs, generating a cholinergic neuron-specific Vrk1 KO mouse (Vrk1 ChAT-cKO). The phenotype was analyzed by observation and motor testing; MN degeneration, neuromuscular junction (NMJ) denervation, and muscle atrophy were assessed using histological and immunostaining techniques. Vrk1 ChAT-cKO mice showed progressive motor degeneration, including weight loss, reduced grip strength, tail dragging, decreased mobility, tremors, kyphosis, and respiratory distress, leading to premature death by approximately 27 days. Histological analysis of spinal cord sections from postnatal day 24-27 cKO mice revealed significant MN degeneration, including vacuolation, chromatolysis, apoptosis and neuroinflammation, with a 40-50% loss of ChAT positive MNs. Remaining MNs exhibited a 36-44% reduction in mean soma size. NMJ analysis showed 60% denervation and abnormal postsynaptic AChR cluster maturation. Muscle histology revealed nearly 79% reduction in myofiber area. The Vrk1 ChAT-cKO mouse model recapitulates the severe MN phenotype observed in human VRK1-related neurodegeneration, underscoring VRK1's critical role in MN integrity. The progressive motor dysfunction, NMJ abnormalities and muscle atrophy, suggest that VRK1 is essential for MN survival and neuromuscular functions. This model offers a valuable tool for studying VRK1-associated MND and could contribute to the development and assessment of therapeutic strategies targeting VRK1 pathways. Additionally, it may provide insights into shared mechanisms between other MNDs, such as amyotrophic lateral sclerosis (ALS) and spinal muscular atrophy (SMA).",
+      "mesh_terms": [
+        "Animals",
+        "Mice, Knockout",
+        "Motor Neuron Disease",
+        "Disease Models, Animal",
+        "Neuromuscular Junction",
+        "Protein Serine-Threonine Kinases",
+        "Spinal Cord",
+        "Mice",
+        "Cholinergic Neurons",
+        "Humans",
+        "Motor Neurons",
+        "Choline O-Acetyltransferase",
+        "Intracellular Signaling Peptides and Proteins",
+        "Female",
+        "Hand Strength"
+      ],
+      "keywords": [
+        "Conditional knockout",
+        "Motor neuron disease",
+        "Muscle atrophy",
+        "Neurodegeneration",
+        "Neuromuscular junction"
+      ],
+      "collected_at": "2026-11-21T07:37:10Z",
+      "first_seen_at": "2026-11-21T07:37:10Z",
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43021253",
@@ -21952,7 +22565,7 @@
       ],
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
-      "last_seen_at": "2026-11-20T07:39:17Z"
+      "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
       "id": "43045285",
