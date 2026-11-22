@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-11-21T07:37:11Z",
+  "updated_at": "2026-11-22T07:18:25Z",
   "new_keys": [
-    "pubmed:43059034",
-    "pubmed:43064600",
-    "pubmed:43064242",
-    "pubmed:43064096",
-    "pubmed:43063507",
-    "pubmed:43062202",
-    "pubmed:43061696",
-    "pubmed:43059883",
-    "pubmed:43059861",
-    "pubmed:43060119",
-    "pubmed:43060627",
-    "pubmed:43060384",
-    "pubmed:43059159",
-    "pubmed:43061646",
-    "pubmed:43058834",
-    "pubmed:43061545"
+    "pubmed:43066866"
   ],
   "items": [
     {
@@ -55,7 +40,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43051186",
@@ -107,6 +92,47 @@
       "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
+      "id": "43066866",
+      "event_key": "pubmed:43066866",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "From Reactive Care to Prevention in Neurodegenerative Diseases: Biomarkers, Risk Prediction, and Early Intervention.",
+      "authors": [
+        "Giovanna Morello",
+        "Valentina La Cognata",
+        "Maria Guarnaccia",
+        "Giulia Gentile",
+        "Sebastiano Cavallaro"
+      ],
+      "journal": "Molecular neurobiology",
+      "publication_date": "2026-11-21",
+      "pmid": "43066866",
+      "doi": "10.1007/s12035-026-06317-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066866/",
+      "abstract": "Neurodegenerative diseases (NDs) are typically diagnosed only after substantial and irreversible neuronal damage has occurred, at a point when disease-modifying interventions are least likely to be effective. Increasing evidence indicates that the molecular and cellular processes driving neurodegeneration often begin years to decades before clinical onset. This preclinical phase offers an opportunity for early detection, although translating it into clinically effective prevention remains a major challenge. In this review, we examine advances in fluid-based, neuroimaging, genetic, and multi-omics biomarkers for Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, and other NDs. We propose a staged framework, from risk prediction to actionable intervention, to discuss how integrating these biomarkers may improve early diagnosis and risk assessment and guide interventions aimed at delaying or preventing disease onset. Finally, we discuss emerging prevention-oriented clinical trials, the potential and limitations of artificial intelligence-based prediction, and the ethical implications of moving neurological care from reactive management to predictive and preventive medicine.",
+      "mesh_terms": [
+        "Humans",
+        "Biomarkers",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Early Medical Intervention",
+        "Risk Factors",
+        "Early Diagnosis"
+      ],
+      "keywords": [
+        "Biomarkers",
+        "Neurodegenerative diseases",
+        "Precision medicine",
+        "Predictive neurology",
+        "Preventive medicine",
+        "Translational neuroscience"
+      ],
+      "collected_at": "2026-11-22T07:18:25Z",
+      "first_seen_at": "2026-11-22T07:18:25Z",
+      "last_seen_at": "2026-11-22T07:18:25Z"
+    },
+    {
       "id": "43064600",
       "event_key": "pubmed:43064600",
       "source_id": "pubmed",
@@ -147,7 +173,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43064242",
@@ -181,7 +207,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43064096",
@@ -209,7 +235,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43063507",
@@ -253,7 +279,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43062202",
@@ -284,7 +310,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43061696",
@@ -324,7 +350,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43057404",
@@ -358,7 +384,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43055898",
@@ -389,7 +415,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43051909",
@@ -1613,7 +1639,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43038719",
@@ -2099,7 +2125,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43059861",
@@ -2141,7 +2167,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43023511",
@@ -2410,7 +2436,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43051857",
@@ -2719,7 +2745,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43032804",
@@ -3361,7 +3387,7 @@
       "keywords": [],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43027360",
@@ -3984,7 +4010,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43039413",
@@ -7326,7 +7352,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "42995867",
@@ -7604,7 +7630,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43045712",
@@ -21381,7 +21407,7 @@
       ],
       "collected_at": "2026-11-20T07:39:17Z",
       "first_seen_at": "2026-11-20T07:39:17Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "42796657",
@@ -21700,7 +21726,7 @@
       ],
       "collected_at": "2026-11-21T07:37:10Z",
       "first_seen_at": "2026-11-21T07:37:10Z",
-      "last_seen_at": "2026-11-21T07:37:10Z"
+      "last_seen_at": "2026-11-22T07:18:25Z"
     },
     {
       "id": "43021253",
