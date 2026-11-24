@@ -1,7 +1,108 @@
 {
-  "updated_at": "2026-11-23T08:01:49Z",
-  "new_keys": [],
+  "updated_at": "2026-11-24T10:17:52Z",
+  "new_keys": [
+    "clinicaltrials:NCT05407324:2026-11-23",
+    "clinicaltrials:NCT01925196:2026-11-23",
+    "clinicaltrials:NCT07616050:2026-11-23",
+    "clinicaltrials:NCT07187388:2026-11-23"
+  ],
   "items": [
+    {
+      "id": "NCT07616050",
+      "event_key": "clinicaltrials:NCT07616050:2026-11-23",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07616050",
+      "title": "Evaluation of the Impact of Virtual Park on Training Motivation in Adult Patients",
+      "sponsor": "Marta Mondellini",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: Dual-task training with Virtual Reality",
+        "Device: Cycling training"
+      ],
+      "start_date": "2026-06-15",
+      "last_update_date": "2026-11-23",
+      "url": "https://clinicaltrials.gov/study/NCT07616050",
+      "collected_at": "2026-11-24T10:17:52Z",
+      "first_seen_at": "2026-11-24T10:17:52Z",
+      "last_seen_at": "2026-11-24T10:17:52Z"
+    },
+    {
+      "id": "NCT07187388",
+      "event_key": "clinicaltrials:NCT07187388:2026-11-23",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07187388",
+      "title": "Investigating the Impact of Electrical Stimulation on Facial Pain, Jaw Movement and Oral Health in People With Motor Neuron Disease.",
+      "sponsor": "Nova Southeastern University",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Transcutaneous Electrical Nerve Stimulation to reduce facial pain and improve jaw range of motion in ALS and PLS"
+      ],
+      "start_date": "2026-04-02",
+      "last_update_date": "2026-11-23",
+      "url": "https://clinicaltrials.gov/study/NCT07187388",
+      "collected_at": "2026-11-24T10:17:52Z",
+      "first_seen_at": "2026-11-24T10:17:52Z",
+      "last_seen_at": "2026-11-24T10:17:52Z"
+    },
+    {
+      "id": "NCT05407324",
+      "event_key": "clinicaltrials:NCT05407324:2026-11-23",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05407324",
+      "title": "Dazucorilant in Patients With Amyotrophic Lateral Sclerosis",
+      "sponsor": "Corcept Therapeutics",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: Dazucorilant 300 mg",
+        "Drug: Dazucorilant 150 mg",
+        "Other: Placebo",
+        "Drug: Dazucorilant"
+      ],
+      "start_date": "2022-11-15",
+      "last_update_date": "2026-11-23",
+      "url": "https://clinicaltrials.gov/study/NCT05407324",
+      "collected_at": "2026-11-24T10:17:52Z",
+      "first_seen_at": "2026-09-25T05:14:48Z",
+      "last_seen_at": "2026-11-24T10:17:52Z"
+    },
+    {
+      "id": "NCT01925196",
+      "event_key": "clinicaltrials:NCT01925196:2026-11-23",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT01925196",
+      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2013-09-30",
+      "last_update_date": "2026-11-23",
+      "url": "https://clinicaltrials.gov/study/NCT01925196",
+      "collected_at": "2026-11-24T10:17:52Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-11-24T10:17:52Z"
+    },
     {
       "id": "NCT04394871",
       "event_key": "clinicaltrials:NCT04394871:2026-11-20",
@@ -641,29 +742,6 @@
       "url": "https://clinicaltrials.gov/study/NCT05725759",
       "collected_at": "2026-11-10T07:38:54Z",
       "first_seen_at": "2026-11-10T07:38:54Z",
-      "last_seen_at": "2026-11-12T07:34:46Z"
-    },
-    {
-      "id": "NCT01925196",
-      "event_key": "clinicaltrials:NCT01925196:2026-11-09",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT01925196",
-      "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "COMPLETED",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2013-09-30",
-      "last_update_date": "2026-11-09",
-      "url": "https://clinicaltrials.gov/study/NCT01925196",
-      "collected_at": "2026-11-10T07:38:54Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
       "last_seen_at": "2026-11-12T07:34:46Z"
     },
     {
@@ -1948,32 +2026,6 @@
       "start_date": "2027-09",
       "last_update_date": "2026-09-24",
       "url": "https://clinicaltrials.gov/study/NCT07838389",
-      "collected_at": "2026-09-25T05:14:48Z",
-      "first_seen_at": "2026-09-25T05:14:48Z",
-      "last_seen_at": "2026-09-27T05:36:32Z"
-    },
-    {
-      "id": "NCT05407324",
-      "event_key": "clinicaltrials:NCT05407324:2026-09-24",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT05407324",
-      "title": "Dazucorilant in Patients With Amyotrophic Lateral Sclerosis",
-      "sponsor": "Corcept Therapeutics",
-      "phase": [
-        "PHASE2"
-      ],
-      "recruitment_status": "ACTIVE_NOT_RECRUITING",
-      "intervention": [
-        "Drug: Dazucorilant 300 mg",
-        "Drug: Dazucorilant 150 mg",
-        "Other: Placebo",
-        "Drug: Dazucorilant"
-      ],
-      "start_date": "2022-11-15",
-      "last_update_date": "2026-09-24",
-      "url": "https://clinicaltrials.gov/study/NCT05407324",
       "collected_at": "2026-09-25T05:14:48Z",
       "first_seen_at": "2026-09-25T05:14:48Z",
       "last_seen_at": "2026-09-27T05:36:32Z"
