@@ -1,12 +1,181 @@
 {
-  "updated_at": "2026-11-24T10:17:52Z",
+  "updated_at": "2026-11-25T08:59:44Z",
   "new_keys": [
-    "clinicaltrials:NCT05407324:2026-11-23",
-    "clinicaltrials:NCT01925196:2026-11-23",
-    "clinicaltrials:NCT07616050:2026-11-23",
-    "clinicaltrials:NCT07187388:2026-11-23"
+    "clinicaltrials:NCT06968468:2026-11-24",
+    "clinicaltrials:NCT07006571:2026-11-24",
+    "clinicaltrials:NCT07833618:2026-11-24",
+    "clinicaltrials:NCT05328492:2026-11-24",
+    "clinicaltrials:NCT07823101:2026-11-24",
+    "clinicaltrials:NCT07204977:2026-11-24",
+    "clinicaltrials:NCT06429735:2026-11-24"
   ],
   "items": [
+    {
+      "id": "NCT07833618",
+      "event_key": "clinicaltrials:NCT07833618:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07833618",
+      "title": "A Phase II Study of ALT001 in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Darwin Origin (Hubei) Biopharmaceutical Co., Ltd.",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: ALT001 1.0 μg/kg",
+        "Drug: ALT001 2.0 μg/kg",
+        "Drug: Placebo"
+      ],
+      "start_date": "2026-09-15",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07833618",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT07823101",
+      "event_key": "clinicaltrials:NCT07823101:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07823101",
+      "title": "Imaging Assessment of Swallowing and Speech Muscles in Inclusion Body Myositis",
+      "sponsor": "Johns Hopkins University",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-11-13",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07823101",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-09-17T05:09:43Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT07204977",
+      "event_key": "clinicaltrials:NCT07204977:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07204977",
+      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Acamprosate calcium"
+      ],
+      "start_date": "2026-02-02",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07204977",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT07006571",
+      "event_key": "clinicaltrials:NCT07006571:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07006571",
+      "title": "At-home Treatment With Cortico-spinal tDCS for Amyotrophic Lateral Sclerosis",
+      "sponsor": "University of Trieste",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Device: Real tDCS",
+        "Device: Sham tDCS"
+      ],
+      "start_date": "2025-05-19",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07006571",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-11-25T08:59:44Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT06968468",
+      "event_key": "clinicaltrials:NCT06968468:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06968468",
+      "title": "Resiliency Intervention for Patients With ALS and Their Care-Partners",
+      "sponsor": "Massachusetts General Hospital",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Behavioral: Resilient Together ALS"
+      ],
+      "start_date": "2026-09-01",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT06968468",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-11-25T08:59:44Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT06429735",
+      "event_key": "clinicaltrials:NCT06429735:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06429735",
+      "title": "Precise Robotically IMplanted Brain-Computer InterfacE",
+      "sponsor": "Neuralink Corp",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Device: N1 Implant",
+        "Device: R1 Robot"
+      ],
+      "start_date": "2024-01-09",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT06429735",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-11-25T08:59:44Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
+    {
+      "id": "NCT05328492",
+      "event_key": "clinicaltrials:NCT05328492:2026-11-24",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT05328492",
+      "title": "Volume Mode Non-invasive Ventilation in Amyotrophic Lateral Sclerosis",
+      "sponsor": "University Hospitals Coventry and Warwickshire NHS Trust",
+      "phase": [
+        "NA"
+      ],
+      "recruitment_status": "COMPLETED",
+      "intervention": [
+        "Device: iVAPS-AE",
+        "Device: ST-mode"
+      ],
+      "start_date": "2022-03-15",
+      "last_update_date": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT05328492",
+      "collected_at": "2026-11-25T08:59:44Z",
+      "first_seen_at": "2026-11-25T08:59:44Z",
+      "last_seen_at": "2026-11-25T08:59:44Z"
+    },
     {
       "id": "NCT07616050",
       "event_key": "clinicaltrials:NCT07616050:2026-11-23",
@@ -29,7 +198,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07616050",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-11-24T10:17:52Z",
-      "last_seen_at": "2026-11-24T10:17:52Z"
+      "last_seen_at": "2026-11-25T08:59:44Z"
     },
     {
       "id": "NCT07187388",
@@ -52,7 +221,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07187388",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-11-24T10:17:52Z",
-      "last_seen_at": "2026-11-24T10:17:52Z"
+      "last_seen_at": "2026-11-25T08:59:44Z"
     },
     {
       "id": "NCT05407324",
@@ -78,7 +247,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05407324",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-09-25T05:14:48Z",
-      "last_seen_at": "2026-11-24T10:17:52Z"
+      "last_seen_at": "2026-11-25T08:59:44Z"
     },
     {
       "id": "NCT01925196",
@@ -101,7 +270,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-11-24T10:17:52Z"
+      "last_seen_at": "2026-11-25T08:59:44Z"
     },
     {
       "id": "NCT04394871",
@@ -1195,29 +1364,6 @@
       "last_seen_at": "2026-10-31T06:09:13Z"
     },
     {
-      "id": "NCT07823101",
-      "event_key": "clinicaltrials:NCT07823101:2026-10-28",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07823101",
-      "title": "Imaging Assessment of Swallowing and Speech Muscles in Inclusion Body Myositis",
-      "sponsor": "Johns Hopkins University",
-      "phase": [
-        "NOT_APPLICABLE"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Not provided"
-      ],
-      "start_date": "2026-11",
-      "last_update_date": "2026-10-28",
-      "url": "https://clinicaltrials.gov/study/NCT07823101",
-      "collected_at": "2026-10-29T06:17:28Z",
-      "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-10-31T06:09:13Z"
-    },
-    {
       "id": "NCT07688239",
       "event_key": "clinicaltrials:NCT07688239:2026-10-28",
       "source_id": "clinicaltrials_gov",
@@ -1844,29 +1990,6 @@
       "last_seen_at": "2026-10-04T06:12:30Z"
     },
     {
-      "id": "NCT07204977",
-      "event_key": "clinicaltrials:NCT07204977:2026-10-01",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07204977",
-      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: Acamprosate calcium"
-      ],
-      "start_date": "2026-02-02",
-      "last_update_date": "2026-10-01",
-      "url": "https://clinicaltrials.gov/study/NCT07204977",
-      "collected_at": "2026-10-02T06:02:01Z",
-      "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-10-04T06:12:30Z"
-    },
-    {
       "id": "NCT05039099",
       "event_key": "clinicaltrials:NCT05039099:2026-09-30",
       "source_id": "clinicaltrials_gov",
@@ -2073,31 +2196,6 @@
       "start_date": "2026-10-01",
       "last_update_date": "2026-09-22",
       "url": "https://clinicaltrials.gov/study/NCT07834450",
-      "collected_at": "2026-09-23T05:02:12Z",
-      "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT07833618",
-      "event_key": "clinicaltrials:NCT07833618:2026-09-22",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07833618",
-      "title": "A Phase II Study of ALT001 in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "sponsor": "Darwin Origin (Hubei) Biopharmaceutical Co., Ltd.",
-      "phase": [
-        "PHASE2"
-      ],
-      "recruitment_status": "NOT_YET_RECRUITING",
-      "intervention": [
-        "Drug: ALT001 1.0 μg/kg",
-        "Drug: ALT001 2.0 μg/kg",
-        "Drug: Placebo"
-      ],
-      "start_date": "2026-09-01",
-      "last_update_date": "2026-09-22",
-      "url": "https://clinicaltrials.gov/study/NCT07833618",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
       "last_seen_at": "2026-09-25T05:14:48Z"
