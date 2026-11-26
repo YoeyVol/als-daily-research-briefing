@@ -1,15 +1,104 @@
 {
-  "updated_at": "2026-11-25T08:59:44Z",
+  "updated_at": "2026-11-26T08:46:43Z",
   "new_keys": [
-    "clinicaltrials:NCT06968468:2026-11-24",
-    "clinicaltrials:NCT07006571:2026-11-24",
-    "clinicaltrials:NCT07833618:2026-11-24",
-    "clinicaltrials:NCT05328492:2026-11-24",
-    "clinicaltrials:NCT07823101:2026-11-24",
-    "clinicaltrials:NCT07204977:2026-11-24",
-    "clinicaltrials:NCT06429735:2026-11-24"
+    "clinicaltrials:NCT07959003:2026-11-25",
+    "clinicaltrials:NCT07571174:2026-11-25",
+    "clinicaltrials:NCT07571200:2026-11-25",
+    "clinicaltrials:NCT06903286:2026-11-25"
   ],
   "items": [
+    {
+      "id": "NCT07959003",
+      "event_key": "clinicaltrials:NCT07959003:2026-11-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07959003",
+      "title": "Amyotrophic Lateral Sclerosis (ALS), a Complex Interaction of Genes, Metabolism, and Environment: Precision Medicine Applied to ALS",
+      "sponsor": "Juan Francisco Vázquez Costa",
+      "phase": [
+        "NOT_APPLICABLE"
+      ],
+      "recruitment_status": "NOT_YET_RECRUITING",
+      "intervention": [
+        "Not provided"
+      ],
+      "start_date": "2026-12",
+      "last_update_date": "2026-11-25",
+      "url": "https://clinicaltrials.gov/study/NCT07959003",
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "NCT07571200",
+      "event_key": "clinicaltrials:NCT07571200:2026-11-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07571200",
+      "title": "A Master Protocol (OLMP): A Study of LY4256984 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: LY4256984"
+      ],
+      "start_date": "2026-05-14",
+      "last_update_date": "2026-11-25",
+      "url": "https://clinicaltrials.gov/study/NCT07571200",
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "NCT07571174",
+      "event_key": "clinicaltrials:NCT07571174:2026-11-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07571174",
+      "title": "A Substudy of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
+      "sponsor": "Eli Lilly and Company",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: LY4256984"
+      ],
+      "start_date": "2026-05-14",
+      "last_update_date": "2026-11-25",
+      "url": "https://clinicaltrials.gov/study/NCT07571174",
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-09-23T05:02:12Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "NCT06903286",
+      "event_key": "clinicaltrials:NCT06903286:2026-11-25",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT06903286",
+      "title": "Extension Study of Participants From SPG302-ALS-001",
+      "sponsor": "Spinogenix",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "WITHDRAWN",
+      "intervention": [
+        "Drug: SPG302"
+      ],
+      "start_date": "2025-05-29",
+      "last_update_date": "2026-11-25",
+      "url": "https://clinicaltrials.gov/study/NCT06903286",
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
     {
       "id": "NCT07833618",
       "event_key": "clinicaltrials:NCT07833618:2026-11-24",
@@ -33,7 +122,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07833618",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT07823101",
@@ -56,7 +145,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT07204977",
@@ -79,7 +168,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07204977",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-10-02T06:02:01Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT07006571",
@@ -103,7 +192,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07006571",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-11-25T08:59:44Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT06968468",
@@ -126,7 +215,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06968468",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-11-25T08:59:44Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT06429735",
@@ -150,7 +239,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06429735",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-11-25T08:59:44Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT05328492",
@@ -174,7 +263,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05328492",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-11-25T08:59:44Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT07616050",
@@ -198,7 +287,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07616050",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-11-24T10:17:52Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT07187388",
@@ -221,7 +310,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07187388",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-11-24T10:17:52Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT05407324",
@@ -247,7 +336,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05407324",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-09-25T05:14:48Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT01925196",
@@ -270,7 +359,7 @@
       "url": "https://clinicaltrials.gov/study/NCT01925196",
       "collected_at": "2026-11-24T10:17:52Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-11-25T08:59:44Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "NCT04394871",
@@ -2196,52 +2285,6 @@
       "start_date": "2026-10-01",
       "last_update_date": "2026-09-22",
       "url": "https://clinicaltrials.gov/study/NCT07834450",
-      "collected_at": "2026-09-23T05:02:12Z",
-      "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT07571200",
-      "event_key": "clinicaltrials:NCT07571200:2026-09-22",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07571200",
-      "title": "A Master Protocol (OLMP): A Study of LY4256984 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
-      "sponsor": "Eli Lilly and Company",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: LY4256984"
-      ],
-      "start_date": "2026-05-14",
-      "last_update_date": "2026-09-22",
-      "url": "https://clinicaltrials.gov/study/NCT07571200",
-      "collected_at": "2026-09-23T05:02:12Z",
-      "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-09-25T05:14:48Z"
-    },
-    {
-      "id": "NCT07571174",
-      "event_key": "clinicaltrials:NCT07571174:2026-09-22",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07571174",
-      "title": "A Substudy of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
-      "sponsor": "Eli Lilly and Company",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: LY4256984"
-      ],
-      "start_date": "2026-05-14",
-      "last_update_date": "2026-09-22",
-      "url": "https://clinicaltrials.gov/study/NCT07571174",
       "collected_at": "2026-09-23T05:02:12Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
       "last_seen_at": "2026-09-25T05:14:48Z"

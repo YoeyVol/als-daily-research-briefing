@@ -1,13 +1,66 @@
 {
-  "updated_at": "2026-11-25T08:59:44Z",
+  "updated_at": "2026-11-26T08:46:43Z",
   "new_keys": [
-    "pubmed:43078335",
-    "pubmed:43076871",
-    "pubmed:43074978",
-    "pubmed:43073920",
-    "pubmed:43073715"
+    "pubmed:43078795",
+    "pubmed:43085940",
+    "pubmed:43085525",
+    "pubmed:43081733",
+    "pubmed:43081698",
+    "pubmed:43080154",
+    "pubmed:43080407",
+    "pubmed:43082591",
+    "pubmed:43085363",
+    "pubmed:43081288",
+    "pubmed:43085805",
+    "pubmed:43078834"
   ],
   "items": [
+    {
+      "id": "43078795",
+      "event_key": "pubmed:43078795",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Whole-Brain Cell-Cell Interaction Axes Explaining Tissue Vulnerability Across the Neurodegenerative Spectrum.",
+      "authors": [
+        "Veronika Pak",
+        "Joon Hwan Hong",
+        "Tobias Robert Baumeister",
+        "Gleb Bezgin",
+        "Corina Nagy",
+        "Simon Ducharme",
+        "Mahsa Dadar",
+        "Yashar Zeighami",
+        "Yasser Iturria-Medina"
+      ],
+      "journal": "Human brain mapping",
+      "publication_date": "2026-12-01",
+      "pmid": "43078795",
+      "doi": "10.1002/hbm.70648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078795/",
+      "abstract": "Disrupted cell-cell communication represents a fundamental mechanism underlying neurodegeneration, yet how specific signaling patterns relate to regional brain vulnerability remains poorly understood. Here, we map whole-brain molecular interaction networks and their spatial correspondence with tissue damage across 13 neurodegenerative conditions, including early- and late-onset Alzheimer's disease, presenilin-1 mutations, clinical and pathological subtypes of frontotemporal lobar degeneration, Parkinson's disease, dementia with Lewy bodies, and amyotrophic lateral sclerosis. By integrating multiregional single-nucleus and bulk RNA-seq data with curated ligand-receptor interaction databases and structural MRI, we reconstruct over 1000 whole-brain maps of ligand-receptor interactions and quantify their associations with regional atrophy patterns. Multivariate analysis identifies three dominant axes of intercellular communication that explain spatial vulnerability to neurodegeneration. Notably, the first axis involves neuron-astrocyte and astrocyte-astrocyte interactions, explaining atrophy patterns shared by frontotemporal lobar degeneration and Alzheimer's disease subtypes. Two complementary axes explain patterns specific to mutations in PS1 and Parkinson's disease. Importantly, validation in an independent post-mortem cohort (N = 375) confirms that late-onset Alzheimer's disease-associated cell-cell interactions predict observed frontal cortex atrophy. These results establish a systematic framework linking local cellular communication networks to spatial patterns of neurodegeneration, revealing both shared and disease-specific molecular pathways associated with regional brain vulnerability and nominating candidate cell-cell interactions for future mechanistic and therapeutic investigation.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Cell Communication",
+        "Brain",
+        "Astrocytes",
+        "Male",
+        "Neurons",
+        "Female",
+        "Alzheimer Disease",
+        "Magnetic Resonance Imaging"
+      ],
+      "keywords": [
+        "cell–cell communication",
+        "dementia",
+        "imaging transcriptomics",
+        "neurodegenerative diseases"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
     {
       "id": "43059034",
       "event_key": "pubmed:43059034",
@@ -96,6 +149,191 @@
       "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
+      "id": "43085940",
+      "event_key": "pubmed:43085940",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Machado-Joseph Disease with Bilateral Upper Limb Muscle Atrophy and Widespread Fasciculations: A Case Report.",
+      "authors": [
+        "Ayaka Seki",
+        "Yasufumi Hayashi",
+        "Go Fujino",
+        "Tomohiko Kimura",
+        "Mitsuhiro Kainaga",
+        "Takashi Matsukawa",
+        "Hiroya Naruse",
+        "Jun Mitsui",
+        "Yuichiro Shirota",
+        "Akatsuki Kubota",
+        "Masashi Hamada",
+        "Wataru Satake"
+      ],
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "publication_date": "2026-11-26",
+      "pmid": "43085940",
+      "doi": "10.2169/internalmedicine.7912-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085940/",
+      "abstract": "Machado-Joseph disease (MJD) is an autosomal dominant spinocerebellar ataxia that presents with various neurological manifestations. We herein report a case of a 63-year-old woman who had previously been suspected of having amyotrophic lateral sclerosis but was subsequently confirmed to have MJD through genetic testing. She exhibited prominent bilateral upper limb muscle atrophy and weakness, thus raising suspicion of flail arm syndrome. In addition, needle electromyography revealed widespread fasciculations. Nerve conduction studies revealed sensorimotor neuropathy, and magnetic resonance imaging showed cerebellar atrophy. This report highlights the significance of recognizing atypical clinical manifestations of MJD for appropriate diagnosis and management.",
+      "mesh_terms": [],
+      "keywords": [
+        "Machado-Joseph disease",
+        "amyotrophic lateral sclerosis",
+        "fasciculations",
+        "flail arm syndrome",
+        "muscle atrophy",
+        "spinocerebellar ataxia type 3"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "43085525",
+      "event_key": "pubmed:43085525",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Blood transcriptome analysis nominated altered gene expression in spliceosome machinery and innate immunity in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Helei Lei",
+        "Yifan Shen",
+        "Zhuwei Li",
+        "Hong Yang",
+        "Yi Dong",
+        "Yan Chen",
+        "Ming Zhang"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2026-11-25",
+      "pmid": "43085525",
+      "doi": "10.1016/j.brainres.2026.150669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085525/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease characterized pathologically by nuclear depletion and cytoplasmic mislocalization of TAR DNA-binding protein 43 (TDP-43), which are associated with RNA mis-splicing events in neuronal genes. Transcriptomic studies have identified ALS-related molecular signatures in both peripheral blood and central nervous system tissues. However, transcriptomic alterations in Chinese ALS cohorts remain incompletely characterized, and the contribution of small nuclear RNAs (snRNAs), essential components of the spliceosome, remains largely unexplored. Here, we profiled the expression of protein-coding genes and snRNAs in peripheral blood mononuclear cells from 159 Chinese patients with ALS and 30 controls. We identified 207 upregulated and 980 downregulated genes in ALS, with the enrichment of multiple biological pathways. Notably, ALS-associated differentially expressed genes showed the activation of innate immunity and dysregulation of spliceosome machinery, including reduced expression of several U1 snRNA family members, such as RNU1-4, RNVU1-28, RNVU1-2A, RNVU1-31, RNU1-1, RNVU1-18, RNVU1-15 and RNVU1-7, accompanied by altered 5' splice-site recognition. Increased expression of candidate immune genes, including RNASE4, PGLYRP1, MMP9, FCGR3B and OLR1 were validated in an external ALS blood transcriptomic dataset. Together, these findings provide further evidence that innate immune-related transcriptional changes may represent a recurrent feature of ALS across populations, and may implicate snRNA dysregulation as a potential contributor to RNA-processing abnormalities in ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "Innate immunity",
+        "RNA processing",
+        "Spliceosome",
+        "Transcriptome"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "43081733",
+      "event_key": "pubmed:43081733",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Current rehabilitation approaches in ALS/MND and use of digital health technology; an international survey of occupational therapists and physiotherapists.",
+      "authors": [
+        "Avril Mc Tague",
+        "Lesley Doyle",
+        "Megan Walls",
+        "Deirdre Murray",
+        "Miriam Galvin",
+        "Orla Hardiman",
+        "Dara Meldrum"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-25",
+      "pmid": "43081733",
+      "doi": "10.1080/21678421.2026.2752343",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081733/",
+      "abstract": "OBJECTIVE: Occupational Therapists (OTs) and Physiotherapists (PTs) provide rehabilitation at all stages of amyotrophic lateral sclerosis (ALS)/motor neurone disease (MND), but research is limited on current rehabilitation practice. In particular, little is known about digital health technology use, which is increasingly available in healthcare. This international online survey investigated current rehabilitation practices and digital health technology use among OTs and PTs.\n\nMETHODS: A 46-question survey consisting of open- and closed-ended questions targeted OTs and PTs through professional bodies, special interest groups, and social media. Questions explored symptom management, treatment strategies, and digital health technology use in ALS/MND. Quantitative data were analyzed primarily using descriptive statistics, while open-ended questions were qualitatively analyzed using thematic analysis.\n\nRESULTS: There were 240 responses from 16 countries (OTs = 85; PTs = 155). Respondents worked in ALS/MND for a median of 8 years (IQR 11). Fatigue (61.3%) and spasticity (45%) were the top symptoms often/always managed by respondents. OTs more frequently managed cognition, with PTs more frequently managing cough and secretions, pain, and prescribed exercise (stretches, strengthening, and aerobic). The majority (89%, n = 213) screened for falls. Only a minority (27%, n = 65) used digital health technology in ALS/MND.\n\nCONCLUSION: This survey investigated the current rehabilitation approaches and digital health technology use among OTs and PTs in ALS/MND. The survey confirmed the diverse and varied roles of OTs and PTs, with overlap in fatigue and spasticity management. Digital health technology use was low among OTs and PTs. These findings can inform future research into rehabilitation practices among OTs and PTs and digital health technologies development in ALS/MND.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "digital technology",
+        "motor neurone disease",
+        "occupational therapy",
+        "physiotherapy"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "43081698",
+      "event_key": "pubmed:43081698",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Prevalence of C9orf72 hexanucleotide repeat expansions in a Mexican cohort of sporadic and familial amyotrophic lateral sclerosis.",
+      "authors": [
+        "Manuel Villalobos-Loredo",
+        "Guillermo K Pons-Monnier",
+        "Nerea Martin Del Campo",
+        "Gricelda Mendiola-Garza",
+        "Evelyn A Zarza-Gonzalez",
+        "Cecilia Sanchez-Varela",
+        "Estefania Frey-Leon",
+        "Patrick Alonso Del Real Villa",
+        "Rocio Ortiz-Lopez",
+        "Augusto Rojas-Martinez",
+        "Manuel Martinez-Vazquez",
+        "Juan F Moreno-Hoyos",
+        "Hector R Martinez",
+        "Raquel Cuevas-Diaz Duran"
+      ],
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "publication_date": "2026-11-25",
+      "pmid": "43081698",
+      "doi": "10.1080/21678421.2026.2758563",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081698/",
+      "abstract": "Objective: Pathological hexanucleotide repeat expansions (HRE) in the C9orf72 gene (≥30 repeats) are one of the most common genetic causes of amyotrophic lateral sclerosis (ALS) in European and North American populations. However, there is limited data on the size and distribution of C9orf72 HRE in admixed populations such as those found in Latin America. In this study, we sought to characterize the role of C9orf72 HRE in a Mexican cohort with ALS. Methods: Peripheral blood samples were obtained from participants of Mexican ancestry attending a multidisciplinary ALS clinic in Northern Mexico (n = 102) and healthy neurological controls (n = 75). We performed high-resolution repeat-primed PCR to determine the size and distribution of HRE per allele across both groups. In addition, we used two-sample Kolmogorov-Smirnov tests to compare allele-level HRE repeat size distributions between ALS cases, healthy controls and a comparative external dataset. Results: We identified three patients (2.9%) carrying pathological C9orf72 repeat expansions, of which two had a family history of ALS and asymptomatic family members with pathological C9orf72 expansions. Notably, all three patients originated from the same region in Northern Mexico. Kolmogorov-Smirnov testing did not identify statistically significant differences between ALS cases, healthy controls, and a comparative dataset. Conclusions: Our findings suggest that pathological C9orf72 expansions may not be a common genetic variant in this population. Additional studies are needed to confirm this observation, as well as determine whether regional genetic variation may play an important role in genetic risk stratification, particularly in admixed ALS populations.",
+      "mesh_terms": [],
+      "keywords": [
+        "Mexico",
+        "Motor neuron disease",
+        "epidemiology",
+        "genetics",
+        "repeat expansion disorders"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
+      "id": "43080154",
+      "event_key": "pubmed:43080154",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TIP60-mediated acetylation remodels pathological FUS condensates and promotes lysosome-dependent clearance.",
+      "authors": [
+        "Pengcheng Wei",
+        "Meng Liu",
+        "Zehua Shang",
+        "Chunzhuang Zhou",
+        "Qilin Wang",
+        "Shenghui Niu",
+        "Ying Zheng",
+        "Da Jia",
+        "Lin Zhao"
+      ],
+      "journal": "Journal of cell science",
+      "publication_date": "2026-11-25",
+      "pmid": "43080154",
+      "doi": "10.1242/jcs.265127",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080154/",
+      "abstract": "Phase separation and pathological cytoplasmic accumulation of FUS mutants are central features of FUS-associated amyotrophic lateral sclerosis (ALS); yet, the mechanisms that regulate FUS mutant condensate dynamics and efficient clearance remain largely unclear. Here, we identify the lysine acetyltransferase TIP60 as a selective modifier of FUS mutant condensates. TIP60 preferentially associated with FUS R495X mutant condensates and reduced the condensate formation, while having minimal effects on wild-type FUS. TIP60 activation promoted FUS R495X degradation predominantly through the lysosome-dependent pathway. Acetylation proteomics identified FUS K312 as the major site acetylated by TIP60. Acetylation mimicry at K312 suppressed aberrant FUS R495X phase separation, accelerated lysosome-dependent clearance of aggregated FUS R495X, and attenuated FUS R495X-induced cytotoxicity. These findings suggest that TIP60 activation as a potential therapeutic strategy for FUS-associated ALS.",
+      "mesh_terms": [],
+      "keywords": [
+        "FUS-associated ALS",
+        "Lysine acetylation",
+        "Lysosomal clearance",
+        "Phase separation",
+        "TIP60"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
       "id": "43078335",
       "event_key": "pubmed:43078335",
       "source_id": "pubmed",
@@ -124,7 +362,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43076871",
@@ -171,7 +409,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43071990",
@@ -207,7 +445,7 @@
       ],
       "collected_at": "2026-11-24T10:17:51Z",
       "first_seen_at": "2026-11-24T10:17:51Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43071439",
@@ -244,7 +482,7 @@
       ],
       "collected_at": "2026-11-24T10:17:51Z",
       "first_seen_at": "2026-11-24T10:17:51Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43066866",
@@ -2250,6 +2488,40 @@
       "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
+      "id": "43080407",
+      "event_key": "pubmed:43080407",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Electronic health records reveal specific longitudinal blood trajectories in amyotrophic lateral sclerosis from pre-diagnosis to death.",
+      "authors": [
+        "Sara Cruces-Salguero",
+        "Igor Larrañaga",
+        "Patricia Garay-Albizuri",
+        "Adolfo Lopez de Munain",
+        "Javier Mar",
+        "Sonia Alonso-Martin",
+        "Ander Matheu"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2026-11-10",
+      "pmid": "43080407",
+      "doi": "10.3389/fnagi.2026.1960009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080407/",
+      "abstract": "BACKGROUND: Amyotrophic lateral sclerosis (ALS) is highly heterogeneous in terms of age at onset and disease progression, and to date, no effective biomarker exists. We aim to characterize the trajectories of blood markers (biochemical and cellular) using electronic health records (EHRs).\n\nMETHODS: EHRs were leveraged to retrospectively compare the incidence and progression of ALS (n = 183) with matched controls in the Basque Country (province of Gipuzkoa), Spain, by analyzing all available recorded data over their lifetime. Trajectories in both groups were explored and compared using linear mixed models (LMMs). Survival analysis was performed using the Kaplan-Meier estimator, and the association between post-diagnosis trajectories and survival was evaluated using a joint model. Least absolute shrinkage and selection operator (LASSO) regression analysis was used to further explore associations between pre-diagnosis trajectories and ALS progression groups.\n\nRESULTS: The ALS patient group displayed a mean lifespan of 73 years, while the mean age at diagnosis was 71 years. Compared with controls, ALS patients had significantly decreasing creatinine trajectories and increasing cholesterol and hemoglobin trajectories. Increasing trajectories of creatinine and potassium from ALS diagnosis onward were associated with extended survival. Creatinine, cholesterol, and hemoglobin trajectories significantly differed between ALS progression groups.\n\nCONCLUSION: Taking advantage of electronic health records, we identified alterations and distinct trajectories of blood biomarkers associated with ALS onset and progression.",
+      "mesh_terms": [],
+      "keywords": [
+        "ALS",
+        "biomarkers",
+        "electronic health records",
+        "epidemiology",
+        "trajectories"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
       "id": "43059883",
       "event_key": "pubmed:43059883",
       "source_id": "pubmed",
@@ -2567,6 +2839,39 @@
       "last_seen_at": "2026-11-13T07:05:23Z"
     },
     {
+      "id": "43082591",
+      "event_key": "pubmed:43082591",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Argonaute 2 in the Nervous System: Where Causality Is Established in Neurodevelopment and Only Inferred in Neurodegeneration.",
+      "authors": [
+        "Christian Barbato",
+        "Dario Benelli",
+        "Carlo Cogoni"
+      ],
+      "journal": "Diseases (Basel, Switzerland)",
+      "publication_date": "2026-11-09",
+      "pmid": "43082591",
+      "doi": "10.3390/diseases14110410",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082591/",
+      "abstract": "The RNA-induced silencing complex (RISC), built around the Argonaute proteins, executes microRNA-mediated gene silencing. AGO2, the only catalytically active human paralogue, stabilises mature microRNAs in neurons and controls local translation in dendrites and axons. AGO2 is now invoked across the whole span of neurological disease, from monogenic neurodevelopmental syndromes to Alzheimer's and Parkinson's disease, on evidence of very unequal strength. We therefore ask of each body of work two questions: what was experimentally manipulated, and what was then measured. De novo variants in AGO1 and AGO2 cause the Argonaute syndromes, where the mechanism has been traced from the kinetics of the mutant protein to knock-in mouse phenotypes and indicates delayed strand release rather than loss of function; conditional Ago2 deletion in mice is comparably direct for neurovascular development and adult neurogenesis. In neurodegenerative disease, the position differs. The DISE mechanism shows that AGO2 activity sets the threshold for amyloid-beta toxicity in cultured neurons, and one study identifies AGO2 as an endogenous brake on alpha-synuclein synthesis, but no experiment has yet tested whether altering AGO2 in vivo changes neurodegeneration, even though deleting the upstream enzyme Dicer kills dopaminergic neurons. Benchmarked against TDP-43-dependent mis-splicing, where causality in amyotrophic lateral sclerosis is established, AGO2 remains a convergence point for several pathological processes rather than a demonstrated driver of any of them. The available evidence neither establishes nor excludes a causal role, and we set out the experiments that would decide.",
+      "mesh_terms": [],
+      "keywords": [
+        "Alzheimer’s disease",
+        "Argonaute 2",
+        "Argonaute syndrome",
+        "Parkinson’s disease",
+        "RNA-induced silencing complex",
+        "causal inference",
+        "microRNA",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
       "id": "43074978",
       "event_key": "pubmed:43074978",
       "source_id": "pubmed",
@@ -2600,7 +2905,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43060119",
@@ -2933,7 +3238,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43060627",
@@ -4143,7 +4448,7 @@
       "keywords": [],
       "collected_at": "2026-11-24T10:17:51Z",
       "first_seen_at": "2026-11-24T10:17:51Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43041981",
@@ -4358,7 +4663,7 @@
       ],
       "collected_at": "2026-11-24T10:17:51Z",
       "first_seen_at": "2026-11-24T10:17:51Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43059159",
@@ -4686,6 +4991,44 @@
       "collected_at": "2026-10-29T06:17:28Z",
       "first_seen_at": "2026-10-29T06:17:28Z",
       "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "43081288",
+      "event_key": "pubmed:43081288",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Signs and Symptoms Suggestive of Inflammatory Latent Herpesvirus Abortive Lytic Replication in U.S. Veterans with Chronic Multi-Symptom Illnesses.",
+      "authors": [
+        "Norman H L Chiu",
+        "Brandon Cox",
+        "Paula Goolkasian",
+        "Sagar Lad",
+        "Irene Mena-Paloma",
+        "James Plunkett",
+        "Robert D Shura",
+        "Maria Eugenia Ariza",
+        "Marshall V Williams",
+        "Sean R Maloney"
+      ],
+      "journal": "Pathophysiology : the official journal of the International Society for Pathophysiology",
+      "publication_date": "2026-10-31",
+      "pmid": "43081288",
+      "doi": "10.3390/pathophysiology33040083",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081288/",
+      "abstract": "Background: Chronic multi-symptom illness (CMI) is an idiopathic condition that can cause severe disability in U.S. Veterans. Objective: The collection of data to better characterize and assist in the development of a hypothesis that describes the pathophysiology of CMI. Design: This is an observational VA pilot study of a cohort of 40 U.S. Veterans with CMI. Methods: U.S. Veterans were initially referred to the Rehabilitation Medicine Service (RMS). From this pool of RMS patients, 36 males and four females diagnosed with CMI were selected. Data collected during this study included demographic data, medical history, psychological/cognitive information, and physical exam results. Lab tests were performed twice on the study subjects. Lab tests included serum 25(OH)D3 levels, calcium levels, and human serum IgM and IgG antibody levels to three herpetic virus dUTPase. Serum 25(OH)D3 levels were examined because active vitamin D has a role in immune system function, including the suppression of latent viruses and the modulation (attenuation) of the immune system's inflammatory response. Herpesvirus dUTPases are proteins that are produced during viral DNA replication but are not structural components of virions. Human antibodies to dUTPase proteins were used as biomarkers for abortive lytic viral replication, a process that can stimulate an inflammatory immune process. Results: In our study subjects, the most common symptom was chronic pain (95%), the most common sign was hyperalgesia to pin prick (95%) and the most serious diagnoses were quadriparesis and neurocognitive decline in two study subjects. Conclusions: The clinical findings together with previous vitD and dUTPase serology studies suggest a possible association with low vitD levels, inflammatory elevated herpesvirus abortive lytic replication and CMI.",
+      "mesh_terms": [],
+      "keywords": [
+        "abortive lytic virus replication",
+        "amyotrophic lateral sclerosis",
+        "chronic multi-symptom illness",
+        "human herpesvirus dUTPase antibodies",
+        "low 25(OH)D3 storage",
+        "neurodegenerative/neurocognitive disorder of unknown etiology"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43031658",
@@ -5326,6 +5669,37 @@
       "collected_at": "2026-10-30T06:17:27Z",
       "first_seen_at": "2026-10-30T06:17:27Z",
       "last_seen_at": "2026-10-31T06:09:12Z"
+    },
+    {
+      "id": "43085805",
+      "event_key": "pubmed:43085805",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multilayered Deconstruction Using Global Burden of Disease Study 2023.",
+      "authors": [
+        "Zhaoyi Jing",
+        "Shuhong Liu",
+        "Qingyu Song",
+        "Shengda Tian",
+        "Qingbo Zhou"
+      ],
+      "journal": "Neuroepidemiology",
+      "publication_date": "2026-10-28",
+      "pmid": "43085805",
+      "doi": "10.1159/ned/adwag059",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085805/",
+      "abstract": "BACKGROUND: Neurodegenerative diseases, including Alzheimer's disease and other dementias (ADOD), Parkinson's disease (PD), and motor neuron disease (MND), represent a mounting public health challenge in China amid rapid population aging. A systematic deconstruction of their epidemiological transition using the most recent data remains lacking.\n\nMETHODS: Data from the Global Burden of Disease Study 2023 were utilized to examine temporal trends (1990-2023) for ADOD, PD, and MND in China. Age-standardized incidence rates (ASIRs), age-standardized prevalence rates (ASPRs), age-standardized mortality rates (ASMRs), and age-standardized disability-adjusted life year (DALY) rates (ASDRs) were analyzed. Joinpoint regression was used to identify significant inflection points. Decomposition analysis quantified the contributions of population aging, population growth, and epidemiological change. Bayesian age-period-cohort models projected trends to 2035.\n\nRESULTS: From 1990 to 2023, the ASIR for ADOD (estimated annual percentage 0.41; 95% CI 0.33-0.49) and PD (estimated annual percentage 0.84; 95% CI 0.76-0.92) rose significantly. Between 2019 and 2023, multiple indicators across the three diseases demonstrated a consistently synchronous upward trend. This acceleration coincided with the COVID-19 pandemic. Decomposition demonstrated that population aging was the dominant driver. Sex-specific disparities were pronounced. Females bore a higher ADOD burden, whereas males predominated in PD. Age-standardized incidence rates and ASPRs are expected to rise, while ASMR and ASDR are projected to decline for ADOD and PD. For MND, only the ASPR indicated a brief, peaked rise in the predicted trends.\n\nCONCLUSIONS: In the field of neurodegenerative diseases, China is projected to undergo an epidemiological transition characterized by chronicity. This trend calls for systematic adjustments in healthcare services, long-term care systems, and social support structures. Sex and gender differences further underscore the need for gender-sensitive prevention, clinical management, and care strategies to prevent the further widening of inequalities. Population aging remains a critical factor that cannot be overlooked. Therefore, there is an urgent need to establish a proactive, gender-sensitive framework for system-wide restructuring that incorporates long-term monitoring and oversight.",
+      "mesh_terms": [],
+      "keywords": [
+        "China",
+        "Disease burden",
+        "Epidemiological transition",
+        "Neurodegenerative diseases"
+      ],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43027884",
@@ -20735,6 +21109,56 @@
       ]
     },
     {
+      "id": "43078834",
+      "event_key": "pubmed:43078834",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Enhancing METTL3-mediated m6A modification of Fzd3 mRNA exhibits neuroprotection in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Jinmeng Liu",
+        "Qiupeng Yan",
+        "Yingjun Guan",
+        "Chunjie Xu",
+        "Xiaonan Ma",
+        "Jingtong Zhao",
+        "Xiaosu Chen",
+        "Mu Li",
+        "Xue Zhang",
+        "Haoyun Zhang",
+        "Fenghua Zhou",
+        "Hongmei Du",
+        "Bingqiang Zhang",
+        "Yanchun Chen"
+      ],
+      "journal": "Cell death & disease",
+      "publication_date": "2026-09-01",
+      "pmid": "43078834",
+      "doi": "10.1038/s41419-026-09216-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078834/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disorder characterized by progressive loss of motor neurons (MNs). N6-methyladenosine (m6A) is the most abundant mRNA modification, yet its role in ALS MNs degeneration remains poorly understood. In this study we observed a significant decrease in global m6A levels in the spinal cords of hSOD1G93A transgenic ALS mouse model and hSOD1G93A NSC34 cells, accompanied by reduced expression of the methyltransferase METTL3. Knocking down Mettl3 in the ALS MN model further impaired neurite outgrowth and acetylcholine release in an m6A-dependent manner. AAV-mediated Mettl3 overexpression attenuated MN loss, improved motor ability and extended survival in ALS mice. Integrated analysis based on m6A-methylome and transcriptome identified Fzd3, a WNT signaling pathway receptor gene, as a key m6A-modified target. Mechanistically, METTL3 promotes the expression of FZD3 by enhancing the stability of its mRNA through IGF2BP3. Knockdown of Fzd3 abolished the protective effects of METTL3 on neurite outgrowth and acetylcholine release in ALS MNs. Collectively, our research reveals that METTL3-mediated m6A modification on Fzd3 mRNA plays a critical role in ALS pathogenesis and highlights METTL3 as a promising therapeutic target for ALS.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Frizzled Receptors",
+        "Methyltransferases",
+        "Humans",
+        "RNA, Messenger",
+        "Adenosine",
+        "Motor Neurons",
+        "RNA Methylation",
+        "Mice",
+        "Neuroprotection",
+        "Mice, Transgenic",
+        "Epitranscriptome",
+        "Disease Models, Animal"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
+    },
+    {
       "id": "42779169",
       "event_key": "pubmed:42779169",
       "source_id": "pubmed",
@@ -21641,7 +22065,7 @@
       "keywords": [],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "42723774",
@@ -21845,7 +22269,7 @@
       ],
       "collected_at": "2026-11-24T10:17:51Z",
       "first_seen_at": "2026-11-24T10:17:51Z",
-      "last_seen_at": "2026-11-25T08:59:43Z"
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43052829",
@@ -23033,6 +23457,36 @@
       "collected_at": "2026-09-28T05:44:22Z",
       "first_seen_at": "2026-09-28T05:44:22Z",
       "last_seen_at": "2026-09-30T05:50:41Z"
+    },
+    {
+      "id": "43085363",
+      "event_key": "pubmed:43085363",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Alternative Splicing in Neurodegenerative Disorders: From Basic Mechanisms to Therapeutic Targets.",
+      "authors": [
+        "Guilherme Henrique Gatti da Silva",
+        "Helder Yudi Nagasse",
+        "Patricia Pereira Coltri"
+      ],
+      "journal": "Wiley interdisciplinary reviews. RNA",
+      "publication_date": "2026-01-01",
+      "pmid": "43085363",
+      "doi": "10.1002/wrna.70076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085363/",
+      "abstract": "Alternative splicing generates functionally distinct RNA isoforms from single genes and drives the developmental transitions that establish neuronal identity, synaptic specialization, and circuit function. When these programs are disrupted, the consequences propagate broadly across the transcriptome, a convergent mechanism underlying Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis/frontotemporal dementia (ALS/FTD). This review explores four interconnected levels of splicing dysregulation that contribute to neurodegeneration: how cis-regulatory mutations activate cryptic exons or shift splice-site selection; how aggregation and loss of RNA-binding proteins (RBP) affect splicing function; how aberrant splicing leads to neurodegenerative disease progression; and how post-transcriptional crosstalk among splicing factors and RNAs affects disease development. We trace these mechanisms from developmentally regulated splicing transitions to the selective vulnerabilities they create in aging neurons and disease. Finally, we critically evaluate new therapeutic strategies, from FDA-approved splice-switching and degrading antisense oligonucleotides to preclinical approaches targeting RBP phase separation, alternative polyadenylation, and Adeno-associated virus (AAV)-delivered constructs. Together, these insights frame splicing regulation as both a primary driver of neurodegeneration and an increasingly tractable therapeutic target.",
+      "mesh_terms": [
+        "Humans",
+        "Alternative Splicing",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "RNA-Binding Proteins"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-26T08:46:43Z",
+      "first_seen_at": "2026-11-26T08:46:43Z",
+      "last_seen_at": "2026-11-26T08:46:43Z"
     },
     {
       "id": "43049247",
