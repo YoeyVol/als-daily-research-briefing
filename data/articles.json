@@ -1,20 +1,84 @@
 {
-  "updated_at": "2026-11-26T08:46:43Z",
+  "updated_at": "2026-11-27T08:57:51Z",
   "new_keys": [
-    "pubmed:43078795",
-    "pubmed:43085940",
-    "pubmed:43085525",
-    "pubmed:43081733",
-    "pubmed:43081698",
-    "pubmed:43080154",
-    "pubmed:43080407",
-    "pubmed:43082591",
-    "pubmed:43085363",
-    "pubmed:43081288",
-    "pubmed:43085805",
-    "pubmed:43078834"
+    "pubmed:43095914",
+    "pubmed:43098724",
+    "pubmed:43098244",
+    "pubmed:43096161",
+    "pubmed:43095897",
+    "pubmed:43089545",
+    "pubmed:43086515",
+    "pubmed:43087054",
+    "pubmed:43092100",
+    "pubmed:43090786",
+    "pubmed:43087651",
+    "pubmed:43091108",
+    "pubmed:43088388",
+    "pubmed:43093769",
+    "pubmed:43091974",
+    "pubmed:43091924",
+    "pubmed:43088373",
+    "pubmed:43091768",
+    "pubmed:43088506",
+    "pubmed:43088502",
+    "pubmed:43088350",
+    "pubmed:43095196",
+    "pubmed:43090395",
+    "pubmed:43097758",
+    "pubmed:43086211",
+    "pubmed:43093809",
+    "pubmed:43090628",
+    "pubmed:43088403",
+    "pubmed:43088270",
+    "pubmed:43089317"
   ],
   "items": [
+    {
+      "id": "43095914",
+      "event_key": "pubmed:43095914",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A Systems Level Logic Model of the Neuroinflammatory Response in Late Stage G93A SOD1 Mice.",
+      "authors": [
+        "Alex Foster-Powell",
+        "Donald E Mager",
+        "Amin Rostami-Hodjegan",
+        "Guy Meno-Tetang",
+        "Kayode Ogungbenro"
+      ],
+      "journal": "CPT: pharmacometrics & systems pharmacology",
+      "publication_date": "2026-12-01",
+      "pmid": "43095914",
+      "doi": "10.1002/psp4.70357",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095914/",
+      "abstract": "Neuroinflammation is a pathological hallmark of amyotrophic lateral sclerosis (ALS) in both animal models and human patients, yet its systems-level behavior remains poorly characterized, due to sparse and heterogeneous data. To address this, a discrete Boolean logic model was developed comprising 33 nodes to qualitatively simulate neuroimmune interactions in the SOD1G93A mouse model of ALS, with a focus on RIPK1-mediated signaling. Cell-type specific sub-models for microglia, astrocytes, oligodendrocytes, T-cells, and motor neurons were constructed from literature-derived cytokine and phenotype data and integrated into a wider network of the neuroimmune response. Simulations in MaBoSS identified three stable states: homeostatic (82.9%), and two microglial dominated states (RIPK1 regulated inflammatory microglia (14.0%) and disease associated microglia (2.7%)). The model reproduced experimental perturbation outcomes, including TNF-α and IL6 knockouts on SOD1 backgrounds, and captured population-level trends in microglial and oligodendrocyte states. Unbiased node inhibition suggested oligodendrocyte death pathways regulated by pRIPK1 (p(Motor neuron survival) = 1.00) and pro-inflammatory phenotypes (A1, DAM; p(Motor neuron survival) = 0.58 and 0.36 respectively) as potent therapeutic targets, while cytokine-only strategies were less effective. Correlation analysis identified TNF-αHigh (r = -0.81), CCL2 (r = -0.72), IL6 (r = -0.71) and IFN-γ (r = -0.62) as candidate biomarkers of disease progression. Despite its qualitative nature, the model recapitulated known inflammatory dynamics and motor neuron trajectories, demonstrating the utility of logic-based modeling in translational ALS research. This framework provides a mechanistic platform for hypothesis generation, therapeutic prioritization, and biomarker evaluation in data-sparse neurodegenerative contexts.",
+      "mesh_terms": [
+        "Animals",
+        "Amyotrophic Lateral Sclerosis",
+        "Mice",
+        "Superoxide Dismutase-1",
+        "Disease Models, Animal",
+        "Mice, Transgenic",
+        "Microglia",
+        "Motor Neurons",
+        "Neuroinflammatory Diseases",
+        "Oligodendroglia",
+        "Humans",
+        "Signal Transduction",
+        "Cytokines"
+      ],
+      "keywords": [
+        "ALS",
+        "logic modeling",
+        "mathematical modeling",
+        "microglia",
+        "neuroinflammation"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
     {
       "id": "43078795",
       "event_key": "pubmed:43078795",
@@ -59,7 +123,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43059034",
@@ -149,6 +213,140 @@
       "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
+      "id": "43098724",
+      "event_key": "pubmed:43098724",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Biobank-scale associations of the AR CAG repeat.",
+      "authors": [
+        "Matteo Zanovello",
+        "Chon H Choy",
+        "Chris Clarkson",
+        "Maria Chiara Pioli",
+        "Niccolò Rizza",
+        "Kristina Ibanez",
+        "Carlo Rinaldi",
+        "Gianni Sorarù",
+        "Pietro Fratta",
+        "Arianna Tucci"
+      ],
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "publication_date": "2026-11-26",
+      "pmid": "43098724",
+      "doi": "10.1136/jnnp-2026-340162",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098724/",
+      "abstract": "",
+      "mesh_terms": [],
+      "keywords": [
+        "EPIDEMIOLOGY",
+        "MOTOR NEURON DISEASE",
+        "NEUROGENETICS",
+        "UK Biobank"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43098244",
+      "event_key": "pubmed:43098244",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "RNA G-quadruplexes in neurodegenerative disease: from structural regulation to proteinopathy.",
+      "authors": [
+        "Jacquelyn A DePierro",
+        "Lin Guo"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2026-11-26",
+      "pmid": "43098244",
+      "doi": "10.1016/j.brainres.2026.150657",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098244/",
+      "abstract": "RNA G-quadruplexes (rG4) are dynamic RNA structures whose cellular abundance and folded state are regulated by a multitude of factors. rG4-binding proteins (rG4BPs) comprise a diverse group, including intrinsically disordered proteins such as FUS, TDP-43, and α-Synuclein, which are associated with neurodegenerative diseases. Moreover, rG4 are elevated in human tissue or disease models of amyotrophic lateral sclerosis (ALS), Parkinson's disease (PD), and Alzheimer's disease (AD), highlighting the importance of understanding the interplay between rG4 and rG4BPs. In this review, we examine the cellular mechanisms that regulate rG4 folding dynamics, with a particular focus on rG4BPs and cellular state. We outline the rG4BPs involved in ALS and PD, emphasizing their mechanisms of rG4 recognition. We discuss the current literature on the contributions of rG4s and rG4BPs to ALS, PD, AD, and Fragile X-associated tremor/ataxia syndrome (FXTAS) and their context-dependent effects on disease-associated protein phase transitions and aggregation. Finally, we highlight two emerging classes of molecules with therapeutic potential in neurodegenerative disease: rG4-containing and rG4-targeting. Together, this review explores the complex and context-dependent roles of rG4s in neurodegeneration and their potential as targets for manipulating RNA and protein biology.",
+      "mesh_terms": [],
+      "keywords": [
+        "AD",
+        "ALS",
+        "FXTAS",
+        "G-Quadruplex",
+        "Neurodegeneration",
+        "PD",
+        "RNA-binding proteins"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43096161",
+      "event_key": "pubmed:43096161",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Physical exercise interventions for people with amyotrophic lateral sclerosis: a systematic review with meta-analysis.",
+      "authors": [
+        "Alejandro Herrera Rojas",
+        "Alicia Villa Otero",
+        "Álvaro Reina Varona",
+        "Alfredo Lerín Calvo",
+        "Diego Fernández Vázquez",
+        "Víctor Navarro López"
+      ],
+      "journal": "Neurodegenerative disease management",
+      "publication_date": "2026-11-26",
+      "pmid": "43096161",
+      "doi": "10.1080/17582024.2026.2767799",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43096161/",
+      "abstract": "INTRODUCTION: This systematic review with meta-analysis examines the efficacy of specific exercise modalities for people with amyotrophic lateral sclerosis (ALS).\n\nMETHODS: Comprehensive searches were conducted in PubMed, Cochrane, Scopus, Web of Science, Embase, PEDro, and Scielo databases for randomized controlled trials involving exercise in people with ALS. Interventions were classified using FITT-VP (frequency-intensity-type-time-volume-progression) principles and the American College of Sports Medicine guidelines. Risk of bias and methodological quality were assessed using the RoB2 and the PEDro scale. Random-effect meta-analyses were conducted to estimate pooled effect sizes, with 95% confidence and prediction intervals.\n\nRESULTS: 15 studies were included (n = 595). Meta-analyses showed non-significant effects on functional capacity for resistance (SMD = 0.258; 95%CI: -0.578 to 1.095; favoring exercise), cardiovascular (MD = -1.677; 95%CI: -11.224 to 7.871; favoring control), and concurrent training (MD = 5.573; 95%CI: -6.095 to 17.242; favoring exercise). Respiratory training did not significantly improve inspiratory pressure (SMD = 0.42; 95%CI: -0.18 to 1.03; favoring exercise). High adherence (82%) and comparable adverse events confirmed safety. Substantial heterogeneity and low certainty of evidence preclude the establishment of solid clinical conclusions.\n\nCONCLUSIONS: Exercise appears safe and well tolerated in people with ALS, but specific clinical efficacy remains unconfirmed.\n\nPROSPERO REGISTRATION NUMBER: CRD420251161766.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic Lateral Sclerosis",
+        "cardiovascular training",
+        "concurrent training",
+        "meta-analysis",
+        "physical exercise",
+        "resistance training",
+        "respiratory training"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43095897",
+      "event_key": "pubmed:43095897",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Matching biomarkers to their context of use in amyotrophic lateral sclerosis clinical trials: how much evidence is enough?",
+      "authors": [
+        "Koji Fujita",
+        "Yuishin Izumi"
+      ],
+      "journal": "Expert review of molecular diagnostics",
+      "publication_date": "2026-11-26",
+      "pmid": "43095897",
+      "doi": "10.1080/14737159.2026.2770675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095897/",
+      "abstract": "INTRODUCTION: Biomarkers increasingly inform drug development and regulatory decisions in amyotrophic lateral sclerosis (ALS), but the evidence appropriate for each context of use (COU) is not consistently articulated.\n\nAREAS COVERED: Building on the FDA-NIH Biomarkers, EndpointS, and other Tools (BEST) resource and existing qualification and surrogate endpoint frameworks, we propose an ALS COU framework linking decisions, supporting evidence and consequences of error. Six named descriptors distinguish analytical validity, association, prospective prognostic validation, pharmacodynamic response, within-mechanism concordance and cross-mechanism generalizability. We define what mechanism means for this purpose, set out the evidence a single development program can provide, and apply the framework to six trial programs and to discovery-stage fluid, neurophysiological and imaging candidates. A protocol checklist is provided.\n\nEXPERT OPINION: Evidence should be judged for a stated decision rather than for a biomarker in general. Neurofilament light chain supports prospective prognostic use and a pharmacodynamic response to SOD1-lowering therapy, but trial-level surrogate validation remains unestablished in ALS, and whether it is attainable depends on how narrowly mechanism is defined. Explicit protocol statements, pre-specified within-program analyses and internationally shared expectations could support proportionate use while preserving regulatory flexibility.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "biomarkers",
+        "clinical trials as topic",
+        "context of use",
+        "drug development",
+        "endpoint determination",
+        "neurofilament proteins",
+        "prognosis"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43085940",
       "event_key": "pubmed:43085940",
       "source_id": "pubmed",
@@ -186,7 +384,78 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43089545",
+      "event_key": "pubmed:43089545",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Specific Amino Acid Imaging of Protein Condensates in Live Cells by Stimulated Raman Scattering Microscopy.",
+      "authors": [
+        "Ruifeng Sun",
+        "Ruowei Zhang",
+        "Fanghao Hu"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "publication_date": "2026-11-25",
+      "pmid": "43089545",
+      "doi": "10.1021/jacs.6c17841",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43089545/",
+      "abstract": "Intracellular protein condensates formed by liquid-liquid phase separation have gained increasing attention in recent years due to their key roles in many physiological and pathological processes. However, fluorescence imaging of protein condensates is limited by the bulky fluorescent tags that could perturb the protein localization and interaction. Imaging techniques that can visualize protein condensates in live cells with minimal perturbations remain lacking. Here, we develop a strategy to image intracellular protein condensates by coupling stimulated Raman scattering (SRS) microscopy to specific amino acid labeling. Different types of amino acids are found to exhibit distinct incorporation patterns in the live cells. By metabolic labeling of deuterated tyrosine-d4 and arginine-d7, ALS-related fused in sarcoma (FUS) protein condensates can be visualized with a high specificity. In addition, two-color pulse-chase imaging reveals protein translation arrest in FUS condensates under stress conditions. Furthermore, heterogeneous tyrosine phosphorylation is imaged in live cells and FUS condensates based on the Raman blue shift of phosphorylated tyrosine-d4. Thus, our technique to image specific amino acids by SRS provides a new platform to visualize the metabolic turnover and post-translational modifications of protein condensates in live cells with minimal perturbation.",
+      "mesh_terms": [
+        "Humans",
+        "Amino Acids",
+        "Spectrum Analysis, Raman",
+        "Biomolecular Condensates",
+        "Nonlinear Optical Microscopy",
+        "RNA-Binding Protein FUS"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43086515",
+      "event_key": "pubmed:43086515",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Recent Advances in the Role of Selenoproteins in Neurodegenerative Diseases.",
+      "authors": [
+        "Oumaima Ghazzali",
+        "Mjid Oukhrib",
+        "Niama Hjiej",
+        "Mohamed Cherkaoui",
+        "Youssef Anouar",
+        "Loubna Boukhzar"
+      ],
+      "journal": "Biological trace element research",
+      "publication_date": "2026-11-25",
+      "pmid": "43086515",
+      "doi": "10.1007/s12011-026-05373-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086515/",
+      "abstract": "The central nervous system (CNS) is particularly susceptible to oxidative stress owing to its elevated oxygen (O2) consumption, limited antioxidant defense, abundant lipid content, and relatively low regenerative capacity. Oxidative stress is a common denominator between various neurodegenerative diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic lateral sclerosis (ALS), and Huntington's disease (HD), where the antioxidant system becomes ineffective. In this context, selenoproteins play a pivotal role in mitigating oxidative damage in neurons and maintaining redox homeostasis. Moreover, mounting evidence has indicated that decreased levels of several selenoproteins are linked to age-related NDs. The human genome contains 25 selenoproteins that act as key antioxidant enzymes, including glutathione peroxidases (GPXs) and thioredoxin reductases (TXNRDs), which neutralize hydrogen peroxide (H2O2) and lipid peroxide and regulate thiol-dependent redox signaling. In addition to this classical antioxidant defense, other categories of selenoproteins provide direct neuroprotective actions through various mechanisms related to NDs. Endoplasmic reticulum (ER)-resident selenoproteins such as selenoprotein T (SELENOT), selenoprotein M (SELENOM), and selenoprotein S (SELENOS) that contribute to protein quality control, Ca2+ homeostasis and ER stress prevention are emerging as valuable targets in NDs. Nevertheless, the mechanisms underlying the beneficial effects of selenoproteins in the nervous system are not fully elucidated and require extensive research to pave the way to the application of these antioxidant proteins in NDs therapies.",
+      "mesh_terms": [
+        "Humans",
+        "Selenoproteins",
+        "Neurodegenerative Diseases",
+        "Oxidative Stress",
+        "Animals",
+        "Antioxidants"
+      ],
+      "keywords": [
+        "Neurodegenerative diseases",
+        "Neuroprotection.",
+        "Oxidative stress",
+        "Redox balance",
+        "Selenoproteins"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43085525",
@@ -220,7 +489,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43081733",
@@ -254,7 +523,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43081698",
@@ -295,7 +564,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43080154",
@@ -331,7 +600,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43078335",
@@ -362,7 +631,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43076871",
@@ -409,7 +678,60 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43087054",
+      "event_key": "pubmed:43087054",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Disease-associated patterns of synaptic biomarkers across neurodegenerative diseases.",
+      "authors": [
+        "Duygu Yagdiran",
+        "Badrieh Fazeli",
+        "Franziska Bachhuber",
+        "Paula Klassen",
+        "Daniel Riedel",
+        "Deborah K Erhart",
+        "Sarah Anderl-Straub",
+        "Patrick Oeckl",
+        "Jan Lewerenz",
+        "Bernhard Landwehrmeyer",
+        "Markus Otto",
+        "Zeljko Uzelac",
+        "Jochen Weishaupt",
+        "Axel Petzold",
+        "Hayrettin Tumani",
+        "Steffen Halbgebauer"
+      ],
+      "journal": "Alzheimer's research & therapy",
+      "publication_date": "2026-11-23",
+      "pmid": "43087054",
+      "doi": "10.1186/s13195-026-02264-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087054/",
+      "abstract": "BACKGROUND: Synaptic dysfunction represents one of the earliest pathological events in Alzheimer's disease (AD) and other neurodegenerative conditions, and cerebrospinal fluid (CSF) synaptic proteins have emerged as promising biomarkers of this process. To date, investigations of synaptic CSF markers have largely focused on comparisons between individuals with AD and cognitively healthy controls. In contrast, comprehensive analyses spanning a wider range of neurodegenerative disorders, critical for improving differential diagnostic accuracy, remain scarce. Moreover, the relationships among different synaptic biomarkers are still insufficiently characterized. We therefore systematically compared four CSF synaptic biomarkers (SNAP-25, VILIP-1, neurogranin, and β-synuclein) across eight diagnostic groups to assess their disease-associated patterns, their diagnostic value, and interrelationships.\n\nMETHODS: Using ELISA and Simoa assays, we retrospectively measured levels of synaptic CSF proteins SNAP-25, VILIP-1, neurogranin, and β-synuclein in a large, diagnostically diverse cohort of 437 patients including with Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS), behavioral variant frontotemporal dementia (bvFTD), primary progressive aphasia (PPA), progressive supranuclear palsy (PSP), Lewy body diseases (LBD), Huntington's disease (HD), and controls (Ctrl).\n\nRESULTS: CSF concentrations of SNAP-25, VILIP-1, neurogranin, and β-synuclein were significantly elevated in AD compared to controls and all other neurodegenerative diseases (q < 0.05 to q < 0.0001), discriminating AD from controls (AUCs = 0.69 to 0.76) and other diagnostic groups (AUCs = 0.68 to 0.93). PSP and HD consistently displayed the lowest concentrations across all markers, frequently below control concentrations, with β-synuclein most strongly affected in HD. Within the AD spectrum, A+T-N- individuals did not differ from controls for all markers, whereas A+T+N+ patients showed significantly elevated concentrations compared to both controls and the A+T-N- group (p < 0.0001). Concentrations were elevated in both AD-MCI and AD-Dementia patients (p < 0.01), with similar concentrations in the MCI and dementia stages. The four synaptic biomarkers were strongly intercorrelated across cohorts.\n\nCONCLUSION: In AD, CSF synaptic biomarkers are consistently elevated, a pattern appearing as early as the MCI stage. This concordant rise distinguishes AD from controls and other neurodegenerative disorders, underscoring their usefulness for detecting AD-specific synaptic pathology. In contrast, concentrations were reduced in PSP and HD, where especially β-synuclein may represent a potential marker of synaptic changes.",
+      "mesh_terms": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Biomarkers",
+        "Synaptosomal-Associated Protein 25",
+        "Neurogranin",
+        "Female",
+        "Male",
+        "beta-Synuclein",
+        "Aged",
+        "Neurocalcin",
+        "Synapses",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Aged, 80 and over"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43071990",
@@ -524,6 +846,117 @@
       "collected_at": "2026-11-22T07:18:25Z",
       "first_seen_at": "2026-11-22T07:18:25Z",
       "last_seen_at": "2026-11-25T08:59:43Z"
+    },
+    {
+      "id": "43092100",
+      "event_key": "pubmed:43092100",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "From Motor Neuron Monocultures to Human Neuromuscular Organoids: iPSC-Based Models of Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Chia-Yu Chang",
+        "Shinn-Zong Lin"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-11-20",
+      "pmid": "43092100",
+      "doi": "10.3390/ijms272210480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43092100/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) affects motor neurons, distal axons, skeletal muscle, and supporting cells. Patient-derived induced pluripotent stem cells (iPSCs) provide access to these components in human genetic backgrounds. This review follows the development of ALS models from motor neuron cultures to neuromuscular cocultures, engineered tissues, and organoids, and compares the biological conclusions their experiments support. Genotype-specific analyses distinguish intervention-supported mechanisms from candidate links to axonal maintenance, junctional organization, and muscle output. Comparisons of a shared SOD1 G85R variant and riluzole responses show how genetic design, cellular state, stimulation, and endpoint definitions determine interpretation. The reviewed neuromuscular systems provide experimentally modifiable structural and contraction phenotypes. Their clinical predictive advantage over motor neuron cultures remains unestablished because the necessary paired assay comparisons and independent clinical validation are missing from these studies. Model selection should follow the question being tested, including neuronal injury, cellular contribution, transmission failure, or loss of established function. Reproducible measurements, patient stratification, aging assessment, and integration with clinical data, complementary cellular approaches, animal experiments, and computational analysis provide routes to resolving the identified evidence gaps.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Motor Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Organoids",
+        "Neuromuscular Junction",
+        "Animals",
+        "Muscle, Skeletal",
+        "Superoxide Dismutase-1",
+        "Models, Biological"
+      ],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "induced pluripotent stem cells",
+        "motor neurons",
+        "neuromuscular junction",
+        "neuromuscular organoids",
+        "skeletal muscle"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43090786",
+      "event_key": "pubmed:43090786",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Evaluating Bulbar Dysfunction in Motor Neuron Disease: Advances in Tongue, Orofacial and Pharyngeal Imaging.",
+      "authors": [
+        "Alison Toomey",
+        "Naser Mandal",
+        "Sarah Mangan",
+        "Philippe Corcia",
+        "Marlene Tahedl",
+        "We Fong Siah",
+        "Ee Ling Tan",
+        "Jana Kleinerova",
+        "Jasmin Lope",
+        "Peter Bede"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2026-11-20",
+      "pmid": "43090786",
+      "doi": "10.3390/life16111966",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090786/",
+      "abstract": "(1) Background: Bulbar dysfunction in motor neuron disease is a negative prognostic indicator, requires careful monitoring and necessitates well-timed multidisciplinary interventions, such as feeding tube placements and the introduction of augmentative communication devices. Imaging modalities are seldom implemented in the clinical setting despite very promising academic advances in recent years. (2) Methods: A systematic review was carried out to review the advantages and practical drawbacks of specific imaging modalities, the main barriers to routine implementation, and their potential role to detect and monitor bulbar dysfunction. (3) Results: Bulbar imaging modalities enable the evaluation of muscle dimensions, water content as an indicator of acute neurogenetic change, and fat content as a proxy of chronic denervation. Muscle diffusion tensor imaging enables the assessment of fibre integrity, muscle metabolic alterations can be readily investigated by spectroscopy, and dynamic imaging may reveal functional muscle alterations. (4) Conclusions: Most bulbar imaging modalities are non-invasive, offer a large panel of quantitative metrics, and can readily evaluate a multitude of muscles in a single, short-acquisition protocol including muscles that are challenging to sample by EMG. Bulbar muscle imaging is therefore a particularly promising modality, yet it remains notoriously underutilised in clinical practice.",
+      "mesh_terms": [],
+      "keywords": [
+        "Kennedy’s disease",
+        "MRI",
+        "amyotrophic lateral sclerosis",
+        "motor neuron disease",
+        "neuroimaging"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43087651",
+      "event_key": "pubmed:43087651",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Canine Degenerative Myelopathy: A Narrative Review of Aetiology, Clinical Signs, Diagnosis, and Therapy.",
+      "authors": [
+        "Marion Selina Brückler",
+        "Bianca Reicher",
+        "Marion Mucha"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2026-11-20",
+      "pmid": "43087651",
+      "doi": "10.3390/ani16223688",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087651/",
+      "abstract": "Canine degenerative myelopathy (DM) is a progressive, non-inflammatory neurodegenerative disease of the spinal cord that primarily affects middle-aged to older dogs and is closely related to human amyotrophic lateral sclerosis (ALS). This narrative review synthesises current knowledge on the aetiology, clinical presentation, diagnosis, and therapy of canine DM, based on a literature search conducted between October 2024 and May 2025 using Scopus, PubMed, and Google Scholar; included primary studies were graded according to the evidence classification system of the Cochrane Musculoskeletal Group. A mutation in the superoxide dismutase 1 (SOD1) gene, inherited in an autosomal recessive manner with incomplete penetrance (not all individuals with the disease-causing genotype develop clinical signs), has now been identified in dog populations across Europe, Asia, and South America. Definitive diagnosis still requires post-mortem histopathology of the spinal cord, whereas genetic testing-which identifies genetic risk but does not confirm clinical disease-combined with exclusion of differential diagnoses represents the most useful ante-mortem approach; advanced imaging, electromyography, and cerebrospinal fluid biomarkers contribute supportive but non-definitive information. Of the therapeutic options reviewed, physiotherapy is the only intervention with the strongest currently available evidence for prolonging survival time; quality-of-life benefits are reported clinically, but quality of life was not formally measured as a primary outcome in the main supporting study. Laser therapy, curcumin, cannabinoids, stem cell transplantation, and modulation of macrophage migration inhibitory factor show preliminary promise but remain investigational. Across nearly all areas, the evidence base is limited by small sample sizes and a scarcity of controlled trials, underlining the need for larger, well-controlled studies to improve early detection and treatment of this devastating disease. While the available evidence supports the clinical benefit of intensive physiotherapy, the majority of therapeutic interventions are supported by Silver- or Bronze-level evidence only, and controlled, randomised trials remain largely absent from the canine DM literature.",
+      "mesh_terms": [],
+      "keywords": [
+        "SOD1 mutation",
+        "amyotrophic lateral sclerosis",
+        "canine",
+        "degenerative myelopathy",
+        "genetic testing",
+        "neurodegenerative disease",
+        "physiotherapy",
+        "spinal cord disease"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43064600",
@@ -706,6 +1139,68 @@
       "last_seen_at": "2026-11-23T08:01:49Z"
     },
     {
+      "id": "43091108",
+      "event_key": "pubmed:43091108",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase IIb Clinical Trial Evaluating the Efficacy and Safety of Mecasin (KCHO-1) in Adults with Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Joonyoung Shin",
+        "Hyorin Lee",
+        "Tae Seong Jeong",
+        "Eunhye Cha",
+        "Wookcheol Seo",
+        "Boncho Ku",
+        "Ilhong Son",
+        "Hyung Won Kang",
+        "Dongwoung Kim",
+        "Bongkeun Song",
+        "Dongwoon Han",
+        "Sungchul Kim"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2026-11-19",
+      "pmid": "43091108",
+      "doi": "10.3390/jcm15229076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091108/",
+      "abstract": "Background/Objectives: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive muscle weakness and paralysis, with respiratory failure being the leading cause of death. Mecasin (KCHO-1), a standardized botanical extract, has demonstrated neuroprotective and anti-neuroinflammatory effects in preclinical studies. A 12-week phase IIa trial suggested a potential benefit in slowing functional decline. This phase IIb trial evaluated the efficacy and safety of Mecasin over 24 weeks, including respiratory-related outcomes. Methods: In this multicenter, randomized, double-blind, placebo-controlled trial, 50 patients were randomized to receive Mecasin (2.4 g/day) or placebo for 24 weeks, with both groups receiving riluzole (100 mg/day). Forty-three patients were included in the efficacy analysis. The primary endpoint was change in the Korean version of the ALS Functional Rating Scale-Revised (K-ALSFRS-R) total score. Respiratory-related assessments included orthopnea, FEV1/FVC, and end-tidal CO2, alongside safety evaluations. Results: At week 24, K-ALSFRS-R changes were -3.65 and -3.74 points in the Mecasin and placebo groups, respectively, with no significant between-group difference (estimated difference, 0.27; 90% CI, -1.80 to 2.33; p = 0.4146). Significant between-group differences were observed in FEV1/FVC (7.69 percentage points; p = 0.0036) and end-tidal CO2 (-3.92 mmHg; p = 0.0076). Linear mixed-effects models showed significant group-by-visit interactions for orthopnea (p = 0.0212) and FEV1/FVC (p = 0.0228). Adverse-event frequencies were comparable. Conclusions: Although Mecasin did not show a significant effect on the primary outcome (K-ALSFRS-R total score), the observed differences in respiratory-related outcomes provide a clinical rationale for further investigation in larger trials focusing on respiratory function.",
+      "mesh_terms": [],
+      "keywords": [
+        "FEV1/FVC",
+        "Mecasin (KCHO-1)",
+        "amyotrophic lateral sclerosis",
+        "orthopnea",
+        "phase IIb trial",
+        "respiratory outcomes"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088388",
+      "event_key": "pubmed:43088388",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Molecular and Cellular Research in Neurodegenerative Diseases: Editorial.",
+      "authors": [
+        "Kallirhoe Kalinderi"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2026-11-19",
+      "pmid": "43088388",
+      "doi": "10.3390/brainsci16111272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088388/",
+      "abstract": "Neurodegenerative diseases (NDs) are characterized by the progressive degeneration of selective neuronal populations and include several neurological disorders such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS) [...].",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43061696",
       "event_key": "pubmed:43061696",
       "source_id": "pubmed",
@@ -842,6 +1337,89 @@
       "collected_at": "2026-11-19T07:47:34Z",
       "first_seen_at": "2026-11-19T07:47:34Z",
       "last_seen_at": "2026-11-21T07:37:10Z"
+    },
+    {
+      "id": "43093769",
+      "event_key": "pubmed:43093769",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Molecularly Aged Protein States as Targets for Drug Design and Delivery in Neurodegenerative Diseases.",
+      "authors": [
+        "Reem Alromaihi",
+        "Suleman Abdullah Almerdasi",
+        "Abdulrahman Abdullah Almusallam",
+        "Mona Alromaihi",
+        "Waad A Aljohani",
+        "Masood Alam Khan",
+        "Arif Khan",
+        "Khaled S Allemailem"
+      ],
+      "journal": "Pharmaceutics",
+      "publication_date": "2026-11-18",
+      "pmid": "43093769",
+      "doi": "10.3390/pharmaceutics18111485",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093769/",
+      "abstract": "Neurodegenerative drug discovery usually represents a protein target by its gene, canonical sequence, and one or a few structures. That representation can miss the molecular history accumulated by proteins that persist in the brain. Spontaneous chemistry, incomplete repair, altered turnover, proteolysis, phase transitions, and assembly remodeling generate states that may differ from the canonical target in exposure, function, and therapeutic accessibility. We call compositionally resolved species age-generated proteoforms and use molecularly aged protein states when the exact composition remains uncertain. This Review develops a target-state framework for Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis and frontotemporal dementia, Huntington disease, and multiple sclerosis. It separates detection from age association, causality, brain exposure, proximal target engagement, and clinical evidence. Disease-specific analyses connect tau and amyloid-beta proteoforms, alpha-synuclein and lysosomal or mitochondrial assemblies, TDP-43 loss-of-function states, and persistent myelin or extracellular-matrix states to rational modalities and critical validation experiments. Repair, selective removal, stabilization, state-selective antibodies and small molecules, intrabodies, replacement, and synthesis control are evaluated together with blood-brain barrier transport, cellular and organelle access, pharmacokinetics, and pharmacodynamics. Each class of target state is mapped to the delivery constraint it imposes and the platform for which a precedent exists, and the exposure requirements that state selectivity implies are set out explicitly, including the fraction of a pool that must be engaged, the duration required to move a slowly accumulating state, and the consequences for dosing interval and pharmacodynamic biomarker choice. The aggregate-directed amyloid antibodies are analysed as the existing clinical test of the framework and of its limits. Machine learning remains central to proteoform identification, multimodal prioritization, structure modeling, and molecular design, provided that labels and prospective tests preserve target-state identity. Classical quantum chemistry can address bounded reaction and recognition problems. Quantum computing is treated as an exploratory implementation that requires matched classical baselines and explicit resources. The central requirement is not that an old protein be abnormal, but that a defined disease-relevant state can be selectively engaged while preserving the functional pool.",
+      "mesh_terms": [],
+      "keywords": [
+        "Huntington disease",
+        "blood–brain barrier",
+        "brain aging",
+        "deep learning",
+        "drug targeting",
+        "exposure–response",
+        "long-lived proteins",
+        "machine learning",
+        "neurodegenerative disease",
+        "pharmacokinetics",
+        "proteoforms",
+        "quantum chemistry",
+        "target engagement"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43091974",
+      "event_key": "pubmed:43091974",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Astrocyte State-Dependent Remodeling of Neuron-Glia Communication in C9ORF72-Associated Amyotrophic Lateral Sclerosis.",
+      "authors": [
+        "Chen Zhao",
+        "Jieying Wu",
+        "Dongsheng Fan"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-11-18",
+      "pmid": "43091974",
+      "doi": "10.3390/ijms272210354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091974/",
+      "abstract": "Astrocyte dysfunction is an important component of non-cell-autonomous pathology in C9ORF72-associated amyotrophic lateral sclerosis (C9-ALS), yet how distinct astrocyte states contribute to altered neuron-glia communication remains unclear. Building on a previously published human single-nucleus RNA-sequencing (snRNA-seq) dataset of C9-ALS and control cortices, we reanalyzed motor-cortex samples using Seurat for preprocessing and integration, gene-set scoring for astrocyte-state characterization, and CellChat for pathway- and ligand-receptor-level communication inference. Donor-level analyses assessed astrocyte-state-specific communication differences, and an independent motor-cortex cohort was used to examine the reproducibility of key findings. CD44-high astrocytes showed stronger reactive features, whereas HPSE2-high astrocytes exhibited higher homeostasis/support scores. Although the overall number of inferred interactions was largely preserved, pooled communication strength was lower in C9-ALS. Donor-level analysis supported greater relative attenuation of HPSE2-high than CD44-high astrocyte communication with excitatory neurons. Pooled analyses showed prominent reductions in glutamate-related and neuronal adhesion/support pathways, whereas several extracellular matrix/remodeling-associated signals were relatively increased. Several altered pathways also extended into oligodendrocyte-associated two-step communication motifs. The independent cohort reproduced the astrocyte-state transcriptional profiles, with directionally consistent but statistically nonsignificant communication changes. Collectively, these findings provide a cell-state-resolved map of altered neuron-glia communication in C9-ALS and identify candidate signaling networks for further mechanistic investigation.",
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "Astrocytes",
+        "Cell Communication",
+        "Neurons",
+        "C9orf72 Protein",
+        "Neuroglia",
+        "Female"
+      ],
+      "keywords": [
+        "C9ORF72",
+        "amyotrophic lateral sclerosis",
+        "astrocytes",
+        "cell–cell communication",
+        "neuron–glia interactions",
+        "snRNA-seq"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43051945",
@@ -1010,6 +1588,87 @@
       "collected_at": "2026-10-15T05:01:49Z",
       "first_seen_at": "2026-10-15T05:01:49Z",
       "last_seen_at": "2026-10-16T04:51:28Z"
+    },
+    {
+      "id": "43091924",
+      "event_key": "pubmed:43091924",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Evaluation of Clomipramine Against Amyotrophic Lateral Sclerosis in an hSOD1-G93A Mouse Study.",
+      "authors": [
+        "Monica Armida",
+        "Silvia Bullitta",
+        "Francesco Liguori",
+        "Luca Zanfini",
+        "Alessio Lauricella",
+        "Susanna Amadio",
+        "Rosa Luisa Potenza",
+        "Cinzia Volonté"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-11-17",
+      "pmid": "43091924",
+      "doi": "10.3390/ijms272210296",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091924/",
+      "abstract": "By exploiting network medicine and drug repurposing strategies, we previously identified and prioritized clomipramine as one among a subset of suitable non-customary compounds to be tested against amyotrophic lateral sclerosis (ALS). We then investigated the chronic administration of clomipramine in vivo, in the hSOD1-A4V and hSOD1-G85R Drosophila melanogaster ALS models, demonstrating significant efficacy in ameliorating lifespan, improving motor abilities, and mitigating genomic instability and inflammation. The aim of the present work is now to test clomipramine against ALS in the hSOD1-G93A mouse, which remains today among the premier and most exploited and validated preclinical models for studying the disease. Our work demonstrates that the effects of clomipramine are not consistently reproduced across different preclinical models of ALS. In particular, clomipramine emerges as a context-dependent drug in ALS mice. Intraperitoneal administration of clomipramine does not improve overall survival at 10 mg/Kg, but it significantly worsens body weight, motor performance and neuroscore predominantly in male mice. At 20 mg/Kg, clomipramine elicits a clinically meaningful increase in survival time only in the male subgroup, despite a statistically non-significant p-value. Our study reveals the complex profile of clomipramine's effects, rather than a clear therapeutic action. We trust that further insights and fine tuning through cross-model validation and context-dependent modulation by clomipramine might reveal a novel route for better understanding ALS and exploring clinical outcomes.",
+      "mesh_terms": [
+        "Animals",
+        "Clomipramine",
+        "Amyotrophic Lateral Sclerosis",
+        "Male",
+        "Mice",
+        "Disease Models, Animal",
+        "Mice, Transgenic",
+        "Female",
+        "Drosophila melanogaster",
+        "Superoxide Dismutase-1",
+        "Humans",
+        "Motor Activity"
+      ],
+      "keywords": [
+        "ALS",
+        "clomipramine",
+        "drug repurposing",
+        "motor impairment",
+        "preclinical validation",
+        "survival"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088373",
+      "event_key": "pubmed:43088373",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "A Three-Flux Cytoplasmic Bias Framework for the Initiating Events of TDP-43 Proteinopathies.",
+      "authors": [
+        "Yanping Zhu",
+        "Xiaojing Han",
+        "Rui Li",
+        "Weidong Pan"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2026-11-17",
+      "pmid": "43088373",
+      "doi": "10.3390/brainsci16111257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088373/",
+      "abstract": "TDP-43 proteinopathies encompass most cases of sporadic amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration with TDP-43-positive inclusions (FTLD-TDP), among other disorders. Their shared pathological hallmarks are nuclear clearance and cytoplasmic mislocalization of TDP-43. The established model of nuclear loss of function coupled with cytoplasmic gain of toxicity accounts well for disease progression. However, it does not identify where the pathological cycle begins, and it cannot readily explain why comparable aggregation burdens produce markedly divergent clinical phenotypes. In this article, nucleocytoplasmic transport dysfunction is further decomposed into three distinguishable fluxes: reduced nuclear import efficiency, impaired nuclear retention, and a relative enhancement of nuclear export/passive diffusion. Together, these three fluxes produce a persistent net displacement of the nucleocytoplasmic distribution toward the cytoplasmic side. We term this displacement \"cytoplasmic bias\" and define it as a quantifiable, falsifiable upstream variable that is independent of aggregation morphology. Integrating structural, cellular, human induced pluripotent stem cell (iPSC)-derived neuronal, and biomarker evidence, we propose the following sequence. Cytoplasmic bias converts native 3'UTR-mediated autoregulation into maladaptive feedback. This feedback induces loss of nuclear splicing function and shunts TDP-43 into cytoplasmic insoluble and phase-separated compartments. \"Export bias\" and \"import blockade\" are predicted to produce distinct consequences, and soluble oligomerization, together with loss of cryptic exon repression, may precede symptom onset. We also delineate the evidentiary boundaries of this proposal: the most direct evidence comes from low-burden engineered NES/NLS models that retain autoregulation. In contrast, it remains to be directly tested whether cytoplasmic bias precedes and is independent of aggregation in sporadic disease and in the human brain. On this basis, we reconstruct the causal chain from physiological nucleocytoplasmic homeostasis to the pathological cascade, clarify the directionality linking upstream driving, phase-separation amplification, and downstream injury, and provide testable predictions and therapeutic windows for subsequent studies to falsify or refine.",
+      "mesh_terms": [],
+      "keywords": [
+        "TDP-43",
+        "amyotrophic lateral sclerosis",
+        "cryptic exon",
+        "cytoplasmic bias",
+        "frontotemporal lobar degeneration",
+        "nucleocytoplasmic transport"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43045628",
@@ -2005,6 +2664,143 @@
       "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
+      "id": "43091768",
+      "event_key": "pubmed:43091768",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Lipid Droplet Remodeling at the Glia-Neuron Interface: Metabolic Sinks, Flux Traps, and Therapeutic Pitfalls in Neurodegeneration.",
+      "authors": [
+        "Min Fu",
+        "Yizhen Su",
+        "Guangyuan Hu",
+        "Xiaoxiao Luo"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2026-11-12",
+      "pmid": "43091768",
+      "doi": "10.3390/ijms272210141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091768/",
+      "abstract": "Neurodegenerative diseases are characterized by progressive neurological decline, metabolic dysfunction, and chronic neuroinflammatory changes. Dysregulated lipid handling has emerged as an important component of these processes, but the functional significance of lipid droplets (LDs) remains strongly context-dependent. Here, we review LD biogenesis, turnover, and cell type-specific functions in the central nervous system (CNS) and critically evaluate evidence linking LD remodeling to neurodegeneration. Transient LD formation can buffer excess or oxidation-prone lipids and support metabolic adaptation, whereas persistent lipid retention in the setting of impaired lysosomal, mitochondrial, or lipid-export capacity is associated with cellular dysfunction. We compare human tissue data, genetic evidence, LD-specific perturbations, pharmacological studies, and experimental models across Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and Huntington's disease (HD). Particular attention is given to microglial lipid-associated states, neuron-glia lipid transfer, monogenic disorders of lipid handling, and apparently opposing outcomes of LD manipulation in different disease contexts. Rather than treating LD accumulation as a universal pathogenic mechanism, we propose LD remodeling as a candidate metabolic-inflammatory convergence state whose functional consequences depend on cell type, lipid composition, turnover capacity, and disease stage. Translational strategies should therefore prioritize direct measurements of LD flux, demonstration of CNS target engagement, and biomarker-guided patient and disease-stage selection. We further define experimental findings that would support or falsify the proposed convergence model.",
+      "mesh_terms": [
+        "Humans",
+        "Neuroglia",
+        "Animals",
+        "Neurodegenerative Diseases",
+        "Neurons",
+        "Lipid Droplets",
+        "Lipid Metabolism"
+      ],
+      "keywords": [
+        "lipid droplets",
+        "lipid metabolism",
+        "microglia",
+        "neurodegeneration",
+        "neuroinflammation"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088506",
+      "event_key": "pubmed:43088506",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Autophagic Flux Bottlenecks in Neurodegenerative Disease: From Cell-Specific Failure to Defect-Directed Therapy.",
+      "authors": [
+        "Kamini Shivhare",
+        "Tripti Nair",
+        "Saurabh Shrivastva",
+        "Prince Kumar Singh"
+      ],
+      "journal": "Current issues in molecular biology",
+      "publication_date": "2026-11-12",
+      "pmid": "43088506",
+      "doi": "10.3390/cimb48111204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088506/",
+      "abstract": "Autophagic dysfunction is a recurrent feature of neurodegenerative disease, but increased pathway activity does not necessarily indicate effective cargo clearance. This review examines autophagic flux as a multistep quality-control process in which cargo recognition, autophagosome formation, intracellular transport, lysosomal fusion, degradation, and metabolite recovery must remain functionally coupled. We discuss how bottlenecks at different stages generate distinct consequences across neurons, microglia, astrocytes, oligodendrocyte-lineage cells, and neural stem or progenitor cells, and compare disease-specific patterns in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal dementia, Huntington's disease, and multiple sclerosis. These disorders exhibit overlapping but context-dependent autophagy-lysosomal defects, including impaired cargo recognition, mitochondrial turnover, autophagosome transport, lysosomal degradation, and cell-specific cargo processing. These mechanistic differences support defect-directed therapeutic strategies, although evidence that correcting individual bottlenecks restores autophagic flux and improves clinical outcomes remains limited. Upstream induction may be ineffective when downstream transport, fusion, or lysosomal degradation is impaired. Therapeutic strategies should therefore be evaluated using mechanism-appropriate measures of target engagement and downstream cargo degradation. Defining autophagic flux at cell- and compartment-specific resolution may help distinguish productive clearance from nonspecific pathway activation across disease stages, genotypes, and clinically distinct patient populations.",
+      "mesh_terms": [],
+      "keywords": [
+        "autophagic flux",
+        "cell-specific autophagy",
+        "defect-directed therapy",
+        "lysosomal dysfunction",
+        "mitophagy",
+        "neurodegeneration"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088502",
+      "event_key": "pubmed:43088502",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Peroxiredoxins in Mitochondrial Dysfunction and Endoplasmic Reticulum Stress: Implications for Neurodegenerative Diseases.",
+      "authors": [
+        "Eui-Hwan Choi",
+        "Sun-Ji Park"
+      ],
+      "journal": "Current issues in molecular biology",
+      "publication_date": "2026-11-12",
+      "pmid": "43088502",
+      "doi": "10.3390/cimb48111201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088502/",
+      "abstract": "Mitochondrial dysfunction and endoplasmic reticulum (ER) stress are increasingly recognized as coupled, rather than independent, contributors to neurodegeneration, converging at ER-mitochondria contact sites (MERCs) that coordinate Ca2+ transfer, redox signaling, and mitochondrial dynamics. Disruption of this crosstalk is implicated in Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS). Peroxiredoxins (PRDXs), a family of thiol-dependent peroxidases distributed across distinct subcellular compartments, are positioned to regulate this inter-organelle crosstalk in an isoform-specific manner. This review summarizes evidence that ER-resident PRDX4 supports oxidative protein folding and limits ER stress signaling, mitochondrial PRDX3 restricts peroxide accumulation and mitochondrial oxidative injury, and PRDX2 and PRDX5 regulate ER-mitochondria coupling through effects on mitochondrial trafficking and mitochondrial fission, respectively, although neither is a core structural component of MERCs. We also discuss how PRDX-dependent suppression of ER and oxidative stress may relate to mitochondrial quality control and mitophagy, and how these mechanisms may relate to MERC dysfunction across AD, PD, and ALS. Overall, the evidence suggests that PRDXs act as organelle-specific redox regulators whose loss may contribute to ER-mitochondria dysfunction, and that restoring or supporting PRDX activity represents a possible therapeutic direction.",
+      "mesh_terms": [],
+      "keywords": [
+        "ER–mitochondria contact sites",
+        "endoplasmic reticulum stress",
+        "mitochondrial dysfunction",
+        "neurodegenerative diseases",
+        "oxidative stress",
+        "peroxiredoxins"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088350",
+      "event_key": "pubmed:43088350",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "GSTP1/JNK-Linked Redox Dysregulation in Amyotrophic Lateral Sclerosis: Evidence, Controversies, and a Testable Framework.",
+      "authors": [
+        "Jinli Feng",
+        "Jinming Han",
+        "Ming Fang",
+        "Xinyuan Pang",
+        "Feng Qiu",
+        "Hongfen Wang"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2026-11-12",
+      "pmid": "43088350",
+      "doi": "10.3390/brainsci16111234",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088350/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is biologically heterogeneous, and oxidative injury can contribute to degeneration while also reflecting downstream damage or adaptive responses. Glutathione S-transferase Pi 1 (GSTP1) combines glutathione-dependent detoxification with non-canonical regulation of c-Jun N-terminal kinase (JNK), but the biochemical evidence for direct GSTP1-JNK coupling largely comes from non-ALS systems. This narrative review separates human ALS observations, functional ALS-model findings, and extrapolated mechanisms. Altered GSTP1 abundance or total GST activity in ALS does not establish GSTP1-specific impairment or causality. JNK-related injury has stronger functional support in selected ALS models involving DLK/MAP3K12, ASK1, HIPK2, and MAP4K4. Ferroptosis-related findings are concentrated in SOD1 models, with additional evidence of susceptibility in FUS cellular models, and do not establish a GSTP1-JNK-ferroptosis cascade. We distinguish neuronal and glial context and the execution of apoptosis versus ferroptosis. Decisive tests combine GSTP1 perturbation with catalytic and interaction-deficient rescue, direct binding and JNK-activity assays, and pathway-specific cell-death rescue. GSTP1 remains a candidate context-dependent modifier of shared neurodegenerative processes; causal validation, reproducible pathway biomarkers, and safety assessment are required before therapeutic translation.",
+      "mesh_terms": [],
+      "keywords": [
+        "GSTP1",
+        "JNK",
+        "amyotrophic lateral sclerosis",
+        "ferroptosis",
+        "glia",
+        "oxidative stress",
+        "redox signaling",
+        "stress kinase"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43061545",
       "event_key": "pubmed:43061545",
       "source_id": "pubmed",
@@ -2488,6 +3284,50 @@
       "last_seen_at": "2026-11-14T06:54:34Z"
     },
     {
+      "id": "43095196",
+      "event_key": "pubmed:43095196",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Cervical and thoracic spinal cord grey and white matter atrophy: a longitudinal study in amyotrophic lateral sclerosis.",
+      "authors": [
+        "Maria J Wendebourg",
+        "Renee Jetzer",
+        "Eva M Kesenheimer",
+        "Laura Sander",
+        "Valentina Konjevod",
+        "Matthias Weigel",
+        "Claudia Weidensteiner",
+        "Simone Penker",
+        "Tanja Haas",
+        "Philipp Madoerin",
+        "Christoph Neuwirth",
+        "Markus Weber",
+        "Nicole Naumann",
+        "Kathi Schweikert",
+        "Cristina Granziera",
+        "Michael Sinnreich",
+        "Oliver Bieri",
+        "Regina Schlaeger"
+      ],
+      "journal": "Brain communications",
+      "publication_date": "2026-11-10",
+      "pmid": "43095196",
+      "doi": "10.1093/braincomms/fcag432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095196/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by progressive degeneration of upper and lower motor neurons. Spinal cord (SC) MRI metrics have been suggested as potential biomarkers in ALS, but longitudinal data elucidating the development of cervical and thoracic SC grey matter (GM) and white matter (WM) atrophy remain limited. Radially sampled Averaged Magnetization Inversion Recovery Acquisitions (rAMIRA) enable the investigation of SC substructures. The objective was to investigate longitudinal changes in cervical and thoracic SC MRI metrics in patients with ALS compared with healthy age- and sex-matched controls (HC) using rAMIRA imaging and to examine the relationship of these changes with clinical phenotype and functional decline. Forty-one patients with ALS and 41 age- and sex-matched HC underwent rAMIRA MRI at baseline and every 6 months for up to 24 months. Axial SC images were acquired at intervertebral disc levels C2/C3-C5/C6 and the thoracic enlargement (Tmax) level. SC total cross-sectional area (TCA), GM area (GMA) and WM areas (WMA) were segmented and analysed using linear mixed-effects models to compare longitudinal changes between groups. Associations between longitudinal changes in SC metrics, clinical phenotype and ALS Functional Rating Scale-Revised (ALSFRS-R) were examined. At baseline, patients with ALS exhibited significant TCA, GMA and WMA reductions at cervical and thoracic levels compared with HC, except for WMA at Tmax. Over 24 months, significant longitudinal TCA and GMA decline was observed at multiple cervical and thoracic levels. WMA significantly declined only at level C3/C4. Stratification by disease onset revealed distinct patterns: patients with bulbar onset showed preserved cervical SC area metrics over 12 months, whereas those with cervical and lumbar onset exhibited marked TCA, GMA and WMA SC decline. Longitudinal TCA, GMA and WMA reductions correlated with 12-month ALSFRS-R decline. These findings suggest that SC imaging metrics reflect the functional impact of ALS. rAMIRA imaging allows detection of significant cervical and thoracic SC atrophy in ALS over 12 and 24 months. SC TCA and GMA atrophy is most pronounced in areas corresponding to symptom onset and is linked to overall clinical disability. SC imaging, capturing both GM and WM changes, represents a promising tool for monitoring disease progression and may inform the multimodal development of future imaging markers in ALS. Future studies with larger cohorts and earlier disease stages are warranted to validate these findings.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "imaging biomarkers",
+        "neuroimaging",
+        "spinal cord imaging"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43080407",
       "event_key": "pubmed:43080407",
       "source_id": "pubmed",
@@ -2519,7 +3359,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43059883",
@@ -2869,7 +3709,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43074978",
@@ -2905,7 +3745,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43060119",
@@ -3208,6 +4048,44 @@
       "last_seen_at": "2026-11-09T07:02:08Z"
     },
     {
+      "id": "43090395",
+      "event_key": "pubmed:43090395",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond Lipid-Lowering and Stroke Prevention: Unraveling the Role of Statins in Neurological Diseases.",
+      "authors": [
+        "Nikolaos Nektarios Karamanolis",
+        "Natalia G Vallianou",
+        "Maria Dalamaga",
+        "Apostolos Evangelopoulos",
+        "Myrsini Ronioti",
+        "Dimitris C Kounatidis"
+      ],
+      "journal": "Metabolites",
+      "publication_date": "2026-11-05",
+      "pmid": "43090395",
+      "doi": "10.3390/metabo16110858",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090395/",
+      "abstract": "Background: Statins are established therapies for reducing cardiovascular and cerebrovascular risk. Beyond their lipid-lowering effects, they exert pleiotropic actions, including anti-inflammatory, immunomodulatory, antioxidant, anti-apoptotic, and vascular effects. Methods: This narrative review explores the effects of statins in a range of characteristic neurological disorders beyond stroke prevention, encompassing migraine, neurodegenerative and neuroinflammatory diseases, myasthenia gravis (MG), traumatic brain injury (TBI), brain tumors, epilepsy, and peripheral neuropathy (PN). A literature search was conducted in PubMed, Embase, and Scopus, focusing on proposed mechanisms of action, clinical outcomes, and potential neurological adverse effects. Results: Research suggests potential benefits of statins in migraine, TBI and its complications, brain tumors, and epilepsy. Favorable findings have also been reported in neurodegenerative and neuroinflammatory conditions, including Parkinson's disease, Huntington's disease, and multiple sclerosis. Despite earlier concerns regarding a possible association between statin use and an increased risk of dementia, subsequent studies have challenged this association, with some suggesting even a protective effect. Potential neurological adverse effects also warrant attention, particularly the reported association between statin exposure and new-onset or worsening MG. In contrast, data linking statin use to amyotrophic lateral sclerosis and PN are controversial and do not support causality. Interpretation of the available findings is complicated by heterogeneity in statin type and lipophilicity, dosage, treatment duration, disease stage, and study design. Clinical evidence is derived predominantly from observational studies, which are susceptible to confounding and other methodological limitations. Randomized controlled trials remain relatively few, with some further limited by small sample sizes. Conclusions: The pleiotropic properties of statins provide a rationale for investigating their potential therapeutic role across a broad spectrum of neurological disorders. Nevertheless, the available evidence remains heterogeneous and, in several conditions, conflicting. Further adequately powered randomized controlled trials are needed to establish whether statins translate their proposed pleiotropic effects into clinically meaningful benefits in specific neurological disorders and to better characterize their potential neurological risks.",
+      "mesh_terms": [],
+      "keywords": [
+        "drug repurposing",
+        "migraine",
+        "myasthenia gravis",
+        "neurodegenerative diseases",
+        "neuroinflammation",
+        "neurological disorders",
+        "neuroprotection",
+        "pleiotropic effects",
+        "statins",
+        "traumatic brain injury"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43073920",
       "event_key": "pubmed:43073920",
       "source_id": "pubmed",
@@ -3238,7 +4116,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43060627",
@@ -3510,6 +4388,35 @@
       "collected_at": "2026-11-07T06:27:20Z",
       "first_seen_at": "2026-11-07T06:27:20Z",
       "last_seen_at": "2026-11-09T07:02:08Z"
+    },
+    {
+      "id": "43097758",
+      "event_key": "pubmed:43097758",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Which brain MRI radiomic feature most accurately differentiates UMN-predominant ALS patients with and without CST hyperintensity?",
+      "authors": [
+        "Venkateswaran Rajagopalan",
+        "Erik P Pioro"
+      ],
+      "journal": "Journal of the neurological sciences",
+      "publication_date": "2026-11-04",
+      "pmid": "43097758",
+      "doi": "10.1016/j.jns.2026.126241",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097758/",
+      "abstract": "The diagnosis of amyotrophic lateral sclerosis (ALS) requires clinical evidence of both upper motor neuron (UMN) and lower motor neuron degeneration. Some UMN-predominant ALS patients demonstrate intracranial corticospinal tract (CST) hyperintensity (ALS-CST+) on T2- and proton density-weighted images, and exhibit faster disease progression than those without CST hyperintensity (ALS-CST-). We analyzed 149 radiomic features from brain magnetic resonance imaging (MRI) obtained at 1.5 T for routine clinical evaluation. This study examined whether grey matter (GM) or white matter features classify ALS-CST+ and ALS-CST- patients. MRI T1-weighted and diffusion tensor imaging (DTI) scans were acquired in 15 neurologic controls and 47 UMN-predominant ALS patients identified as ALS-CST+ or ALS-CST-. Monofractal and multifractal (MF) analyses were performed on GM and CST. Using DTI, we conducted graph theory network analysis, CST tractography, and perivascular space analyses. The 149 radiomic measures, along with age and gender were included as features in machine learning (ML) classifiers. Across eight ML algorithms, XGBoost classified ALS subgroups from controls and among themselves with 98% accuracy, sensitivity, specificity and F1 score. Local interpretable model-agnostic explanations method identified variables of importance. MF features, specifically frontal lobe GM capacity dimension D(Q) = 0 and cerebellar Δα, which reflects MF spectrum width, played a vital role in subgroup classification. Our results suggest that GM in these two regions is differentially affected in ALS subgroups and that MF analysis offers advantages over cortical thickness or voxel-based morphometry. Such MF measures may serve as non-invasive neuroimaging biomarkers for diagnosing UMN-predominant ALS patients.",
+      "mesh_terms": [],
+      "keywords": [
+        "Amyotrophic lateral sclerosis",
+        "DTI",
+        "Machine learning",
+        "Multifractal",
+        "XGBoost"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43004989",
@@ -5028,7 +5935,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43031658",
@@ -5671,6 +6578,40 @@
       "last_seen_at": "2026-10-31T06:09:12Z"
     },
     {
+      "id": "43086211",
+      "event_key": "pubmed:43086211",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "CPRISP: an interpretable deep learning framework predicting circRNA-RBP interactions and guiding therapeutic discovery in neurodegeneration.",
+      "authors": [
+        "Yongtian Wang",
+        "Jiahao Li",
+        "Xinmeng Liu",
+        "Linlin You",
+        "Calvin Yu-Chian Chen"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026-10-28",
+      "pmid": "43086211",
+      "doi": "10.1038/s41467-026-79009-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086211/",
+      "abstract": "Circular RNAs regulate gene expression through interactions with ribonucleic acid binding proteins, but their binding sites remain difficult to predict across proteins and cellular contexts. Existing methods often focus on transcript features while making limited use of protein-specific information and structural context. Here, we show that an integrated deep learning framework combining circular transcript sequence composition, physicochemical properties, secondary structure, pretrained representations and protein features improves interaction-site prediction across 37 benchmark datasets and generalizes across cell lines; model interpretation recovers conserved single-stranded sequence patterns, while analyses of proteins linked to Alzheimer disease, Parkinson disease and amyotrophic lateral sclerosis identify recurrent pathways involving nucleocytoplasmic transport, lysosomal signaling and guanosine triphosphatase activity and prioritize compounds for experimental follow-up, supporting accurate and interpretable mapping of circular ribonucleic acid protein interactions without implying therapeutic efficacy.",
+      "mesh_terms": [
+        "Deep Learning",
+        "Humans",
+        "RNA, Circular",
+        "RNA-Binding Proteins",
+        "Binding Sites",
+        "Neurodegenerative Diseases",
+        "Computational Biology"
+      ],
+      "keywords": [],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "43085805",
       "event_key": "pubmed:43085805",
       "source_id": "pubmed",
@@ -5699,7 +6640,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43027884",
@@ -6161,6 +7102,85 @@
       "collected_at": "2026-10-26T05:10:19Z",
       "first_seen_at": "2026-10-26T05:10:19Z",
       "last_seen_at": "2026-10-28T06:06:47Z"
+    },
+    {
+      "id": "43093809",
+      "event_key": "pubmed:43093809",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "PEG10: Domesticated from Viruses, Unleashed in Disease.",
+      "authors": [
+        "Maria E Rogan",
+        "Alexandra M Whiteley"
+      ],
+      "journal": "Viruses",
+      "publication_date": "2026-10-27",
+      "pmid": "43093809",
+      "doi": "10.3390/v18111191",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093809/",
+      "abstract": "The influence of some retroelement-derived genes is conflicting: their adaptive role is essential to promote specific biological processes, while their dysregulation can have profound consequences in disease pathology. A prominent example of this is Paternally Expressed Gene 10 (PEG10), a member of the Mart family of retrotransposons that has both gag- and pol-like domains. PEG10 preserves many features that are shared with retrotransposons, including the ability to bind and package RNA into virus-like particles and to undergo self-processing through its aspartic protease domain. Here, we explore the role of PEG10 in both adaptive and pathological biology. Throughout evolution, PEG10 has been co-opted to support placental development, playing a vital role in fetal vasculature formation within the mouse placenta and in trophoblast cell differentiation. However, the accumulation of PEG10 has been identified in two neurological diseases, Angelman's syndrome and Amyotrophic Lateral Sclerosis, and in numerous malignancies, where its activity may influence disease pathology. Although considerable progress has been made, the adaptive and putative pathological mechanisms of PEG10 activity remain elusive, and future work will aim to isolate the exact processes that govern PEG10's ability to influence both placental development and disease pathology.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Pregnancy",
+        "Female",
+        "Retroelements",
+        "Placenta",
+        "Amyotrophic Lateral Sclerosis",
+        "Placentation",
+        "Proteins",
+        "DNA-Binding Proteins",
+        "RNA-Binding Proteins",
+        "Apoptosis Regulatory Proteins"
+      ],
+      "keywords": [
+        "ALS",
+        "Angelman syndrome",
+        "Mart",
+        "PEG10",
+        "cancer",
+        "placenta"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43090628",
+      "event_key": "pubmed:43090628",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Gut-Liver-Brain Axis in Neurodegeneration: Unraveling Metabolic-Immune Crosstalk from Peripheral Sensing to Central Vulnerability.",
+      "authors": [
+        "Jiahui Zhou",
+        "Jiahui Wang",
+        "Xiaopu Li",
+        "Jiaxing Dou",
+        "Shihan Chen",
+        "Feng Xue"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2026-10-27",
+      "pmid": "43090628",
+      "doi": "10.3390/life16111808",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090628/",
+      "abstract": "Neurodegenerative diseases (NDs) have traditionally been regarded as brain-centered disorders driven primarily by the accumulation of pathological proteins. However, increasing evidence indicates that systemic metabolic dysfunction, chronic inflammation, intestinal dysbiosis, hepatic abnormalities, and barrier impairment may substantially influence disease susceptibility and progression. This review integrates current evidence on the gut-liver-brain axis (GLBA) and proposes Systemic Metabolic-Immune Reprogramming (SMIR) as a systems-level framework for understanding how peripheral disturbances may be translated into central nervous system vulnerability. Within this model, the gut generates microbial and metabolic signals, the liver functions as a metabolic-immune integrator that senses, transforms, buffers, or amplifies these signals, and the brain represents a downstream vulnerable organ in which persistent systemic disturbances reshape neuroimmune states and neuronal homeostasis. Particular emphasis is placed on the sequential and bidirectional interactions among intestinal barrier dysfunction, hepatic metabolic-immune activation, systemic inflammatory remodeling, blood-brain barrier vulnerability, and central neuroimmune dysregulation. Key molecular mediators include short-chain fatty acids, bile acids, tryptophan-kynurenine metabolites, trimethylamine N-oxide, ceramides, hepatokines, complement components, extracellular vesicles, and inflammatory cytokines, together with signaling pathways involving TLRs, FXR/TGR5, NLRP3, mitochondrial stress, and cGAS-STING. We further discuss how microglial and astrocytic metabolic reprogramming, mitochondrial dysfunction, ferroptosis, and impaired proteostasis may connect systemic metabolic stress with neuronal injury. Disease-specific manifestations of this framework are examined in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, and multiple system atrophy, highlighting both shared systemic mechanisms and distinct patterns of organ susceptibility. Emerging approaches, including longitudinal multi-omics, spatial transcriptomics, metabolomics, extracellular-vesicle profiling, organoid models, and artificial intelligence-assisted integration, may enable reconstruction of inter-organ communication networks and identification of disease-specific SMIR signatures. Therapeutically, this framework supports a shift from isolated downstream targets toward coordinated modulation of microbiome composition, hepatic metabolism, immune activity, barrier integrity, nutrition, and CNS pathology. Although causal relationships remain to be established, the GLBA-SMIR perspective provides a testable conceptual foundation for earlier diagnosis, patient stratification, precision nutrition, and multi-system intervention in neurodegenerative diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "bile acids",
+        "blood–brain barrier",
+        "gut microbiota",
+        "gut–liver–brain axis",
+        "metabolite",
+        "neurodegeneration",
+        "neuroinflammation",
+        "systemic metabolic–immune reprogramming"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43011830",
@@ -7151,6 +8171,83 @@
       "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
+      "id": "43088403",
+      "event_key": "pubmed:43088403",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Phytochemicals as Modulators of Biomolecular Condensates and Liquid-Liquid Phase Separation in Neurodegenerative Diseases: Emerging Mechanisms and Therapeutic Perspectives.",
+      "authors": [
+        "Stefano Ruga",
+        "Elisa Matarese",
+        "Raffaele Petti",
+        "Leonardo Miscio",
+        "Clementina Sansone",
+        "Grazia Mingolla",
+        "Giovanna Liguori",
+        "Renato Lombardi",
+        "Antonio Giordano"
+      ],
+      "journal": "Current issues in molecular biology",
+      "publication_date": "2026-10-23",
+      "pmid": "43088403",
+      "doi": "10.3390/cimb48111101",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088403/",
+      "abstract": "Neurodegenerative diseases are increasingly recognized as disorders of cellular proteostasis characterized by progressive protein imbalance, defective stress adaptation, and neuronal dysfunction. Recent discoveries have established biomolecular condensates generated through liquid-liquid phase separation (LLPS) as essential regulators of neuronal organization, coordinating RNA metabolism, protein quality control, stress responses, and intracellular signaling. Alterations in condensate composition, material properties, and turnover are now considered important contributors to the conversion of physiological protein assemblies into persistent pathological structures, thereby influencing the progression of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, frontotemporal dementia, and related disorders. Natural compounds, including polyphenols, flavonoids, and other phytochemicals, have gained increasing attention due to their broad neuroprotective activities; however, their potential ability to influence condensate biology remains incompletely characterized. This review provides a comprehensive and critical analysis of current evidence connecting natural compounds with biomolecular condensate homeostasis, including direct effects on phase separation as well as indirect regulation through stress granule remodeling, molecular chaperone activity, autophagy, mitochondrial function, oxidative balance, neuroinflammatory pathways, and proteostasis networks. Particular emphasis is placed on the molecular mechanisms through which these bioactive molecules may affect aggregation-associated pathways involving amyloid-β, tau, α-synuclein, TDP-43, and FUS. Finally, current experimental limitations, translational challenges, and future perspectives are discussed, highlighting biomolecular condensates as emerging therapeutic targets and natural compounds as potential multimodal modulators capable of preserving physiological phase behavior while limiting pathological protein maturation. This emerging framework may provide new opportunities for the development of disease-modifying strategies in neurodegenerative disorders.",
+      "mesh_terms": [],
+      "keywords": [
+        "autophagy",
+        "biomolecular condensates",
+        "molecular chaperones",
+        "neurodegeneration",
+        "neuroinflammation",
+        "neuronal resilience",
+        "oxidative stress",
+        "protein misfolding",
+        "proteostasis",
+        "stress granules"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
+      "id": "43088270",
+      "event_key": "pubmed:43088270",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Human Meissner Corpuscles: From Classical Morphology to Molecular Mechanobiology and Clinical Significance.",
+      "authors": [
+        "José A Vega",
+        "Elda Alba-Suárez",
+        "Patricia Cuendias",
+        "Yolanda García-Mesa"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2026-10-23",
+      "pmid": "43088270",
+      "doi": "10.3390/brainsci16111154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088270/",
+      "abstract": "Meissner corpuscles are specialized cutaneous mechanosensory end organs primarily located in the dermal papillae of human glabrous skin and specialized mucocutaneous territories. Traditionally regarded as rapidly adapting tactile receptors composed of a sensory axon surrounded by passive lamellar cells, current evidence supports a more complex organization in which the axon, terminal glial cells (TGCs), extracellular matrix, and endoneurial capsule form an integrated mechanosensory unit. This review provides an updated synthesis of the development, anatomical distribution, structural organization, molecular phenotype, mechanotransduction, functional neurobiology, aging, and pathological alterations of human Meissner corpuscles. Particular attention is given to the molecular identity of TGCs and to their emerging role as active components of corpuscular function. PIEZO2 remains the best-established mediator of primary mechanotransduction in the sensory axon, whereas human TGCs express several mechanosensing-associated proteins and experimental evidence suggests a potential glial contribution to corpuscular function. Human studies also demonstrate substantial regional and age-related variability in corpuscular density and phenotype. Importantly, Meissner corpuscles undergo quantitative, structural, immunophenotypic, and molecular alterations in a broad spectrum of peripheral and central neurological disorders. Recent evidence of disease-associated molecular pathology, including intracorpuscular phosphorylated TDP-43 in amyotrophic lateral sclerosis, further expands their potential relevance as accessible peripheral indicators of neurological disease. Finally, emerging three-dimensional imaging, tissue-clearing, spatial molecular profiling, functional imaging, and quantitative digital approaches provide new opportunities for investigating human corpuscular organization. Collectively, current evidence supports viewing the Meissner corpuscle as a dynamic neuro-glial mechanosensory organ whose biological and clinical significance extends beyond its classical role in discriminative touch.",
+      "mesh_terms": [],
+      "keywords": [
+        "Meissner corpuscle",
+        "PIEZO2",
+        "glabrous skin",
+        "mechanosensation",
+        "mechanotransduction",
+        "neurodegenerative diseases",
+        "sensory neuropathies",
+        "tactile receptors",
+        "terminal glial cells",
+        "touch"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
+    },
+    {
       "id": "42924853",
       "event_key": "pubmed:42924853",
       "source_id": "pubmed",
@@ -7416,6 +8513,49 @@
       "collected_at": "2026-10-24T04:55:33Z",
       "first_seen_at": "2026-10-24T04:55:33Z",
       "last_seen_at": "2026-10-26T05:10:19Z"
+    },
+    {
+      "id": "43089317",
+      "event_key": "pubmed:43089317",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Precision Gene Therapy for Monogenic Neurological Disorders: Emerging Technologies, Safety, and Mechanism-Modality Matching.",
+      "authors": [
+        "Jiawei Du",
+        "Xiaolu Meng",
+        "Pu Fan",
+        "Nuo Si"
+      ],
+      "journal": "Genes",
+      "publication_date": "2026-10-22",
+      "pmid": "43089317",
+      "doi": "10.3390/genes17111321",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43089317/",
+      "abstract": "Monogenic neurological disorders remain challenging to treat because of the restricted permeability of the blood-brain barrier (BBB), the limited regenerative capacity of the central nervous system (CNS), and the difficulty of achieving therapeutically meaningful correction in disease-relevant cell populations. Rapid advances in gene-based therapies are expanding the range of genetic defects that may be amenable to therapeutic intervention, shifting the field from symptomatic management toward mechanism-based intervention. In this Review, we examine emerging gene- and RNA-based therapeutic strategies across representative disorders, including spinal muscular atrophy (SMN1/SMN2), SOD1-associated amyotrophic lateral sclerosis, and SCN1A-related Dravet syndrome, with particular emphasis on vector engineering, RNA modulation, genome editing, and large-cargo delivery approaches. We further discuss patient-derived organoids and organ-on-a-chip systems as human-relevant platforms for preclinical validation, as well as emerging therapeutic contexts such as in utero intervention. Rather than treating these technologies as interchangeable, we propose a mechanism-modality matching framework in which therapeutic selection is guided by disease mechanism, cargo requirements, target-cell distribution, durability, reversibility, immune risk, and therapeutic timing. Particular attention is given to modality-specific safety, including AAV-associated hepatotoxicity and immunogenicity, as well as unintended genomic alterations and long-term genome integrity associated with genome editing. Precision gene therapy should therefore be defined not by the use of the most advanced technology, but by selection of an intervention that achieves sufficient molecular correction with an appropriate balance of efficacy, durability, reversibility, delivery feasibility, and long-term safety.",
+      "mesh_terms": [
+        "Humans",
+        "Genetic Therapy",
+        "Nervous System Diseases",
+        "Animals",
+        "Gene Therapy Agents",
+        "Muscular Atrophy, Spinal",
+        "Precision Medicine",
+        "Amyotrophic Lateral Sclerosis",
+        "Epilepsies, Myoclonic",
+        "Gene Editing"
+      ],
+      "keywords": [
+        "CNS delivery",
+        "RNA therapeutics",
+        "genome editing",
+        "mechanism–modality matching",
+        "monogenic neurological disorders",
+        "precision gene therapy"
+      ],
+      "collected_at": "2026-11-27T08:57:50Z",
+      "first_seen_at": "2026-11-27T08:57:50Z",
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "42995797",
@@ -21156,7 +22296,7 @@
       "keywords": [],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "42779169",
@@ -22065,7 +23205,7 @@
       "keywords": [],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "42723774",
@@ -23486,7 +24626,7 @@
       "keywords": [],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-26T08:46:43Z"
+      "last_seen_at": "2026-11-27T08:57:50Z"
     },
     {
       "id": "43049247",
