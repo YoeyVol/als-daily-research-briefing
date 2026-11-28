@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-11-27T08:57:51Z",
-  "new_keys": [],
+  "updated_at": "2026-11-28T08:18:39Z",
+  "new_keys": [
+    "clinicaltrials:NCT07204977:2026-11-27",
+    "clinicaltrials:NCT07023835:2026-11-27"
+  ],
   "items": [
+    {
+      "id": "NCT07204977",
+      "event_key": "clinicaltrials:NCT07204977:2026-11-27",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07204977",
+      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "phase": [
+        "PHASE1"
+      ],
+      "recruitment_status": "RECRUITING",
+      "intervention": [
+        "Drug: Acamprosate calcium"
+      ],
+      "start_date": "2026-02-02",
+      "last_update_date": "2026-11-27",
+      "url": "https://clinicaltrials.gov/study/NCT07204977",
+      "collected_at": "2026-11-28T08:18:39Z",
+      "first_seen_at": "2026-10-02T06:02:01Z",
+      "last_seen_at": "2026-11-28T08:18:39Z"
+    },
+    {
+      "id": "NCT07023835",
+      "event_key": "clinicaltrials:NCT07023835:2026-11-27",
+      "source_id": "clinicaltrials_gov",
+      "source_name": "ClinicalTrials.gov",
+      "category": "Clinical Trials",
+      "nct_id": "NCT07023835",
+      "title": "Usnoflast Neuromuscular Investigation for Treatment Efficacy in Amyotrophic Lateral Sclerosis",
+      "sponsor": "Zydus Therapeutics Inc.",
+      "phase": [
+        "PHASE2"
+      ],
+      "recruitment_status": "ACTIVE_NOT_RECRUITING",
+      "intervention": [
+        "Drug: 50 mg Usnoflast",
+        "Drug: 75 mg Usnoflast",
+        "Drug: Placebo"
+      ],
+      "start_date": "2025-09-17",
+      "last_update_date": "2026-11-27",
+      "url": "https://clinicaltrials.gov/study/NCT07023835",
+      "collected_at": "2026-11-28T08:18:39Z",
+      "first_seen_at": "2026-11-28T08:18:39Z",
+      "last_seen_at": "2026-11-28T08:18:39Z"
+    },
     {
       "id": "NCT07959003",
       "event_key": "clinicaltrials:NCT07959003:2026-11-25",
@@ -23,7 +74,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07959003",
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:51Z"
+      "last_seen_at": "2026-11-28T08:18:39Z"
     },
     {
       "id": "NCT07571200",
@@ -46,7 +97,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07571200",
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-11-27T08:57:51Z"
+      "last_seen_at": "2026-11-28T08:18:39Z"
     },
     {
       "id": "NCT07571174",
@@ -69,7 +120,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07571174",
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-09-23T05:02:12Z",
-      "last_seen_at": "2026-11-27T08:57:51Z"
+      "last_seen_at": "2026-11-28T08:18:39Z"
     },
     {
       "id": "NCT06903286",
@@ -92,7 +143,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06903286",
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:51Z"
+      "last_seen_at": "2026-11-28T08:18:39Z"
     },
     {
       "id": "NCT07833618",
@@ -140,29 +191,6 @@
       "url": "https://clinicaltrials.gov/study/NCT07823101",
       "collected_at": "2026-11-25T08:59:44Z",
       "first_seen_at": "2026-09-17T05:09:43Z",
-      "last_seen_at": "2026-11-27T08:57:51Z"
-    },
-    {
-      "id": "NCT07204977",
-      "event_key": "clinicaltrials:NCT07204977:2026-11-24",
-      "source_id": "clinicaltrials_gov",
-      "source_name": "ClinicalTrials.gov",
-      "category": "Clinical Trials",
-      "nct_id": "NCT07204977",
-      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
-      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
-      "phase": [
-        "PHASE1"
-      ],
-      "recruitment_status": "RECRUITING",
-      "intervention": [
-        "Drug: Acamprosate calcium"
-      ],
-      "start_date": "2026-02-02",
-      "last_update_date": "2026-11-24",
-      "url": "https://clinicaltrials.gov/study/NCT07204977",
-      "collected_at": "2026-11-25T08:59:44Z",
-      "first_seen_at": "2026-10-02T06:02:01Z",
       "last_seen_at": "2026-11-27T08:57:51Z"
     },
     {

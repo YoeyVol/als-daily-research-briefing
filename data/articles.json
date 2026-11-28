@@ -1,36 +1,15 @@
 {
-  "updated_at": "2026-11-27T08:57:51Z",
+  "updated_at": "2026-11-28T08:18:39Z",
   "new_keys": [
-    "pubmed:43095914",
-    "pubmed:43098724",
-    "pubmed:43098244",
-    "pubmed:43096161",
-    "pubmed:43095897",
-    "pubmed:43089545",
-    "pubmed:43086515",
-    "pubmed:43087054",
-    "pubmed:43092100",
-    "pubmed:43090786",
-    "pubmed:43087651",
-    "pubmed:43091108",
-    "pubmed:43088388",
-    "pubmed:43093769",
-    "pubmed:43091974",
-    "pubmed:43091924",
-    "pubmed:43088373",
-    "pubmed:43091768",
-    "pubmed:43088506",
-    "pubmed:43088502",
-    "pubmed:43088350",
-    "pubmed:43095196",
-    "pubmed:43090395",
-    "pubmed:43097758",
-    "pubmed:43086211",
-    "pubmed:43093809",
-    "pubmed:43090628",
-    "pubmed:43088403",
-    "pubmed:43088270",
-    "pubmed:43089317"
+    "pubmed:43102721",
+    "pubmed:43102653",
+    "pubmed:43102520",
+    "pubmed:43100034",
+    "pubmed:43100834",
+    "pubmed:43100689",
+    "pubmed:43100450",
+    "pubmed:43101019",
+    "pubmed:43101833"
   ],
   "items": [
     {
@@ -77,7 +56,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43078795",
@@ -123,7 +102,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43059034",
@@ -213,6 +192,169 @@
       "last_seen_at": "2026-11-21T07:37:10Z"
     },
     {
+      "id": "43102721",
+      "event_key": "pubmed:43102721",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Cutting-Edge Nanotechnological Approaches for Combating Neurodegenerative Disorders.",
+      "authors": [
+        "Shain Pathan",
+        "Aishwarya Unchegaonkar",
+        "Snehal Hase",
+        "Rohit Doke",
+        "Kuldeep Vinchurkar",
+        "Sachin Mendhi",
+        "Amruta Deorao Shete"
+      ],
+      "journal": "Molecular neurobiology",
+      "publication_date": "2026-11-27",
+      "pmid": "43102721",
+      "doi": "10.1007/s12035-026-06367-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102721/",
+      "abstract": "The progressive loss of neural function is a hallmark of neurodegenerative illnesses, including multiple sclerosis, amyotrophic lateral sclerosis, Parkinson's disease, Huntington's disease, and Alzheimer's disease. The progressive deterioration of neural function results in cognitive decline, motor dysfunction, and deficits in sensory processing. Existing therapeutic approaches are largely symptomatic, offering only temporary relief without effectively halting or reversing disease progression. Emerging evidence suggests that phytomedicine, derived from plant-based bioactive compounds, possesses significant neuroprotective potential through mechanisms such as antioxidant activity, anti-inflammatory effects, and modulation of neurotransmitter systems. Despite these benefits, clinical translation remains constrained by inherent limitations, including poor bioavailability, rapid metabolic degradation, and restricted permeability across the blood-brain barrier (BBB). To overcome these barriers, nanotechnology-based strategies have gained considerable attention. Novel nanoformulations-such as nanoparticles, liposomes, and other nanocarrier systems-have shown promise in enhancing the stability, bioavailability, and targeted delivery of phytochemicals to the brain, thereby optimizing their therapeutic efficacy. Nanotechnology-based approaches enable controlled release and improved permeability across the BBB, thereby enhancing the therapeutic potential of phytomedicines in the management of neurodegenerative diseases. This review provides a comprehensive overview of the synergistic integration of phytomedicine and nanotechnology, emphasizing recent advances in their application for neurodegenerative disorders. Particular focus is given to how nanotechnology augments the pharmacokinetic and pharmacodynamic profiles of plant-derived bioactive compounds, potentially transforming them into more effective and disease-modifying therapeutic modalities. The convergence of these two fields underscores a promising, multi-dimensional strategy aimed at addressing the unmet clinical needs in neurodegeneration.",
+      "mesh_terms": [
+        "Neurodegenerative Diseases",
+        "Humans",
+        "Animals",
+        "Nanotechnology",
+        "Blood-Brain Barrier",
+        "Neuroprotective Agents",
+        "Nanoparticles"
+      ],
+      "keywords": [
+        "Nano formulations",
+        "Nanotechnology",
+        "Neurodegenerative disease",
+        "Neuroprotective",
+        "Phytomedicine"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
+      "id": "43102653",
+      "event_key": "pubmed:43102653",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Ageing-driven proteome stoichiometry failure in neurodegeneration: protein-complex imbalance, translational stress, cell-state vulnerability, and therapeutic opportunities.",
+      "authors": [
+        "Abida Khan",
+        "Howayada Mahany Mostafa",
+        "Hayaa M Alhuthali",
+        "Shatha Alzahrani",
+        "Zia Ur Rehman",
+        "Abdulaziz H Alanazi",
+        "Bandar Theyab Alenezi",
+        "Mohd Imran"
+      ],
+      "journal": "Biogerontology",
+      "publication_date": "2026-11-27",
+      "pmid": "43102653",
+      "doi": "10.1007/s10522-026-10550-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102653/",
+      "abstract": "Protein-complex stoichiometry is an important but largely enigmatic component of proteostasis during ageing. This review focuses on the selective vulnerability to age-associated disruption of quantitative protein-complex coordination in neurodegenerative diseases. Ageing models provide evidence of changes in the relative abundance of subunits in protein complexes, while changes in transcript-protein correlation, protein turnover, the function of the ribosome, the capacity to chaperone, and the activity of the proteasome provide indirect evidence of stoichiometric disruption. These processes could lead to the formation of orphan subunits, incomplete assemblies, and nascent chains. Perhaps the abundance or aggregation of a protein is not sufficient to conclude that altered stoichiometry exists. The review differentiates between subunit imbalance, proteostatic abnormalities, and mechanistic hypotheses. Protein synthesis and quality control disturbances associated with disease are examined in the context of Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis/frontotemporal dementia, with a focus on differences in the pathologies that initiate them. Cell-state specific vulnerability is thought to be due to neuronal architecture, metabolic need, protein turnover, and glial support. Therapeutic strategies that target translation, chaperones, proteasomal function, and stress responses are assessed, and the benefits that have been demonstrated are differentiated from those that have yet to be proven to restore protein-complex stoichiometry. Future studies incorporating subunit measurements, profiling of intact complexes, and cell-specific longitudinal studies are required to determine whether stoichiometric imbalance plays a causal role in neurodegeneration and is a therapeutic target.",
+      "mesh_terms": [
+        "Humans",
+        "Aging",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Proteome",
+        "Protein Biosynthesis",
+        "Proteostasis",
+        "Proteotoxic Stress",
+        "Proteasome Endopeptidase Complex"
+      ],
+      "keywords": [
+        "Ageing",
+        "Neurodegeneration",
+        "Protein-complex assembly",
+        "Proteome stoichiometry",
+        "Proteostasis",
+        "Ribosome quality control"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
+      "id": "43102520",
+      "event_key": "pubmed:43102520",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "TDP-43 across the neurodegenerative disease spectrum.",
+      "authors": [
+        "Xiaojie Wang",
+        "Sophie Ball",
+        "Jordan Bartfield",
+        "Madison M Reeves",
+        "Dennis W Dickson",
+        "Mercedes Prudencio"
+      ],
+      "journal": "Acta neuropathologica",
+      "publication_date": "2026-11-27",
+      "pmid": "43102520",
+      "doi": "10.1007/s00401-026-03119-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102520/",
+      "abstract": "Transactive response DNA-binding protein 43 kDa (TDP-43) has emerged as an important player in neurodegeneration, extending beyond its classical association with amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). In this review, we examine the spectrum of TDP-43 proteinopathies, distinguishing disease-defining, age-related and disease-associated forms of pathology. We synthesize evidence on the prevalence, anatomical distribution, morphology features, and molecular consequences of TDP-43 pathology, highlighting the dual contributions of nuclear TDP-43 loss of function and cytoplasmic toxicity. We further explore the interplay between TDP-43 and other major proteinopathies, including Tau, amyloid-β, α-synuclein, as well as several other pathologies. Across disorders, TDP-43 pathology may act as a primary driver of disease, emerge as an age-related process compatible with limbic-predominant age-related TDP-43 encephalopathy neuropathologic changes (LATE-NC), reflect disease-specific pathogenic mechanisms, or represent a co-pathology of uncertain significance. By integrating findings across diverse neurological disorders, we propose a framework for interpreting TDP-43 pathology in its biological context and highlight priorities for future research, including region- and subtype-specific studies, functional biomarkers, and targeted therapeutic strategies.",
+      "mesh_terms": [
+        "Humans",
+        "DNA-Binding Proteins",
+        "Neurodegenerative Diseases",
+        "TDP-43 Proteinopathies",
+        "Animals",
+        "Brain"
+      ],
+      "keywords": [
+        "LATE-NC",
+        "Proteinopathy",
+        "Synuclein",
+        "TDP-43",
+        "Tau"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
+      "id": "43100034",
+      "event_key": "pubmed:43100034",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Survival Benefit and Treatment Patterns of Edaravone-Treated People With Amyotrophic Lateral Sclerosis in the ALS/MND Natural History Consortium.",
+      "authors": [
+        "Alexander V Sherman",
+        "Jeffrey Zhang",
+        "Ying Liu",
+        "Julia Geller",
+        "Kinjal Patel",
+        "Malgorzata Ciepielewska",
+        "ALS Natural History Consortium Investigator Authors",
+        "Stephen Apple"
+      ],
+      "journal": "Muscle & nerve",
+      "publication_date": "2026-11-26",
+      "pmid": "43100034",
+      "doi": "10.1002/mus.70459",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100034/",
+      "abstract": "INTRODUCTION/AIMS: Riluzole, intravenous (IV) edaravone, and edaravone oral suspension are United States Food and Drug Administration-approved treatments for amyotrophic lateral sclerosis (ALS). This study obtained data on survival of edaravone-treated people with ALS versus riluzole-only-treated people with ALS in the ALS/Motor Neuron Disease (MND) Natural History Consortium (NHC), a longitudinal clinic-based registry for people living with ALS.\n\nMETHODS: Participants in this observational ALS/MND NHC database cohort study receiving edaravone ± riluzole were propensity score matched 1:2 to those receiving riluzole only. Matching used 9 baseline covariates: sex, age, race, body mass index, revised ALS Functional Rating Scale (ALSFRS-R) total score, forced vital capacity (FVC) %-predicted measures, and pre-index use of noninvasive ventilation, enteral feeding, and disease duration. Data were collected from 2015 through 2025. Index date was the first ALS treatment date. Survival (death) was estimated using the Kaplan-Meier model.\n\nRESULTS: Participants were grouped into those receiving edaravone ± riluzole (n = 102) or riluzole only (n = 177). After matching, estimated median survival (death only) for participants treated with edaravone ± riluzole was 25.8 months versus 22.0 months for the riluzole-only group (p = 0.029).\n\nDISCUSSION: These findings extend existing evidence supporting edaravone use in ALS by demonstrating improved survival versus riluzole alone and offering additional considerations that may support the rationale for combination therapy with riluzole in routine clinical practice.",
+      "mesh_terms": [],
+      "keywords": [
+        "amyotrophic lateral sclerosis",
+        "clinical practice",
+        "edaravone",
+        "efficacy",
+        "survival"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
       "id": "43098724",
       "event_key": "pubmed:43098724",
       "source_id": "pubmed",
@@ -246,7 +388,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43098244",
@@ -277,7 +419,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43096161",
@@ -312,7 +454,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43095897",
@@ -344,7 +486,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43085940",
@@ -384,7 +526,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43089545",
@@ -415,7 +557,7 @@
       "keywords": [],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43086515",
@@ -455,7 +597,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43085525",
@@ -489,7 +631,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43081733",
@@ -523,7 +665,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43081698",
@@ -564,7 +706,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43080154",
@@ -600,7 +742,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43078335",
@@ -631,7 +773,7 @@
       ],
       "collected_at": "2026-11-25T08:59:43Z",
       "first_seen_at": "2026-11-25T08:59:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43076871",
@@ -731,7 +873,7 @@
       "keywords": [],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43071990",
@@ -886,7 +1028,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43090786",
@@ -923,7 +1065,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43087651",
@@ -956,7 +1098,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43064600",
@@ -1176,7 +1318,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088388",
@@ -1198,7 +1340,7 @@
       "keywords": [],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43061696",
@@ -1379,7 +1521,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43091974",
@@ -1419,7 +1561,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43051945",
@@ -1590,6 +1732,93 @@
       "last_seen_at": "2026-10-16T04:51:28Z"
     },
     {
+      "id": "43100834",
+      "event_key": "pubmed:43100834",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Targeting STAU1 ameliorates disease phenotypes in TDP-43 ALS mice.",
+      "authors": [
+        "Daniel Scoles",
+        "Sharan Paul",
+        "Warunee Dansithong",
+        "Karla P Figueroa",
+        "Jinze Li",
+        "Pravin Hivare",
+        "Collin J Anderson",
+        "Mandi Gandelman",
+        "Stefan M Pulst"
+      ],
+      "journal": "Research square",
+      "publication_date": "2026-11-17",
+      "pmid": "43100834",
+      "doi": "10.21203/rs.3.rs-11750300/v1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100834/",
+      "abstract": "Altered RNA metabolism and impaired proteostasis are central to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). STAU1 is a multifunctional RNA-binding protein that regulates mRNA decay and trafficking, interacts with ATXN2, and is overabundant in neurodegenerative disease models. STAU1 overabundance activates mTOR signaling, impairs autophagy and stress-granule turnover, and thereby participates in a feed-forward circuit that further elevates STAU1 abundance. Here, we tested whether genetic and antisense oligonucleotide (ASO)-mediated STAU1 lowering can interrupt this circuit in TDP-43-associated disease. Stau1 haploinsufficiency in Prp -TDP-43 Q331K mice improved motor performance and open-field measures, reduced TDP-43 and gliosis, normalized neuronal, apoptotic, and autophagy markers, restored TDP-43-dependent splicing, and attenuated transcriptomic abnormalities. Screening 2'- O -methoxyethyl (MOE) gapmer ASOs identified ASO-45, which lowered STAU1 in patient-derived fibroblasts and mouse CNS. Intracerebroventricular ASO-45 improved spinal-cord and motor-cortex phenotypes, restored splicing, and attenuated cortical transcriptomic abnormalities. In independent Thy1 -TDP-43 models, ASO-45 improved molecular markers and extended survival by 9.5-15.7%. These findings show that STAU1 lowering can disrupt a self-amplifying mTOR-autophagy-stress-granule axis and nominate STAU1-directed ASOs as a disease-modifying strategy for ALS/FTD.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
+      "id": "43100689",
+      "event_key": "pubmed:43100689",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "Human Endogenous Retrovirus K RNA triggers cytoplasmic TDP-43 aggregation by initiating pathological nuclear condensates.",
+      "authors": [
+        "Yung-Heng Chang",
+        "Josh Dubnau"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-17",
+      "pmid": "43100689",
+      "doi": "10.64898/2026.11.16.767080",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100689/",
+      "abstract": "Cytoplasmic aggregation of the nuclear RNA-binding protein TDP-43 is a defining pathology of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) and is seen in many cases of Alzheimer's disease (AD), yet what initiates this process remains unknown. Here we identify an unexpected trigger: RNA from human endogenous retrovirus-K (HERV-K), an ancient retroviral element embedded in the human genome. Using CRISPR-engineered cells expressing Halo-tagged TDP-43 at endogenous levels, we show that HERV-K activation drives formation of cytoplasmic TDP-43 aggregates and functional loss of nuclear TDP-43, measured by aberrant cryptic exon inclusion. Surprisingly, cytoplasmic aggregation is preceded by the appearance of phosphorylated TDP-43 condensates in the nucleus, structures we term Pathological ERV-TDP-43-Associated Nuclear Spheres (PETANS). Live-cell imaging reveals that cytoplasmic inclusions originate directly from these nuclear bodies. This inverts the conventional model to suggest that pathological TDP-43 condensation begins in the nucleus, not the cytoplasm. Super-resolution imaging and structure-function mapping show that HERV-K RNA localizes within PETANS and drives their formation, with a minimal UG-rich non-coding element sufficient to induce the full cascade of nuclear and cytoplasmic pathology. Our findings establish an endogenous retroviral RNA as a direct molecular nucleator of TDP-43 proteinopathy.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
+      "id": "43100450",
+      "event_key": "pubmed:43100450",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Research",
+      "title": "UBQLN2, but not an ALS-linked variant, protects client protein from temperature-induced self-association.",
+      "authors": [
+        "Nirbhik Acharya",
+        "Thuy P Dao",
+        "Nikolas Grotewold",
+        "Mallory P Brown",
+        "Jessica K Niblo",
+        "Maxwell B Watkins",
+        "Jesse B Hopkins",
+        "True Rappold",
+        "Shahar Sukenik",
+        "Stewart N Loh",
+        "Henry L Paulson",
+        "Lisa M Sharkey",
+        "Carlos A Castañeda"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publication_date": "2026-11-17",
+      "pmid": "43100450",
+      "doi": "10.64898/2026.11.16.767065",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100450/",
+      "abstract": "UNLABELLED: Aside from its established role in delivering ubiquitinated substrates for degradation, the proteasomal shuttle factor UBQLN2 also functions as a chaperone, likely via its central STI1 domains. Chaperone activity remains poorly understood due to the lack of known clients. Domesticated retrotransposon protein RTL8 was recently identified as a UBQLN2 interactor, and RTL8's cellular levels are stabilized by UBQLN2. RTL8 is a small protein comprising an N-terminal helix that drives its high-order oligomerization and a C-terminal helical bundle that weakly self-associates, especially at higher temperatures. Here, we provide direct evidence that UBQLN2 acts as a chaperone for RTL8. The N-terminal region of UBQLN2, through its UBL and STI1-I domains, engages RTL8 with low-nanomolar affinity in a sandwich conformation that prevents temperature-dependent self-association of RTL8. Notably, an ALS-linked mutation in the UBQLN2 STI1-I domain reduces RTL8 affinity by an order of magnitude, and impairs the ability of UBQLN2 to protect RTL8 from self-association in vitro and to stabilize RTL8 levels in cells. These findings expand the functional repertoire of UBQLN2 beyond proteasomal shuttling and link its chaperone activity to a disease-relevant mutation.\n\nHIGHLIGHTS: N-terminal 24 residues of retrotranspon-derived element RTL8 mediates its high-order oligomerization, while the folded C-terminal exhibits dynamic self-associationN-terminal region of UBQLN2 (UBL and STI1-I) interacts with RTL8 in a sandwich-like mode with nanomolar affinityUBQLN2 chaperones RTL8 client at elevated temperature by preventing its self-associationUBQLN2 ALS-linked mutation P189T in the STI1-I domain weakens binding to RTL8, and hinders the ability of UBQLN2 to stabilize RTL8 levels in cells.",
+      "mesh_terms": [],
+      "keywords": [],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
       "id": "43091924",
       "event_key": "pubmed:43091924",
       "source_id": "pubmed",
@@ -1636,7 +1865,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088373",
@@ -1668,7 +1897,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43045628",
@@ -2664,6 +2893,39 @@
       "last_seen_at": "2026-11-16T07:08:01Z"
     },
     {
+      "id": "43101019",
+      "event_key": "pubmed:43101019",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "Beyond TDP-43: hnRNPA1 and ANXA11 as contributors to TDP-43 proteinopathy in ALS-FTD.",
+      "authors": [
+        "Lorenzo Alfurno",
+        "Eleonora Raccuia",
+        "Filippo Prischi",
+        "Salvatore Adinolfi"
+      ],
+      "journal": "Frontiers in molecular biosciences",
+      "publication_date": "2026-11-12",
+      "pmid": "43101019",
+      "doi": "10.3389/fmolb.2026.1999661",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101019/",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia are neurodegenerative disorders characterized by a systemic collapse of cellular proteostasis, RNA processing, and long-range intracellular transport. Central to these pathologies is the misregulation of RNA-binding proteins (RBPs), particularly TDP-43, which forms a structural and biochemical nexus with other RNA-binding proteins. In this review we focus on two unexplored, yet critical, binding partners of TDP-43, hnRNPA1 and ANXA11. We highlight the role of hnRNPA1 as a coordinator of neuronal splicing networks as well as how its structural failure leads to the aberrant splicing of thousands of transcripts. We discuss how ANXA11 dysfunction contributes to axonal transport failure and nucleopathy, characterized by nuclear envelope instability and Lamin B2 mislocalization. We explore the pathological synergy between these proteins and TDP-43, which promotes heteromeric co-aggregation and the impairment of the autophagy-lysosome pathway. We examine how mutations in the low-complexity domains of these proteins disrupt liquid-liquid phase separation (LLPS), accelerating the transition from dynamic biomolecular condensates into toxic, irreversible amyloid-like aggregates. We highlight how aberrant nucleocytoplasmic trafficking acts as key contributing factor to this transition, and how advanced imaging tools, such as RNA aptamers, enable the mapping of these dynamics at the nanoscale level. Finally, we discuss emerging precision-based therapeutic strategies - including antisense oligonucleotides and small-molecule stabilizers targeting cryptic pockets - alongside the diagnostic utility of neurofilament light chain (NfL) biomarkers. By shifting from a gene-centric to a systems-level framework, this review provides a unified landscape of how nuclear RNA-processing defects and cytoplasmic-membrane trafficking failures act as interconnected, compartmentally diverse entry points into motor neuron degeneration.",
+      "mesh_terms": [],
+      "keywords": [
+        "ANXA11",
+        "HNRNPA1",
+        "RNA splicing",
+        "TDP-43 proteinopathy",
+        "amyotrophic lateral sclerosis (ALS)",
+        "axonal transport",
+        "liquid-liquid phase separation (LLPS)"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
       "id": "43091768",
       "event_key": "pubmed:43091768",
       "source_id": "pubmed",
@@ -2700,7 +2962,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088506",
@@ -2732,7 +2994,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088502",
@@ -2762,7 +3024,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088350",
@@ -2798,7 +3060,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43061545",
@@ -3325,7 +3587,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43080407",
@@ -3359,7 +3621,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43059883",
@@ -3709,7 +3971,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43074978",
@@ -4083,7 +4345,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43073920",
@@ -4416,7 +4678,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43004989",
@@ -5935,7 +6197,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43031658",
@@ -6609,7 +6871,7 @@
       "keywords": [],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43085805",
@@ -6640,7 +6902,7 @@
       ],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43027884",
@@ -7104,6 +7366,43 @@
       "last_seen_at": "2026-10-28T06:06:47Z"
     },
     {
+      "id": "43101833",
+      "event_key": "pubmed:43101833",
+      "source_id": "pubmed",
+      "source_name": "PubMed",
+      "category": "Drug Development",
+      "title": "The Microbiota-Gut-Brain Axis in Neurological and Neuropsychiatric Disorders: A Literature Review.",
+      "authors": [
+        "Harnoor Brar",
+        "Nathaniel Do",
+        "Chandler Kelser",
+        "Sreenivasulu N Pattipati",
+        "Koteswara Rao Nalamolu"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2026-10-27",
+      "pmid": "43101833",
+      "doi": "10.7759/cureus.118684",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101833/",
+      "abstract": "The gut-brain axis is a bidirectional communication network linking the GI tract and central nervous system via neural, immune, endocrine, and metabolic pathways. Growing evidence suggests that alterations in the gut microbiota are associated with the pathophysiology and clinical features of several neurological and neuropsychiatric disorders, including schizophrenia, autism spectrum disorder (ASD), Alzheimer's disease (AD), Parkinson's disease (PD), anxiety disorders, and amyotrophic lateral sclerosis (ALS). This narrative review used a structured search of PubMed/MEDLINE, ScienceDirect, SpringerLink, and Wiley Online Library to identify relevant literature published from January 1, 2010, through the final search date of June 25, 2026. Proposed mechanisms linking gut dysbiosis with neurological dysfunction include alterations in intestinal and blood-brain barrier (BBB) integrity, systemic inflammatory signaling, microglial activation, hypothalamic-pituitary-adrenal (HPA) axis dysregulation, changes in neurotransmitter pathways, and altered production of microbial metabolites such as short-chain fatty acids (SCFAs). Advanced profiling technologies, including 16S rRNA sequencing, whole-genome metagenomics, and metabolomics, have significantly enhanced the identification of disease-associated microbial signatures. These observations have stimulated interest in microbiome-targeted interventions, including probiotics, prebiotics, psychobiotics, synbiotics, fecal microbiota transplantation (FMT), live biotherapeutic products, and dietary modification; however, evidence supporting their clinical efficacy in neurological disorders remains limited and heterogeneous. Across the disorders reviewed, recurrent findings include alterations in microbial composition, intestinal barrier function, inflammatory signaling, and microbial metabolites. However, specific taxonomic signatures vary considerably among studies. Human evidence remains predominantly associative, while stronger mechanistic evidence is largely derived from animal and microbiota-transfer studies. Clinical studies of microbiome-targeted interventions remain limited and heterogeneous. Large-scale longitudinal studies and randomized controlled trials are critical to establishing causality, refining microbiome-targeted therapies, and developing personalized diagnostic tools for neurodegenerative and psychiatric diseases.",
+      "mesh_terms": [],
+      "keywords": [
+        "alzhiemer’s disease",
+        "amyotrophic lateral sclerosis(als)",
+        "anxiety",
+        "autism spectrum disorder (asd)",
+        "gut dysbiosis",
+        "gut microbiome",
+        "gut-brain axis",
+        "neuroinflammation and mental health",
+        "parkinson`s disease",
+        "schizophrenia"
+      ],
+      "collected_at": "2026-11-28T08:18:38Z",
+      "first_seen_at": "2026-11-28T08:18:38Z",
+      "last_seen_at": "2026-11-28T08:18:38Z"
+    },
+    {
       "id": "43093809",
       "event_key": "pubmed:43093809",
       "source_id": "pubmed",
@@ -7144,7 +7443,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43090628",
@@ -7180,7 +7479,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43011830",
@@ -8209,7 +8508,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43088270",
@@ -8245,7 +8544,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "42924853",
@@ -8555,7 +8854,7 @@
       ],
       "collected_at": "2026-11-27T08:57:50Z",
       "first_seen_at": "2026-11-27T08:57:50Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "42995797",
@@ -22296,7 +22595,7 @@
       "keywords": [],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "42779169",
@@ -24626,7 +24925,7 @@
       "keywords": [],
       "collected_at": "2026-11-26T08:46:43Z",
       "first_seen_at": "2026-11-26T08:46:43Z",
-      "last_seen_at": "2026-11-27T08:57:50Z"
+      "last_seen_at": "2026-11-28T08:18:38Z"
     },
     {
       "id": "43049247",
